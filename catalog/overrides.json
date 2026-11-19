@@ -1,4 +1,9 @@
 {
+  "include": {
+    "folders": [
+      "🍀MOVIES_2026_2025🍀"
+    ]
+  },
   "hidden": {
     "items": [
       "efa5e505-fe8e-3a01-8bca-0e6415c64f84",
