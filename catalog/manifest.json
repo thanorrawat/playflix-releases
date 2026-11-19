@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generatedAt": 1795125890200,
+  "entries": 50000,
+  "playable": 21758,
+  "folders": 1541,
+  "rows": 11,
+  "files": {
+    "home.json": {
+      "bytes": 183143,
+      "sha256": "10088bc28630a0cfb6c29d19c6107c84859bc3be92cf900115b92b45680c6306"
+    },
+    "index.tsv.gz": {
+      "bytes": 3686310,
+      "sha256": "068c8e31aef02fefa68980f76f5859fb2ec8a7792cb026bba2013cd43ccb0fac"
+    }
+  }
+}
