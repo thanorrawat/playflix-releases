@@ -1,18 +1,846 @@
 {
   "version": 1,
-  "generatedAt": 1795125890200,
-  "entries": 50000,
-  "playable": 21758,
-  "folders": 1541,
-  "rows": 11,
+  "generatedAt": 1795158696160,
+  "curated": true,
+  "entries": 1711,
+  "sources": [
+    {
+      "title": "🎭 Free 🎭",
+      "url": "https:\/\/tinyurl.com\/ya3zvuuw",
+      "ok": false,
+      "kind": "w3u",
+      "why": "อ่านได้แต่ไม่มีรายการ"
+    },
+    {
+      "title": "Yantech By ส.วิศวะ",
+      "url": "https:\/\/docs.google.com\/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
+      "ok": true,
+      "kind": "w3u",
+      "entries": 50000
+    },
+    {
+      "title": "ทีวีดิจิทัลไทย (M3U)",
+      "url": "https:\/\/shorturl.asia\/tN9iP",
+      "ok": false,
+      "why": "ไม่ตอบ"
+    }
+  ],
+  "unreadable": {
+    "count": 847,
+    "folders": [
+      {
+        "name": "รวมซีรี่ย์่",
+        "url": "https:\/\/docs.google.com\/uc?export=download&id=1m-iHWKnI883dzHPGZJECMo4GXMUzSjQa"
+      },
+      {
+        "name": "New.M1(moviesdoofree)",
+        "url": "https:\/\/shorturl.asia\/z4Mxv"
+      },
+      {
+        "name": "การ์ตูน ANIMETION",
+        "url": "https:\/\/pastebin.com\/raw\/unhsiyN6"
+      },
+      {
+        "name": "GMM Concert",
+        "url": "https:\/\/dl.dropbox.com\/s\/sk5vdgccvv9t799\/GMM%20Concert.w3u?dl=1"
+      },
+      {
+        "name": "Mocca Garden",
+        "url": "https:\/\/dl.dropbox.com\/s\/ypudsnhzekkau7m\/Mocca%20Garden.w3u?dl=1"
+      },
+      {
+        "name": "T-BONE",
+        "url": "https:\/\/dl.dropbox.com\/s\/9e0eb4poiyoc4hu\/T-Bone.w3u?dl=1"
+      },
+      {
+        "name": "จ๊อบ บรรจบ",
+        "url": "https:\/\/dl.dropbox.com\/s\/wwpee9nv9stysfa\/Job%20Bunchob.w3u?dl=1"
+      },
+      {
+        "name": "ละไมหรรษา",
+        "url": "https:\/\/dl.dropbox.com\/s\/q8ij4wiha0x7d30\/Lamai%20Hansa.w3u?dl=1"
+      },
+      {
+        "name": "SRIRAJAH ROCKERS",
+        "url": "https:\/\/dl.dropbox.com\/s\/ieadzqyydxglq3o\/SRIRAJAH%20ROCKERS.w3u?dl=1"
+      },
+      {
+        "name": "Hellfest Festival",
+        "url": "https:\/\/dl.dropbox.com\/scl\/fi\/uteak2m1qgyh2eu1td0by\/Hellfest-Festival.w3u?rlkey=03776x4s1yhpep7pogznstvvz&st=vbupgpu4&dl=1"
+      },
+      {
+        "name": "มาลีฮวนน่า",
+        "url": "https:\/\/dl.dropbox.com\/s\/ne0ircj0rhqhrzd\/Maleehuana.w3u?dl=1"
+      },
+      {
+        "name": "พงษ์สิทธิ์ คำภีร์",
+        "url": "https:\/\/dl.dropbox.com\/s\/7dpxz8oor9qxnrh\/pongsit.w3u?dl=1"
+      },
+      {
+        "name": "พงษ์เทพ กระโดนชำนาญ",
+        "url": "https:\/\/dl.dropbox.com\/s\/7kj0irgxezc8x6n\/PONGTHEP.w3u?dl=1"
+      },
+      {
+        "name": "เอ็มดีไซน์ สตูดิโอ",
+        "url": "https:\/\/dl.dropbox.com\/s\/gayb5ocelr5k1xf\/M%20Design%20Studio.w3u?dl=1"
+      },
+      {
+        "name": "All",
+        "url": "https:\/\/docs.google.com\/uc?export=download&id=KZ4Q7gf3Im5HWwagdKL9xbPR4K1UAZ6"
+      },
+      {
+        "name": "👀WHO👥",
+        "url": "https:\/\/tinyurl.com\/2833rcsj"
+      },
+      {
+        "name": "France vs Morocco 90+",
+        "url": "https:\/\/cv9fqnu812v.pinegrovedesigncollect.cyou\/v6fFCYwKKgyg\/hls3\/01\/14636\/vo1x8pseaklb_o\/index-v1-a1.txt"
+      },
+      {
+        "name": "45+",
+        "url": "https:\/\/sedrfmwrpjxatem5.helixmotioncraft.store\/qajructf54pm\/hls3\/01\/14593\/p6i6aibny9zk_n\/index-v1-a1.txt"
+      },
+      {
+        "name": "Jordan vs Algeria Fullmatch",
+        "url": "https:\/\/nzbq3n4m6m3.professionalshirts.shop\/v6fFCYwKKgyg\/hls3\/01\/14579\/43w9bona7ln4_o\/index-v1-a1.txt"
+      },
+      {
+        "name": "Mexico vs South Korea 45+",
+        "url": "https:\/\/27u55xdzmm9q.silvercrestinnovations.online\/HN4PEI4QWY2z\/hls3\/01\/14569\/a3dxotp6vxnc_n\/index-v1-a1.txt"
+      },
+      {
+        "name": "Mexico vs South Korea 90+",
+        "url": "https:\/\/27u55xdzmm9q.mediaexpression.cyou\/HN4PEI4QWY2z\/hls3\/01\/14569\/uqwk7g1hyyz7_n\/index-v1-a1.txt"
+      },
+      {
+        "name": "Canada vs Qatar 45+",
+        "url": "https:\/\/cwfuommwagyrfcg6.customapparelshop.shop\/bjOaemtKiba2\/hls3\/01\/14569\/jetb01oa1yns_n\/index-v1-a1.txt"
+      },
+      {
+        "name": "Canada vs Qatar 90+",
+        "url": "https:\/\/cwfuommwagyrfcg6.digitaloperations.space\/p3OAadbmbAPI\/hls3\/01\/14569\/vv5zposlt672_n\/index-v1-a1.txt"
+      },
+      {
+        "name": "Ghana vs Panama 45+",
+        "url": "https:\/\/g4vsrqvtrj.premiumebookstore.shop\/v6fFCYwKKgyg\/hls3\/01\/14565\/dhsv17rt9oez_o\/index-v1-a1.txt"
+      },
+      {
+        "name": "Ghana vs Panama 90+",
+        "url": "https:\/\/wzrlxfli3szhgr0.globalmarketreport.cfd\/v6fFCYwKKgyg\/hls3\/01\/14565\/7rc2r7v7v7f6_o\/index-v1-a1.txt"
+      },
+      {
+        "name": "Predator Badlands (2025) พรีเดเตอร์ แดนเถื่อน ซูม",
+        "url": "https:\/\/watch.asiaplayer.cc\/m3u8\/4\/dba84d00c3a33df9f3bfb902940249ca\/master.txt?s=1&cache=1"
+      },
+      {
+        "name": "ALL ENTERTRAINMENT 2",
+        "url": "https:\/\/dl.dropboxusercontent.com\/scl\/fi\/d4z8fj9vy5gqkjpgpn79p\/luxDu_dOFREE.txt?rlkey=60ex9yrum3z8j1fbyn2ucegzq&st=md3maze7&dl=0"
+      },
+      {
+        "name": "หนังเอเชีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tongha-movie_26-หนังเอเชีย.w3u"
+      },
+      {
+        "name": "หนังเอเชีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tongha-movie_29-หนังเอเชีย.w3u"
+      },
+      {
+        "name": "จักรวาล Conjuring",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tongha-movie_19-จักรวาล_Conjuring.w3u"
+      },
+      {
+        "name": "จักรวาล DC",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tongha-movie_23-จักรวาล_DC.w3u"
+      },
+      {
+        "name": "จักรวาล fast and furious เร็วแรงทะลุนรก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tongha-movie_20-จักรวาล_fast_and_furious.w3u"
+      },
+      {
+        "name": "จักรวาล Marvel",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tongha-movie_18-จักรวาล_Marvel.w3u"
+      },
+      {
+        "name": "037hdmovie หนังใหม่ 2024",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/037hdmovie_หนังใหม่-2024.w3u"
+      },
+      {
+        "name": "037hdmovie หนังใหม่ 2023",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/037hdmovie_หนังใหม่-2023.w3u"
+      },
+      {
+        "name": "ดูซีรีย์ออนไลน์",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/037hdmovie_ดูซีรีย์.w3u"
+      },
+      {
+        "name": "MOVIES 5",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/320hd_ซีรี่ย์ใหม่-2024.w3u"
+      },
+      {
+        "name": "ดูหนังออนไลน์HD",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ดูหนังออนไลน์.w3u"
+      },
+      {
+        "name": "หนังภาคต่อ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังภาคต่อ.w3u"
+      },
+      {
+        "name": "หนังใหม่2024",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังใหม่-2024.w3u"
+      },
+      {
+        "name": "หนังใหม่2023",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังใหม่-2023.w3u"
+      },
+      {
+        "name": "หนัง2022",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังใหม่-2022.w3u"
+      },
+      {
+        "name": "หนัง2021",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังใหม่-2021.w3u"
+      },
+      {
+        "name": "หนัง2020",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังใหม่-2020.w3u"
+      },
+      {
+        "name": "หนัง2019",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังใหม่-2019.w3u"
+      },
+      {
+        "name": "หนังชนโรง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังชนโรง.w3u"
+      },
+      {
+        "name": "หนังNetflix",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ดูหนัง-netflix.w3u"
+      },
+      {
+        "name": "หนังฝรั่ง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังฝรั่ง.w3u"
+      },
+      {
+        "name": "หนังไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังไทย.w3u"
+      },
+      {
+        "name": "หนังจีน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังจีน.w3u"
+      },
+      {
+        "name": "หนังญี่ปุ่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังญี่ปุ่น.w3u"
+      },
+      {
+        "name": "หนังอินเดีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังอินเดีย.w3u"
+      },
+      {
+        "name": "หนังเกาหลี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังเกาหลี.w3u"
+      },
+      {
+        "name": "หนังHBO",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนัง-hbo.w3u"
+      },
+      {
+        "name": "รวมหนังmarvel",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_รวมหนัง-marvel.w3u"
+      },
+      {
+        "name": "หนังซอมบี้",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังซอมบี้.w3u"
+      },
+      {
+        "name": "ดูซีรี่ย์ออนไลน์",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ดูซีรี่ย์ออนไลน์.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ใหม่2024",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์ใหม่-2024.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ใหม่2023",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์ใหม่-2023.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ใหม่2022",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์ใหม่-2022.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ใหม่2021",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์ใหม่-2021.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ใหม่2020",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์ใหม่-2020.w3u"
+      },
+      {
+        "name": "ซีรี่ย์พากย์ไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์พากย์ไทย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ซับไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์ซับไทย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์จีน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์จีน.w3u"
+      },
+      {
+        "name": "ซีรี่ย์เกาหลี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรี่ย์เกาหลี.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ฝรั่ง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_series-ฝรั่ง.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_series-ไทย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ญี่ปุ่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_series-ญี่ปุ่น.w3u"
+      },
+      {
+        "name": "ซีรี่ย์วาย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซีรีย์วาย.w3u"
+      },
+      {
+        "name": "พากย์ไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_พากย์ไทย.w3u"
+      },
+      {
+        "name": "ซับไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ซับไทย.w3u"
+      },
+      {
+        "name": "ตอนแรก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_ตอนแรก.w3u"
+      },
+      {
+        "name": "หนังไซไฟ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังไซไฟ.w3u"
+      },
+      {
+        "name": "หนังแนวปริศนา",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังแนวปริศนา.w3u"
+      },
+      {
+        "name": "หนังระทึกขวัญ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังระทึกขวัญ.w3u"
+      },
+      {
+        "name": "หนังสยองขวัญ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังสยองขวัญ.w3u"
+      },
+      {
+        "name": "Actionบู๊",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังบู๊แอ็คชั่น.w3u"
+      },
+      {
+        "name": "Adventureผจญภัย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังแนวผจญภัย.w3u"
+      },
+      {
+        "name": "Biographyชีวิตจริง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังสร้างจากชีวิตจริง.w3u"
+      },
+      {
+        "name": "Comedyตลก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังตลก.w3u"
+      },
+      {
+        "name": "Crimeอาชญากรรม",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังอาชญากรรม.w3u"
+      },
+      {
+        "name": "Documentaryสารคดี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_สารคดี.w3u"
+      },
+      {
+        "name": "Dramaชีวิต",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังแนวดราม่า.w3u"
+      },
+      {
+        "name": "Familyครอบครัว",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังครอบครัว.w3u"
+      },
+      {
+        "name": "Fantasyแฟนตาซี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_หนังแฟนตาซี.w3u"
+      },
+      {
+        "name": "Animeอนิเมะ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_anime-อนิเมะ.w3u"
+      },
+      {
+        "name": "TheMovieเดอะมูฟวี่",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/123-hd_the-movie-เดอะมูฟวี่.w3u"
+      },
+      {
+        "name": "หนังใหม่",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังใหม่.w3u"
+      },
+      {
+        "name": "หนังใหม่ 2024",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังใหม่-2024.w3u"
+      },
+      {
+        "name": "หนังใหม่ 2023",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังใหม่-2023.w3u"
+      },
+      {
+        "name": "ดูหนัง 2022",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ดูหนัง-2022.w3u"
+      },
+      {
+        "name": "หนังไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังไทย.w3u"
+      },
+      {
+        "name": "หนังฝรั่ง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังฝรั่ง.w3u"
+      },
+      {
+        "name": "หนังจีน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังจีน.w3u"
+      },
+      {
+        "name": "หนังเกาหลี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังเกาหลี.w3u"
+      },
+      {
+        "name": "หนังญี่ปุ่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังญี่ปุ่น.w3u"
+      },
+      {
+        "name": "หนังอินเดีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังอินเดีย.w3u"
+      },
+      {
+        "name": "หนังซอมบี้",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_หนังซอมบี้.w3u"
+      },
+      {
+        "name": "ดูซีรี่ย์",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ดูซีรีย์.w3u"
+      },
+      {
+        "name": "ซีรี่ย์จีน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ซีรีย์จีน.w3u"
+      },
+      {
+        "name": "ซีรี่ย์เกาหลี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ซีรีย์เกาหลี.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ฝรั่ง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ซีรีย์ฝรั่ง.w3u"
+      },
+      {
+        "name": "แอคชั่น Action",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_แอคชั่น-action.w3u"
+      },
+      {
+        "name": "ผจญภัย Adventure",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ผจญภัย-adventure.w3u"
+      },
+      {
+        "name": "ตลก Comedy",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ตลก-comedy.w3u"
+      },
+      {
+        "name": "แฟนตาซี Fantasy",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_แฟนตาซี-fantasy.w3u"
+      },
+      {
+        "name": "อาชญากรรม Crime",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_อาชญากรรม-crime.w3u"
+      },
+      {
+        "name": "อนิเมชั่น Animation",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_อนิเมชั่น-animation.w3u"
+      },
+      {
+        "name": "สารคดี Documentary",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_สารคดี-documentary.w3u"
+      },
+      {
+        "name": "สยองขวัญ Horror",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_สยองขวัญ-horror.w3u"
+      },
+      {
+        "name": "ระทึกขวัญ Thriller",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ระทึกขวัญ-thriller.w3u"
+      },
+      {
+        "name": "โรแมนติก Romance",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_โรแมนติก-romance.w3u"
+      },
+      {
+        "name": "ลึกลับ Mystery",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ลึกลับ-mystery.w3u"
+      },
+      {
+        "name": "เพลงดนตรี Musical",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_เพลงดนตรี-musical.w3u"
+      },
+      {
+        "name": "ประวัติศาสตร์ History",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ประวัติศาสตร์-history.w3u"
+      },
+      {
+        "name": "ดราม่า Drama",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ดราม่า-drama.w3u"
+      },
+      {
+        "name": "ไซไฟ Sci-fi",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ไซไฟ-sci-fi.w3u"
+      },
+      {
+        "name": "ชีวประวัติ Biography",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ชีวประวัติ-biography.w3u"
+      },
+      {
+        "name": "ครอบครัว Family",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_ครอบครัว-family.w3u"
+      },
+      {
+        "name": "กีฬา Sports",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/9nunghd_กีฬา-sports.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ใหม่ 2023",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์ใหม่-2023.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ใหม่ 2022",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์ใหม่-2022.w3u"
+      },
+      {
+        "name": "ซีรี่ย์พากย์ไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์พากย์ไทย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ซับไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์ซับไทย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์วาย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์วาย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์ไทย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ฝรั่ง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์ฝรั่ง.w3u"
+      },
+      {
+        "name": "ซีรี่ย์จีน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์จีน.w3u"
+      },
+      {
+        "name": "ซีรี่ย์เกาหลี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์เกาหลี.w3u"
+      },
+      {
+        "name": "ซีรี่ย์ญี่ปุ่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์ญี่ปุ่น.w3u"
+      },
+      {
+        "name": "ซีรี่ย์เอเชีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์เอเชีย.w3u"
+      },
+      {
+        "name": "ซีรี่ย์อินเดีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ซีรี่ย์อินเดีย.w3u"
+      },
+      {
+        "name": "แอคชั่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_แอคชั่น-action.w3u"
+      },
+      {
+        "name": "ผจญภัย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ผจญภัย-adventure.w3u"
+      },
+      {
+        "name": "แฟนตาซี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_แฟนตาซี-fantasy.w3u"
+      },
+      {
+        "name": "ดราม่า",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ดราม่า-drama.w3u"
+      },
+      {
+        "name": "ตลก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ตลก-comedy.w3u"
+      },
+      {
+        "name": "อาชญากรรม",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_อาชญากรรม-crime.w3u"
+      },
+      {
+        "name": "วิทยาศาสตร์",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_วิทยาศาสตร์-sci-fi.w3u"
+      },
+      {
+        "name": "ลึกลับซ่อนเงื่อน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ลึกลับซ่อนเงื่อน-mystery.w3u"
+      },
+      {
+        "name": "แอนนิเมชั่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_แอนนิเมชั่น-animation.w3u"
+      },
+      {
+        "name": "สยองขวัญ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_สยองขวัญ-horror.w3u"
+      },
+      {
+        "name": "สงคราม",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_สงคราม-war.w3u"
+      },
+      {
+        "name": "โรแมนติก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_โรแมนติก-romance.w3u"
+      },
+      {
+        "name": "ระทึกขวัญ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ระทึกขวัญ-thriller.w3u"
+      },
+      {
+        "name": "คาวบอย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_คาวบอย-western.w3u"
+      },
+      {
+        "name": "ชีวิตจริง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_ชีวิตจริง-biography.w3u"
+      },
+      {
+        "name": "เพลงดนตรี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_เพลงดนตรี-musical.w3u"
+      },
+      {
+        "name": "สารคดี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/seriesday_สารคดี-documentary.w3u"
+      },
+      {
+        "name": "หนังไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_หนังไทย.w3u"
+      },
+      {
+        "name": "หนังฝรัง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_หนังฝรั่ง.w3u"
+      },
+      {
+        "name": "หนังเอเชีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_หนังเอเซีย.w3u"
+      },
+      {
+        "name": "วิทยาศาสตร์",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_วิทยาศาสตร์.w3u"
+      },
+      {
+        "name": "ตลก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_ตลก.w3u"
+      },
+      {
+        "name": "หนังสยองขวัญ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_สยองขวัญ.w3u"
+      },
+      {
+        "name": "หนังโรแมนติก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_โรแมนติก.w3u"
+      },
+      {
+        "name": "หนังแอคชั่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_แอคชั่น.w3u"
+      },
+      {
+        "name": "หนังกระตุกขวัญ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_กระตุกขวัญ.w3u"
+      },
+      {
+        "name": "หนังดราม่า",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_ดราม่า.w3u"
+      },
+      {
+        "name": "หนังลึกลับ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_ลึกลับ.w3u"
+      },
+      {
+        "name": "หนังอาชญากรรม",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_อาชญากรรม.w3u"
+      },
+      {
+        "name": "หนังผจญภัย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_ผจญภัย.w3u"
+      },
+      {
+        "name": "หนังแฟนตาซี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_แฟนตาซี.w3u"
+      },
+      {
+        "name": "หนังสงคราม",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_สงคราม.w3u"
+      },
+      {
+        "name": "ซูเปอร์ฮีโร่",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_ซูเปอร์ฮีโร่.w3u"
+      },
+      {
+        "name": "หนังการ์ตูน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_การ์ตูน.w3u"
+      },
+      {
+        "name": "หนังอนิเมชั่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/fw4free_อนิเมชั่น.w3u"
+      },
+      {
+        "name": "การ์ตูน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์การ์ตูน.w3u"
+      },
+      {
+        "name": "ละครไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์ละครไทย.w3u"
+      },
+      {
+        "name": "ฝรั่ง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์ฝรั่ง.w3u"
+      },
+      {
+        "name": "จีน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์จีน.w3u"
+      },
+      {
+        "name": "เกาหลี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์เกาหลี.w3u"
+      },
+      {
+        "name": "ญี่ปุ่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์ญี่ปุ่น.w3u"
+      },
+      {
+        "name": "เวียดนาม",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์เวียดนาม.w3u"
+      },
+      {
+        "name": "อินเดีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์อินเดีย.w3u"
+      },
+      {
+        "name": "อินโดนีเซีย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์อินโดนีเซีย.w3u"
+      },
+      {
+        "name": "netflix",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์netflix.w3u"
+      },
+      {
+        "name": "ซีรีย์ยังไม่จบ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์ยังไม่จบ.w3u"
+      },
+      {
+        "name": "ซีรีย์จบ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์จบ.w3u"
+      },
+      {
+        "name": "ซาวด์แทรค",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์ซาวด์แทรค.w3u"
+      },
+      {
+        "name": "ซับไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์ซับไทย.w3u"
+      },
+      {
+        "name": "พากย์ไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์พากย์ไทย.w3u"
+      },
+      {
+        "name": "สารคดี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/tvallseries_ซีรีย์สารคดี.w3u"
+      },
+      {
+        "name": "ดูซีรีย์ออนไลน์",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ดูซีรีย์ออนไลน์.w3u"
+      },
+      {
+        "name": "ซีรีย์ใหม่ 2024",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ซีรีย์ใหม่-2024.w3u"
+      },
+      {
+        "name": "ดูซีรีย์ 2024",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ดูซีรีย์-2024.w3u"
+      },
+      {
+        "name": "ซีรีย์ซับไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ซีรีย์ซับไทย.w3u"
+      },
+      {
+        "name": "ซีรีย์พากย์ไทย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ซีรีย์พากย์ไทย.w3u"
+      },
+      {
+        "name": "ซีรีย์ญี่ปุ่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ซีรีย์ญี่ปุ่น.w3u"
+      },
+      {
+        "name": "ซีรีย์เกาหลี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ซีรีย์เกาหลี.w3u"
+      },
+      {
+        "name": "ซีรีย์จีน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ซีรีย์จีน.w3u"
+      },
+      {
+        "name": "ซีรีย์ฝรั่ง",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ซีรีย์ฝรั่ง.w3u"
+      },
+      {
+        "name": "ชีวประวัติ",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ชีวประวัติ.w3u"
+      },
+      {
+        "name": "ดราม่า",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ดราม่า.w3u"
+      },
+      {
+        "name": "ผจญภัย",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ผจญภัย.w3u"
+      },
+      {
+        "name": "สงคราม",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_สงคราม.w3u"
+      },
+      {
+        "name": "แฟนตาซี",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_แฟนตาซี.w3u"
+      },
+      {
+        "name": "โรแมนติก",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_โรแมนติก.w3u"
+      },
+      {
+        "name": "แอคชั่น",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_แอคชั่น.w3u"
+      }
+    ]
+  },
+  "playable": 1181,
+  "folders": 3,
+  "rows": 1,
   "files": {
     "home.json": {
-      "bytes": 183143,
-      "sha256": "10088bc28630a0cfb6c29d19c6107c84859bc3be92cf900115b92b45680c6306"
+      "bytes": 60919,
+      "sha256": "9d9c442c055bf4bb8cac791d983d46f4125fb45bc21845a109fc04102a5bbb25"
     },
     "index.tsv.gz": {
-      "bytes": 3686310,
-      "sha256": "068c8e31aef02fefa68980f76f5859fb2ec8a7792cb026bba2013cd43ccb0fac"
+      "bytes": 166444,
+      "sha256": "77685ac642c39bf71590137d4c61a3d0d46e93db7cd3d6cadd7588738672d22c"
     }
   }
 }
