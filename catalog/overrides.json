@@ -1,7 +1,7 @@
 {
   "version": 2,
   "catalogVersion": 2,
-  "generatedAt": "2026-11-20T13:57:42.973Z",
+  "generatedAt": "2026-11-20T13:59:27.020Z",
   "summary": {
     "totalFolders": 0,
     "totalVideos": 0,
@@ -20,7 +20,9 @@
   "menus": {
     "folders": {},
     "titles": {},
-    "hidden": [],
+    "hidden": [
+      "folders"
+    ],
     "heroes": {}
   },
   "heroes": {},
@@ -216,5 +218,9 @@
     }
   },
   "folderEdits": {},
-  "rows": []
+  "rows": [
+    {
+      "group": "DOODEEDAA"
+    }
+  ]
 }
