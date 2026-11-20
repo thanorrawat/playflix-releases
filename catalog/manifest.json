@@ -1,15 +1,13 @@
 {
   "version": 1,
-  "generatedAt": 1795158696160,
-  "curated": true,
-  "entries": 1711,
+  "generatedAt": 1795206244176,
+  "entries": 50000,
   "sources": [
     {
-      "title": "🎭 Free 🎭",
-      "url": "https:\/\/tinyurl.com\/ya3zvuuw",
+      "title": "Free",
+      "url": "https:\/\/raw.githubusercontent.com\/thanorrawat\/playflix-releases\/main\/Free.w3u",
       "ok": false,
-      "kind": "w3u",
-      "why": "อ่านได้แต่ไม่มีรายการ"
+      "why": "ไม่ตอบ"
     },
     {
       "title": "Yantech By ส.วิศวะ",
@@ -17,21 +15,11 @@
       "ok": true,
       "kind": "w3u",
       "entries": 50000
-    },
-    {
-      "title": "ทีวีดิจิทัลไทย (M3U)",
-      "url": "https:\/\/shorturl.asia\/tN9iP",
-      "ok": false,
-      "why": "ไม่ตอบ"
     }
   ],
   "unreadable": {
     "count": 847,
     "folders": [
-      {
-        "name": "รวมซีรี่ย์่",
-        "url": "https:\/\/docs.google.com\/uc?export=download&id=1m-iHWKnI883dzHPGZJECMo4GXMUzSjQa"
-      },
       {
         "name": "New.M1(moviesdoofree)",
         "url": "https:\/\/shorturl.asia\/z4Mxv"
@@ -827,20 +815,24 @@
       {
         "name": "แอคชั่น",
         "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_แอคชั่น.w3u"
+      },
+      {
+        "name": "ลึกลับซ่อนเงื่อน",
+        "url": "https:\/\/raw.githubusercontent.com\/provides1\/new\/refs\/heads\/main\/dooseries4k_ลึกลับซ่อนเงื่อน.w3u"
       }
     ]
   },
-  "playable": 1181,
-  "folders": 3,
-  "rows": 1,
+  "playable": 21570,
+  "folders": 2484,
+  "rows": 11,
   "files": {
     "home.json": {
-      "bytes": 60919,
-      "sha256": "9d9c442c055bf4bb8cac791d983d46f4125fb45bc21845a109fc04102a5bbb25"
+      "bytes": 181217,
+      "sha256": "70d755a8e681174467cc37b013372843f95aa9749ff9d4cadcddab86f93b42fc"
     },
     "index.tsv.gz": {
-      "bytes": 166444,
-      "sha256": "77685ac642c39bf71590137d4c61a3d0d46e93db7cd3d6cadd7588738672d22c"
+      "bytes": 3723730,
+      "sha256": "45794d0f6044bd98933fa203e5f39ad61e7994a13de0dc30948da02c45bdd296"
     }
   }
 }
