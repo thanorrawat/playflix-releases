@@ -1,7 +1,7 @@
 {
   "version": 2,
   "catalogVersion": 2,
-  "generatedAt": "2026-11-20T10:22:35.355Z",
+  "generatedAt": "2026-11-20T13:57:42.973Z",
   "summary": {
     "totalFolders": 0,
     "totalVideos": 0,
@@ -18,9 +18,7 @@
     }
   ],
   "menus": {
-    "folders": {
-      "The Winter King Season 1 (2023)": "series"
-    },
+    "folders": {},
     "titles": {},
     "hidden": [],
     "heroes": {}
@@ -36,105 +34,181 @@
     "groups": []
   },
   "edits": {
-    "a4379096299d93473f42200b75c51382": {
-      "name": "The Winter King - Episode1(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1dj1BYNBt4bictaUJPbszPiDCnc.jpg",
-      "seriesTitle": "The Winter King",
-      "episode": "Episode1(Thai)",
-      "menu": "series",
-      "menus": [
-        "series"
-      ],
-      "rating": "6.5 / 10",
-      "year": "2023",
-      "cast": "Iain De Caestecker, Stuart Campbell, Ellie James, Steven Elder, Valene Kane, Simon Merrells"
-    },
-    "815be593d7e6355ef098ba10ad4fc2ab": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode2(Thai)",
-      "name": "The Winter King - Episode2(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "51aac2d07ffa4c2da75c0759954abbc3": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที่ 1",
+      "name": "ทนายปีศาจ - ตอนที่ 1",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "b51eb97b3471462502f3ae3b8d3c679e": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode3(Thai)",
-      "name": "The Winter King - Episode3(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "8e4fd199744b975a63d6951247761b66": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที 2",
+      "name": "ทนายปีศาจ - ตอนที 2",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "d2d377a1d751433e01c5cdc8943b54ba": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode4(Thai)",
-      "name": "The Winter King - Episode4(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "e0ab9a7cd357ae127ac02d0bea8146a5": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที 3",
+      "name": "ทนายปีศาจ - ตอนที 3",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "36ccb53977508dfc704035e539f73586": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode5(Thai)",
-      "name": "The Winter King - Episode5(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "050d879c4329dd05feac135e2519f102": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที 4",
+      "name": "ทนายปีศาจ - ตอนที 4",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "02ade06a0f748190d372e86d26d71e13": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode6(Thai)",
-      "name": "The Winter King - Episode6(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "2a6292c851a3d1c11580bedf22091a1f": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที 5",
+      "name": "ทนายปีศาจ - ตอนที 5",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "54a2b8b4e492d129e45e4bc5c5c1f157": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode7(Thai)",
-      "name": "The Winter King - Episode7(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "5e06e812f58b720a3fdfb7d625ccdcca": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที 6",
+      "name": "ทนายปีศาจ - ตอนที 6",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "75e14b95fc0d2f3140e3860ab797cf48": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode8(Thai)",
-      "name": "The Winter King - Episode8(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "682b38dae52bcbd7d5bfe4bcb4d933ed": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที 7",
+      "name": "ทนายปีศาจ - ตอนที 7",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "1ff9056982728d7feca7d376f88c63ba": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode9(Thai)",
-      "name": "The Winter King - Episode9(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "de91aca5b37fdd7fe35847f1af226307": {
+      "seriesTitle": "ทนายปีศาจ",
+      "episode": "ตอนที 8",
+      "name": "ทนายปีศาจ - ตอนที 8",
+      "logo": "https://media.online-station.net/images/2026/06/d86a402604ec144bdb6df4961fc6caa1.jpg",
       "menu": "series",
       "menus": [
         "series"
       ]
     },
-    "e2d20303d446e7f592aa3b145d9882b5": {
-      "seriesTitle": "The Winter King",
-      "episode": "Episode10(Thai)",
-      "name": "The Winter King - Episode10(Thai)",
-      "logo": "https://www.dooseries4k.com/wp-content/uploads/2024/08/The-Winter-King-220x300-c-default.jpg",
+    "a43983ea9281b265b8c8dd967e938a94": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 1",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 1",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "dac425c3f0acee174424a07716647877": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 2",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 2",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "5b963603326fb52f5359fee64d86f4c2": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 3",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 3",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "2b2fb4340143d73ebd09d26a56c05b88": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 4",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 4",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "c132e7cd1f883cc4388263e40e627376": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 5",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 5",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "f09efff1a97a85b8f65bb0bc6453490e": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 6",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 6",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "3655a960145d2ef2f2ac7ded0dca50f5": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 7",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 7",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "92deba84b1a60c0ea4070bf1a184c586": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 8",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 8",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "866b62ff32fa28650024f65acccd5078": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 9",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 9",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
+      "menu": "series",
+      "menus": [
+        "series"
+      ]
+    },
+    "9aa2a532dbc3dc6b7008c0508725cb77": {
+      "seriesTitle": "Teach You a Lesson (2026)",
+      "episode": "ตอนที่ 10",
+      "name": "Teach You a Lesson (2026) - ตอนที่ 10",
+      "logo": "https://9.9nung.com/wp-content/uploads/2026/06/36BnxmIvWvOsMmlQfbI0ilTfuvh-185x278.jpg",
       "menu": "series",
       "menus": [
         "series"
