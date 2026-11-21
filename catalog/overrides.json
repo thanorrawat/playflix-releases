@@ -1,10 +1,10 @@
 {
   "version": 2,
   "catalogVersion": 2,
-  "generatedAt": "2026-11-21T03:14:25.836Z",
+  "generatedAt": "2026-11-21T03:33:25.951Z",
   "summary": {
-    "totalFolders": 5,
-    "totalVideos": 327,
+    "totalFolders": 6,
+    "totalVideos": 325,
     "heroesConfigured": 0
   },
   "sources": [
@@ -37,8 +37,9 @@
       "หนังใหม่ 2006": "movies",
       "18+": "movies",
       "ญี่ปุ่น+จีน+ฝรั่ง": "18+",
-      "Digital TV": "page_mwpti8wy",
-      "MONOMAX": "18+"
+      "MONOMAX": "18+",
+      "18+Live-011": "18+",
+      "Digital TV": "page_mwpti8wy"
     },
     "titles": {
       "page_mwpti8wy": "ช่องสด"
@@ -165,6 +166,36 @@
           "episodeCount": 16,
           "tags": []
         }
+      ],
+      "18+": [
+        {
+          "id": "35fd0de0f998f05f34187209aba282f7",
+          "name": "MIDA-383 My Friend’s Sister พิธีอัปไซซ์ เสียวไส้จนน้ำทะลัก",
+          "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/11/mida383pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=46&type=video",
+          "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "1cab86303176d3c6a2d68efff4523242",
+          "name": "EBWH-263 Missed The Last Train อุบัติเหตุสวรรค์ คืนนั้นมันโคตรเสียว",
+          "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/11/ebwh263pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=58&type=video",
+          "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        }
       ]
     },
     "limits": {
@@ -174,62 +205,146 @@
     "pages": [
       {
         "id": "all",
-        "title": "หน้าแรก"
+        "title": "หน้าแรก",
+        "icon": "🏠",
+        "type": "category",
+        "published": true
       },
       {
         "id": "movies",
-        "title": "ภาพยนตร์"
+        "title": "ภาพยนตร์",
+        "icon": "🎬",
+        "type": "category",
+        "published": true
       },
       {
         "id": "series",
-        "title": "ซีรีส์"
+        "title": "ซีรีส์",
+        "icon": "📺",
+        "type": "category",
+        "published": true
       },
       {
         "id": "tv",
-        "title": "รายการทีวี"
+        "title": "รายการทีวี",
+        "icon": "📡",
+        "type": "category",
+        "published": true
       },
       {
         "id": "sports",
-        "title": "กีฬา"
+        "title": "กีฬา",
+        "icon": "⚽",
+        "type": "category",
+        "published": true
       },
       {
         "id": "ทดสอบ",
-        "title": "ทดสอบ"
+        "title": "ทดสอบ",
+        "icon": "✨",
+        "type": "category",
+        "published": true
       },
       {
         "id": "18+",
-        "title": "18+"
+        "title": "18+",
+        "icon": "🔞",
+        "type": "category",
+        "published": false
       },
       {
         "id": "page_mwpti8wy",
-        "title": "ช่องสด"
+        "title": "ช่องสด",
+        "icon": "🔴",
+        "type": "live",
+        "published": true
       }
     ]
   },
-  "heroes": {},
+  "heroes": {
+    "all": {
+      "id": "3d12fd9ad20630502f3f4ddcfb84f92d",
+      "name": "Jungleland (2020) พี่น้องสังเวียนเถื่อน",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110114/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/d766D00fhJTEYBspmMrHRUp1RyR-scaled-1.jpg",
+      "backdropUrl": "",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false,
+      "year": "2020",
+      "tags": []
+    },
+    "movies": {
+      "id": "3da1ecf4b6c820837b6422f1686a215e",
+      "name": "Fireflies at El Mozote (2025)",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109803/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/10/vAMPpEvaW9EmRwFmzFMaM8wS3KV.jpg",
+      "backdropUrl": "",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false,
+      "year": "2025",
+      "tags": []
+    },
+    "series": {
+      "id": "14a1f14428327fdd4280bac4701d417d",
+      "name": "Re:Zero Kara Hajimeru Isekai Seikatsu Season 3Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+      "streamUrl": "",
+      "logoUrl": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=148629&type=animeindy&hash=83759370e89a91343d41647284d6370d",
+      "backdropUrl": "",
+      "groupTitle": "ซีรีส์ที่รวมแล้ว",
+      "groups": [
+        "ซีรีส์ที่รวมแล้ว"
+      ],
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false,
+      "seriesTitle": "Re:Zero Kara Hajimeru Isekai Seikatsu Season 3Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+      "episode": "ตอนที่ 3",
+      "tags": []
+    },
+    "18+": {
+      "id": "35fd0de0f998f05f34187209aba282f7",
+      "name": "MIDA-383 My Friend’s Sister พิธีอัปไซซ์ เสียวไส้จนน้ำทะลัก",
+      "streamUrl": "https://3ird.samorn-team.workers.dev/?id=46&type=video",
+      "logoUrl": "https://ww.avsubthai.men/wp-content/uploads/2025/11/mida383pl.webp",
+      "backdropUrl": "",
+      "groupTitle": "ญี่ปุ่น+จีน+ฝรั่ง",
+      "groups": [
+        "ญี่ปุ่น+จีน+ฝรั่ง"
+      ],
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false,
+      "tags": []
+    }
+  },
   "screens": {
     "all": {
       "title": "หน้าแรก",
       "hero": {
-        "id": "1d08a3cb7a296e733db5216efc1538dc",
-        "name": "มากับฝนคนหรือผี (รังสิต) - หลอนสเปเชียล / PODCAST EP. 284",
-        "streamUrl": "https://www.youtube.com/watch?v=KosruiSjqmU",
-        "logoUrl": "https://i.ytimg.com/vi/KosruiSjqmU/hqdefault.jpg",
-        "groupTitle": "เรื่องหลอนๆ",
+        "id": "3d12fd9ad20630502f3f4ddcfb84f92d",
+        "name": "Jungleland (2020) พี่น้องสังเวียนเถื่อน",
+        "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110114/master.m3u8",
+        "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/d766D00fhJTEYBspmMrHRUp1RyR-scaled-1.jpg",
+        "backdropUrl": "",
+        "groupTitle": "หนังใหม่ 2006",
         "groups": [
-          "เรื่องหลอนๆ"
+          "หนังใหม่ 2006"
         ],
-        "folder": "เรื่องหลอนๆ",
-        "menu": "movies",
-        "menus": [
-          "movies"
-        ],
-        "showOnHome": false,
-        "menuTitle": "ภาพยนตร์",
         "isLive": false,
-        "isEmbed": true,
-        "isYouTube": true,
-        "videoId": "KosruiSjqmU"
+        "isEmbed": false,
+        "isYouTube": false,
+        "year": "2020",
+        "tags": []
       },
       "rows": [
         {
@@ -529,18 +644,20 @@
     "movies": {
       "title": "ภาพยนตร์",
       "hero": {
-        "id": "60524dc0d4fba9a6184064b01bab1c1b",
-        "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
-        "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
-        "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
+        "id": "3da1ecf4b6c820837b6422f1686a215e",
+        "name": "Fireflies at El Mozote (2025)",
+        "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109803/master.m3u8",
+        "logoUrl": "https://25-hd.com/wp-content/uploads/2026/10/vAMPpEvaW9EmRwFmzFMaM8wS3KV.jpg",
+        "backdropUrl": "",
         "groupTitle": "หนังใหม่ 2006",
         "groups": [
           "หนังใหม่ 2006"
         ],
-        "showOnHome": true,
         "isLive": false,
         "isEmbed": false,
-        "isYouTube": false
+        "isYouTube": false,
+        "year": "2025",
+        "tags": []
       },
       "rows": [
         {
@@ -708,25 +825,21 @@
     "series": {
       "title": "ซีรีส์",
       "hero": {
-        "id": "1d08a3cb7a296e733db5216efc1538dc",
-        "name": "มากับฝนคนหรือผี (รังสิต) - หลอนสเปเชียล / PODCAST EP. 284",
-        "streamUrl": "https://www.youtube.com/watch?v=KosruiSjqmU",
-        "logoUrl": "https://i.ytimg.com/vi/KosruiSjqmU/hqdefault.jpg",
-        "groupTitle": "เรื่องหลอนๆ",
+        "id": "14a1f14428327fdd4280bac4701d417d",
+        "name": "Re:Zero Kara Hajimeru Isekai Seikatsu Season 3Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+        "streamUrl": "",
+        "logoUrl": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=148629&type=animeindy&hash=83759370e89a91343d41647284d6370d",
+        "backdropUrl": "",
+        "groupTitle": "ซีรีส์ที่รวมแล้ว",
         "groups": [
-          "เรื่องหลอนๆ"
+          "ซีรีส์ที่รวมแล้ว"
         ],
-        "folder": "เรื่องหลอนๆ",
-        "menu": "movies",
-        "menus": [
-          "movies"
-        ],
-        "showOnHome": false,
-        "menuTitle": "ภาพยนตร์",
         "isLive": false,
-        "isEmbed": true,
-        "isYouTube": true,
-        "videoId": "KosruiSjqmU"
+        "isEmbed": false,
+        "isYouTube": false,
+        "seriesTitle": "Re:Zero Kara Hajimeru Isekai Seikatsu Season 3Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+        "episode": "ตอนที่ 3",
+        "tags": []
       },
       "rows": [
         {
@@ -1172,507 +1285,10 @@
       "hero": null,
       "rows": []
     },
-    "18+": {
-      "title": "18+",
-      "hero": {
-        "id": "b9b859cdb0b962bc2684027c2d536662",
-        "name": "MONOMAX1",
-        "streamUrl": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
-        "logoUrl": "https://th.bing.com/th/id/OIP.xXOtHgdGtid0R0paoDmVHQHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
-        "groupTitle": "MONOMAX",
-        "groups": [
-          "MONOMAX"
-        ],
-        "folder": "MONOMAX",
-        "menu": "18+",
-        "menus": [
-          "18+"
-        ],
-        "showOnHome": false,
-        "menuTitle": "ภาพยนตร์",
-        "isLive": false,
-        "isEmbed": false,
-        "isYouTube": false
-      },
-      "rows": [
-        {
-          "title": "MONOMAX",
-          "group": "MONOMAX",
-          "items": [
-            {
-              "id": "b9b859cdb0b962bc2684027c2d536662",
-              "name": "MONOMAX1",
-              "streamUrl": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
-              "logoUrl": "https://th.bing.com/th/id/OIP.xXOtHgdGtid0R0paoDmVHQHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
-              "groupTitle": "MONOMAX",
-              "groups": [
-                "MONOMAX"
-              ],
-              "folder": "MONOMAX",
-              "menu": "18+",
-              "menus": [
-                "18+"
-              ],
-              "showOnHome": false,
-              "menuTitle": "ภาพยนตร์",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "c8423be039d2f3ba7f1e35e4e6e80b9c",
-              "name": "Monomax1-1",
-              "streamUrl": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
-              "logoUrl": "https://th.bing.com/th/id/OIP.xXOtHgdGtid0R0paoDmVHQHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
-              "groupTitle": "MONOMAX",
-              "groups": [
-                "MONOMAX"
-              ],
-              "folder": "MONOMAX",
-              "menu": "18+",
-              "menus": [
-                "18+"
-              ],
-              "showOnHome": false,
-              "menuTitle": "ภาพยนตร์",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            }
-          ]
-        }
-      ]
-    },
     "page_mwpti8wy": {
       "title": "ช่องสด",
-      "hero": {
-        "id": "acb00fd79044694eb1972b2344f35bfd",
-        "name": "3HD",
-        "streamUrl": "https://ch3-33-web.cdn.byteark.com/live/720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787913302&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=Rm7a7fJhCSOK8cl-X7ygdw",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
-        "groupTitle": "Digital TV",
-        "groups": [
-          "Digital TV"
-        ],
-        "folder": "Digital TV",
-        "menu": "page_mwpti8wy",
-        "menus": [
-          "page_mwpti8wy"
-        ],
-        "showOnHome": false,
-        "menuTitle": "รายการทีวี",
-        "isLive": false,
-        "isEmbed": false,
-        "isYouTube": false
-      },
-      "rows": [
-        {
-          "title": "Digital TV",
-          "group": "Digital TV",
-          "items": [
-            {
-              "id": "acb00fd79044694eb1972b2344f35bfd",
-              "name": "3HD",
-              "streamUrl": "https://ch3-33-web.cdn.byteark.com/live/720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787913302&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=Rm7a7fJhCSOK8cl-X7ygdw",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "22ce2b976b6ef9da78852432f9371ba8",
-              "name": "CH5",
-              "streamUrl": "https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "9d3965a79ec539ac7b90810a52053e89",
-              "name": "7HD",
-              "streamUrl": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8",
-              "logoUrl": "https://i.postimg.cc/8kMvzGt1/IMG-2393.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "a745345c1eaad6474c0a22995ecbe4fc",
-              "name": "McotHD",
-              "streamUrl": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
-              "logoUrl": "https://i.postimg.cc/8cpTGLZf/IMG-2397.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "13834c8dbc332ba4b8a604cd6fa649cc",
-              "name": "Mono29",
-              "streamUrl": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8",
-              "logoUrl": "https://i.postimg.cc/26dJcxGv/IMG-2741.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "692f4783276c2a270a5d5f926565cb58",
-              "name": "Mono29+",
-              "streamUrl": "http://3bb.engatetv.com:25461/hstn/line/117",
-              "logoUrl": "https://i.postimg.cc/mZMkT7TS/IMG-4148.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "438787521abaa3c708407a8fbe0ab028",
-              "name": "NBT",
-              "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "8a26f197c5c95569b288cb385a8fe95d",
-              "name": "NBT-ภาคกลาง",
-              "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "d958b9a14f37db43ce2c85d81adc5a00",
-              "name": "NBT-ภาคเหนือ",
-              "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "b50cdb1cdabcc86af76bd43081e88893",
-              "name": "NBT-ภาคอีสาน",
-              "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "4fb74ca2837d9b7abc919d9bbe1fd8af",
-              "name": "NBT-ภาคใต้",
-              "streamUrl": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "91322af339fa83c0e64c0db8edb323e7",
-              "name": "Thai PBS",
-              "streamUrl": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "1652e056d6e40de54294270ca9fa497b",
-              "name": "Thairath TV",
-              "streamUrl": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
-              "logoUrl": "https://tse3.mm.bing.net/th/id/OIP.9thgi4cZ5JxivjnvnTBbZgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "91421795dc8712accc50bc6ee6ca9c3d",
-              "name": "PPTV",
-              "streamUrl": "https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8",
-              "logoUrl": "https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "300f2f7c9a176bc5e96532049eb74ea6",
-              "name": "Amarin TV",
-              "streamUrl": "https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8",
-              "logoUrl": "https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "752462623aa387eeec5813f159ea2d1e",
-              "name": "GMM25",
-              "streamUrl": "https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "37d104de893ace3c14db449d846fe04f",
-              "name": "ONE31",
-              "streamUrl": "https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8",
-              "logoUrl": "https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "0c52423f89e9c72027b5d28f63c07475",
-              "name": "TopNews",
-              "streamUrl": "https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8",
-              "logoUrl": "https://i.postimg.cc/qMJ7ff5h/IMG-3145.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "6d032cbc5449ab3c8833548f99627cba",
-              "name": "Workpoint",
-              "streamUrl": "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8",
-              "logoUrl": "https://i.postimg.cc/WzT9cJHK/IMG-2565.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            },
-            {
-              "id": "901ed7dfb3fb8cfab85f7db206a60dbb",
-              "name": "CH8",
-              "streamUrl": "https://www.thaich8.com/live?var_link=720p",
-              "logoUrl": "https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
-              "groupTitle": "Digital TV",
-              "groups": [
-                "Digital TV"
-              ],
-              "folder": "Digital TV",
-              "menu": "page_mwpti8wy",
-              "menus": [
-                "page_mwpti8wy"
-              ],
-              "showOnHome": false,
-              "menuTitle": "รายการทีวี",
-              "isLive": false,
-              "isEmbed": false,
-              "isYouTube": false
-            }
-          ]
-        }
-      ]
+      "hero": null,
+      "rows": []
     }
   },
   "folders": [
@@ -1718,8 +1334,17 @@
       "menu": "movies",
       "menuTitle": "ภาพยนตร์",
       "logoUrl": null,
-      "videoCount": 2,
-      "itemCount": 2
+      "videoCount": 0,
+      "itemCount": 0
+    },
+    {
+      "name": "18+Live-011",
+      "displayName": "18+Live-011",
+      "menu": "movies",
+      "menuTitle": "ภาพยนตร์",
+      "logoUrl": null,
+      "videoCount": 0,
+      "itemCount": 0
     }
   ],
   "videos": [
@@ -2354,8 +1979,8 @@
       "videoId": "iZwDKcRZsWk"
     },
     {
-      "id": "0f96a897bb7302af191fe8406f109794",
-      "name": "ผู้โดยสารปริศนา ( บางใหญ่ ) - หลอนสเปเชียล / PODCAST EP. 254",
+      "id": "d0d3b5b1afa326104ab0c7235c90e4b1",
+      "name": "ผู้โดยสารปริศ��า ( บางใหญ่ ) - หลอนสเปเชียล / PODCAST EP. 254",
       "streamUrl": "https://www.youtube.com/watch?v=yJYnqR_tIQ4",
       "logoUrl": "https://i.ytimg.com/vi/yJYnqR_tIQ4/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2648,8 +2273,8 @@
       "videoId": "truC9jb4dKk"
     },
     {
-      "id": "e9b502e9cde522818d7357c8c3188961",
-      "name": "เฮี้ยนย���บ้าน ( อ่างทอง ) - หลอนสเปเชียล / PODCAST EP. 240",
+      "id": "3b14cd6308ac53382ba87d5a6a47b359",
+      "name": "เฮี้ยนยกบ้าน ( อ่างทอง ) - หลอนสเปเชียล / PODCAST EP. 240",
       "streamUrl": "https://www.youtube.com/watch?v=JEpy9l_ZJnw",
       "logoUrl": "https://i.ytimg.com/vi/JEpy9l_ZJnw/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2732,8 +2357,8 @@
       "videoId": "ktBrWj8dIhU"
     },
     {
-      "id": "eb8f52af08daaca7eaa134ba91ee9f50",
-      "name": "บ้านเก่าให้เช่า ( ปทุมธานี ) - หลอนสเปเชียล / PODCAST EP. 236",
+      "id": "ed4a05381e011d9c1d354f59e3696406",
+      "name": "บ้านเก่าให้เช่า ( ป��ุมธานี ) - หลอนสเปเชียล / PODCAST EP. 236",
       "streamUrl": "https://www.youtube.com/watch?v=DnZoNnkbyKk",
       "logoUrl": "https://i.ytimg.com/vi/DnZoNnkbyKk/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3173,8 +2798,8 @@
       "videoId": "_Qby4EwrgNw"
     },
     {
-      "id": "eec02ff3563490820a316c3be75be752",
-      "name": "นางสาวประภั���สร ( บางบอน ) - หลอนสเปเชียล / PODCAST EP. 215",
+      "id": "e99b09259f7a88de4727957005431c5f",
+      "name": "นางสาวประภัสสร ( บางบอน ) - หลอนสเปเชียล / PODCAST EP. 215",
       "streamUrl": "https://www.youtube.com/watch?v=Ng1YLY2S-xg",
       "logoUrl": "https://i.ytimg.com/vi/Ng1YLY2S-xg/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3383,8 +3008,8 @@
       "videoId": "cHgcU31O8_E"
     },
     {
-      "id": "b547afe4476342829516348fdbfeb582",
-      "name": "ไปส่งวัด ( ปทุมธานี ) - ห���อนสเปเชียล / PODCAST EP. 205",
+      "id": "3020c6b34c52b2972b50d5507c60fcaa",
+      "name": "ไปส่งวัด ( ปทุมธานี ) - ห��อนสเปเชียล / PODCAST EP. 205",
       "streamUrl": "https://www.youtube.com/watch?v=HAXYieWtv1o",
       "logoUrl": "https://i.ytimg.com/vi/HAXYieWtv1o/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3614,8 +3239,8 @@
       "videoId": "TFGp6538G38"
     },
     {
-      "id": "82f710a4f8ba86f8e6c4373c4ae1c90c",
-      "name": "จ้างเฝ้าไข้ ( ลพบุรี ) - หลอนสเปเชีย��� / PODCAST EP. 196",
+      "id": "1e9c13d465cfc9e44f91cc5ef9b01ca3",
+      "name": "จ้างเฝ้าไข้ ( ลพบุรี ) - หลอนสเปเชีย�� / PODCAST EP. 196",
       "streamUrl": "https://www.youtube.com/watch?v=t4B_vWWcFiY",
       "logoUrl": "https://i.ytimg.com/vi/t4B_vWWcFiY/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3782,8 +3407,8 @@
       "videoId": "M7OqAr39x2E"
     },
     {
-      "id": "49524552ea3494f0769903fe9d934314",
-      "name": "เจ้าตัวมาเอง ( นครราชสีมา ) - หลอนสเปเชียล / PODCAST EP. 188",
+      "id": "fbcdb8ad06a7942c84039ad5a29a3069",
+      "name": "เจ้า���ัวมาเอง ( นครราชสีมา ) - หลอนสเปเชียล / PODCAST EP. 188",
       "streamUrl": "https://www.youtube.com/watch?v=yhW9h1kC1qc",
       "logoUrl": "https://i.ytimg.com/vi/yhW9h1kC1qc/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4349,8 +3974,8 @@
       "videoId": "vHC5_s2gKUU"
     },
     {
-      "id": "3a7cc98fd5f72392f55ffc3c0c23c3e1",
-      "name": "สยองคืนงานศพ ( สระแก้ว ) - หลอนสเปเชียล / PODCAST EP. 158",
+      "id": "e32d37e4351b5c0378944fcf75c2b1c2",
+      "name": "สยองคืนงานศพ ( สระแก้ว ) - หลอนสเปเ���ียล / PODCAST EP. 158",
       "streamUrl": "https://www.youtube.com/watch?v=6fbKl0aXOFk",
       "logoUrl": "https://i.ytimg.com/vi/6fbKl0aXOFk/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4433,8 +4058,8 @@
       "videoId": "NOr-9oaCoDQ"
     },
     {
-      "id": "b794b074ade1d97086ab5de7b222f186",
-      "name": "เพื่อนพี่สาว ( ���อนแก่น ) - หลอนสเปเชียล / PODCAST EP. 153",
+      "id": "78cc7c4f6f74b64575dcc7450422ec8e",
+      "name": "เพื่อนพี่สาว ( ��อนแก่น ) - หลอนสเปเชียล / PODCAST EP. 153",
       "streamUrl": "https://www.youtube.com/watch?v=dDOV8XSb9rk",
       "logoUrl": "https://i.ytimg.com/vi/dDOV8XSb9rk/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4811,8 +4436,8 @@
       "videoId": "-7ctLzJdbkI"
     },
     {
-      "id": "7c0c19177c9fa3743f483c428aa9ca52",
-      "name": "รับซื้อของเก่า ( จ���ุจักร ) - หลอนสเปเชียล / PODCAST EP. 134",
+      "id": "8152aa50014cbc2bef3ab5d557ff1581",
+      "name": "รับซื้อของเก่า ( จ��ุจักร ) - หลอนสเปเชียล / PODCAST EP. 134",
       "streamUrl": "https://www.youtube.com/watch?v=6F9LJPxuhdw",
       "logoUrl": "https://i.ytimg.com/vi/6F9LJPxuhdw/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4895,8 +4520,8 @@
       "videoId": "2y3gymE5wpE"
     },
     {
-      "id": "422cca1e016a04ddf6951d04d6d5868e",
-      "name": "ช่วยไม่ทัน ( พุทธมณฑลสาย 4 ) - หลอนสเปเชียล / PODCAST EP. 130",
+      "id": "bc00e3906c084e1db2f7bccf03c892b2",
+      "name": "ช่วยไม���ทัน ( พุทธมณฑลสาย 4 ) - หลอนสเปเชียล / PODCAST EP. 130",
       "streamUrl": "https://www.youtube.com/watch?v=fbHvdru4liA",
       "logoUrl": "https://i.ytimg.com/vi/fbHvdru4liA/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5378,8 +5003,8 @@
       "videoId": "sprWMnOhW6g"
     },
     {
-      "id": "e1c83222676ad54599d2b5625251bbc9",
-      "name": "เกือบไม่รอด ( ร้อยเอ็ด ) - หลอนสเปเชียล / PODCAST EP. 106",
+      "id": "221ba8fbc53f735d44acb14e425d73e0",
+      "name": "เกือบไม่รอด ( ร้อยเอ็ด ) - หล���นสเปเชียล / PODCAST EP. 106",
       "streamUrl": "https://www.youtube.com/watch?v=X1GV-T6Y2ng",
       "logoUrl": "https://i.ytimg.com/vi/X1GV-T6Y2ng/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5462,8 +5087,8 @@
       "videoId": "iibf-uJE49Y"
     },
     {
-      "id": "7f86386f248ccbbe1eb8b5b8f7e80572",
-      "name": "ตึกเก่���บ้านพักครู ( ชลบุรี ) - หลอนสเปเชียล / PODCAST EP. 102",
+      "id": "e5a2a71e37326e19d32359054b13362b",
+      "name": "ตึกเก่��บ้านพักครู ( ชลบุรี ) - หลอนสเปเชียล / PODCAST EP. 102",
       "streamUrl": "https://www.youtube.com/watch?v=nCLGl8z_PuA",
       "logoUrl": "https://i.ytimg.com/vi/nCLGl8z_PuA/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5672,8 +5297,8 @@
       "videoId": "G5nHgQFkjfQ"
     },
     {
-      "id": "02447651dac3ef3909fa7bd493e9b00a",
-      "name": "จ้างให้ก็ไม่อยู่ ( จ.อยุธยา ) - หลอนสเปเชียล / PODCAST EP. 92",
+      "id": "6b3d892d78824c60977d9256b5375b96",
+      "name": "จ้างให้ก็ไม่อยู่ ( จ.อยุธยา ) - หลอ���สเปเชียล / PODCAST EP. 92",
       "streamUrl": "https://www.youtube.com/watch?v=kSNYSXWc6D8",
       "logoUrl": "https://i.ytimg.com/vi/kSNYSXWc6D8/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5756,8 +5381,8 @@
       "videoId": "XqqN4JdnQlY"
     },
     {
-      "id": "45dc32a94aa569a348de25db7f0e0e26",
-      "name": "ชุดสุดท้ายที่ได้ใส่ - หลอนสเ��เชียล / PODCAST EP. 88",
+      "id": "e18cfbe8eda980a41f763c1f7cfde851",
+      "name": "ชุดสุดท้ายที่ได้ใส่ - หลอนสเปเชียล / PODCAST EP. 88",
       "streamUrl": "https://www.youtube.com/watch?v=W6xAevuRdMg",
       "logoUrl": "https://i.ytimg.com/vi/W6xAevuRdMg/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -6449,8 +6074,8 @@
       "videoId": "VuKXppX29xU"
     },
     {
-      "id": "5ed74531b1e4c3b9c8b02816a96e65dd",
-      "name": "บ้านหลังนี้เจ้าที่ยังยอม - หลอนสเปเชียล / PODCAST EP. 53",
+      "id": "cf1beb411c6e7a9a3d3c945d4727bf0e",
+      "name": "บ้านหลั���นี้เจ้าที่ยังยอม - หลอนสเปเชียล / PODCAST EP. 53",
       "streamUrl": "https://www.youtube.com/watch?v=YDly7EikNuI",
       "logoUrl": "https://i.ytimg.com/vi/YDly7EikNuI/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -6848,8 +6473,8 @@
       "videoId": "jEI28gE_o8s"
     },
     {
-      "id": "c104872fcd0de5813a1d5866563b413e",
-      "name": "ผิดคำสัญญา - หลอนสเปเชียล / PODCAST EP. 28",
+      "id": "a085a55d1d38bd6b5069f2185981118c",
+      "name": "ผิดคำสัญญา - หลอนสเ���เชียล / PODCAST EP. 28",
       "streamUrl": "https://www.youtube.com/watch?v=K7lygYEixA8",
       "logoUrl": "https://i.ytimg.com/vi/K7lygYEixA8/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -8267,46 +7892,6 @@
       "isYouTube": false
     },
     {
-      "id": "b9b859cdb0b962bc2684027c2d536662",
-      "name": "MONOMAX1",
-      "streamUrl": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
-      "logoUrl": "https://th.bing.com/th/id/OIP.xXOtHgdGtid0R0paoDmVHQHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
-      "groupTitle": "MONOMAX",
-      "groups": [
-        "MONOMAX"
-      ],
-      "folder": "MONOMAX",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
-      "showOnHome": false,
-      "menuTitle": "ภาพยนตร์",
-      "isLive": false,
-      "isEmbed": false,
-      "isYouTube": false
-    },
-    {
-      "id": "c8423be039d2f3ba7f1e35e4e6e80b9c",
-      "name": "Monomax1-1",
-      "streamUrl": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
-      "logoUrl": "https://th.bing.com/th/id/OIP.xXOtHgdGtid0R0paoDmVHQHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
-      "groupTitle": "MONOMAX",
-      "groups": [
-        "MONOMAX"
-      ],
-      "folder": "MONOMAX",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
-      "showOnHome": false,
-      "menuTitle": "ภาพยนตร์",
-      "isLive": false,
-      "isEmbed": false,
-      "isYouTube": false
-    },
-    {
       "id": "60524dc0d4fba9a6184064b01bab1c1b",
       "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
       "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
@@ -8467,7 +8052,8 @@
       "หนังใหม่ 2006",
       "ญี่ปุ่น+จีน+ฝรั่ง",
       "Digital TV",
-      "MONOMAX"
+      "MONOMAX",
+      "18+Live-011"
     ]
   },
   "hidden": {
@@ -9056,7 +8642,7 @@
       "logo": "https://bbk100.xyz/media/cache/strip/202310/movie/1402fbc5934c54af33e737616036753d.jpg",
       "menu": "series",
       "seriesTitle": "Anime_1",
-      "episode": "Sword Art Online Progressive Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ สแกรโซแห่งสนธยาโศก"
+      "episode": "Sword Art Online Progressive Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ เดอะมูฟวี่ ��แกรโซแห่งสนธยาโศก"
     },
     "6cd5516e50fa8109270958118215d02d": {
       "name": "Anime_1 - ตอนที่ 2 (2009)",
@@ -10432,7 +10018,7 @@
     },
     "36c7f2b659a0f5b31a5c8b23984a9a0d": {
       "name": "Anime_3 - Paws of Fury The Legend of Hank (2022) อุ้งเท้าพิโรธ ตำนานของแฮ้งค์",
-      "logo": "https://www.123-hds.com/wp-content/uploads/2022/10/Paws-of-Fury-The-Legend-of-Hank-2022-อุ้งเท้าพิโรธ-ตำนานของแฮ้งค์-300x450.png",
+      "logo": "https://www.123-hds.com/wp-content/uploads/2022/10/Paws-of-Fury-The-Legend-of-Hank-2022-อุ้งเท้าพิโรธ-ตำนานของแฮ��งค์-300x450.png",
       "menu": "series",
       "seriesTitle": "Anime_3",
       "episode": "Paws of Fury The Legend of Hank (2022) อุ้งเท้าพิโรธ ตำนานของแฮ้งค์"
@@ -10789,7 +10375,7 @@
     },
     "14c6c3506d303cc822f200b256c5ebd4": {
       "name": "Anime_3 - Attack on Titan the Movie The Last Attack (2024) ผ่าพิภพไททัน การจู่โจมครั้งสุดท้าย",
-      "logo": "https://www.123-hds.com/wp-content/uploads/2025/03/Attack-on-Titan-the-Movie-The-Last-Attack-2024-ผ่าพิภพไททัน-การจู่โจมครั้งสุดท้าย-300x450.png",
+      "logo": "https://www.123-hds.com/wp-content/uploads/2025/03/Attack-on-Titan-the-Movie-The-Last-Attack-2024-ผ่าพิภพไททั��-การจู่โจมครั้งสุดท้าย-300x450.png",
       "menu": "series",
       "seriesTitle": "Anime_3",
       "episode": "Attack on Titan the Movie The Last Attack (2024) ผ่าพิภพไททัน การจู่โจมครั้งสุดท้าย"
@@ -11358,7 +10944,7 @@
       "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=122317&type=animeindy&hash=06e879c7c93651a1dfdce19c1bf3cb16",
       "menu": "series",
-      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พา��ย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 6"
     },
     "9095763a22a6baf850d0e747f44c535b": {
@@ -11512,7 +11098,7 @@
       "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY - ตอนที่ 28",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=122317&type=animeindy&hash=06e879c7c93651a1dfdce19c1bf3cb16",
       "menu": "series",
-      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมย��ทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 28"
     },
     "cb035d180a3e24eb5f81c54e28d0710b": {
@@ -12125,7 +11711,7 @@
       "episode": "ตอนที่ 115"
     },
     "481e66302729e224b8ae2e5f479f15d4": {
-      "name": "Cang Lan Jue 2 ของรักของข้า ภาค 2 ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Cang Lan Jue 2 ของรักของข้��� ภาค 2 ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=161677&type=animeindy&hash=2f9dbfa7b6186c9a32ed68b3c322f4f8",
       "menu": "series",
       "seriesTitle": "Cang Lan Jue 2 ของรักของข้า ภาค 2 ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY",
@@ -12716,7 +12302,7 @@
       "name": "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-186 พากย์ไทย - ANIMEiNDY - ตอนที่ 77",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=145007&type=animeindy&hash=5a4611f5e9ba277d2cee3b62ed5a7289",
       "menu": "series",
-      "seriesTitle": "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-186 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Tunshi Xingkong มหาศึกล้างพิภพ ตอนท��่ 1-186 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 77"
     },
     "d7627196b4d287fc2ebdff35456624b1": {
@@ -13203,7 +12789,7 @@
       "episode": "ตอนที่ 146"
     },
     "3c4a4b773b2a73d4b84983eecf7e98bd": {
-      "name": "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-186 พากย์ไทย - ANIMEiNDY - ตอนที่ 147",
+      "name": "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-186 พากย์ไ���ย - ANIMEiNDY - ตอนที่ 147",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=145007&type=animeindy&hash=5a4611f5e9ba277d2cee3b62ed5a7289",
       "menu": "series",
       "seriesTitle": "Tunshi Xingkong มหาศึกล้างพิภพ ตอนที่ 1-186 พากย์ไทย - ANIMEiNDY",
@@ -13668,7 +13254,7 @@
       "name": "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-22 พากย์ไทย - ANIMEiNDY - ตอนที่ 18",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=159178&type=animeindy&hash=485cc93e8247869ac38795af8d8853b1",
       "menu": "series",
-      "seriesTitle": "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราชันย์ ตอนที่ 1-22 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Shen Yin Wangzuo ผนึกเทพบัลลังก์ราช��นย์ ตอนที่ 1-22 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 18"
     },
     "4182d096bba0155d32d1bbebf61adc26": {
@@ -14253,7 +13839,7 @@
       "episode": "ตอนที่ 79"
     },
     "afb0afd2b628aff6cf6d6c8212b353ab": {
-      "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 80",
+      "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนท���่ 80",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=125814&type=animeindy&hash=845de87d2d4b7fcaaf7b6508c15aa47a",
       "menu": "series",
       "seriesTitle": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY",
@@ -14449,7 +14035,7 @@
       "episode": "ตอนที่ 107"
     },
     "1af99e6210e80de7b0c8abc4ca7e6f9f": {
-      "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 108",
+      "name": "Perfect World โลก���ันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 108",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=125814&type=animeindy&hash=845de87d2d4b7fcaaf7b6508c15aa47a",
       "menu": "series",
       "seriesTitle": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY",
@@ -14879,7 +14465,7 @@
       "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 169",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=125814&type=animeindy&hash=845de87d2d4b7fcaaf7b6508c15aa47a",
       "menu": "series",
-      "seriesTitle": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Perfect World โลกอันสม��ูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 169"
     },
     "5c2b89b1411a1bd8de30a12bdaeb0011": {
@@ -15671,7 +15257,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=161697&type=animeindy&hash=e9dcbc96835935d640bfd5749db13ceb",
       "menu": "series",
       "seriesTitle": "Gachiakuta กาชิอากุตะ ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY",
-      "episode": "ต���นที่ 6"
+      "episode": "ตอนที่ 6"
     },
     "24dd0a82ff09be0a1b1863082a6dae93": {
       "name": "Gachiakuta กาชิอากุตะ ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
@@ -15744,7 +15330,7 @@
       "episode": "ตอนที่ 7"
     },
     "35315f23a0fd51959b3b6ef7b0b612a0": {
-      "name": "Tougen Anki สงครามเลือดอสูร ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
+      "name": "Tougen Anki ���งครามเลือดอสูร ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=160287&type=animeindy&hash=e4f50e24c34f3de8c11d1f7deb946807",
       "menu": "series",
       "seriesTitle": "Tougen Anki สงครามเลือดอสูร ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY",
@@ -16437,7 +16023,7 @@
       "episode": "ตอนที่ 7"
     },
     "55af4f2a73b22b7bb96582bbf5f34f37": {
-      "name": "Saikyou No Ousama จุดเริ่มต้นและจุดสิ้นสุด ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
+      "name": "Saikyou No Ousama จุดเริ่ม��้นและจุดสิ้นสุด ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=155205&type=animeindy&hash=e04bd48810edcde07369ce70f604522d",
       "menu": "series",
       "seriesTitle": "Saikyou No Ousama จุดเริ่มต้นและจุดสิ้นสุด ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -16958,7 +16544,7 @@
       "name": "Tokidoki Bosotto Russia-go De Dereru Tonari No Alya-san คุณอาเรียโต๊ะข้างๆ พูดรัสเซียหวานใส่ซะหัวใจจะวาย ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=155271&type=animeindy&hash=c50ecea20e1b8474b8fb9c8775dbcf3f",
       "menu": "series",
-      "seriesTitle": "Tokidoki Bosotto Russia-go De Dereru Tonari No Alya-san คุณอาเรียโต๊ะข้างๆ พูดรัสเซียหวานใส่ซะหัวใจจะวาย ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Tokidoki Bosotto Russia-go De Dereru Tonari No Alya-san คุณอาเรียโต๊ะข้างๆ พูดร��สเซียหวานใส่ซะหัวใจจะวาย ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 12"
     },
     "a65e06f7f704f55b3027c6259f164f8e": {
@@ -17333,7 +16919,7 @@
       "episode": "ตอนที่ 6"
     },
     "0d9bf4e11018136707be2fe7b3223457": {
-      "name": "Nageki No Bourei Wa Intai Shitai วิญญาณคร่ำครวญอยากวางมือแล้ว ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
+      "name": "Nageki No Bourei Wa Intai Shitai วิญญาณคร่ำครวญอยากวางมือแล้ว ตอนที่ 1-13 พ��กย์ไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=155918&type=animeindy&hash=7ed10dac95060cc2c260e10e145feaa3",
       "menu": "series",
       "seriesTitle": "Nageki No Bourei Wa Intai Shitai วิญญาณคร่ำครวญอยากวางมือแล้ว ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
@@ -17844,7 +17430,7 @@
       "episode": "ตอนที่ 3"
     },
     "ef62c8f2608eeb7cc887dae95fd58f9d": {
-      "name": "Ubel Blatt ดาบคลั่งทวงแค้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
+      "name": "Ubel Blatt ดาบคลั่งทวงแค้น ตอนที่ 1-12 พา��ย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=154990&type=animeindy&hash=7afebfd24db8bb5a00bde9ed3212db8e",
       "menu": "series",
       "seriesTitle": "Ubel Blatt ดาบคลั่งทวงแค้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -17963,7 +17549,7 @@
       "episode": "ตอนที่ 8"
     },
     "cc32b6682e7d3e25aa832ad46a2976c1": {
-      "name": "Ao No Hako กล่องรักวัยใส ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
+      "name": "Ao No Hako กล่องร��กวัยใส ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=154853&type=animeindy&hash=1792fcf511996f5424392599a3ad06fe",
       "menu": "series",
       "seriesTitle": "Ao No Hako กล่องรักวัยใส ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
@@ -18712,7 +18298,7 @@
       "episode": "ตอนที่ 10"
     },
     "4a6f90b38ec4be8745a25c745298fdf1": {
-      "name": "Maougun Saikyou No Majutsushi Wa Ningen Datta นักเวทย์ที่แข็งแกร่งที่สุดในกองทัพของจอมมารคือมนุษย์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
+      "name": "Maougun Saikyou No Majutsushi Wa Ningen Datta นักเวทย์ที่แข็งแกร่งที่สุดในกองทัพของจอมมารคือมนุษย์ ตอนที��� 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=151967&type=animeindy&hash=160a0a5acad6de756ee762cd6e7db83e",
       "menu": "series",
       "seriesTitle": "Maougun Saikyou No Majutsushi Wa Ningen Datta นักเวทย์ที่แข็งแกร่งที่สุดในกองทัพของจอมมารคือมนุษย์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -19069,7 +18655,7 @@
       "episode": "ตอนที่ 924"
     },
     "5d89adf8bbf67e2b9cb8dbbe4a98ba4c": {
-      "name": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุนิตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY - ตอนที่ 925",
+      "name": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุน���ตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY - ตอนที่ 925",
       "logo": "https://anime-indy.com/wp-content/uploads/2021/11/one-piece-season-20.jpg",
       "menu": "series",
       "seriesTitle": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุนิตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY",
@@ -19863,7 +19449,7 @@
       "name": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุนิตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY - ตอนที่ 1038",
       "logo": "https://anime-indy.com/wp-content/uploads/2021/11/one-piece-season-20.jpg",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุนิตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุนิตอนที่ 892-1093 พ���กย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1038"
     },
     "e886d7c104c6cd81c4c4f1161fa259d8": {
@@ -20374,7 +19960,7 @@
       "name": "Castlevania Nocturne แคสเซิลเวเนีย น็อกเทิร์น ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=126672&type=animeindy&hash=4a77041e22191e83732f2b5fd8100e3f",
       "menu": "series",
-      "seriesTitle": "Castlevania Nocturne แคสเซิลเวเนีย น็อกเทิร์น ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Castlevania Nocturne แคสเซิลเวเนีย น็อกเทิร์น ตอนที่ 1-16 พา���ย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "e5dae97aa3aa24624906243571ece049": {
@@ -20437,7 +20023,7 @@
       "name": "MF Ghost 2nd Season เอ็มเอฟ โกสต์ ภาค 2 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=149458&type=animeindy&hash=88c33e7355153885faef0023c763988a",
       "menu": "series",
-      "seriesTitle": "MF Ghost 2nd Season เอ็มเอฟ โกสต์ ภาค 2 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "MF Ghost 2nd Season เอ็มเอฟ โกสต์ ภาค 2 ตอนที่ 1-11 พ��กย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "63bdb1efe27efa3b27c108314e0b84c2": {
@@ -21904,7 +21490,7 @@
       "episode": "ตอนที่ 3"
     },
     "60c91d8c85bc10ae83392d7d20c6baf1": {
-      "name": "Seiken Gakuin No Makentsukai จอมม��รเกิดใหม่ วิทยาลัยผู้พิทักษ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
+      "name": "Seiken Gakuin No Makentsukai จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=129600&type=animeindy&hash=58f53c0bbd103292744c833fbe371d25",
       "menu": "series",
       "seriesTitle": "Seiken Gakuin No Makentsukai จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -22670,7 +22256,7 @@
       "name": "Kui Cheng Shoufu Cong Youxi Kaishi ขาดทุนเพื่อเป็นเศรษฐี ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=142691&type=animeindy&hash=3e35e71ac74f5994cf5b5982c33fef73",
       "menu": "series",
-      "seriesTitle": "Kui Cheng Shoufu Cong Youxi Kaishi ขาดทุนเพื่อเป็นเศรษฐี ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kui Cheng Shoufu Cong Youxi Kaishi ขาดทุนเพ��่อเป็นเศรษฐี ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "53e42b91ce1c589d1e29371f2185325b": {
@@ -23430,7 +23016,7 @@
       "episode": "ตอนที่ 93"
     },
     "0b15cabba63718e875b31b770e82952a": {
-      "name": "Hunter X Hunter (2011) ฮันเตอร์ X ฮันเตอร์ ตอนที่ 1-148 พากย์ไทย - ANIMEiNDY - ตอนที่ 94",
+      "name": "Hunter X Hunter (2011) ฮันเตอร์ X ฮันเตอร์ ตอนที่ 1-148 พา���ย์ไทย - ANIMEiNDY - ตอนที่ 94",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=100876&type=animeindy&hash=9aace1665b8c8b13b2556948b1f5c591",
       "menu": "series",
       "seriesTitle": "Hunter X Hunter (2011) ฮันเตอร์ X ฮันเตอร์ ตอนที่ 1-148 พากย์ไทย - ANIMEiNDY",
@@ -24284,7 +23870,7 @@
       "episode": "ตอนที่ 1"
     },
     "d6e4888cba291a2e157223105c471c1e": {
-      "name": "Kekkon Yubiwa Monogatari ตำนานผู้กล้าแห่งแหวน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Kekkon Yubiwa Monogatari ตำนานผู้กล้าแห่งแหวน ตอนที่ 1-12 พากย์���ทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=139546&type=animeindy&hash=c8a4d4ede34f113a60ad7755d20d6175",
       "menu": "series",
       "seriesTitle": "Kekkon Yubiwa Monogatari ตำนานผู้กล้าแห่งแหวน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -24868,7 +24454,7 @@
       "name": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=107033&type=animeindy&hash=5bd5f47375d84bc8f9c8aa9db4501b8d",
       "menu": "series",
-      "seriesTitle": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอ��ที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "85be832a281a6b96fca3b9258a9bc70b": {
@@ -24914,7 +24500,7 @@
       "episode": "ตอนที่ 7"
     },
     "7ffa04eaa1b8ceda3ae57c2aeb9e8867": {
-      "name": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
+      "name": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไท�� - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=107033&type=animeindy&hash=5bd5f47375d84bc8f9c8aa9db4501b8d",
       "menu": "series",
       "seriesTitle": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -25377,7 +24963,7 @@
       "backdrop": "https://image.tmdb.org/t/p/w1280/9PIoKwn5T1h4iQf1KUwXH6kVVil.jpg",
       "menu": "series",
       "rating": "7.6 / 10",
-      "cast": "ชิอากิ โคบายาชิ, เรียวตะ ซูซูกิ, มาโกโตะ ฟูรูกาวะ, เก็ง ซาโต, ยูซูเกะ ชิราอิ, อามิ โคชิมิซุ",
+      "cast": "ชิอากิ โคบายาชิ, เรียวตะ ซูซ���กิ, มาโกโตะ ฟูรูกาวะ, เก็ง ซาโต, ยูซูเกะ ชิราอิ, อามิ โคชิมิซุ",
       "overview": "เมื่อจู่ๆ หนุ่มออฟฟิศขี้อายได้รับพลังพิเศษในการอ่านใจคนได้ เขาก็ได้ล่วงรู้ความจริงว่าเพื่อนร่วมงานรูปหล่อแอบคิดถึงเขาตลอดเวลา!",
       "seriesTitle": "30-sai Made Doutei Da To Mahou Tsukai Ni Nareru Rashii 30 ยังซิงกับเวทมนตร์ปิ๊งรัก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 7"
@@ -25533,7 +25119,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=138303&type=animeindy&hash=cf6fde8860b5b2eab6a6cf04a7809d3f",
       "menu": "series",
       "seriesTitle": "Xian Wang De Richang Shenghuo 4 ชีวิตประจำวันของราชาแห่งเซียน ภาค 4 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 4"
+      "episode": "ต���นที่ 4"
     },
     "99a5dccca840a6f2c33a755a396aefd5": {
       "name": "Xian Wang De Richang Shenghuo 4 ชีวิตประจำวันของราชาแห่งเซียน ภาค 4 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
@@ -26061,7 +25647,7 @@
       "episode": "ตอนที่ 40"
     },
     "1293e62997f19510721cae76072d3456": {
-      "name": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY - ตอนที่ 41",
+      "name": "Douluo Dalu (Soul Land) ต��นานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY - ตอนที่ 41",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=121946&type=animeindy&hash=adc48830c056ddb4b197a2478610762a",
       "menu": "series",
       "seriesTitle": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY",
@@ -27318,7 +26904,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=121946&type=animeindy&hash=adc48830c056ddb4b197a2478610762a",
       "menu": "series",
       "seriesTitle": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 220"
+      "episode": "ตอนท��่ 220"
     },
     "a04abe468e5104956172df9825b1a8ed": {
       "name": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY - ตอนที่ 221",
@@ -28770,7 +28356,7 @@
       "episode": "ตอนที่ 2"
     },
     "c2c4211c71bc42c4c4aeaa6dd5572a9f": {
-      "name": "Tian Guan Cifu 2nd Season - สวรรค์ประทานพร ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Tian Guan Cifu 2nd Season - สวรรค์ประทานพร ภาค 2 ���อนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=127696&type=animeindy&hash=e056348b2ecd5b875521d14750787603",
       "menu": "series",
       "seriesTitle": "Tian Guan Cifu 2nd Season - สวรรค์ประทานพร ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -29617,7 +29203,7 @@
       "episode": "ตอนที่ 5"
     },
     "44dc6d5b87b2dc28ade3bf8e8394dbe6": {
-      "name": "ElDLIVE เอลไดร์ฟ หน่วยพิทักษ์อวกาศ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
+      "name": "ElDLIVE เอลไดร์ฟ หน่วยพิทักษ์อวกาศ ตอนที่ 1-12 พา���ย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=126187&type=animeindy&hash=84a661f3d66dc20a2dc562a252151cdf",
       "menu": "series",
       "seriesTitle": "ElDLIVE เอลไดร์ฟ หน่วยพิทักษ์อวกาศ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -30190,7 +29776,7 @@
       "episode": "ตอนที่ 8"
     },
     "80e5e962c959b08c4d4f89c04266d8d3": {
-      "name": "Onimusha โอนิมุชะ ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+      "name": "Onimusha โอนิมุชะ ตอนที่ 1-8 พาก��์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=128688&type=animeindy&hash=b29ef674b79825796e9148b73a153c63",
       "menu": "series",
       "seriesTitle": "Onimusha โอนิมุชะ ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY",
@@ -30218,7 +29804,7 @@
       "episode": "ตอนที่ 4"
     },
     "48186509f4eb8bbdc1bee9f9db438413": {
-      "name": "Onimusha โอนิมุชะ ตอนที่ 1-8 พากย์ไ��ย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Onimusha โอนิมุชะ ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=128688&type=animeindy&hash=b29ef674b79825796e9148b73a153c63",
       "menu": "series",
       "seriesTitle": "Onimusha โอนิมุชะ ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY",
@@ -30362,7 +29948,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=127361&type=animeindy&hash=6c64f093fd7e5423a5de397468e01e13",
       "menu": "series",
       "seriesTitle": "Good Night World - กู๊ดไนท์ เวิลด์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 3"
+      "episode": "ตอ���ที่ 3"
     },
     "4f3fe8273de3b4565b87f2e4a6452eb7": {
       "name": "Good Night World - กู๊ดไนท์ เวิลด์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
@@ -30568,7 +30154,7 @@
       "episode": "ตอนที่ 2"
     },
     "ecce9c4e3f61711513cb887a3009dfd6": {
-      "name": "Hanma Baki: Son Of Ogre 2nd Season ฮันมะ บากิ ภาค 2 ตอนที่ 1-27 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Hanma Baki: Son Of Ogre 2nd Season ฮันมะ บากิ ��าค 2 ตอนที่ 1-27 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=122971&type=animeindy&hash=8808c0be50a3991c258bd620b17ca66a",
       "menu": "series",
       "seriesTitle": "Hanma Baki: Son Of Ogre 2nd Season ฮันมะ บากิ ภาค 2 ตอนที่ 1-27 พากย์ไทย - ANIMEiNDY",
@@ -30925,7 +30511,7 @@
       "episode": "ตอนที่ 2"
     },
     "ade479dbc1db4545edc43d312ba97ded": {
-      "name": "Isekai Wa Smartphone To Tomo Ni Season 2 ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ ภาค 2 ตอนที่ 1-12 พากย์ไทย  - ANIMEiNDY - ตอนที่ 2",
+      "name": "Isekai Wa Smartphone To Tomo Ni Season 2 ไปต��างโลกก็ต้องไปกับสมาร์ทโฟนสิ ภาค 2 ตอนที่ 1-12 พากย์ไทย  - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=121477&type=animeindy&hash=315fc233157d06d33dd70da7d20dcd8f",
       "menu": "series",
       "seriesTitle": "Isekai Wa Smartphone To Tomo Ni Season 2 ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ ภาค 2 ตอนที่ 1-12 พากย์ไทย  - ANIMEiNDY",
@@ -30981,7 +30567,7 @@
       "episode": "ตอนที่ 2"
     },
     "c0dcb6a3ff9caa778ffd463ceed5f0cd": {
-      "name": "Isekai Wa Smartphone To Tomo Ni Season 2 ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ ภาค 2 ตอนที่ 1-12 พากย์ไทย  - ANIMEiNDY - ตอนที่ 2",
+      "name": "Isekai Wa Smartphone To Tomo Ni Season 2 ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ ภาค 2 ตอนที่ 1-12 พา���ย์ไทย  - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=121477&type=animeindy&hash=315fc233157d06d33dd70da7d20dcd8f",
       "menu": "series",
       "seriesTitle": "Isekai Wa Smartphone To Tomo Ni Season 2 ไปต่างโลกก็ต้องไปกับสมาร์ทโฟนสิ ภาค 2 ตอนที่ 1-12 พากย์ไทย  - ANIMEiNDY",
@@ -31289,7 +30875,7 @@
       "episode": "ตอนที่ 3"
     },
     "4b1acc7ffa8eee419bc635f92d783b54": {
-      "name": "Yuusha Ga Shinda! เมื่อผู้กล้าลาโลกแล้ว! ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
+      "name": "Yuusha Ga Shinda! เมื่อผ���้กล้าลาโลกแล้ว! ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=119193&type=animeindy&hash=a82181813c64e55d4f71f4d3d16b3012",
       "menu": "series",
       "seriesTitle": "Yuusha Ga Shinda! เมื่อผู้กล้าลาโลกแล้ว! ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -31982,7 +31568,7 @@
       "episode": "ตอนที่ 3"
     },
     "5f7af43f2ce3ca9442b06a0cc875fe89": {
-      "name": "Kizuna No Allele เชื่อมโลกทั้งใบหัวใจสู้ฝัน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
+      "name": "Kizuna No Allele เชื่อมโลกทั้งใบหัวใจสู้ฝัน ตอนที่ 1-12 พากย์��ทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=116787&type=animeindy&hash=b0e4b7ad7a44dbd61fd8708d38cec76c",
       "menu": "series",
       "seriesTitle": "Kizuna No Allele เชื่อมโลกทั้งใบหัวใจสู้ฝัน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -32454,7 +32040,7 @@
       "name": "Tenku Senki Shurato ศึกเทพสวรรค์ชูราโตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=118725&type=animeindy&hash=52b2eecf3bc0844a69e6f4cd3c22aaa4",
       "menu": "series",
-      "seriesTitle": "Tenku Senki Shurato ศึกเทพสวรรค์ชูราโตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Tenku Senki Shurato ศึกเทพสวรรค์ชูราโตะ ตอนที่ 1-38 พากย์���ทย - ANIMEiNDY",
       "episode": "ตอนที่ 12"
     },
     "1e5661ed9df54409c3e1a3194175946b": {
@@ -33081,7 +32667,7 @@
       "episode": "ตอนที่ 2"
     },
     "524993964a71b0b5e8212b7e2ec72fa6": {
-      "name": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้กล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้��ล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113491&type=animeindy&hash=543c736373a95286bd03627fb0c3bae7",
       "menu": "series",
       "seriesTitle": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้กล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -33091,7 +32677,7 @@
       "name": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้กล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113491&type=animeindy&hash=543c736373a95286bd03627fb0c3bae7",
       "menu": "series",
-      "seriesTitle": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้กล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่า��ู้กล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 4"
     },
     "3a07c1383b57d9596f2abb61224f75b0": {
@@ -33140,7 +32726,7 @@
       "name": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้กล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113491&type=animeindy&hash=543c736373a95286bd03627fb0c3bae7",
       "menu": "series",
-      "seriesTitle": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้กล้าระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Ningen Fushin No Boukensha-tachi Ga Sekai Wo Sukuu You Desu เหล่าผู้กล้��ระแวงสังคมรวมตัวกู้โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "23f6e3e55679607e19c63047b315466d": {
@@ -33259,7 +32845,7 @@
       "name": "Bungou Stray Dogs 2nd Season คณะประพันธ์จรจัด ภาค 2 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=117328&type=animeindy&hash=33882e23f9167c5f5c0e9ba4b48641e2",
       "menu": "series",
-      "seriesTitle": "Bungou Stray Dogs 2nd Season คณะประพันธ์จรจัด ภาค 2 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Bungou Stray Dogs 2nd Season คณะประพันธ์จรจัด ภาค 2 ตอนที่ 1-13 พ���กย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "ffa2bea4c2d78ea0323f4e55f753a63f": {
@@ -33907,7 +33493,7 @@
       "episode": "ตอนที่ 8"
     },
     "dd2c74bfc2c1fb5defa716e2c3589c82": {
-      "name": "Maou Gakuin No Futekigousha ใครว่าข้าไม่เหมาะเป็นจ���มมาร ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
+      "name": "Maou Gakuin No Futekigousha ใครว่าข้าไม่เหมาะเป็นจอมมาร ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=114170&type=animeindy&hash=b75acd4029fe33c5463f757719dbd590",
       "menu": "series",
       "seriesTitle": "Maou Gakuin No Futekigousha ใครว่าข้าไม่เหมาะเป็นจอมมาร ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
@@ -33945,7 +33531,7 @@
       "name": "Yakusoku No Neverland 2nd Season พันธสัญญาเนเวอร์แลนด์ ภาค 2 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=114694&type=animeindy&hash=658142af1b77f816a0a12a35cfcebfc0",
       "menu": "series",
-      "seriesTitle": "Yakusoku No Neverland 2nd Season พันธสัญญาเนเวอร์แลนด์ ภาค 2 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yakusoku No Neverland 2nd Season พันธสัญญาเนเวอร์แลนด์ ภาค 2 ตอนที่ 1-11 พากย��ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "41dd9a1cfeb136863278d059c1d9ea71": {
@@ -34414,7 +34000,7 @@
       "name": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming อสูรกินพืช ใครหาว่าข้าคือวายร้าย ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113154&type=animeindy&hash=8a8169bae537d3eae082fbe0f7997f8a",
       "menu": "series",
-      "seriesTitle": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming อสูรกินพืช ใครหาว่าข้าคือวายร้าย ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming อสูรกินพืช ใครหาว่าข้าคือวาย��้าย ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 8"
     },
     "6ddfc5f50817f79fdad619d8ec4ffba4": {
@@ -35552,7 +35138,7 @@
       "episode": "ตอนที่ 50"
     },
     "d22c751e6263ddbb8ec83256eb910546": {
-      "name": "One Piece Season 1 - อีสต์ บล�� ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 51",
+      "name": "One Piece Season 1 - อีสต์ บลู ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 51",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113395&type=animeindy&hash=1078708418445fc294f6c42ac2563b7d",
       "menu": "series",
       "seriesTitle": "One Piece Season 1 - อีสต์ บลู ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
@@ -36007,7 +35593,7 @@
       "episode": "ตอนที่ 63"
     },
     "e22271d123bd38de7a52695748bbd3f2": {
-      "name": "Inazuma Eleven นักเตะแข้งสายฟ้า ภาค 1 ตอนที่ 1-127 พากย์ไทย - ANIMEiNDY - ตอนที่ 64",
+      "name": "Inazuma Eleven นักเตะแข้��สายฟ้า ภาค 1 ตอนที่ 1-127 พากย์ไทย - ANIMEiNDY - ตอนที่ 64",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113457&type=animeindy&hash=cb1e0bf6812bd92dc2cab5576e38ba8a",
       "menu": "series",
       "seriesTitle": "Inazuma Eleven นักเตะแข้งสายฟ้า ภาค 1 ตอนที่ 1-127 พากย์ไทย - ANIMEiNDY",
@@ -36350,7 +35936,7 @@
       "episode": "ตอนที่ 112"
     },
     "1bfbdebfc34da70ce8a2e33c39d99740": {
-      "name": "Inazuma Eleven นักเตะแข้งสายฟ้า ภาค 1 ตอนที่ 1-127 พากย์ไทย - ANIMEiNDY - ตอนที่ 113",
+      "name": "Inazuma Eleven นักเตะแข้งสายฟ้า ภาค 1 ตอนที��� 1-127 พากย์ไทย - ANIMEiNDY - ตอนที่ 113",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113457&type=animeindy&hash=cb1e0bf6812bd92dc2cab5576e38ba8a",
       "menu": "series",
       "seriesTitle": "Inazuma Eleven นักเตะแข้งสายฟ้า ภาค 1 ตอนที่ 1-127 พากย์ไทย - ANIMEiNDY",
@@ -36368,7 +35954,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113457&type=animeindy&hash=cb1e0bf6812bd92dc2cab5576e38ba8a",
       "menu": "series",
       "seriesTitle": "Inazuma Eleven นักเตะแข้งสายฟ้า ภาค 1 ตอนที่ 1-127 พากย์ไทย - ANIMEiNDY",
-      "episode": "��อนที่ 115"
+      "episode": "ตอนที่ 115"
     },
     "612f57b13e3ab0aaa05dfd32ced4302b": {
       "name": "Inazuma Eleven นักเตะแข้งสายฟ้า ภาค 1 ตอนที่ 1-127 พากย์ไทย - ANIMEiNDY - ตอนที่ 116",
@@ -37081,7 +36667,7 @@
       "name": "Kawaii Dake Ja Nai Shikimori-san คุณชิกิโมริไม่ได้น่ารักแค่อย่างเดียวนะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=110404&type=animeindy&hash=789ea765c605d205033531ba37cb974e",
       "menu": "series",
-      "seriesTitle": "Kawaii Dake Ja Nai Shikimori-san คุณชิกิโมริไม่ได้น่ารักแค่อย่างเดียวนะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kawaii Dake Ja Nai Shikimori-san คุณชิกิโ��ริไม่ได้น่ารักแค่อย่างเดียวนะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "af5c328ae49064c3e74a586c95fe9458": {
@@ -37393,7 +36979,7 @@
       "episode": "ตอนที่ 18"
     },
     "8027f05eace3e19a6e3fef60aed46386": {
-      "name": "Platinum End แพลตตินัม เอนด์ ศึกชิงบัลลังก์เทพเจ้า ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 19",
+      "name": "Platinum End แพลตตินัม เอนด์ ศึกชิงบัลลังก์เทพเจ้า ตอนที่ 1-24 ���ากย์ไทย - ANIMEiNDY - ตอนที่ 19",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111762&type=animeindy&hash=f9652939a509cc5a8499bb5524747a37",
       "menu": "series",
       "seriesTitle": "Platinum End แพลตตินัม เอนด์ ศึกชิงบัลลังก์เทพเจ้า ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -37557,7 +37143,7 @@
       "name": "Chainsaw Man เชนซอว์แมน มนุษย์เลื่อยยนต์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=106505&type=animeindy&hash=2bf6f49b19f26e07c6664c63a205fd07",
       "menu": "series",
-      "seriesTitle": "Chainsaw Man เชนซอว์แมน มนุษย์เลื่อยยนต์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Chainsaw Man เชนซอว์แมน มนุษย์เลื่อยยนต์ ตอนที��� 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 8"
     },
     "e937a8990feef8751fba555ab7a1fe29": {
@@ -37820,7 +37406,7 @@
       "episode": "ตอนที่ 4"
     },
     "3900e77ccb3f37cc479e492b841b4fc5": {
-      "name": "Fuufu Ijou, Koibito Miman แผนสมรสไม่สมเลิฟ ตอนที��� 1-6 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Fuufu Ijou, Koibito Miman แผนสมรสไม่สมเลิฟ ตอนที่ 1-6 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=110641&type=animeindy&hash=b717856df0c88fc044bc96ad96cf1ecb",
       "menu": "series",
       "seriesTitle": "Fuufu Ijou, Koibito Miman แผนสมรสไม่สมเลิฟ ตอนที่ 1-6 พากย์ไทย - ANIMEiNDY",
@@ -38075,7 +37661,7 @@
       "name": "Paripi Koumei ขงเบ้ง เจาะเวลามาปั้นดาว ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=107924&type=animeindy&hash=4bfc9ad145d8cd9d849e181440e3df19",
       "menu": "series",
-      "seriesTitle": "Paripi Koumei ขงเบ้ง เจาะเวลามาปั้นดาว ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Paripi Koumei ขงเบ���ง เจาะเวลามาปั้นดาว ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "01b30083ca4f6cd3baadd75a9abd5a8e": {
@@ -39696,7 +39282,7 @@
       "episode": "ตอนที่ 23"
     },
     "235df7e75cdbcea1fb1ee823fbe3d525": {
-      "name": "Love All Play เลิฟ ออล เพลย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 24",
+      "name": "Love All Play เลิฟ ออ��� เพลย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 24",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99704&type=animeindy&hash=ed4f627a04bf77c830f925b6305a3bf5",
       "menu": "series",
       "seriesTitle": "Love All Play เลิฟ ออล เพลย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -40137,7 +39723,7 @@
       "episode": "ตอนที่ 2"
     },
     "7fce676e31b2d3aceb4654ce4646d288": {
-      "name": "Tensei Kenja No Isekai Life เกิดใหม่ไปเป็นปราชญ์แกร่ง ตอนที่ 1-12 พาก���์ไทย - ANIMEiNDY - ตอนที่ 1",
+      "name": "Tensei Kenja No Isekai Life เกิดใหม่ไปเป็นปราชญ์แกร่ง ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=104680&type=animeindy&hash=b84613052bf6602d2fa6f3ee311bf874",
       "menu": "series",
       "seriesTitle": "Tensei Kenja No Isekai Life เกิดใหม่ไปเป็นปราชญ์แกร่ง ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -40203,7 +39789,7 @@
       "name": "Tensei Kenja No Isekai Life เกิดใหม่ไปเป็นปราชญ์แกร่ง ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=104680&type=animeindy&hash=b84613052bf6602d2fa6f3ee311bf874",
       "menu": "series",
-      "seriesTitle": "Tensei Kenja No Isekai Life เกิดใหม่ไปเป็นปราชญ์แกร่ง ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Tensei Kenja No Isekai Life เกิด���หม่ไปเป็นปราชญ์แกร่ง ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 10"
     },
     "d2f9154a35b7c2e98d78d7da13a1ffb5": {
@@ -40990,7 +40576,7 @@
       "logo": "https://image.tmdb.org/t/p/w500/eMCA5F3szGY3ckx2EDWWgwHZdh9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kBPEtwrFaoBiCzAVWAUGPDwp2Ld.jpg",
       "menu": "series",
-      "seriesTitle": "คินดะอิจิ กับคดีฆาตกรรมปริศนา ภาค 1",
+      "seriesTitle": "คินด��อิจิ กับคดีฆาตกรรมปริศนา ภาค 1",
       "episode": "ตอนที่ 1"
     },
     "5686fc223b843cd719aac6cf1f0a9ba4": {
@@ -41672,7 +41258,7 @@
       "name": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY - ตอนที่ 34",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=23640&type=animeindy&hash=af1852ff2de74bccd9b2da753887f224",
       "menu": "series",
-      "seriesTitle": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถ��่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 34"
     },
     "94ae32b2c4530a76c1c998e5b31091bc": {
@@ -42172,7 +41758,7 @@
       "episode": "ตอนที่ 3"
     },
     "aa9741cd2e929eb0669e73a36041a1cf": {
-      "name": "Gokushufudo พ่อบ้านสุดเก๋า พากย์ไทย ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
+      "name": "Gokushufudo พ่อบ้านสุดเก๋า พากย์ไทย ตอนที่ 1-10 พากย์ไท��� - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102317&type=animeindy&hash=19210af3c689777a241d7a340b90b083",
       "menu": "series",
       "seriesTitle": "Gokushufudo พ่อบ้านสุดเก๋า พากย์ไทย ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
@@ -42823,7 +42409,7 @@
       "rating": "6.5 / 10",
       "cast": "ยูโตะ อูเอมูระ, ริซะ คูโบตะ, อาซูมิ วากิ, มาโกโตะ โคอิจิ, โทชิยูกิ โทโยนางะ, ซาโอริ ฮายามิ",
       "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้องผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
-      "seriesTitle": "100-man No Inochi No Ue Ni Ore Wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "100-man No Inochi No Ue Ni Ore Wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิ��เกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "2345770b9ac4b05812cc6d62f373ca87": {
@@ -42833,7 +42419,7 @@
       "menu": "series",
       "rating": "6.5 / 10",
       "cast": "ยูโตะ อูเอมูระ, ริซะ คูโบตะ, อาซูมิ วากิ, มาโกโตะ โคอิจิ, โทชิยูกิ โทโยนางะ, ซาโอริ ฮายามิ",
-      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้��งผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
+      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวใน���้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้��งผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
       "seriesTitle": "100-man No Inochi No Ue Ni Ore Wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
@@ -42888,7 +42474,7 @@
       "menu": "series",
       "rating": "6.5 / 10",
       "cast": "ยูโตะ อูเอมูระ, ริซะ คูโบตะ, อาซูมิ วากิ, มาโกโตะ โคอิจิ, โทชิยูกิ โทโยนางะ, ซาโอริ ฮายามิ",
-      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้องผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
+      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้องผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบ��สุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
       "seriesTitle": "100-man No Inochi No Ue Ni Ore Wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 7"
     },
@@ -43333,7 +42919,7 @@
       "episode": "ตอนที่ 12"
     },
     "ce9e7936ff62e4874997be4d50a85c82": {
-      "name": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 13",
+      "name": "Toriko โทริโ���ะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 13",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102283&type=animeindy&hash=e7147ed3e4aa585ed73701e1b36e072d",
       "menu": "series",
       "seriesTitle": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY",
@@ -43550,7 +43136,7 @@
       "episode": "ตอนที่ 43"
     },
     "21397edad53f2885a50d78fee8eabf60": {
-      "name": "Toriko โทริโกะ นักล่าอาหา��� ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 44",
+      "name": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 44",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102283&type=animeindy&hash=e7147ed3e4aa585ed73701e1b36e072d",
       "menu": "series",
       "seriesTitle": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY",
@@ -44110,7 +43696,7 @@
       "episode": "ตอนที่ 123"
     },
     "7ecb87935d6bbe15021938b7b86c3921": {
-      "name": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 124",
+      "name": "Toriko โทริโก�� นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 124",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102283&type=animeindy&hash=e7147ed3e4aa585ed73701e1b36e072d",
       "menu": "series",
       "seriesTitle": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY",
@@ -44299,7 +43885,7 @@
       "episode": "ตอนที่ 6"
     },
     "1abc1adcfe4f8bc2f0809417fdd65cb4": {
-      "name": "Kyoukai Senki เคียวไคเซ็นกิ สงครามจักรกล ตอนที่ 1-13 พากยไทย - ANIMEiNDY - ตอนที่ 7",
+      "name": "Kyoukai Senki เคียวไคเซ��นกิ สงครามจักรกล ตอนที่ 1-13 พากยไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102277&type=animeindy&hash=59722f458047a701d5e6abde9ae55dc8",
       "menu": "series",
       "seriesTitle": "Kyoukai Senki เคียวไคเซ็นกิ สงครามจักรกล ตอนที่ 1-13 พากยไทย - ANIMEiNDY",
@@ -44376,7 +43962,7 @@
       "episode": "ตอนที่ 4"
     },
     "8e13c8a95f090b5a44cc1da5819fa8fc": {
-      "name": "Vanitas No Carte บันทึกแวมไพร์วานิทัส ตอนที่ 1-12 พากย์ไ��ย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Vanitas No Carte บันทึกแวมไพร์วานิทัส ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102275&type=animeindy&hash=e8f1158c8f3fe2eeb8a36742a79b3801",
       "menu": "series",
       "seriesTitle": "Vanitas No Carte บันทึกแวมไพร์วานิทัส ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -44894,7 +44480,7 @@
       "episode": "ตอนที่ 17"
     },
     "6c5e2490ed19865275d3bad6115eaacc": {
-      "name": "The Founder Of Diabolism ปรมาจารย์ลัทธิมาร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY - ตอนที่ 18",
+      "name": "The Founder Of Diabolism ปรมาจารย์ลัทธิม��ร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY - ตอนที่ 18",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102267&type=animeindy&hash=9c6a5f4481b3d4209322d8213b751056",
       "menu": "series",
       "seriesTitle": "The Founder Of Diabolism ปรมาจารย์ลัทธิมาร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY",
@@ -44908,7 +44494,7 @@
       "episode": "ตอนที่ 19"
     },
     "ee48a6525bbfe6ad2dd33a09d810abf3": {
-      "name": "The Founder Of Diabolism ปรมาจารย์ลัทธิมาร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY - ตอนที่ 20",
+      "name": "The Founder Of Diabolism ปรมาจารย์ลัทธิมาร ตอนท��่ 1-35 พากย์ไทย - ANIMEiNDY - ตอนที่ 20",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102267&type=animeindy&hash=9c6a5f4481b3d4209322d8213b751056",
       "menu": "series",
       "seriesTitle": "The Founder Of Diabolism ปรมาจารย์ลัทธิมาร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY",
@@ -45247,7 +44833,7 @@
       "name": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอนที่ 1-145 พากย์ไทย - ANIMEiNDY - ตอนที่ 33",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102263&type=animeindy&hash=1345b10cfb6abd1ee657519fb9faa669",
       "menu": "series",
-      "seriesTitle": "Eyeshield 21 ไอ้หนูไต้ฝุ���นมะกันบอล ตอนที่ 1-145 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอนที่ 1-145 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 33"
     },
     "8680ffb2157b6fd64348703408c0ed00": {
@@ -45639,7 +45225,7 @@
       "name": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอนที่ 1-145 พากย์ไทย - ANIMEiNDY - ตอนที่ 89",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102263&type=animeindy&hash=1345b10cfb6abd1ee657519fb9faa669",
       "menu": "series",
-      "seriesTitle": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอนที่ 1-145 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอน��ี่ 1-145 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 89"
     },
     "2d1fde5b7a9d9f8eafdf5989d0b18016": {
@@ -45653,7 +45239,7 @@
       "name": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอนที่ 1-145 พากย์ไทย - ANIMEiNDY - ตอนที่ 91",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102263&type=animeindy&hash=1345b10cfb6abd1ee657519fb9faa669",
       "menu": "series",
-      "seriesTitle": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอนที่ 1-145 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Eyeshield 21 ไอ้หนูไต้ฝุ่นมะกันบอล ตอนที่ 1-145 พ���กย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 91"
     },
     "1eff265b0dd5840f336ea6db04a6c3ea": {
@@ -46374,7 +45960,7 @@
       "name": "Nomad: Megalo Box 2 เจ้าสังเวียนพันธุ์แกร่ง ภาค 2 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=101936&type=animeindy&hash=438e4e4780cb0693f49792faa30a0ce9",
       "menu": "series",
-      "seriesTitle": "Nomad: Megalo Box 2 เจ้าสังเวียนพันธุ์แกร่ง ภาค 2 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Nomad: Megalo Box 2 เจ้าสังเวียนพันธุ์แกร่ง ภาค 2 ตอนที่ 1-13 พากย์ไท�� - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "012dd17f186c2401b728e907a2c9bba7": {
@@ -46388,7 +45974,7 @@
       "name": "Nomad: Megalo Box 2 เจ้าสังเวียนพันธุ์แกร่ง ภาค 2 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=101936&type=animeindy&hash=438e4e4780cb0693f49792faa30a0ce9",
       "menu": "series",
-      "seriesTitle": "Nomad: Megalo Box 2 เจ้าสังเวียนพันธุ์แกร่ง ภาค 2 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Nomad: Megalo Box 2 เจ้าสังเวียนพันธุ์แก���่ง ภาค 2 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "9c7dc912818163e9c2eab2c44a9515ec": {
@@ -46563,7 +46149,7 @@
       "name": "He-Man And The Masters Of The Universe Season 3 ฮีแมน เจ้าจักรวาล ศึกชี้ชะตา ภาค 3 ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=101494&type=animeindy&hash=e492965578284f15cf68129c8aba7317",
       "menu": "series",
-      "seriesTitle": "He-Man And The Masters Of The Universe Season 3 ฮีแมน เจ้าจักรวาล ศึกชี้ชะตา ภาค 3 ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "He-Man And The Masters Of The Universe Season 3 ฮีแมน เจ้าจัก��วาล ศึกชี้ชะตา ภาค 3 ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 3"
     },
     "b3cdc2a77cef7cb0c4d8462fee6fef2d": {
@@ -47306,7 +46892,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=101174&type=animeindy&hash=c0b29c256c34df3701ac4190b8b267b6",
       "menu": "series",
       "seriesTitle": "Pokemon Sun & Moon โปเกม่อน ซัน&มูน ปี22 ตอนที่ 1-56 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 41"
+      "episode": "ต���นที่ 41"
     },
     "be0c3524083dcfc467f24a7336893a63": {
       "name": "Pokemon Sun & Moon โปเกม่อน ซัน&มูน ปี22 ตอนที่ 1-56 พากย์ไทย - ANIMEiNDY - ตอนที่ 42",
@@ -48457,7 +48043,7 @@
       "episode": "ตอนที่ 2"
     },
     "6aec1b65969f94550dc0f3cfcd469cc3": {
-      "name": "Kakegurui×× โคตรเซียนโรงเรียนพนัน ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Kakegurui×× โคตรเซียนโร��เรียนพนัน ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=100412&type=animeindy&hash=4d25c10112b606ed8d4577a9fa0c2ca2",
       "menu": "series",
       "seriesTitle": "Kakegurui×× โคตรเซียนโรงเรียนพนัน ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -48586,7 +48172,7 @@
       "name": "Kaguya-sama Wa Kokurasetai: Ultra Romantic สารภาพรักกับคุณคางุยะซะดีๆ ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=92674&type=animeindy&hash=56230f7b4039777d43e319212544e0f2",
       "menu": "series",
-      "seriesTitle": "Kaguya-sama Wa Kokurasetai: Ultra Romantic สารภาพรักกับคุณคางุยะซะดีๆ ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kaguya-sama Wa Kokurasetai: Ultra Romantic สารภาพรักกับคุณคางุยะซะดีๆ ภาค 3 ตอน��ี่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 3"
     },
     "9d4b06a980c8cdca1a2745f354da9afe": {
@@ -49475,7 +49061,7 @@
       "name": "World Trigger Season1 เวิลด์ ทริกเกอร์ ภาค 1 ตอนที่ 1-73 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99089&type=animeindy&hash=9f3beb8e422cf11ab2add3da5c5c5f36",
       "menu": "series",
-      "seriesTitle": "World Trigger Season1 เวิลด์ ทริกเกอร์ ภาค 1 ตอนที่ 1-73 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "World Trigger Season1 เวิลด��� ทริกเกอร์ ภาค 1 ตอนที่ 1-73 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "5863c51e3d85435386ceb7f0da70ecf2": {
@@ -49986,7 +49572,7 @@
       "name": "Yu-Gi-Oh ยูกิ เกมกลคนอัจฉริยะ ภาค 1-6 ตอนที่ 1-14 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99018&type=animeindy&hash=c425cc7a62a6de3a9884b2e7f649df6c",
       "menu": "series",
-      "seriesTitle": "Yu-Gi-Oh ยูกิ เกมกลคนอัจฉริยะ ภาค 1-6 ตอนที��� 1-14 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu-Gi-Oh ยูกิ เกมกลคนอัจฉริยะ ภาค 1-6 ตอนที่ 1-14 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "3849b942443e708a58bdb9855f445171": {
@@ -50000,7 +49586,7 @@
       "name": "Yu-Gi-Oh ยูกิ เกมกลคนอัจฉริยะ ภาค 1-6 ตอนที่ 1-14 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99018&type=animeindy&hash=c425cc7a62a6de3a9884b2e7f649df6c",
       "menu": "series",
-      "seriesTitle": "Yu-Gi-Oh ยูกิ เกมกลคนอัจฉริยะ ภาค 1-6 ตอนที่ 1-14 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu-Gi-Oh ยูกิ เกมกลคน��ัจฉริยะ ภาค 1-6 ตอนที่ 1-14 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "99d101db49bfd131ef26d48f7081782f": {
@@ -50690,7 +50276,7 @@
       "episode": "ตอนที่ 5"
     },
     "2cfd465cfc587a404aff6587af0bd281": {
-      "name": "Shokei Shoujo No Virgin Road เวอร์จิ้น โร้ด เพชฌฆาตสาวบนเส้นทางพิสุทธิ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
+      "name": "Shokei Shoujo No Virgin Road เวอร์จิ้น โร้ด ��พชฌฆาตสาวบนเส้นทางพิสุทธิ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=92049&type=animeindy&hash=e3ee047d1e2eab03d5b75e42a5ca670d",
       "menu": "series",
       "seriesTitle": "Shokei Shoujo No Virgin Road เวอร์จิ้น โร้ด เพชฌฆาตสาวบนเส้นทางพิสุทธิ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -51495,7 +51081,7 @@
       "episode": "ตอนที่ 2"
     },
     "173f1185c0ab8b7f5a7d115a0ee23a34": {
-      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 ���ากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=97752&type=animeindy&hash=e55aadf2bc65e209e6863bc1097ab4b4",
       "menu": "series",
       "seriesTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY",
@@ -51561,7 +51147,7 @@
       "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
       "menu": "series",
-      "seriesTitle": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Nihon Chinbotsu 2020 ญี่ปุ��นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "5cea498f6fcb995a97e4fa146b6ef892": {
@@ -52108,7 +51694,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=95467&type=animeindy&hash=6da6e549442461eba28bd95a27abc069",
       "menu": "series",
       "seriesTitle": "Sekai Saikou No Ansatsusha สุดยอดมือสังหาร อวตารมาต่างโลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 7"
+      "episode": "ตอ���ที่ 7"
     },
     "4c70edc8af33c213e2c2ce3e47cbd963": {
       "name": "Sekai Saikou No Ansatsusha สุดยอดมือสังหาร อวตารมาต่างโลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
@@ -52240,7 +51826,7 @@
       "name": "Tenchi Souzou Design-bu แผนกออกแบบสร้างสรรค์โลก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=95742&type=animeindy&hash=5073c2e6f79ee608d01ebc4c5f4f8b3b",
       "menu": "series",
-      "seriesTitle": "Tenchi Souzou Design-bu แผนกอ��กแบบสร้างสรรค์โลก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Tenchi Souzou Design-bu แผนกออกแบบสร้างสรรค์โลก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "8b031068e39328c4e9d0cf826a268114": {
@@ -52968,7 +52554,7 @@
       "name": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมกลคนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 19",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=77607&type=animeindy&hash=7a394cdbcd938a37b2768ea2d89bacd0",
       "menu": "series",
-      "seriesTitle": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมกลคนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมกลคนอัจฉริยะ เซเ���่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 19"
     },
     "9161a8282a5ac700f11370370c44da7d": {
@@ -52996,7 +52582,7 @@
       "name": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมกลคนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 23",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=77607&type=animeindy&hash=7a394cdbcd938a37b2768ea2d89bacd0",
       "menu": "series",
-      "seriesTitle": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมกลคนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu-Gi-Oh! SEVENS ยูกิ��อ! เกมกลคนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 23"
     },
     "fceede97ad58255e2bf96355a8db9573": {
@@ -53570,7 +53156,7 @@
       "name": "Great Pretender ยอดคนลวงโลก ตอนที่ 1-23 พากย์ไทย - ANIMEiNDY - ตอนที่ 18",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=92856&type=animeindy&hash=2c27b6197abc1e9f7ef71a87c226c03e",
       "menu": "series",
-      "seriesTitle": "Great Pretender ยอดคนลวงโลก ตอนที่ 1-23 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Great Pretender ยอดคนลวงโลก ตอนที่ 1-23 พากย์ไท��� - ANIMEiNDY",
       "episode": "ตอนที่ 18"
     },
     "6542f4aea2c7f6b3f2a6795ce1fabbb0": {
@@ -54666,7 +54252,7 @@
       "episode": "ตอนที่ 3"
     },
     "891c42ea2cec82404a99ebf47b28ac88": {
-      "name": "Love Death & Robots Season 3 กลไก หัวใจ ดับสูญ ภาค 3 ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Love Death & Robots Season 3 กลไก หัวใจ ดับสูญ ภาค 3 ตอนที่ 1-9 พากย์ไ��ย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=93431&type=animeindy&hash=42272b1dd06efbc483c1657d53ee435b",
       "menu": "series",
       "seriesTitle": "Love Death & Robots Season 3 กลไก หัวใจ ดับสูญ ภาค 3 ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY",
@@ -55436,7 +55022,7 @@
       "episode": "ตอนที่ 2"
     },
     "656e70ad4bee87a3fd6cc4db4eb70bd2": {
-      "name": "Vanitas No Carte Part 2 บัน���ึกแวมไพร์วานิทัส พาร์ท 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Vanitas No Carte Part 2 บันทึกแวมไพร์วานิทัส พาร์ท 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=87359&type=animeindy&hash=0c5da228979fa2474fb879c286e7d056",
       "menu": "series",
       "seriesTitle": "Vanitas No Carte Part 2 บันทึกแวมไพร์วานิทัส พาร์ท 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -55772,7 +55358,7 @@
       "episode": "ตอนที่ 12"
     },
     "2ce3a11e110cc77aaf28592b4429272f": {
-      "name": "Black Cat แบล็คแคท ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 13",
+      "name": "Black Cat แบล็คแ���ท ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 13",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=92263&type=animeindy&hash=9127d88cdb87fb6ee2865fbc4a22a4d7",
       "menu": "series",
       "seriesTitle": "Black Cat แบล็คแคท ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -56489,7 +56075,7 @@
       "name": "Beyblade G-Revolution ศึกอวสานลูกข่างสายฟ้า (ภาค3) พากย์ไทย ตอนที่ 1-52 - ตอนที่ 52",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91557&type=animeindy&hash=3fa9bd80cb4cde1827db713516a7380c",
       "menu": "series",
-      "seriesTitle": "Beyblade G-Revolution ศึกอวสานลูกข่างสายฟ้า (ภาค3) พากย์ไทย ตอนที่ 1-52",
+      "seriesTitle": "Beyblade G-Revolution ศึกอวสานลูกข่างสายฟ้า (ภาค3) พากย์ไ��ย ตอนที่ 1-52",
       "episode": "ตอนที่ 52"
     },
     "8478b29975597f90583764ee7901404d": {
@@ -56503,7 +56089,7 @@
       "name": "Karakai Jouzu No Takagi-san Season 2 แกล้งนัก รักนะ รู้ยัง? ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91500&type=animeindy&hash=be491777faef59784fc92609f83fe336",
       "menu": "series",
-      "seriesTitle": "Karakai Jouzu No Takagi-san Season 2 แกล้งนัก รักนะ รู้ยัง? ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Karakai Jouzu No Takagi-san Season 2 แกล้งนัก ��ักนะ รู้ยัง? ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "01c33310aff1c682e288a5aac1c64e25": {
@@ -58162,7 +57748,7 @@
       "name": "Black★★Rock Shooter แบล็ค ร็อค ชูตเตอร์ ตอนที่ 1-8+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=89581&type=animeindy&hash=8ac08826e948ccd806896686a8ac6503",
       "menu": "series",
-      "seriesTitle": "Black★★Rock Shooter แบล็ค ร็อค ชูตเตอร์ ตอนที่ 1-8+OVA พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Black★★Rock Shooter แบล��ค ร็อค ชูตเตอร์ ตอนที่ 1-8+OVA พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "5a32df5063f6d2ccd8f9432e74847ecf": {
@@ -58649,7 +58235,7 @@
       "episode": "ตอนที่ 7"
     },
     "012a6cdf4e329ca4b57bdd5bfc436232": {
-      "name": "Inazuma Eleven Orion No Kokuin อินาสึมะอีเลฟเวน โอริออน โนะ โคคุอิน ตอนที่ 1-49 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
+      "name": "Inazuma Eleven Orion No Kokuin อินา���ึมะอีเลฟเวน โอริออน โนะ โคคุอิน ตอนที่ 1-49 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=83248&type=animeindy&hash=2b7a5dcd7397b948b158e3fd4eae5a5e",
       "menu": "series",
       "seriesTitle": "Inazuma Eleven Orion No Kokuin อินาสึมะอีเลฟเวน โอริออน โนะ โคคุอิน ตอนที่ 1-49 พากย์ไทย - ANIMEiNDY",
@@ -59374,7 +58960,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43181&type=animeindy&hash=58824b15bc442bd7a1d46bd63ae3ab82",
       "menu": "series",
       "seriesTitle": "Fruits Basket เสน่ห์สาวข้าวปั้น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 3"
+      "episode": "ตอน���ี่ 3"
     },
     "2c5ac2a5bd52a59610eeef22802784bd": {
       "name": "Fruits Basket เสน่ห์สาวข้าวปั้น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
@@ -60126,7 +59712,7 @@
       "episode": "ตอนที่ 26"
     },
     "0e176a92f21dd2b2cbb6456d55f5d8ad": {
-      "name": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY - ตอนที่ 27",
+      "name": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY - ���อนที่ 27",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43272&type=animeindy&hash=fb7d13e206c9e0354fe0ca7b4d5b89db",
       "menu": "series",
       "seriesTitle": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY",
@@ -60350,7 +59936,7 @@
       "episode": "ตอนที่ 58"
     },
     "166392a181c8ed16fe7e9ccb4e9f09d3": {
-      "name": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY - ตอนที่ 59",
+      "name": "Rurouni Kenshin เคนชิน ซาม��ไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY - ตอนที่ 59",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43272&type=animeindy&hash=fb7d13e206c9e0354fe0ca7b4d5b89db",
       "menu": "series",
       "seriesTitle": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY",
@@ -61834,7 +61420,7 @@
       "episode": "ตอนที่ 336"
     },
     "cfa30ee45c7333d2e1d46ed846b394b8": {
-      "name": "One Piece วันพีช ซีซั่น 8 วอเตอร์ เซเว่น ตอนที่ 229-264 พากย์ไทย - ANIMEiNDY - ตอนที่ 229",
+      "name": "One Piece วันพีช ซีซั่น 8 วอเตอร์ เซเว่น ตอนที่ 229-264 พากย์ไทย - ANIMEiNDY - ตอน��ี่ 229",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=45952&type=animeindy&hash=d8e20105f59b1d04fbe32a95339dd720",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 8 วอเตอร์ เซเว่น ตอนที่ 229-264 พากย์ไทย - ANIMEiNDY",
@@ -62341,7 +61927,7 @@
       "name": "One Piece วันพีช ซีซั่น 4 อาณาจักรอลาบัสต้า ตอนที่ 93-132 พากย์ไทย - ANIMEiNDY - ตอนที่ 129",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=49102&type=animeindy&hash=aed7388057008c5c5b8dade7ae5d4ccd",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 4 อาณาจักรอลาบัสต้า ตอนที่ 93-132 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ซีซั่น 4 อาณาจักรอลาบัสต้า ตอนที่ 93-132 พากย์���ทย - ANIMEiNDY",
       "episode": "ตอนที่ 129"
     },
     "2e012324ae3687164de5a2bad979ef8d": {
@@ -62523,7 +62109,7 @@
       "name": "One Piece วันพีช ซีซั่น 7 จี-เอท และเดวี แบค ไฟท์ ตอนที่ 197-228 พากย์ไทย - ANIMEiNDY - ตอนที่ 219",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=47399&type=animeindy&hash=2bd4735b0fae870415c2b4cae2d1a979",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 7 จี-เอท และเดวี แบค ไฟท์ ตอนที่ 197-228 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ซีซั่น 7 จี-เอท แ��ะเดวี แบค ไฟท์ ตอนที่ 197-228 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 219"
     },
     "4003e8a82c1629dc26ca4455f4753cfe": {
@@ -62611,7 +62197,7 @@
       "episode": "ตอนที่ 135"
     },
     "6f1cce40cbfca33363afc022b5d03842": {
-      "name": "One Piece วันพีช ซีซั่น 5 ความฝัน และ ตำนานหมอกสีรุ้ง ตอนที่ 133-144 พาก���์ไทย - ANIMEiNDY - ตอนที่ 136",
+      "name": "One Piece วันพีช ซีซั่น 5 ความฝัน และ ตำนานหมอกสีรุ้ง ตอนที่ 133-144 พากย์ไทย - ANIMEiNDY - ตอนที่ 136",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=49055&type=animeindy&hash=67ddaa348147a0f053994be37e82ee32",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 5 ความฝัน และ ตำนานหมอกสีรุ้ง ตอนที่ 133-144 พากย์ไทย - ANIMEiNDY",
@@ -63041,7 +62627,7 @@
       "name": "One Piece วันพีช ซีซั่น 17 เดรสโรซ่า ตอนที่ 629-750 พากย์ไทย - ANIMEiNDY - ตอนที่ 649",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=42207&type=animeindy&hash=dbd6a39dcb1a9e8731d703013f08746a",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 17 เดรสโรซ่า ตอนที่ 629-750 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วั��พีช ซีซั่น 17 เดรสโรซ่า ตอนที่ 629-750 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 649"
     },
     "8bddd64b1becfc62e17889e196f3a3aa": {
@@ -63241,7 +62827,7 @@
       "episode": "ตอนที่ 677"
     },
     "f1c9a502e4ef9c99fd10f52e2061c421": {
-      "name": "One Piece วันพีช ซีซั่น 17 เดรสโรซ่า ตอนที่ 629-750 พากย์ไทย - ANIMEiNDY - ตอนที่ 678",
+      "name": "One Piece วันพีช ซีซั่น 17 เดรสโรซ่า ตอน���ี่ 629-750 พากย์ไทย - ANIMEiNDY - ตอนที่ 678",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=42207&type=animeindy&hash=dbd6a39dcb1a9e8731d703013f08746a",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 17 เดรสโรซ่า ตอนที่ 629-750 พากย์ไทย - ANIMEiNDY",
@@ -63755,7 +63341,7 @@
       "name": "One Piece วันพีช ซีซั่น 15 เกาะมนุษย์เงือก ตอนที่ 517-578 พากย์ไทย - ANIMEiNDY - ตอนที่ 568",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43571&type=animeindy&hash=87ba040753578f126f122ba72d7b3eb5",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 15 เกาะมนุษย์เงือก ตอนที่ 517-578 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ��ีซั่น 15 เกาะมนุษย์เงือก ตอนที่ 517-578 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 568"
     },
     "b6510b7e8f914a44dd70c6aca11c895a": {
@@ -64868,7 +64454,7 @@
       "name": "One Piece วันพีช ซีซั่น 11 หมู่เกาะชาบอนดี้ ตอนที่ 385-404 พากย์ไทย - ANIMEiNDY - ตอนที่ 389",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=44579&type=animeindy&hash=34804ec88a165eb823bfd0059321d030",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 11 หมู่เกาะชาบอนดี้ ตอนที่ 385-404 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ซีซั่น 11 หมู่เ��าะชาบอนดี้ ตอนที่ 385-404 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 389"
     },
     "ee5aeeafaeba3daa3c70816047b0885b": {
@@ -65138,7 +64724,7 @@
       "episode": "ตอนที่ 167"
     },
     "2438d2bec5c6124354f5fbec264332d2": {
-      "name": "One Piece วันพีช ซีซั่น 6 เกาะแห่งท้องฟ้า ตอนที่ 145-196 พากย์ไทย - ANIMEiNDY - ตอนที่ 168",
+      "name": "One Piece วันพีช ซีซั่น 6 เกาะแห่งท้องฟ้า ตอนที่ 145-196 พากย์ไทย - ANIMEiNDY - ตอนที�� 168",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=49027&type=animeindy&hash=31fee73851f3d438c79d226014bdf356",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 6 เกาะแห่งท้องฟ้า ตอนที่ 145-196 พา���ย์ไทย - ANIMEiNDY",
@@ -66751,7 +66337,7 @@
       "name": "Kingdom Season 1 คิงดอม สงครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=18280&type=animeindy&hash=497659057971a775736f9994b6a86fa0",
       "menu": "series",
-      "seriesTitle": "Kingdom Season 1 คิงดอม สงครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kingdom Season 1 คิงดอม สงครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอ��ที่ 1-39 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "52a6ec275ac54a278ad9011becf55449": {
@@ -68008,7 +67594,7 @@
       "episode": "ตอนที่ 4"
     },
     "472a11fee3434df462e4d38c5904fbef": {
-      "name": "Steins Gate สไตนส์ เกท ฝ่าวิ���ฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29581&type=animeindy&hash=b9d892b4790266400de64c81986219d3",
       "menu": "series",
       "seriesTitle": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY",
@@ -68673,7 +68259,7 @@
       "episode": "ตอนที่ 12"
     },
     "aa3722a9f067b42ef2d38f96f63fa0ce": {
-      "name": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 13",
+      "name": "Duel Masters Versus Revolution สงครามเกมส์ไพ�� วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 13",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=79890&type=animeindy&hash=d7ad846e2041909922c099dfb07b77e2",
       "menu": "series",
       "seriesTitle": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
@@ -68687,7 +68273,7 @@
       "episode": "ตอนที่ 14"
     },
     "a08a990936ac3893be03add6b608a063": {
-      "name": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 15",
+      "name": "Duel Masters Versus Revolution สงครามเ���มส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 15",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=79890&type=animeindy&hash=d7ad846e2041909922c099dfb07b77e2",
       "menu": "series",
       "seriesTitle": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
@@ -69502,7 +69088,7 @@
       "name": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY - ตอนที่ 80",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=58991&type=animeindy&hash=75f1ae60c07673f0366dcb99fd21a8c9",
       "menu": "series",
-      "seriesTitle": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริ���ะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 80"
     },
     "2b20bc6710f6d72c0440ee082a980f92": {
@@ -69573,7 +69159,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=58991&type=animeindy&hash=75f1ae60c07673f0366dcb99fd21a8c9",
       "menu": "series",
       "seriesTitle": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 90"
+      "episode": "ตอน��ี่ 90"
     },
     "b65455196fc39202be9c0dc22ab75afa": {
       "name": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY - ตอนที่ 91",
@@ -70269,7 +69855,7 @@
       "episode": "ตอนที่ 83"
     },
     "5d757ada3ec295996ecb587e804f88f7": {
-      "name": "One Piece วันพีช ซีซั่น 3 ช็อปเปอร์แห่งเกาะหิมะ ตอนที่ 77-92 พากย์ไทย - ANIMEiNDY - ต���นที่ 84",
+      "name": "One Piece วันพีช ซีซั่น 3 ช็อปเปอร์แห่งเกาะหิมะ ตอนที่ 77-92 พากย์ไทย - ANIMEiNDY - ตอนที่ 84",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=64024&type=animeindy&hash=3788e04584f983da6c164dd99c70e844",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 3 ช็อปเปอร์แห่งเกาะหิมะ ตอนที่ 77-92 พากย์ไทย - ANIMEiNDY",
@@ -70279,7 +69865,7 @@
       "name": "One Piece วันพีช ซีซั่น 3 ช็อปเปอร์แห่งเกาะหิมะ ตอนที่ 77-92 พากย์ไทย - ANIMEiNDY - ตอนที่ 85",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=64024&type=animeindy&hash=3788e04584f983da6c164dd99c70e844",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 3 ช็อปเปอร์แห่งเกาะหิมะ ตอนที่ 77-92 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ซีซั่น 3 ช็อปเปอร์���ห่งเกาะหิมะ ตอนที่ 77-92 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 85"
     },
     "32bc3b6e9701f47a9bc1708317943657": {
@@ -70815,7 +70401,7 @@
       "episode": "ตอนที่ 7"
     },
     "abd105b165dde48e75dcd3703c4402e4": {
-      "name": "Zetsuen No Tempest ปมปริศนา ศึกมหาเวทย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
+      "name": "Zetsuen No Tempest ปมปร���ศนา ศึกมหาเวทย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=41854&type=animeindy&hash=669cd23e9dba4fa38f417381b68e951c",
       "menu": "series",
       "seriesTitle": "Zetsuen No Tempest ปม��ริศนา ศึกมหาเวทย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -71567,7 +71153,7 @@
       "name": "GTO จีทีโอ คุณครูพันธุ์หายาก ตอนที่ 1-43 พากย์ไทย - ANIMEiNDY - ตอนที่ 41",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=35894&type=animeindy&hash=ea8beed95a85f5d9ee3a955de4d3acc2",
       "menu": "series",
-      "seriesTitle": "GTO จีทีโอ คุณครูพันธุ์หายาก ตอนที่ 1-43 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "GTO จีทีโอ ���ุณครูพันธุ์หายาก ตอนที่ 1-43 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 41"
     },
     "f336f3e38f6032ace11faa842bdb5311": {
@@ -72306,7 +71892,7 @@
       "episode": "ตอนที่ 5"
     },
     "88e5d6403dd0cbbecc5900c357ae5a5f": {
-      "name": "Black Butler คนลึกไขปริศนาลับ พ่อบ้านปีศาจ ภาค 1+OVA ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
+      "name": "Black Butler คนลึกไขปริศนาลับ พ่อบ้านปีศาจ ภาค 1+OVA ตอนที่ 1-24 พากย์���ทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=47468&type=animeindy&hash=7d7f6a39e639774e60fb3b8096de3884",
       "menu": "series",
       "seriesTitle": "Black Butler คนลึกไขปริศนาลับ พ่อบ้านปีศาจ ภาค 1+OVA ต���นที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -73023,7 +72609,7 @@
       "name": "Shakugan No Shana ชานะ นักรบเนตรอัคคี ภาค 3 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 20",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29113&type=animeindy&hash=65d5059139e5930a4d4d2c7533d74270",
       "menu": "series",
-      "seriesTitle": "Shakugan No Shana ชานะ นักรบเนตรอัคคี ภาค 3 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Shakugan No Shana ชานะ นักรบเนต��อัคคี ภาค 3 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 20"
     },
     "f039447db3380a98bfc11ea27726bdf5": {
@@ -73037,7 +72623,7 @@
       "name": "Shakugan No Shana ชานะ นักรบเนตรอัคคี ภาค 3 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 22",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29113&type=animeindy&hash=65d5059139e5930a4d4d2c7533d74270",
       "menu": "series",
-      "seriesTitle": "Shakugan No Shana ชานะ นักรบเนตรอัคคี ภาค 3 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Shakugan No Shana ชานะ นักรบเนตรอัคคี ภาค 3 ตอนที��� 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 22"
     },
     "6d0a1966716e6d32469d412b865d78b3": {
@@ -73454,7 +73040,7 @@
       "episode": "ตอนที่ 2"
     },
     "2217a9bcd81faa21ef6a02f5de34590e": {
-      "name": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภา��� 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภาค 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=30855&type=animeindy&hash=6d49d149f9674fbbc18d2f31e26d4b00",
       "menu": "series",
       "seriesTitle": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภาค 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY",
@@ -74241,7 +73827,7 @@
       "name": "Hajime No Ippo ก้าวแรกสู่สังเวียน ภาค 1 ตอนที่ 1-75 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=16431&type=animeindy&hash=d563fa1a7ea8a90c0827b21dbcb329a7",
       "menu": "series",
-      "seriesTitle": "Hajime No Ippo ก้าวแรกสู่สังเวียน ภาค 1 ตอนที่ 1-75 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Hajime No Ippo ก้าวแรกสู่สังเวียน ภา��� 1 ตอนที่ 1-75 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "d9b74a78bff3eef4d85f90ae1920a9c6": {
@@ -74262,7 +73848,7 @@
       "name": "Hajime No Ippo ก้าวแรกสู่สังเวียน ภาค 1 ตอนที่ 1-75 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=16431&type=animeindy&hash=d563fa1a7ea8a90c0827b21dbcb329a7",
       "menu": "series",
-      "seriesTitle": "Hajime No Ippo ก้าวแรกสู่สังเวียน ภาค 1 ตอนที่ 1-75 พากย์ไท��� - ANIMEiNDY",
+      "seriesTitle": "Hajime No Ippo ก้าวแรกสู่สังเวียน ภาค 1 ตอนที่ 1-75 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "5c7e7041cbafe403035f55d86ee24106": {
@@ -75078,7 +74664,7 @@
       "episode": "ตอนที่ 1"
     },
     "bcdef3a2fa7f341bc69a7e0b5f633ed5": {
-      "name": "To Aru Majutsu No Index อินเดกซ์ คัมภีร์คาถาต้องห���าม ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+      "name": "To Aru Majutsu No Index อินเดกซ์ คัมภีร์คาถาต้องห้าม ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=30286&type=animeindy&hash=94d3ea601b5b5b0a3ac087eb77839041",
       "menu": "series",
       "seriesTitle": "To Aru Majutsu No Index อินเดกซ์ คัมภีร์คาถาต้องห้าม ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -75239,7 +74825,7 @@
       "episode": "ตอนที่ 6"
     },
     "c695da9578ad0b78552d24ac8ad044bd": {
-      "name": "Kekkaishi ผู้ผนึกมาร ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
+      "name": "Kekkaishi ผู���ผนึกมาร ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29666&type=animeindy&hash=51c57c51b33f80f49f6a7daa0068ef3a",
       "menu": "series",
       "seriesTitle": "Kekkaishi ผู้ผนึกมาร ตอนที่ 1-52 ��ากย์ไทย - ANIMEiNDY",
@@ -75452,7 +75038,7 @@
       "name": "Kekkaishi ผู้ผนึกมาร ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 37",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29666&type=animeindy&hash=51c57c51b33f80f49f6a7daa0068ef3a",
       "menu": "series",
-      "seriesTitle": "Kekkaishi ผู้ผนึกมาร ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kekkaishi ผู้ผน���กมาร ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 37"
     },
     "c4b1b0c504ac04eb5cd7ac4a6bf7c95f": {
@@ -76649,7 +76235,7 @@
       "name": "Toradora โทระโดระ ยัยตัวร้ายกับนายหน้าโหด ตอนที่ 1-25+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 05",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=24137&type=animeindy&hash=82aefce03adb56779f930f3af5abad40",
       "menu": "series",
-      "seriesTitle": "Toradora โทระโดระ ยัยตัวร้ายกับน���ยหน้าโหด ตอนที่ 1-25+OVA พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Toradora โทระโดระ ยัยตัวร้ายกับนายหน้าโหด ตอนที่ 1-25+OVA พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 05"
     },
     "77c5a11ca386df504d86ab21b8bcfa86": {
@@ -77402,7 +76988,7 @@
       "episode": "ตอนที่ 2"
     },
     "057f9da6a261bf84ad9b72d473c7e249": {
-      "name": "High School DxD ไฮสคูล DxD ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "High School DxD ไฮสคูล DxD ภาค 2 ตอนที่ 1-12 พากย���ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=27887&type=animeindy&hash=96683d6ee6fa3c3babf4ab8969451d14",
       "menu": "series",
       "seriesTitle": "High School DxD ไฮสคูล DxD ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -78235,7 +77821,7 @@
       "episode": "ตอนที่ 35"
     },
     "d94ac67157fa3e5e01f3875312c7da28": {
-      "name": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 36",
+      "name": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที��� 36",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=24640&type=animeindy&hash=8c4b3517fe4cf8ba4d2e62893916ca2a",
       "menu": "series",
       "seriesTitle": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
@@ -78917,7 +78503,7 @@
       "name": "The Three Eyed One เจ้าหนูสามตา ปาฎิหาริย์ ตอนที่ 1-30 พากย์ไทย - ANIMEiNDY - ตอนที่ 30",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=24715&type=animeindy&hash=92626c156467f650067da101f6ae44ac",
       "menu": "series",
-      "seriesTitle": "The Three Eyed One เจ้าหนูสามตา ปาฎิหาริย์ ตอนที่ 1-30 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Three Eyed One เจ้��หนูสามตา ปาฎิหาริย์ ตอนที่ 1-30 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 30"
     },
     "eb358b1648f88618a3d3215cfa295ddb": {
@@ -79649,7 +79235,7 @@
       "episode": "ตอนที่ 5"
     },
     "872de76ab508bdc5ea8ac0b68e88b343": {
-      "name": "D Gray-Man ดี เกรย์แมน ภาค1 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
+      "name": "D Gray-Man ดี เ��รย์แมน ภาค1 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=21057&type=animeindy&hash=2d587c202e58c60c3f0f25617a2deeb0",
       "menu": "series",
       "seriesTitle": "D Gray-Man ดี เกรย์แมน ภาค1 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
@@ -79890,7 +79476,7 @@
       "name": "D Gray-Man ดี เกรย์แมน ภาค1 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 40",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=21057&type=animeindy&hash=2d587c202e58c60c3f0f25617a2deeb0",
       "menu": "series",
-      "seriesTitle": "D Gray-Man ดี เกรย์แมน ภาค1 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "D Gray-Man ดี เกรย์แมน ภาค1 ตอนที่ 1-51 พากย์ไ���ย - ANIMEiNDY",
       "episode": "ตอนที่ 40"
     },
     "01e57617e08311411791b5ceeb2c343a": {
@@ -81154,7 +80740,7 @@
       "episode": "ตอนที่ 24"
     },
     "5c5d4186c166e6179d1f298d324c7eea": {
-      "name": "Samurai Trooper ซามูไรทรูปเปอร์ ตอนที่ 1-45 พากย์ไทย - ANIMEiNDY - ตอนที่ 25",
+      "name": "Samurai Trooper ซามูไรทรูปเปอร์ ตอนที่ 1-45 ��ากย์ไทย - ANIMEiNDY - ตอนที่ 25",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=19123&type=animeindy&hash=c881f5fbc651dfa2879f2d68a0683354",
       "menu": "series",
       "seriesTitle": "Samurai Trooper ซามูไรทรูปเปอร์ ตอนที่ 1-45 พากย์ไทย - ANIMEiNDY",
@@ -81574,7 +81160,7 @@
       "episode": "ตอนที่ 38"
     },
     "2f5edcc069c31eeb560a00829fdb652b": {
-      "name": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 39",
+      "name": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนท���่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 39",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=19549&type=animeindy&hash=97211ed008a207cd28969169a65f3dad",
       "menu": "series",
       "seriesTitle": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
@@ -81595,7 +81181,7 @@
       "episode": "ตอนที่ 41"
     },
     "256fda626d50eeaffebd6f6e29ad7b2e": {
-      "name": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ต���นที่ 42",
+      "name": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 42",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=19549&type=animeindy&hash=97211ed008a207cd28969169a65f3dad",
       "menu": "series",
       "seriesTitle": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
@@ -82403,7 +81989,7 @@
       "name": "The Law Of Ueki แสบซ่าผ่ากฏเทพ ภาค 1-2 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 49",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=20205&type=animeindy&hash=3181f1dddf38c9043841401acdadb9ce",
       "menu": "series",
-      "seriesTitle": "The Law Of Ueki แสบซ่าผ่ากฏเทพ ภาค 1-2 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Law Of Ueki แสบซ่าผ่ากฏเทพ ภา��� 1-2 ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 49"
     },
     "8c905eb60387196c0138ef677bf279bc": {
@@ -82697,7 +82283,7 @@
       "name": "The Prince Of Tennis U1-17 OVA ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=18102&type=animeindy&hash=1d7135e52f2cd9316672991bd6b14334",
       "menu": "series",
-      "seriesTitle": "The Prince Of Tennis U1-17 OVA ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Prince Of Tennis U1-17 OVA ปริ๊นซ์ ออฟ เทนนิส เจ้าชายล���กสักหลาด ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 6"
     },
     "d67cddb0050a9c7707abc865948a7aa2": {
@@ -82872,7 +82458,7 @@
       "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด OVA ตอนที่ 1-30 พากย์ไทย - ANIMEiNDY - ตอนที่ 21",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=18049&type=animeindy&hash=59a40ec345e4a0d4069a0691b96b92ed",
       "menu": "series",
-      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด OVA ตอนที่ 1-30 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้า���ายลูกสักหลาด OVA ตอนที่ 1-30 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 21"
     },
     "fa6d843a78e70b02b701878794d6918b": {
@@ -83142,7 +82728,7 @@
       "episode": "ตอนที่ 029"
     },
     "655f0cf4e7a665d29e05cb4270b39239": {
-      "name": "The Prince Of Tennis ป��ิ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 030",
+      "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 030",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
       "menu": "series",
       "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
@@ -83817,7 +83403,7 @@
       "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 126",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
       "menu": "series",
-      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายล���กสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 126"
     },
     "e2a6acc6a8f6d0ea6de7a982f9577898": {
@@ -83989,7 +83575,7 @@
       "episode": "ตอนที่ 150"
     },
     "331a9bfc60f9ed855d45bbad3bc3b5e9": {
-      "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 151",
+      "name": "The Prince Of Tennis ปริ๊น���์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 151",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
       "menu": "series",
       "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
@@ -86509,7 +86095,7 @@
     "e0aeda022bc2c79fccc49dfde8e72af0": {
       "name": "อาบัติ (2015) Karma",
       "logo": "https://25-hd.com/wp-content/uploads/2026/09/iF2u5d7ZAaMrpcYUWwb6qcEJaL2.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "หนั���ใหม่ 2006",
       "menu": "movies"
     },
     "4e7497f22df082af8c76f9bfc4c9427d": {
@@ -89513,7 +89099,7 @@
       "menu": "movies"
     },
     "f2cfc5247b515150cbe9b179c3add5f2": {
-      "name": "Salvageland (2025) ผู้พิทักษ์แดนเดือด",
+      "name": "Salvageland (2025) ผู้พิทักษ์แดนเด��อด",
       "logo": "https://25-hd.com/wp-content/uploads/2026/03/3vvQDvrzMPN8sc2n3hLOqrlusDS.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -91099,7 +90685,7 @@
     "97b44526f0055148e15b5ccbb30fbc55": {
       "name": "All the Empty Rooms (2025) ห้องที่ว่างเปล่า",
       "logo": "https://25-hd.com/wp-content/uploads/2026/01/38odJEJiluUBLI58tO6oTmv5wZl-1.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "หนั���ใหม่ 2006",
       "menu": "movies"
     },
     "77de60ec4bfd1ed71b6e604c893364c0": {
@@ -92621,7 +92207,7 @@
       "menu": "movies"
     },
     "52aee7b1bcfc95f2386887a14293735f": {
-      "name": "Shin Godzilla (2016) ชิน ก็อดซิลล่า",
+      "name": "Shin Godzilla (2016) ชิน ก็อดซิลล���า",
       "logo": "https://25-hd.com/wp-content/uploads/2025/11/8fUvVmJp7CmhmRDhZ6BRAyoVHOB-3.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -97037,7 +96623,7 @@
       "menu": "movies"
     },
     "cc2034225bbb2be4bbeb920d49049526": {
-      "name": "Christopher – A Beautiful Real Life (2025) คริสโตเฟอร์ – ชีวิตจริงที่สวยงาม",
+      "name": "Christopher – A Beautiful Real Life (2025) คริสโตเฟอร์ – ชีวิตจร��งที่สวยงาม",
       "logo": "https://25-hd.com/wp-content/uploads/2025/09/9CEpAjP6uvdKBerOL6Ojr71N47L-1.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -103217,7 +102803,7 @@
       "menu": "movies"
     },
     "975064fe0e407a93887f3e62b513de0c": {
-      "name": "The Lost World: Jurassic Park (1997) เดอะ ลอสต์ เวิล์ด จูราสสิค พาร์ค",
+      "name": "The Lost World: Jurassic Park (1997) เดอะ ล��สต์ เวิล์ด จูราสสิค พาร์ค",
       "logo": "https://25-hd.com/wp-content/uploads/2025/06/zlV7IoggQkg8lcwVRHNGABo0Qun-2.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -104762,7 +104348,7 @@
       "name": "HMN-760 We’re Not Dating เพื่อนสนิท คิดไม่ซื่อ แอบดื้อตอนบ้านว่าง",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/11/hmn760pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
-      "menu": "18+"
+      "seriesTitle": "ญี่ปุ่น+จีน+ฝรั่ง"
     },
     "a79550737a79cd1ac189e02c3d9fecf9": {
       "name": "IPBZ-015 Limited distribution ปล่อยจอยซอยยับ เสร็จนับไม่ถ้วน",
@@ -104916,9 +104502,8 @@
     },
     "95cc912cdf899ca5fe1b4dc661ba9bc5": {
       "name": "JUFD-597 Exvacation ใจเธอฝักใฝ่ เล่นใหญ่สามพี",
-      "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/11/jufd597pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
-      "menu": "18+"
+      "seriesTitle": "ญี่ปุ่น+จีน+ฝรั่ง"
     },
     "0a9302809f1caf20025da34d45c5a1c6": {
       "name": "ABF-286 Hot Girlfriend รักบรรเจิด เหตุเกิดร้านสะดวกซื้อ",
@@ -105991,7 +105576,7 @@
     "5d01528043707bee9d072394670caf76": {
       "name": "CAWD-885 Academically หนูเบื่อๆ เลยแวะมาอ่อย ขอลองของอร่อยในออฟฟิศ",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/10/cawd885pl.webp",
-      "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+      "group": "��ี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
     },
     "537a42578e6db57ad2f079b421e3a392": {
@@ -106915,7 +106500,7 @@
     "4aa19b324eb4b480dfe87651b4cfbd01": {
       "name": "IPZZ-641 My Stepfather ใต้หลังคาเดียว พ่อเสียวหนูสวบ",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/09/ipzz641pl.webp",
-      "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+      "group": "ญี่ปุ่น+จีน+��รั่ง",
       "menu": "18+"
     },
     "e739e38f51d46fee9f5f3e47b249765a": {
@@ -108035,7 +107620,7 @@
       "menu": "18+"
     },
     "960f342f9532828ca83873d0c306add7": {
-      "name": "HZGD-314 Neighbor’s ผัวตายด้าน ชายข้างบ้านเลยได้สิทธิ์",
+      "name": "HZGD-314 Neighbor’s ผัวตายด้าน ��ายข้างบ้านเลยได้สิทธิ์",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/08/h_1100hzgd314pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -109145,7 +108730,7 @@
       "menu": "18+"
     },
     "7d81699efe3bc08d29ba62589570ac09": {
-      "name": "SONE-343 So Sensitive เสน่ห์สปาสุดหฤหรรษ์ สวรรค์ชั้น 7",
+      "name": "SONE-343 So Sensitive เสน่ห์��ปาสุดหฤหรรษ์ สวรรค์ชั้น 7",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/07/sone343pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -111385,7 +110970,7 @@
     "7521691c6ae7a8afb61c0d1e114a0e83": {
       "name": "CJOD-224 Jailbreak Prisoners เชลยรัก นักโทษเดือด",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/05/cjod224pl.webp",
-      "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+      "group": "ญี่ปุ่���+จีน+ฝรั่ง",
       "menu": "18+"
     },
     "c3073e498da73eeb879f68fe4e917604": {
@@ -111667,7 +111252,7 @@
     "4888dfae2dfea7aaf53885fff79d76f2": {
       "name": "IPZZ-547 Beautiful Female Boss แฟนปลอมจอมหื่น ยื่นไอ้นั่นให้ลิ้มลอง",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/05/ipzz547pl.webp",
-      "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+      "group": "ญี่ปุ่น+จีน+ฝรั��ง",
       "menu": "18+"
     },
     "571de2507ef70b6d63b020b872a43a65": {
@@ -112475,7 +112060,7 @@
       "menu": "18+"
     },
     "f3a86c06651465d80b8d9f01cc48c0cc": {
-      "name": "MIAB-233 High-Class Lounge สงครามนมทะลัก แย่งรักคุณมหาเศรษฐี",
+      "name": "MIAB-233 High-Class Lounge ���งครามนมทะลัก แย่งรักคุณมหาเศรษฐี",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/05/miab233pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -112769,7 +112354,7 @@
       "menu": "18+"
     },
     "28d3afd6fe09f75e119019a19e1b4225": {
-      "name": "STARS-862 Long-awaited Cum อิ่มน้ำควย อมด้วยความรัก",
+      "name": "STARS-862 Long-awaited Cum อิ��มน้ำควย อมด้วยความรัก",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/04/1stars862pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -116993,7 +116578,7 @@
       "menu": "18+"
     },
     "fffc639fe1e83c3812018c6cfa1fe8d5": {
-      "name": "JUFE-569 Black Tourists ห้องเช่าไม่แพง ซดแกงบ้องข้าวหลาม",
+      "name": "JUFE-569 Black Tourists ห้องเช่าไม่แพง ซดแก��บ้องข้าวหลาม",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/01/jufe569pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -119249,7 +118834,7 @@
       "menu": "18+"
     },
     "e4499cf15da05567e63dc219bcce7c56": {
-      "name": "NSFS-069 น้องผัวเงินหมุนงานสถุลร้อยละยี่",
+      "name": "NSFS-069 น��องผัวเงินหมุนงานสถุลร้อยละยี่",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2023/01/nsfs069sopl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -119561,7 +119146,7 @@
       "menu": "18+"
     },
     "5ca48c65c5ff5270a534063797638700": {
-      "name": "SSIS-520 เลิกงานดึกบอสสาวชวนเปิดศึกในโรงแร��� (ซับไทยพอรู้เรื่อง)",
+      "name": "SSIS-520 เลิกงานดึกบอสสาวชวนเปิดศึกในโ���งแร��� (ซับไทยพอรู้เรื่อง)",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2022/12/ssis520pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -121523,7 +121108,7 @@
       "menu": "18+"
     },
     "02274650b1aad907eb6b499c5d49ae16": {
-      "name": "MIAE-309 เพื่อนกันก็มันส���ได้",
+      "name": "MIAE-309 เพื่อนกันก็มันส์ได้",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2022/05/miae309pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -121649,7 +121234,7 @@
       "menu": "18+"
     },
     "ef25a75b35ca7f0c7491e564ac0091f6": {
-      "name": "MIDV-041 พี่ชายจอมมึน กับน้องสาวซึนเดเระ",
+      "name": "MIDV-041 พี่ชายจอมมึน กั���น้องสาวซึนเดเระ",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2022/04/midv041pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -122897,7 +122482,7 @@
       "menu": "18+"
     },
     "d757162182ffe23fc426b806ea8c7c95": {
-      "name": "SSIS-129 Restart! รีสตาร์ทค��ดว่าจะเลิฟ",
+      "name": "SSIS-129 Restart! รีสตาร์ทคาดว่าจะเลิฟ",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2021/08/ssis129pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -124057,7 +123642,7 @@
     "4cbc22e28c09ba35796dd072c5c4ad21": {
       "name": "MEYD-527 Apartment Wife เล็งมานานขอปี้สักทีคุณนายขี้เหงา",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2021/01/meyd527pl.webp",
-      "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+      "group": "ญี่ปุ่น+จีน+ฝรั��ง",
       "menu": "18+"
     },
     "7fe745b0c1c44c0ce09be56d6ecdf549": {
@@ -127727,7 +127312,7 @@
       "menu": "18+"
     },
     "a0fc8abee2e30b3adf7e9139a305ec4c": {
-      "name": "IPX-282 พายุเข้า..ขอเด้ายันหว่าง",
+      "name": "IPX-282 พายุเข้า..ขอเด้ายันหว���าง",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2019/08/ipx282pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -129293,7 +128878,7 @@
       "menu": "18+"
     },
     "e439e2ddc5a3d425963cfd70d491904d": {
-      "name": "OKSN-197 คุณแม่สอนเซ็กส์ แม่นี้มีบุณคุณใหญ่หลวง",
+      "name": "OKSN-197 คุณแม่สอนเซ็กส์ แม่นี้มีบุณคุณใหญ่ห���วง",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2019/07/oksn197pl.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -129881,7 +129466,7 @@
       "menu": "18+"
     },
     "c7ddc9c6f5558a775f0ade5823fc5b7d": {
-      "name": "เอวีซับไทย หลานชายผู้ไร้เดียงสา กับน้าสาวนมใหญ่ หลานชายอยากดูดนมน้า พอน้าเสียวขี้นมาก็ยาวเลยคราวนี้ MIMK-052 Haruna Hana",
+      "name": "เอวีซับไทย หลานชายผู้ไร้เดียงสา กั���น้าสาวนมใหญ่ หลานชายอยากดูดนมน้า พอน้าเสียวขี้นมาก็ยาวเลยคราวนี้ MIMK-052 Haruna Hana",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2019/06/MIMK-052-My-Aunts-Body-Is-Too-Pleasant-หลานไร้เดียงสากับน้าสุดอึ๋ม-ซับไทย.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -130445,7 +130030,7 @@
       "menu": "18+"
     },
     "5fb3fa2af69028f0ed5a81243152686f": {
-      "name": "Ellie Eilish-Jays POV พ่อเลี้ยงกับลูกสาว",
+      "name": "Ellie Eilish-Jays POV พ่อเลี้ยงกับ��ูกสาว",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/04/Ellie-Eilish.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -131297,7 +130882,7 @@
       "menu": "18+"
     },
     "6b742af42a49b82099345fe2483cffd0": {
-      "name": "Vixen รุ่นพ่อล่อประสบการณ์",
+      "name": "Vixen รุ่นพ่��ล่อประสบการณ์",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2019/11/Untitled-1-1.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -131323,7 +130908,7 @@
     "409f5457696ec336311726f62abaebc6": {
       "name": "Brooke Paige พ่อไม่อยู่ขอเปิดซิง",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2019/09/Untitled-1-3.webp",
-      "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+      "group": "ญี่���ุ่น+จีน+ฝรั่ง",
       "menu": "18+"
     },
     "370afee971f296eb98b5ac2c0d1f3373": {
@@ -131621,7 +131206,7 @@
       "menu": "18+"
     },
     "25ace4e10296f7b72cce5205936f1423": {
-      "name": "Eva Lovia Xander Corvus เพื่อนบ้านใหม่ไงก็เสียว",
+      "name": "Eva Lovia Xander Corvus เพื่อนบ้านใหม่ไงก็เสี���ว",
       "logo": "https://ww.avsubthai.men/wp-content/uploads/2019/07/Untitled-1-8.webp",
       "group": "ญี่ปุ่น+จีน+ฝรั่ง",
       "menu": "18+"
@@ -131935,532 +131520,806 @@
     "acb00fd79044694eb1972b2344f35bfd": {
       "name": "3HD",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png",
-      "url": "https://ch3-33-web.cdn.byteark.com/live/720p/index.m3u8?x_ark_access_id=D78MkxZFEr5Zr9PE&x_ark_auth_type=ark-v2&x_ark_expires=1787913302&x_ark_max_resolution=720p&x_ark_path_prefix=/live/&x_ark_signature=Rm7a7fJhCSOK8cl-X7ygdw",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "22ce2b976b6ef9da78852432f9371ba8": {
       "name": "CH5",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/TATV5_Logo_HD.png",
-      "url": "https://nodelive.thaitv5hd.com/hls/tv5hdlive-for-thaitv5hdcom/stream_1.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "9d3965a79ec539ac7b90810a52053e89": {
       "name": "7HD",
       "logo": "https://i.postimg.cc/8kMvzGt1/IMG-2393.png",
-      "url": "https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "a745345c1eaad6474c0a22995ecbe4fc": {
       "name": "McotHD",
       "logo": "https://i.postimg.cc/8cpTGLZf/IMG-2397.png",
-      "url": "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "13834c8dbc332ba4b8a604cd6fa649cc": {
       "name": "Mono29",
       "logo": "https://i.postimg.cc/26dJcxGv/IMG-2741.png",
-      "url": "https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "692f4783276c2a270a5d5f926565cb58": {
       "name": "Mono29+",
       "logo": "https://i.postimg.cc/mZMkT7TS/IMG-4148.png",
-      "url": "http://3bb.engatetv.com:25461/hstn/line/117",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "438787521abaa3c708407a8fbe0ab028": {
       "name": "NBT",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "8a26f197c5c95569b288cb385a8fe95d": {
       "name": "NBT-ภาคกลาง",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "d958b9a14f37db43ce2c85d81adc5a00": {
       "name": "NBT-ภาคเหนือ",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "b50cdb1cdabcc86af76bd43081e88893": {
       "name": "NBT-ภาคอีสาน",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/chunklist_w1374149909_b3128000.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "4fb74ca2837d9b7abc919d9bbe1fd8af": {
       "name": "NBT-ภาคใต้",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
-      "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/chunklist_w1951329913_b3128000.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "91322af339fa83c0e64c0db8edb323e7": {
       "name": "Thai PBS",
       "logo": "https://upload.wikimedia.org/wikipedia/vi/5/5a/Thai_PBS_logo.png",
-      "url": "http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "1652e056d6e40de54294270ca9fa497b": {
       "name": "Thairath TV",
       "logo": "https://tse3.mm.bing.net/th/id/OIP.9thgi4cZ5JxivjnvnTBbZgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
-      "url": "https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "91421795dc8712accc50bc6ee6ca9c3d": {
       "name": "PPTV",
       "logo": "https://i.postimg.cc/XvRPB9Sp/IMG-2542.png",
-      "url": "https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "300f2f7c9a176bc5e96532049eb74ea6": {
       "name": "Amarin TV",
       "logo": "https://cms.dmpcdn.com/livetv/2022/02/18/e007f990-9082-11ec-9efa-2d434afe2b14_webp_320.png",
-      "url": "https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "752462623aa387eeec5813f159ea2d1e": {
       "name": "GMM25",
       "logo": "https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
-      "url": "https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "37d104de893ace3c14db449d846fe04f": {
       "name": "ONE31",
       "logo": "https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",
-      "url": "https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "0c52423f89e9c72027b5d28f63c07475": {
       "name": "TopNews",
       "logo": "https://i.postimg.cc/qMJ7ff5h/IMG-3145.png",
-      "url": "https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "6d032cbc5449ab3c8833548f99627cba": {
       "name": "Workpoint",
       "logo": "https://i.postimg.cc/WzT9cJHK/IMG-2565.png",
-      "url": "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "901ed7dfb3fb8cfab85f7db206a60dbb": {
       "name": "CH8",
       "logo": "https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
-      "url": "https://www.thaich8.com/live?var_link=720p",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "32483640680e7d9c1f84ea33648769c2": {
       "name": "TNN16",
       "logo": "https://i.postimg.cc/Njsz7k39/IMG-1845.png",
-      "url": "https://live-us1.thaimomo.com/live-as/chtnn24-2/chunklist_w1680535099.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "e614b752664c4e212406a5eb6fc248d4": {
       "name": "Nation",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
-      "url": "https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "3668debd8ab52c98b0dc19f5891c6692": {
       "name": "True4U",
       "logo": "https://i.postimg.cc/kGvp2ySq/IMG-2563.png",
-      "url": "https://live-us1.thaimomo.com/live-as/chTrue4u-2/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "391d3e3b1a12555f4b10b2b7a5d0bf84": {
       "name": "ALTV4",
       "logo": "https://i.ytimg.com/vi/bAQTpAuPtQA/maxresdefault.jpg",
-      "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "2a5bb184a7e789beb11f2b938a129f21": {
       "name": "NEWS 1",
       "logo": "https://i.postimg.cc/CdyT1DN4/IMG-2411.png",
-      "url": "http://news1.live14.com/stream/news1_hi.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "9ad3da3abb508c90b0d792dc41795a67": {
       "name": "PoliceTV",
       "logo": "https://i.postimg.cc/fbzNzJSG/IMG-2597.png",
-      "url": "https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "b4156d3af49d32bb85a71d2f635daa5c": {
       "name": "Cable 37",
       "logo": "https://i.postimg.cc/t4vQNs2p/IMG-1852.png",
-      "url": "http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "d4dd3b44a07b94ba2bc783ce04a1fc28": {
       "name": "สุวรรณภูมิ TV",
       "logo": "https://i.postimg.cc/y8ZtfvK6/IMG-2509.png",
-      "url": "https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "72ce07925991906fed42dd708c989e37": {
       "name": "Cool Channel",
       "logo": "https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp",
-      "url": "https://live-iptv.cool-channel.com/cool/live-720P.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "460785d7decde721f6e40eb8fb39894d": {
       "name": "Siam Channel",
       "logo": "https://i.imgur.com/QfgNajz.png",
-      "url": "https://mvtv.co.th/play/play_mvtv.php?no=39&channel=สกาล่า Channel",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "cde4b62cc8e18dac14c2d043b9336357": {
       "name": "Thainews",
       "logo": "https://thaitvstream.com/streaming/thainews/thainews.png",
-      "url": "https://live.thaitvstream.com/play/thainews/index.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "db6dae9ff94520887fe890a65ccf71b8": {
       "name": "Siamnewstv",
       "logo": "https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png",
-      "url": "https://live1.thaitvstream.com/play/siamnewstv/index.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "894a7569cea2c9f3fe039173f30268ea": {
       "name": "Gochannel",
       "logo": "https://thaitvstream.com/streaming/gochannel/gochannel.png",
-      "url": "https://live2.thaitvstream.com/play/gochannel/index.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "ff2c1b5fa2e9f199bb607ca918be76fb": {
       "name": "Chiangrai",
       "logo": "https://thaitvstream.com/streaming/chiangrai/chiangrai.png",
-      "url": "https://live.thaitvstream.com/play/chiangrai/index.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "6aca60e14ceb0867045b9d8d45f93fef": {
       "name": "Mounchon TV",
       "logo": "https://i.postimg.cc/LsTzr0jt/IMG-2585.png",
-      "url": "https://live2.thaitvstream.com/play/mounchontv/index.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "51f51b34b2817b95ea2dcba8f747899b": {
       "name": "Medianews",
       "logo": "https://thaitvstream.com/streaming/medianews/medianews.png",
-      "url": "https://live1.thaitvstream.com/play/medianews/index.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "7aea6324a41011d4ff210ff6b34d092a": {
       "name": "Channel8thailand",
       "logo": "https://lh3.googleusercontent.com/proxy/F8j5vaSEZFxgS0uTQl14JpNq0it64JmH9JmVq9yy8TA2hqPWIkngxc1rod8or-timxdb6g8SEzk3hyF8xbvMfUVYhncIqL3m5V_QRUAi04M-xfkiKjJUgHLcefodoRTIDrx350_WRq2pKqX8hwHcJmgkntiyNU5GZWv-cHvObw",
-      "url": "https://cdn-th-vip.login.in.th/ch8/ch8/chunklist_w238145399.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "98dbf7c2a69042ec028b0eb3c806cad7": {
       "name": "Universal",
       "logo": "https://i.ibb.co/MxZHkhvV/logo-universal.png",
-      "url": "http://49.0.64.96:8007/H-Channel",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "320b7f32f756b19cabba2a7ca732665d": {
       "name": "Movies1",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "http://49.0.64.96:8007/Cartoonumi",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "04973a6d038fecad4f0049a2ed8a4e81": {
       "name": "Movies2",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "http://49.0.64.96:8007/IZAA",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "15d7b61e310ac1daeea4e3603afbeddc": {
       "name": "Movies3",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "http://49.0.64.96:8007/SERIES",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "2693bed2cfcc891c13a44159f357a3f8": {
       "name": "Movies4",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "http://49.0.64.96:8007/PING",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "33231465ed384e18ff57c1d00c5bdd3b": {
       "name": "Movies5",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies6.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "840b8cc0e0fee9e39acd939a916c8861": {
       "name": "Movies6",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies7.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "fd4bad5632fb532ecec70abdbf4bd519": {
       "name": "Movies7",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies8.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "75dca0c117b7a40302cd17b4fad87d8a": {
       "name": "Movies8",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-oJ_rWPFW0yRAPCQoKKi0Mg3yVt8iKkLQPJHJWEBpc4bx4P4OrCTQF0diJjrcuWi4R8&usqp=CAU",
-      "url": "https://github.com/cattviptv2605/movies/raw/refs/heads/main/movies9.m3u8",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "d3a7f066a78372efd2144e4a9b45373c": {
       "name": "PoliceTV",
       "logo": "https://i.postimg.cc/fbzNzJSG/IMG-2597.png",
-      "url": "https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/mk/tg/n260103ad1hw9nxl00j0kmilejfutgmk-1-112111110023.mp4?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&os=akam&gen=playurlv3&oi=1740982113&trid=648b7c11ea1f432086fdf8af66326702i&mid=0&platform=html5&uipk=5&nbs=1&deadline=1776919679&upsig=c4e9537fd68947fbd0962901b70628a7&uparams=e,os,gen,oi,trid,mid,platform,uipk,nbs,deadline&hdnts=exp=1776919679~hmac=ee163e113f37c0e6fd12dfe9e5a035f10dee6a2fbb97f4d7b3b6c736b1911fbd&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "122293dfe4c8853b1b3fd2256ec5af2e": {
       "name": "อีสานทีวี",
       "logo": "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/108_y_1ag4BfHbDWT63hVJMuCwGKjIXdYnNv0q.png",
-      "url": "https://mvtv.co.th/play/play_mvtv.php?no=108&channel=อีสานทีวี",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "841a43dd8ac03cfe2a82baf722483211": {
       "name": "MV GO SPORT",
       "logo": "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png",
-      "url": "https://mvtv.co.th/play/play_mvtv.php?no=110&channel=MV%20GO%20SPORT",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "059987df240429cc45ab5f681bbe24d8": {
       "name": "MVNEWS",
       "logo": "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/197_y_EVPjZHiuMN3X8OIxTpnDz2y4raCLv7lw.png",
-      "url": "https://mvtv.co.th/play/play_mvtv.php?no=197&channel=MVNEWS",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "c6223ca0c5e24fbe4adc71313f4546d6": {
       "name": "test",
       "logo": "https://cms-mvtv-app-v2.v2h-cdn.com:8001/uploads/channel/197_y_EVPjZHiuMN3X8OIxTpnDz2y4raCLv7lw.png",
-      "url": "https://songkhlafocus.com/cctv-hatyai/?fbclid=IwY2xjawVPcP9leHRuA2FlbQIxMABwZG9mBWJyaWQRMTlxZ3VPMktncEF4V0hpT3BzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEf-bCc_3F0YTkq5wTAbag9blWvMOcHwOJHI_AGR4mw6aAg2Bz4QAHrRg1WR68_aem_owgZMKVKUYzp3-P31-p5_g",
-      "menu": "page_mwpti8wy",
-      "menus": [
-        "page_mwpti8wy"
-      ],
-      "group": "Digital TV"
+      "group": "Digital TV",
+      "menu": "page_mwpti8wy"
     },
     "b9b859cdb0b962bc2684027c2d536662": {
       "name": "MONOMAX1",
       "logo": "https://th.bing.com/th/id/OIP.xXOtHgdGtid0R0paoDmVHQHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
-      "url": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
-      "group": "MONOMAX"
+      "group": "MONOMAX",
+      "menu": "18+"
     },
     "c8423be039d2f3ba7f1e35e4e6e80b9c": {
       "name": "Monomax1-1",
       "logo": "https://th.bing.com/th/id/OIP.xXOtHgdGtid0R0paoDmVHQHaHa?w=158&h=180&c=7&r=0&o=7&dpr=1.1&pid=1.7&rm=3",
-      "url": "https://github.com/cattv976/sportthai/raw/refs/heads/main/MONOMAX1.m3u8",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
-      "group": "MONOMAX"
+      "group": "MONOMAX",
+      "menu": "18+"
+    },
+    "f895ddf878979466f8fa57773ef3680a": {
+      "name": "FTV Midnight",
+      "logo": "https://thumbor.prod.vidiocdn.com/OEYaQqe_DPwJWSxv9tstMJOhMio=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6504/fashion-tv-midnight-secrets-410bd7.jpg",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "c9f2823307a07ae9b99e2fd3dcfce75e": {
+      "name": "Fashiontv",
+      "logo": "https://play-lh.googleusercontent.com/SO05Jsh-ONrtRXa_5eOa15AzjrFCKNNPKlBMK1Prv_-meYXAV5F5eK15iJTGbY2ULBM",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "0fb803d87e35c7e813e15402dc12910f": {
+      "name": "A",
+      "logo": "https://i.ytimg.com/vi/qdrk7ih1k6A/hqdefault.jpg",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "a177637cc3b170383510ad2ddc80f5b0": {
+      "name": "Bigass",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "4f072b6dfb0d9171f366620c400a9da4": {
+      "name": "Bigass",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "047ed2243965cbe86911a10f642c6df5": {
+      "name": "Bigass",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "799098fe6e043a82dadc2966a1be0e65": {
+      "name": "Bigdick",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "41e71a8a0ba9e2369b8d6cecaffc2392": {
+      "name": "Bigdick",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "9c0126a038a364399923d92d4f695d60": {
+      "name": "Bigdick",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "decbfe5a81818f233605f8701762f717": {
+      "name": "Bigtits",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "b76707422943e7a54ab5eefc8dd9d428": {
+      "name": "Bigtits",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "307277964bef4daf0c6cee5d45044122": {
+      "name": "Blonde",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "96a7ddd216066e0d7d09ef708ac52253": {
+      "name": "Blonde",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "0c36d5da93ceaf4a56d87a3e7863c45d": {
+      "name": "Blowjob",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "49621257821a635c0c48fd6735d42512": {
+      "name": "Blowjob",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "24da02617df1e9170cd6dc65eaab0a83": {
+      "name": "Blowjob",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "30a7506a9183b1245c16049f1e05cf93": {
+      "name": "Blowjob",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "974ae23cacc36845e9e692745404d629": {
+      "name": "Compilation",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "356647a5bbc76c38b7fd1a1e2a231dbb": {
+      "name": "Cuckold",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "d717a72fc6826c1f5a20a3d38651e5d1": {
+      "name": "Cuckold",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "0621b6d97be52d1762a655aaf1b3b497": {
+      "name": "Fetish",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "bcc6b242d03ddf317620f9f4b125c40c": {
+      "name": "Fetish",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "1077ae6ca4d8fe8b1b12d14fe1c15988": {
+      "name": "Fetish",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "9c93d34012c842cafefdfd32fcd1be6d": {
+      "name": "Hardcore",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "e0a4b7e704a676bed111a68d1fadf941": {
+      "name": "Hardcore",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "8a8bdf5e8f2accd0188d6cc5fe161193": {
+      "name": "Hustler tv",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "2a788c640e724f24d7c43b89f6c6c0d5": {
+      "name": "Interracial",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "ce5ea6c6aa929a120a3d7ea09d45fe1e": {
+      "name": "Interracial",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "c6246871e35b6c6900889ebf5dcea0ad": {
+      "name": "Interracial",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "f24158decc964099b63aa02ea0c2918b": {
+      "name": "Interracial",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "370f916391e52647c8bc145b84c38d36": {
+      "name": "Latina",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "f13a5415ed89da2a3d6dd1ec50543d69": {
+      "name": "Latina",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "83ea66704cd690117abe876b32adfc88": {
+      "name": "Latina",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "c993b589062bea4fcb364bb29f8a8ce9": {
+      "name": "Latina",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "83e63dab05314e85bee220578aac6157": {
+      "name": "lesbian",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "71b490af5feac7612ba45ad2ff15800b": {
+      "name": "lesbian",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "f995f791707a11e0e6f37b78b9d91323": {
+      "name": "Live cams",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "e83c29b0f89b95a92220e2fb6d41f1d3": {
+      "name": "Miami tv mexico",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "2f76a42c620b15f557fb797cf8bb2463": {
+      "name": "Miami TV Latino",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "4e3ccd2450586e5114f13eeaa3af7862": {
+      "name": "Miami",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "dbb2981e355b84cb603b803914c4b631": {
+      "name": "Milf",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "7fee81a4633e065a6ba7cbbf04e5af65": {
+      "name": "Milf",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "00e4211dd18d9105d0a6a725bffa4360": {
+      "name": "Milf",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "1a3afea80b6390c195ee47630d9ecf94": {
+      "name": "Milf",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "133380159156312e8ec90399efe3616a": {
+      "name": "Milf",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "da256da5e78b35d62d9eef16f36b17ee": {
+      "name": "Penthousepassion tv",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "5b4fe4ff31d42488398a257802ed9917": {
+      "name": "Peque Peque",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "f8109062a010917e1e9fc9966c5f08ee": {
+      "name": "Pornstar",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "4acefdac3bfc35b2e1c5b815c1f4d899": {
+      "name": "Pornstar",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "5f03956a7a330dd5f5bf105d207406a4": {
+      "name": "Pornstar",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "3cf3f62053b30b19f11b0f80045a745c": {
+      "name": "POV",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "57f511f0df2bb3c45b505b0ee59663bc": {
+      "name": "POV",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "3fac2f8f58014999e7ec30eeaee85b8c": {
+      "name": "POV",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "c62c0bdc1485e4e1e4379cd704e5223c": {
+      "name": "POV",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "13365e64c21740823cd1feee97f7d5bd": {
+      "name": "Rough",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "d17b74f7b241363c0654e429b0e913ad": {
+      "name": "Russian",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "26cd8e610c7c92ed612d5f39211fbdf6": {
+      "name": "Russian",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "9dd9f79dd4f8e909600960d7433a74dd": {
+      "name": "Smoking",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "d385fd59459caeb01dad8b8660f8e5a5": {
+      "name": "Teen",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "5dde90b26ef7a9b9b911bf68d96698ab": {
+      "name": "Teen",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "13032e63947eb1984639424634bf1516": {
+      "name": "Teen",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "8ce1263b5354ab47354a28c963d82dcd": {
+      "name": "teen",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "99496ba645854d32c84c1550e3adf971": {
+      "name": "teen",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "d542cb180d59188604627a224d6b7f61": {
+      "name": "Threesome",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "bb0b1e958c6df5ba4932b4103de1cba7": {
+      "name": "Threesome",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "1e9c8d2d8e287d6bcb55f41ba6182954": {
+      "name": "VXTV",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "afdc47b90c597dc3c578e9e243480abd": {
+      "name": "VXTV",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "ec4aea6702b2acdb30cc194cd44b3fb9": {
+      "name": "Gangbang",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "9ceb0208f5b0497c29b71475207ea64a": {
+      "name": "Anal",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "dd4424a1f6b29801b70a0f64ad407d70": {
+      "name": "Anal",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "68ac8871c2a3c0389d9957c83db0ac7c": {
+      "name": "Brunette",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "7d673ccceb6dc55f9330b07b56301351": {
+      "name": "Brunette",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "84e6641f022638043534b7f45a2f916c": {
+      "name": "Gay",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "9f0100c5383f65ee63252bc3f205fbef": {
+      "name": "Asian",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "776c83a804517e7e64aabb5bd937c32a": {
+      "name": "Asian",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "ec044e2edb2998bda2512e039a6dcea3": {
+      "name": "Young Girls",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "11187236681bc1ece1bed8ba00fdf05b": {
+      "name": "Arab",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "4bf3092b9d317fe239eb8f1370dbab74": {
+      "name": "Ebony",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "19dcb952c3b8db9da67b023358b38b10": {
+      "name": "White",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "118360f3e1d2d4334f667c2b8557f8a6": {
+      "name": "Squirt",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
+    },
+    "122f46b3c9843b278a54ce1bc709dc04": {
+      "name": "Skiny",
+      "logo": "https://img2.pic.in.th/pic/18live.png",
+      "group": "18+Live-011",
+      "menu": "18+"
     }
   },
   "folderEdits": {},
