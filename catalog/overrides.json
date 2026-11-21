@@ -1,10 +1,10 @@
 {
   "version": 2,
   "catalogVersion": 2,
-  "generatedAt": "2026-11-21T02:20:02.663Z",
+  "generatedAt": "2026-11-21T02:49:39.288Z",
   "summary": {
     "totalFolders": 2,
-    "totalVideos": 267,
+    "totalVideos": 269,
     "heroesConfigured": 0
   },
   "sources": [
@@ -34,7 +34,8 @@
       "เรื่องหลอนๆ": "series",
       "หนัง": "movies",
       "ทดสอบ": "movies",
-      "หนังใหม่ 2006": "movies"
+      "หนังใหม่ 2006": "movies",
+      "18+": "movies"
     },
     "titles": {},
     "hidden": [
@@ -42,7 +43,8 @@
     ],
     "heroes": {},
     "limits": {
-      "ทดสอบ": 20
+      "ทดสอบ": 20,
+      "18+": 20
     }
   },
   "heroes": {},
@@ -76,11 +78,11 @@
           "group": "หนังใหม่ 2006",
           "items": [
             {
-              "id": "bba4d9e60fe48ee4450cac38305d07b1",
-              "name": "The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/3c403f56265a1ff60b2df342/3c403f56265a1ff60b2df342.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Bad-Guys-2-2025-วายร้ายพันธุ์ดี-2.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "60524dc0d4fba9a6184064b01bab1c1b",
+              "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -90,11 +92,11 @@
               "isYouTube": false
             },
             {
-              "id": "e8aa96ab3e237ac8257c8e23e6f9aba9",
-              "name": "M3GAN 2.0 (2025) เมแกน 2.0",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/bf5d05c1c98b587e4689ecda/bf5d05c1c98b587e4689ecda.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/06/M3GAN-2.0-2025-เมแกน-2.0.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "25f5ea75cc57925580e5096fb8d25e03",
+              "name": "Never After Dark (2026) ม���ดค่ำ อย่า! ย่างกราย",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110098/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/jguB76QbAx6yExiOLIPvOaxW95b-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -104,11 +106,11 @@
               "isYouTube": false
             },
             {
-              "id": "4706ee7ce367783e93f07b65a0ed090d",
-              "name": "Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/ca1cafa70bedd79d9ed61524/ca1cafa70bedd79d9ed61524.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-2025-ดาบพิฆาตอสูร-ภาคปราสาทไร้ขอบเขต.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "862603127025157f13d431e3326d5fe3",
+              "name": "A Story of Derry (2026) เรื่องราวของเดอร์รี่",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110094/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/hcJzOspkHAjPzXs5Y2KrhphA2oj-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -118,11 +120,39 @@
               "isYouTube": false
             },
             {
-              "id": "367754802cffc47916f701a19a62c7ba",
-              "name": "Elio (2025) เอลิโอ",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/28286f39847a125a2da31e93/28286f39847a125a2da31e93.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/06/Elio-2025-เอลิโอ.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "e77046d160940d0cc1f784e6ab20e31e",
+              "name": "นาคี 3 ครุฑา นาคี (2026) Nakee 3: The Cursed War",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110041/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/10/sfVC55w5M4lSILmtqOX2lBYcM04.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "ab98b773b15628cfc856ba7ca05dcc7f",
+              "name": "Isla (2026)",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109674/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/clGpGnasLM0ghJb56maKD5CawGl.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "210ed7b0c8c368d6d590f19ad15c450e",
+              "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -270,11 +300,11 @@
     "movies": {
       "title": "movies",
       "hero": {
-        "id": "bba4d9e60fe48ee4450cac38305d07b1",
-        "name": "The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2",
-        "streamUrl": "https://main.24playerhd.com/newplaylist/3c403f56265a1ff60b2df342/3c403f56265a1ff60b2df342.m3u8",
-        "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Bad-Guys-2-2025-วายร้ายพันธุ์ดี-2.png",
-        "groupTitle": "หนัง Zoom",
+        "id": "60524dc0d4fba9a6184064b01bab1c1b",
+        "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
+        "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
+        "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
+        "groupTitle": "หนังใหม่ 2006",
         "groups": [
           "หนังใหม่ 2006"
         ],
@@ -289,11 +319,11 @@
           "group": "หนังใหม่ 2006",
           "items": [
             {
-              "id": "bba4d9e60fe48ee4450cac38305d07b1",
-              "name": "The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/3c403f56265a1ff60b2df342/3c403f56265a1ff60b2df342.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Bad-Guys-2-2025-วายร้ายพันธุ์ดี-2.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "60524dc0d4fba9a6184064b01bab1c1b",
+              "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -303,11 +333,11 @@
               "isYouTube": false
             },
             {
-              "id": "e8aa96ab3e237ac8257c8e23e6f9aba9",
-              "name": "M3GAN 2.0 (2025) เมแกน 2.0",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/bf5d05c1c98b587e4689ecda/bf5d05c1c98b587e4689ecda.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/06/M3GAN-2.0-2025-เมแกน-2.0.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "25f5ea75cc57925580e5096fb8d25e03",
+              "name": "Never After Dark (2026) ม���ดค่ำ อย่า! ย่างกราย",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110098/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/jguB76QbAx6yExiOLIPvOaxW95b-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -317,11 +347,11 @@
               "isYouTube": false
             },
             {
-              "id": "4706ee7ce367783e93f07b65a0ed090d",
-              "name": "Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/ca1cafa70bedd79d9ed61524/ca1cafa70bedd79d9ed61524.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-2025-ดาบพิฆาตอสูร-ภาคปราสาทไร้ขอบเขต.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "862603127025157f13d431e3326d5fe3",
+              "name": "A Story of Derry (2026) เรื่องราวของเดอร์รี่",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110094/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/hcJzOspkHAjPzXs5Y2KrhphA2oj-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -331,11 +361,39 @@
               "isYouTube": false
             },
             {
-              "id": "367754802cffc47916f701a19a62c7ba",
-              "name": "Elio (2025) เอลิโอ",
-              "streamUrl": "https://main.24playerhd.com/newplaylist/28286f39847a125a2da31e93/28286f39847a125a2da31e93.m3u8",
-              "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/06/Elio-2025-เอลิโอ.png",
-              "groupTitle": "หนัง Zoom",
+              "id": "e77046d160940d0cc1f784e6ab20e31e",
+              "name": "นาคี 3 ครุฑา นาคี (2026) Nakee 3: The Cursed War",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110041/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/10/sfVC55w5M4lSILmtqOX2lBYcM04.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "ab98b773b15628cfc856ba7ca05dcc7f",
+              "name": "Isla (2026)",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109674/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/clGpGnasLM0ghJb56maKD5CawGl.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "210ed7b0c8c368d6d590f19ad15c450e",
+              "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+              "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
               ],
@@ -1379,8 +1437,8 @@
       "videoId": "qps6v7bJaBA"
     },
     {
-      "id": "f499e834aed8e4495c453e522953ffea",
-      "name": "บ้านหลังสุดท้าย ( หนองบัวลำภู ) - ห���อนสเปเชียล / PODCAST EP. 258",
+      "id": "600eb810dee7ca5e83acc39355e1cdd0",
+      "name": "บ้านหลังสุดท้าย ( หนองบัวลำภู ) - ห��อนสเปเชียล / PODCAST EP. 258",
       "streamUrl": "https://www.youtube.com/watch?v=3dWj1zjSN-k",
       "logoUrl": "https://i.ytimg.com/vi/3dWj1zjSN-k/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -1904,8 +1962,8 @@
       "videoId": "PR24R8gBZsY"
     },
     {
-      "id": "ce61788a4ba9cf771443077390074b71",
-      "name": "อาถรรพ์ 402 ( บางนาตราด ) - หลอนสเปเชียล / PODCAST EP. 233",
+      "id": "6d61cd9c1912b26f107813809e15db78",
+      "name": "อาถรรพ์ 402 ( บางนาตร���ด ) - หลอนสเปเชียล / PODCAST EP. 233",
       "streamUrl": "https://www.youtube.com/watch?v=pD84ZugKuLU",
       "logoUrl": "https://i.ytimg.com/vi/pD84ZugKuLU/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -1988,8 +2046,8 @@
       "videoId": "TZJ_GIqYzr4"
     },
     {
-      "id": "fe826368ffc5b7ae14b44f2d0b091375",
-      "name": "ปลายทางวัดร้าง ( บางบัวทอง ) - ���ลอนสเปเชียล / PODCAST EP. 229",
+      "id": "cbf21293ee5dcf192a3f5905a6f7fe55",
+      "name": "ปลายทางวัดร้าง ( บางบัวทอง ) - หลอนสเปเชียล / PODCAST EP. 229",
       "streamUrl": "https://www.youtube.com/watch?v=OX9xhh50xms",
       "logoUrl": "https://i.ytimg.com/vi/OX9xhh50xms/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2135,8 +2193,8 @@
       "videoId": "2cTbe5jc8Nw"
     },
     {
-      "id": "bc4e7756b93465b53219871913c8acd6",
-      "name": "เธอขอให้ไปส่ง ( ราชพฤกษ์ ) - หลอนสเปเช��ยล / PODCAST EP. 222",
+      "id": "e74bd63f10f26799059c70389f46bb75",
+      "name": "เธอขอให้ไปส่ง ( ราชพฤกษ์ ) - หลอนสเปเชียล / PODCAST EP. 222",
       "streamUrl": "https://www.youtube.com/watch?v=MgLu3iidWnM",
       "logoUrl": "https://i.ytimg.com/vi/MgLu3iidWnM/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2366,8 +2424,8 @@
       "videoId": "A8hQh5yaY90"
     },
     {
-      "id": "9587c544d83ba61ea45bb955cc8a0779",
-      "name": "ลูกค้���ประจำ ( บางเขน ) - หลอนสเปเชียล / PODCAST EP. 211",
+      "id": "a0c6660de536e2979fcf5dec6fdab0a3",
+      "name": "ลูกค้าประจำ ( บางเขน ) - หลอนสเปเชียล / PODCAST EP. 211",
       "streamUrl": "https://www.youtube.com/watch?v=JpO1Bh8c9e8",
       "logoUrl": "https://i.ytimg.com/vi/JpO1Bh8c9e8/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2660,8 +2718,8 @@
       "videoId": "8uaD5F2KxAA"
     },
     {
-      "id": "358f8ba5fdee4932cf0159cedde69fd6",
-      "name": "คืนออกทริป ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 199",
+      "id": "15fdd6ec1d590664988e62a8fe4299ee",
+      "name": "คืนออกทริป ( กาญจนบุรี ) - หลอ���สเปเชียล / PODCAST EP. 199",
       "streamUrl": "https://www.youtube.com/watch?v=KQFJx3gB3Es",
       "logoUrl": "https://i.ytimg.com/vi/KQFJx3gB3Es/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2744,8 +2802,8 @@
       "videoId": "t4B_vWWcFiY"
     },
     {
-      "id": "3872d83ec886b244555ecd798a62f246",
-      "name": "รุ่นน้องที่มหาลัย ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 195",
+      "id": "f95eabe3039a7917913c14c8dc9dd504",
+      "name": "รุ่นน้องที่ม��าลัย ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 195",
       "streamUrl": "https://www.youtube.com/watch?v=EAQETsF7Np0",
       "logoUrl": "https://i.ytimg.com/vi/EAQETsF7Np0/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2891,8 +2949,8 @@
       "videoId": "M7OqAr39x2E"
     },
     {
-      "id": "2a1213c6556b51f3efe48742c1cd82e7",
-      "name": "เ��้าตัวมาเอง ( นครราชสีมา ) - หลอนสเปเชียล / PODCAST EP. 188",
+      "id": "49524552ea3494f0769903fe9d934314",
+      "name": "เจ้าตัวมาเอง ( นครราชสีมา ) - หลอนสเปเชียล / PODCAST EP. 188",
       "streamUrl": "https://www.youtube.com/watch?v=yhW9h1kC1qc",
       "logoUrl": "https://i.ytimg.com/vi/yhW9h1kC1qc/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3395,8 +3453,8 @@
       "videoId": "YWWS8jfmjic"
     },
     {
-      "id": "d4c4976bf6dc35e52a4b0b312e184476",
-      "name": "หลอนทั้งหมู่บ้าน ( สุรินทร์ ) - หลอนสเปเชียล / PODCAST EP. 162",
+      "id": "ae4da89dcf77ab4d273a9733fe155e2c",
+      "name": "หลอนทั้งหมู่บ้าน ( สุรินทร��� ) - หลอนสเปเชียล / PODCAST EP. 162",
       "streamUrl": "https://www.youtube.com/watch?v=1cmHiaRCToY",
       "logoUrl": "https://i.ytimg.com/vi/1cmHiaRCToY/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3458,8 +3516,8 @@
       "videoId": "vHC5_s2gKUU"
     },
     {
-      "id": "31bcb726d144fb36ecae3c87f5369932",
-      "name": "สยองคืนงานศพ ( สระแก้ว ) - หลอนส��ปเชียล / PODCAST EP. 158",
+      "id": "3a7cc98fd5f72392f55ffc3c0c23c3e1",
+      "name": "สยองคืนงานศพ ( สระแก้ว ) - หลอนสเปเชียล / PODCAST EP. 158",
       "streamUrl": "https://www.youtube.com/watch?v=6fbKl0aXOFk",
       "logoUrl": "https://i.ytimg.com/vi/6fbKl0aXOFk/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3479,8 +3537,8 @@
       "videoId": "6fbKl0aXOFk"
     },
     {
-      "id": "dbd44f938282936d0671ee5f34357d48",
-      "name": "จำเป็นต้องย้าย ( ปุทมธานี ) - หลอนสเปเชียล / PODCAST EP. 156",
+      "id": "a584f88a42c4225807dadf6f53cb6e22",
+      "name": "จำเป็นต้อ���ย้าย ( ปุทมธานี ) - หลอนสเปเชียล / PODCAST EP. 156",
       "streamUrl": "https://www.youtube.com/watch?v=uZIsML2_DFo",
       "logoUrl": "https://i.ytimg.com/vi/uZIsML2_DFo/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3584,8 +3642,8 @@
       "videoId": "UdyTxE2P7Y4"
     },
     {
-      "id": "7a923415dcc354b104308d5d5b794dc4",
-      "name": "เพื่อนร่วมห้อง ( รามคำแหง ) - หลอนสเปเชียล / PODCAST EP. 151",
+      "id": "8107e8fa6b068710a77bdd7c539c7f47",
+      "name": "เพื่อนร่วมห้อง ( รามคำแหง ) - หล���นสเปเชียล / PODCAST EP. 151",
       "streamUrl": "https://www.youtube.com/watch?v=LVoZ1IZc6zc",
       "logoUrl": "https://i.ytimg.com/vi/LVoZ1IZc6zc/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3668,8 +3726,8 @@
       "videoId": "tV7YOU-6N_U"
     },
     {
-      "id": "ddbf8180c4cf6623b5e840f938a8c39e",
-      "name": "คืนที่โชคร้าย ( จ.นครพนม ) - หลอนสเปเชียล / PODCAST EP. 147",
+      "id": "17eabb3c3bdec19496a6da21c28ecfcf",
+      "name": "คืนที่โชคร้าย ( จ.น��รพนม ) - หลอนสเปเชียล / PODCAST EP. 147",
       "streamUrl": "https://www.youtube.com/watch?v=4D7O4N9xpz0",
       "logoUrl": "https://i.ytimg.com/vi/4D7O4N9xpz0/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3752,8 +3810,8 @@
       "videoId": "MvOW7neyvxY"
     },
     {
-      "id": "47af96476ef40ec372af41a442185ee9",
-      "name": "รู้ทั้งหมู่บ้าน ( จ.นนทบุรี ) - หลอนสเปเชียล / PODCAST EP. 142",
+      "id": "16363e6806d0d83d9a8fecac49017c6f",
+      "name": "รู้ทั้งหม���่บ้าน ( จ.นนทบุรี ) - หลอนสเปเชียล / PODCAST EP. 142",
       "streamUrl": "https://www.youtube.com/watch?v=cnfML15lhM4",
       "logoUrl": "https://i.ytimg.com/vi/cnfML15lhM4/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4004,8 +4062,8 @@
       "videoId": "2y3gymE5wpE"
     },
     {
-      "id": "acfaad1843e98a237b57d287844f0298",
-      "name": "ช่ว��ไม่ทัน ( พุทธมณฑลสาย 4 ) - หลอนสเปเชียล / PODCAST EP. 130",
+      "id": "422cca1e016a04ddf6951d04d6d5868e",
+      "name": "ช่วยไม่ทัน ( พุทธมณฑลสาย 4 ) - หลอนสเปเชียล / PODCAST EP. 130",
       "streamUrl": "https://www.youtube.com/watch?v=fbHvdru4liA",
       "logoUrl": "https://i.ytimg.com/vi/fbHvdru4liA/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4151,8 +4209,8 @@
       "videoId": "Dkdab2Rw3OM"
     },
     {
-      "id": "eb2609dc1bf9a4a54799269d202380cb",
-      "name": "พี่น้องสยองขวัญ ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 123",
+      "id": "9278afff3b5dc6a0cda1e064f79f1622",
+      "name": "พี่น้องสยองขวัญ ( ลาดพร้าว ) - หลอนสเปเชี��ล / PODCAST EP. 123",
       "streamUrl": "https://www.youtube.com/watch?v=XSJ9ynleL-0",
       "logoUrl": "https://i.ytimg.com/vi/XSJ9ynleL-0/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4319,8 +4377,8 @@
       "videoId": "e6D5UcUS-ok"
     },
     {
-      "id": "699ae61f63b04767cc003c5305c8fc24",
-      "name": "คืนดวงตก ( ศรีนครินทร์ ) - หลอนสเปเชียล / PODCAST EP. 114",
+      "id": "c7ca151befa43cae6abc0b37060dfeca",
+      "name": "คืนดวงตก ( ศรีนคริน���ร์ ) - หลอนสเปเชียล / PODCAST EP. 114",
       "streamUrl": "https://www.youtube.com/watch?v=sai4NzHdX4c",
       "logoUrl": "https://i.ytimg.com/vi/sai4NzHdX4c/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5894,8 +5952,8 @@
       "videoId": "qZgDWZlBKfg"
     },
     {
-      "id": "408d0c76b82e27633afd56ce96a4a5f1",
-      "name": "เพื่อนใหม่ - หลอนสเปเชียล / PODCAST EP. 33",
+      "id": "d98c129d84915e5635998ba1394a46c0",
+      "name": "เพื่อนใหม่ - หลอนสเปเช��ยล / PODCAST EP. 33",
       "streamUrl": "https://www.youtube.com/watch?v=HKn2QnmDq4M",
       "logoUrl": "https://i.ytimg.com/vi/HKn2QnmDq4M/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5957,8 +6015,8 @@
       "videoId": "jEI28gE_o8s"
     },
     {
-      "id": "6d23dde549a970e85d0645f298e1e8f6",
-      "name": "ผิดคำสัญญา - หลอ��สเปเชียล / PODCAST EP. 28",
+      "id": "c104872fcd0de5813a1d5866563b413e",
+      "name": "ผิดคำสัญญา - หลอนสเปเชียล / PODCAST EP. 28",
       "streamUrl": "https://www.youtube.com/watch?v=K7lygYEixA8",
       "logoUrl": "https://i.ytimg.com/vi/K7lygYEixA8/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -6146,8 +6204,8 @@
       "videoId": "flMfx-OYJiQ"
     },
     {
-      "id": "31bf88236df985b4d7bb14b6a81b402b",
-      "name": "ช่วยยายซื้อหน่อย - หลอนสเปเชียล / PODCAST EP. 15",
+      "id": "790fd00e1b734a32d3a605fe2180d29d",
+      "name": "ช่วยยายซื��อหน่อย - หลอนสเปเชียล / PODCAST EP. 15",
       "streamUrl": "https://www.youtube.com/watch?v=EXiXF16WdZQ",
       "logoUrl": "https://i.ytimg.com/vi/EXiXF16WdZQ/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -6356,11 +6414,11 @@
       "videoId": "a_8N8gFK988"
     },
     {
-      "id": "bba4d9e60fe48ee4450cac38305d07b1",
-      "name": "The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2",
-      "streamUrl": "https://main.24playerhd.com/newplaylist/3c403f56265a1ff60b2df342/3c403f56265a1ff60b2df342.m3u8",
-      "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Bad-Guys-2-2025-วายร้ายพันธุ์ดี-2.png",
-      "groupTitle": "หนัง Zoom",
+      "id": "60524dc0d4fba9a6184064b01bab1c1b",
+      "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
+      "groupTitle": "หนังใหม่ 2006",
       "groups": [
         "หนังใหม่ 2006"
       ],
@@ -6370,11 +6428,11 @@
       "isYouTube": false
     },
     {
-      "id": "e8aa96ab3e237ac8257c8e23e6f9aba9",
-      "name": "M3GAN 2.0 (2025) เมแกน 2.0",
-      "streamUrl": "https://main.24playerhd.com/newplaylist/bf5d05c1c98b587e4689ecda/bf5d05c1c98b587e4689ecda.m3u8",
-      "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/06/M3GAN-2.0-2025-เมแกน-2.0.png",
-      "groupTitle": "หนัง Zoom",
+      "id": "25f5ea75cc57925580e5096fb8d25e03",
+      "name": "Never After Dark (2026) ม���ดค่ำ อย่า! ย่างกราย",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110098/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/jguB76QbAx6yExiOLIPvOaxW95b-scaled-1.jpg",
+      "groupTitle": "หนังใหม่ 2006",
       "groups": [
         "หนังใหม่ 2006"
       ],
@@ -6384,11 +6442,11 @@
       "isYouTube": false
     },
     {
-      "id": "4706ee7ce367783e93f07b65a0ed090d",
-      "name": "Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต",
-      "streamUrl": "https://main.24playerhd.com/newplaylist/ca1cafa70bedd79d9ed61524/ca1cafa70bedd79d9ed61524.m3u8",
-      "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-2025-ดาบพิฆาตอสูร-ภาคปราสาทไร้ขอบเขต.png",
-      "groupTitle": "หนัง Zoom",
+      "id": "862603127025157f13d431e3326d5fe3",
+      "name": "A Story of Derry (2026) เรื่องราวของเดอร์รี่",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110094/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/11/hcJzOspkHAjPzXs5Y2KrhphA2oj-scaled-1.jpg",
+      "groupTitle": "หนังใหม่ 2006",
       "groups": [
         "หนังใหม่ 2006"
       ],
@@ -6398,11 +6456,39 @@
       "isYouTube": false
     },
     {
-      "id": "367754802cffc47916f701a19a62c7ba",
-      "name": "Elio (2025) เอลิโอ",
-      "streamUrl": "https://main.24playerhd.com/newplaylist/28286f39847a125a2da31e93/28286f39847a125a2da31e93.m3u8",
-      "logoUrl": "https://www.123hdtv.com/wp-content/uploads/2025/06/Elio-2025-เอลิโอ.png",
-      "groupTitle": "หนัง Zoom",
+      "id": "e77046d160940d0cc1f784e6ab20e31e",
+      "name": "นาคี 3 ครุฑา นาคี (2026) Nakee 3: The Cursed War",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/110041/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/10/sfVC55w5M4lSILmtqOX2lBYcM04.jpg",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "showOnHome": true,
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false
+    },
+    {
+      "id": "ab98b773b15628cfc856ba7ca05dcc7f",
+      "name": "Isla (2026)",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109674/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/clGpGnasLM0ghJb56maKD5CawGl.jpg",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "showOnHome": true,
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false
+    },
+    {
+      "id": "210ed7b0c8c368d6d590f19ad15c450e",
+      "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+      "groupTitle": "หนังใหม่ 2006",
       "groups": [
         "หนังใหม่ 2006"
       ],
@@ -7158,7 +7244,7 @@
       "logo": "https://bbk100.xyz/media/cache/strip/202107/movie/d89239923d054f13fa7dd81911564e4a.png",
       "menu": "series",
       "seriesTitle": "Anime_1",
-      "episode": "Wreck-It Ralph (2012) ราล์ฟ วายร้ายหัวใจฮีโร่"
+      "episode": "Wreck-It Ralph (2012) �������าล์ฟ วายร้ายหัวใจฮีโร่"
     },
     "1034c2352150d1599926a243da84fc60": {
       "name": "Anime_1 - ตอนที่ 3 (2017)",
@@ -7651,7 +7737,7 @@
       "episode": "ดูอนิเมะ Spy x Family Season 2 (2023) สปาย x แฟมิลี"
     },
     "e977ae79029f6f01136bb3738920287c": {
-      "name": "Anime_2 - ดูอนิเมะ Tate no Yuusha no Nariagari Season 3 (2023) ผู้กล��าโล่ผงาด",
+      "name": "Anime_2 - ดูอนิเมะ Tate no Yuusha no Nariagari Season 3 (2023) ผู้กล้าโล่ผงาด",
       "logo": "https://bbk100.xyz/media/cache/strip/202401/movie/715d812dd697f492c5d9933d9c11aa7c.jpg",
       "menu": "series",
       "seriesTitle": "Anime_2",
@@ -8268,7 +8354,7 @@
     },
     "b0e4d9a5ca334983bd228df2c8605602": {
       "name": "Anime_3 - Swallowed Star Showdown on Primeval Star (2026) มหาศึกล้างพิภพ ตอน ศึกชี้ชะตาแห่งดาวบุพกาล",
-      "logo": "https://www.123-hds.com/wp-content/uploads/2026/05/Swallowed-Star-Showdown-on-Primeval-Star-2026-มหาศึกล้างพิภพ-ตอน-ศึกชี้ชะตาแห่งดาวบุพกาล-300x450.png",
+      "logo": "https://www.123-hds.com/wp-content/uploads/2026/05/Swallowed-Star-Showdown-on-Primeval-Star-2026-มหาศึก���้���ง���ิภพ-ตอน-ศึกชี้ชะตาแห่งดาวบุพกาล-300x450.png",
       "menu": "series",
       "seriesTitle": "Anime_3",
       "episode": "Swallowed Star Showdown on Primeval Star (2026) มหาศึกล้างพิภพ ตอน ศึกชี้ชะตาแห่งดาวบุพกาล"
@@ -8827,7 +8913,7 @@
       "episode": "Pui Pui Molcar the Movie Molmax (2024) ปุยปุย มอลก้า เดอะ มูฟวี่ มอลแม็กซ์"
     },
     "aee1eef0b76f8cb1b0cb8b61bde5904c": {
-      "name": "Anime_3 - Moana (2016) โมอาน่า ผจ���ภัยตำนานหมู่เกาะทะเลใต้",
+      "name": "Anime_3 - Moana (2016) โมอาน่า ผจญภัยตำนานหมู่เกาะทะเลใต้",
       "logo": "https://www.123-hds.com/wp-content/uploads/2021/06/Moana-300x450.png",
       "menu": "series",
       "seriesTitle": "Anime_3",
@@ -9216,7 +9302,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=161706&type=animeindy&hash=e968720398c920d580b2b065bf9adfec",
       "menu": "series",
       "seriesTitle": "Shenguo Zhi Shang เหนือแดนเทพ ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 1"
+      "episode": "ตอนท��่ 1"
     },
     "d71b54fd6a2d5e5a7b44574252a8ada9": {
       "name": "Shenguo Zhi Shang เหนือแดนเทพ ตอนที่ 1-8 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
@@ -9635,7 +9721,7 @@
       "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY - ตอนที่ 53",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=122317&type=animeindy&hash=06e879c7c93651a1dfdce19c1bf3cb16",
       "menu": "series",
-      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถั���เลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมย��ทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 53"
     },
     "754c89194b8628c30b0c8ac6b6ca86e9": {
@@ -9842,7 +9928,7 @@
       "episode": "ตอนที่ 82"
     },
     "92f10e7affefba820b07e6bfefae811c": {
-      "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY - ตอนที่ 83",
+      "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจ��แดน ���อนท���่ 1-115 พากย์ไทย - ANIMEiNDY - ตอนที่ 83",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=122317&type=animeindy&hash=06e879c7c93651a1dfdce19c1bf3cb16",
       "menu": "series",
       "seriesTitle": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
@@ -9852,7 +9938,7 @@
       "name": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY - ตอนที่ 84",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=122317&type=animeindy&hash=06e879c7c93651a1dfdce19c1bf3cb16",
       "menu": "series",
-      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแดน ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Douluo Dalu 2 - ตำนานจอมยุทธ์ภูตถังซาน 2: สำนักถังเลิศภพจบแด�� ตอนที่ 1-115 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 84"
     },
     "6e7455b8a0eb25ffcd8622ab9e47dd94": {
@@ -12103,7 +12189,7 @@
       "episode": "ตอนที่ 65"
     },
     "b13e515d241e9069f736cf81896fb3a2": {
-      "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 66",
+      "name": "Perfect World โลกอันสมบูรณ์แบบ ต��นที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 66",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=125814&type=animeindy&hash=845de87d2d4b7fcaaf7b6508c15aa47a",
       "menu": "series",
       "seriesTitle": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY",
@@ -12117,7 +12203,7 @@
       "episode": "ตอนที่ 67"
     },
     "5fd7bb1e4affe3d705eb85fc56dc6c4d": {
-      "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 68",
+      "name": "Perfect World โลกอันสมบูรณ์แบ�� ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 68",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=125814&type=animeindy&hash=845de87d2d4b7fcaaf7b6508c15aa47a",
       "menu": "series",
       "seriesTitle": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY",
@@ -12901,7 +12987,7 @@
       "episode": "ตอนที่ 179"
     },
     "5a3878aa308e575cce6d34a21962ddaa": {
-      "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที่ 180",
+      "name": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY - ตอนที��� 180",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=125814&type=animeindy&hash=845de87d2d4b7fcaaf7b6508c15aa47a",
       "menu": "series",
       "seriesTitle": "Perfect World โลกอันสมบูรณ์แบบ ตอนที่ 1-224 พากย์ไทย - ANIMEiNDY",
@@ -13587,7 +13673,7 @@
       "episode": "ตอนที่ 1"
     },
     "a41c32849a749a6727f27e4ed1c45540": {
-      "name": "Gachiakuta กาชิอากุตะ ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Gachiakuta กาชิอากุตะ ��อนที่ 1-9 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=161697&type=animeindy&hash=e9dcbc96835935d640bfd5749db13ceb",
       "menu": "series",
       "seriesTitle": "Gachiakuta กาชิอากุตะ ตอนที่ 1-9 พากย์ไทย - ANIMEiNDY",
@@ -13779,7 +13865,7 @@
       "name": "Youkai Gakkou No Sensei Hajimemashita! คุณครูโรงเรียนปีศาจ รายงานตัวแล้วครับ! ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=161689&type=animeindy&hash=2f9cbf2bf431bb51ec5b86abcc9ce17d",
       "menu": "series",
-      "seriesTitle": "Youkai Gakkou No Sensei Hajimemashita! คุณครูโรงเรียนปีศาจ รายงานตัวแล้วครับ! ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Youkai Gakkou No Sensei Hajimemashita! คุณครูโรงเรียนปีศาจ รายงานต���วแล้วครับ! ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "18ced02984565b13466c33d6de4d60bf": {
@@ -14311,7 +14397,7 @@
       "name": "Sono Bisque Doll Wa Koi Wo Suru หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=87804&type=animeindy&hash=3db4c33ddcb5654e59e417872b1e68c1",
       "menu": "series",
-      "seriesTitle": "Sono Bisque Doll Wa Koi Wo Suru หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Sono Bisque Doll Wa Koi Wo Suru หนุ่มเย็บผ้ากับสาวนักคอสเพลย์ ��อนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 9"
     },
     "736a98ddd6b3496eb8edf86b6352fdb2": {
@@ -14451,7 +14537,7 @@
       "name": "Kamonohashi Ron No Kindan Suiri สืบลับฉบับคาโมโนะฮาชิ รอน ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=135503&type=animeindy&hash=73944aee68fd5765ad7f3524deb6ef69",
       "menu": "series",
-      "seriesTitle": "Kamonohashi Ron No Kindan Suiri สืบลับฉ���ับคาโมโนะฮาชิ รอน ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kamonohashi Ron No Kindan Suiri สืบลับฉบับคาโมโนะฮาชิ รอน ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 5"
     },
     "3f6ab8f53fc7cf9748938b5d0e8cb052": {
@@ -15221,7 +15307,7 @@
       "name": "Akuyaku Reijou Tensei Ojisan เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=155423&type=animeindy&hash=0f30ac0df45f5e78653af2ff8d452aad",
       "menu": "series",
-      "seriesTitle": "Akuyaku Reijou Tensei Ojisan เมื่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่า��โลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Akuyaku Reijou Tensei Ojisan เม��่อตาลุงเกิดใหม่เป็นนางร้ายที่ต่างโลก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 10"
     },
     "049e5c5919d5786510e6adb99fdf073e": {
@@ -15988,7 +16074,7 @@
       "episode": "ตอนที่ 19"
     },
     "65b1c008d838bbdcde59d0810f41abbf": {
-      "name": "Ao No Hako กล่องรักวัยใส ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที่ 20",
+      "name": "Ao No Hako กล่องรักวัยใส ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที��� 20",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=154853&type=animeindy&hash=1792fcf511996f5424392599a3ad06fe",
       "menu": "series",
       "seriesTitle": "Ao No Hako กล่องรักวัยใส ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
@@ -16439,7 +16525,7 @@
       "name": "Watashi No Shiawase Na Kekkon ขอให้รักเรานี้ได้มีความสุข ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=121761&type=animeindy&hash=213b80ca514cc31e3a4a710e3c2173ea",
       "menu": "series",
-      "seriesTitle": "Watashi No Shiawase Na Kekkon ขอให้รักเรานี้ได้มีความสุข ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Watashi No Shiawase Na Kekkon ขอให้รักเรา���ี้ได้มีความสุข ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 4"
     },
     "377de762871e5e2913bfc1fff5455761": {
@@ -16716,7 +16802,7 @@
       "episode": "ตอนที่ 3"
     },
     "3383e125438a8ca76d152a8a5ec936d9": {
-      "name": "Arifureta Shokugyou De Sekai Saikyou 3 อาชี���กระจอกแล้วทำไม ยังไ���ข้าก็เทพ ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Arifureta Shokugyou De Sekai Saikyou 3 อาชี���กระจอกแล้วทำไม ยังไงข้าก็เทพ ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=148349&type=animeindy&hash=8083883e119fe10a88665ae60433da7b",
       "menu": "series",
       "seriesTitle": "Arifureta Shokugyou De Sekai Saikyou 3 อาชี���กระจอกแล้วทำไม ยังไงข้าก็เทพ ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
@@ -17563,7 +17649,7 @@
       "episode": "ตอนที่ 1002"
     },
     "c0d09adf90142cdb665b0def25d256a7": {
-      "name": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุนิตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY - ตอนที่ 1003",
+      "name": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุน���ตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY - ตอนที่ 1003",
       "logo": "https://anime-indy.com/wp-content/uploads/2021/11/one-piece-season-20.jpg",
       "menu": "series",
       "seriesTitle": "One Piece วันพีซ ซีซั่น 20 ภาควาโนะคุนิตอนที่ 892-1093 พากย์ไทย - ANIMEiNDY",
@@ -18396,7 +18482,7 @@
       "episode": "ตอนที่ 2"
     },
     "ffc6af49622b18441c0d8e47574e94f6": {
-      "name": "MF Ghost 2nd Season เอ็ม���อฟ โกสต์ ภาค 2 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "MF Ghost 2nd Season เอ็มเอฟ โกสต์ ภาค 2 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=149458&type=animeindy&hash=88c33e7355153885faef0023c763988a",
       "menu": "series",
       "seriesTitle": "MF Ghost 2nd Season เอ็มเอฟ โกสต์ ภาค 2 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY",
@@ -18679,7 +18765,7 @@
       "name": "NieR:Automata Ver1.1a เนียร์ ออโตมาตะ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 23",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=117123&type=animeindy&hash=42c12007d61c7455e2f4934bd4575e86",
       "menu": "series",
-      "seriesTitle": "NieR:Automata Ver1.1a เนียร์ ออโตมาตะ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "NieR:Automata Ver1.1a เนียร์ ออโตมาตะ ตอนท���่ 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 23"
     },
     "e7f9fa663d66e9c04e452db73ea35a39": {
@@ -18693,7 +18779,7 @@
       "name": "Tsuki Ga Michibiku Isekai Douchuu 2nd Season จันทรานำพาสู่ต่างโลก ภาค 2 ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=144146&type=animeindy&hash=eed7d762591c7e172f9332cfbba511d6",
       "menu": "series",
-      "seriesTitle": "Tsuki Ga Michibiku Isekai Douchuu 2nd Season จันทรานำพาสู่ต่างโลก ภาค 2 ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Tsuki Ga Michibiku Isekai Douchuu 2nd Season จันทรา���ำพาสู่ต่างโลก ภาค 2 ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "56bd03968af7a3d7dea93fa23a213258": {
@@ -19159,7 +19245,7 @@
       "episode": "ตอนที่ 18"
     },
     "97d32f6dd5ae06b16b5424da4182e926": {
-      "name": "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกม��ทพ ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที่ 19",
+      "name": "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - ตอนที่ 19",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=129953&type=animeindy&hash=18738934267b7bbada45386be5f5e65a",
       "menu": "series",
       "seriesTitle": "Shangri-La Frontier เมื่อนักล่าเกมขยะท้าสู้ในเกมเทพ ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
@@ -19897,7 +19983,7 @@
       "name": "Seiken Gakuin No Makentsukai จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=129600&type=animeindy&hash=58f53c0bbd103292744c833fbe371d25",
       "menu": "series",
-      "seriesTitle": "Seiken Gakuin No Makentsukai จอมมารเกิดใหม่ วิทยาลัย���ู้พิทักษ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Seiken Gakuin No Makentsukai จอมมารเกิดใหม่ วิทยาลัยผู้พิทักษ์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 10"
     },
     "a0eca6238042bc2534ef7f7edac631b2": {
@@ -20041,7 +20127,7 @@
       "episode": "ตอนที่ 6"
     },
     "eec0229ae5d40db43272687c92359ad2": {
-      "name": "Kimetsu No Yaiba: Katanakaji No Sato-hen ดาบพิฆาตอสูร ซีซั่น 3 บทหมู่บ้านช่างตีดาบ ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
+      "name": "Kimetsu No Yaiba: Katanakaji No Sato-hen ดาบพิ���าตอสูร ซีซั่น 3 บทหมู่บ้านช่างตีดาบ ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=118815&type=animeindy&hash=11dc24ea5325c60c5f6c1a7dc8599987",
       "menu": "series",
       "seriesTitle": "Kimetsu No Yaiba: Katanakaji No Sato-hen ดาบพิฆาตอสูร ซีซั่น 3 บทหมู่บ้านช่างตีดาบ ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY",
@@ -20639,7 +20725,7 @@
       "name": "Kui Cheng Shoufu Cong Youxi Kaishi ขาดทุนเพื่อเป็นเศรษฐี ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=142691&type=animeindy&hash=3e35e71ac74f5994cf5b5982c33fef73",
       "menu": "series",
-      "seriesTitle": "Kui Cheng Shoufu Cong Youxi Kaishi ขาดทุน���พื่อเป็นเศรษฐี ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kui Cheng Shoufu Cong Youxi Kaishi ขาดทุนเพื่อเป็นเศรษฐี ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 4"
     },
     "6030033a689362306a5d69cacf691f20": {
@@ -21668,7 +21754,7 @@
       "name": "Hunter X Hunter (2011) ฮันเตอร์ X ฮันเตอร์ ตอนที่ 1-148 พากย์ไทย - ANIMEiNDY - ตอนที่ 135",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=100876&type=animeindy&hash=9aace1665b8c8b13b2556948b1f5c591",
       "menu": "series",
-      "seriesTitle": "Hunter X Hunter (2011) ฮันเตอร์ X ฮันเตอร์ ตอนที่ 1-148 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Hunter X Hunter (2011) ฮันเตอร์ X ฮัน��ตอร์ ตอนที่ 1-148 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 135"
     },
     "380e742414e85c01b240e016699eaaca": {
@@ -22330,7 +22416,7 @@
       "episode": "ตอนที่ 3"
     },
     "ed356e23c9d07bd040016181e77012f5": {
-      "name": "Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 3rd ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 3rd ขอต้อนรั���สู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=135090&type=animeindy&hash=e68a4b603a2fe8e062c4604bcc68bf99",
       "menu": "series",
       "seriesTitle": "Youkoso Jitsuryoku Shijou Shugi No Kyoushitsu E 3rd ขอต้อนรับสู่ห้องเรียนนิยม (เฉพาะ) ยอดคน ภาค 3 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
@@ -22792,7 +22878,7 @@
       "episode": "ตอนที่ 5"
     },
     "cd94fc3a910ef1fad45ad17323389c44": {
-      "name": "Bungou Stray Dogs 5th Season คณะประพันธ์กรจรจัด ภาค 5 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Bungou Stray Dogs 5th Season คณะประพันธ์กรจรจัด ภาค 5 ตอนที่ 1-11 พากย์ไท�� - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=139464&type=animeindy&hash=f03404a0059fba0882ac52ecfea81af5",
       "menu": "series",
       "seriesTitle": "Bungou Stray Dogs 5th Season คณะประพันธ์กรจรจัด ภาค 5 ตอนที่ 1-11 พากย์ไทย - ANIMEiNDY",
@@ -22865,7 +22951,7 @@
       "name": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=107033&type=animeindy&hash=5bd5f47375d84bc8f9c8aa9db4501b8d",
       "menu": "series",
-      "seriesTitle": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร่งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Noumin Kanren No Skill ผมเอาแต่อัปสกิลทำฟาร์ม แต่ไม่รู้ทำไมผมถึงได้แข็งแกร���งขึ้นซะงั้น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 8"
     },
     "7674994b1b1a20eeef1a53f9dec462ec": {
@@ -23400,7 +23486,7 @@
       "episode": "ตอนที่ 2"
     },
     "35687ae3398e2bfff37521d41e86cdc1": {
-      "name": "Mushoku Tensei II: Isekai Ittara Honki Dasu เกิดชาตินี้พี่ต้องเทพ ภาค 2 ตอนที่ 0-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Mushoku Tensei II: Isekai Ittara Honki Dasu เกิดชาตินี้พี่ต้องเทพ ภ���ค 2 ตอนที่ 0-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=123558&type=animeindy&hash=45a9a8a419afd46f502acf9c32beb51e",
       "menu": "series",
       "seriesTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu เกิดชาตินี้พี่ต้องเทพ ภาค 2 ตอนที่ 0-12 พากย์ไทย - ANIMEiNDY",
@@ -23410,7 +23496,7 @@
       "name": "Mushoku Tensei II: Isekai Ittara Honki Dasu เกิดชาตินี้พี่ต้องเทพ ภาค 2 ตอนที่ 0-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=123558&type=animeindy&hash=45a9a8a419afd46f502acf9c32beb51e",
       "menu": "series",
-      "seriesTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu เกิดชาตินี้พี่��้องเทพ ภาค 2 ตอนที่ 0-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Mushoku Tensei II: Isekai Ittara Honki Dasu เกิดชาตินี้พี่��้องเทพ ภาค 2 ตอนที่ 0-12 ���ากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "a2aeae29a94348cf33c21d9fe7a7c37c": {
@@ -24835,7 +24921,7 @@
       "episode": "ตอนที่ 158"
     },
     "979c3ada5c27aa9e54880abed82521db": {
-      "name": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 ��ากย์ไทย - ANIMEiNDY - ตอนที่ 159",
+      "name": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 ��ากย์ไทย - ANIMEiNDY - ต��นที่ 159",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=121946&type=animeindy&hash=adc48830c056ddb4b197a2478610762a",
       "menu": "series",
       "seriesTitle": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY",
@@ -25535,7 +25621,7 @@
       "episode": "ตอนที่ 257"
     },
     "97d1dce965276a59ec2b070286e5f0c6": {
-      "name": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY - ตอนที่ 258",
+      "name": "Douluo Dalu (Soul Land) ตำนานจอม��ุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY - ตอนที่ 258",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=121946&type=animeindy&hash=adc48830c056ddb4b197a2478610762a",
       "menu": "series",
       "seriesTitle": "Douluo Dalu (Soul Land) ตำนานจอมยุทธ์ภูตถังซาน ตอนที่ 1-265 พากย์ไทย - ANIMEiNDY",
@@ -26641,7 +26727,7 @@
       "episode": "ตอนที่ 10"
     },
     "c32483bffca10b2c3faefea6a31e7b03": {
-      "name": "Lv1 Maou To One Room Yuusha จอมมารเลเวล 1 กับผู้กล้าห้องเช่า ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
+      "name": "Lv1 Maou To One Room Yuusha จอมมารเลเวล 1 กับผู้กล���าห้องเช่า ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=132358&type=animeindy&hash=64baaa0e1d0ab10bc9498d935a34cdbb",
       "menu": "series",
       "seriesTitle": "Lv1 Maou To One Room Yuusha จอมมารเลเวล 1 กับผู้กล้าห้องเช่า ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -26669,7 +26755,7 @@
       "episode": "ตอนที่ 2"
     },
     "d65b701c92a30c11a0d7738492874230": {
-      "name": "Tian Guan Cifu 2nd Season - สวรรค์ประทานพร ภ��ค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Tian Guan Cifu 2nd Season - สวรรค์ประทานพร ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=127696&type=animeindy&hash=e056348b2ecd5b875521d14750787603",
       "menu": "series",
       "seriesTitle": "Tian Guan Cifu 2nd Season - สวรรค์ประทานพร ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -26973,7 +27059,7 @@
       "name": "Suki Na Ko Ga Megane Wo Wasureta สาวลืมแว่นแสนวุ่นละมุนรัก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=131295&type=animeindy&hash=045b9ae759424139200f56677dd00e6f",
       "menu": "series",
-      "seriesTitle": "Suki Na Ko Ga Megane Wo Wasureta สาวลืมแว่นแสนวุ่นละมุนรัก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Suki Na Ko Ga Megane Wo Wasureta สาวลืมแว่นแสนวุ่นละมุนรัก ตอนที่ 1-13 พา��ย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 10"
     },
     "3316d6f6aa37ea1b1b5bf53a2fa48e45": {
@@ -26987,7 +27073,7 @@
       "name": "Suki Na Ko Ga Megane Wo Wasureta สาวลืมแว่นแสนวุ่นละมุนรัก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=131295&type=animeindy&hash=045b9ae759424139200f56677dd00e6f",
       "menu": "series",
-      "seriesTitle": "Suki Na Ko Ga Megane Wo Wasureta สาวลืมแว่นแสนวุ่นละมุนรัก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Suki Na Ko Ga Megane Wo Wasureta ��าวลืมแว่นแสนวุ่นละมุนรัก ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 12"
     },
     "f12524047a805fbfd894b1874cc31c4e": {
@@ -27442,7 +27528,7 @@
       "name": "Kizuna No Allele Season 2 - เชื่อมโลกทั้งใบหัวใจสู้ฝัน ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=126976&type=animeindy&hash=31586181a849d59e80abec674c8bdffc",
       "menu": "series",
-      "seriesTitle": "Kizuna No Allele Season 2 - เชื่อมโลกทั้งใบหัวใจสู้ฝัน ภาค 2 ตอ��ที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kizuna No Allele Season 2 - เชื่อมโลกทั้งใบหัวใจสู้ฝัน ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "a37f8c677e78958ec4db1b8e0dd5e95a": {
@@ -27680,7 +27766,7 @@
       "name": "Onmyouji องเมียวจิ ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=130251&type=animeindy&hash=d0a248dcfc8f32fc9bd0a30fbd3f671d",
       "menu": "series",
-      "seriesTitle": "Onmyouji องเมียวจิ ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Onmyouji องเมียวจิ ตอนที่ 1-13 พ��กย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 10"
     },
     "d77a8f6cfc3fabaaaa6d5442ffdd2ff5": {
@@ -27695,7 +27781,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=130251&type=animeindy&hash=d0a248dcfc8f32fc9bd0a30fbd3f671d",
       "menu": "series",
       "seriesTitle": "Onmyouji องเมียวจิ ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 12"
+      "episode": "ตอน��ี่ 12"
     },
     "60480d8ab9605d59c79a6691d46bbacd": {
       "name": "Onmyouji องเมียวจิ ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 13",
@@ -29793,7 +29879,7 @@
       "name": "Ousama Ranking: Yuuki No Takarabako อันดับพระราชา: กล่องสมบัติแห่งความกล้าหาญ ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=120420&type=animeindy&hash=d54b0f30142fe3fc51e48b06201abc84",
       "menu": "series",
-      "seriesTitle": "Ousama Ranking: Yuuki No Takarabako อันดับพระราชา: กล่องสมบัติแห่งความกล้าหาญ ตอนที่ 1-10 พ���กย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Ousama Ranking: Yuuki No Takarabako อันดับพระราชา: กล่องสมบัติแห่งความกล้าหาญ ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 6"
     },
     "b1c611c2e1d69c1d4c19218f1284690e": {
@@ -29849,7 +29935,7 @@
       "name": "Koori Zokusei Danshi To Cool Na Douryou Joshi บริษัทลุ้นรัก หนุ่มหิมะกับสาวสุดคูล ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=116755&type=animeindy&hash=fa341af85a89b70a5ee1d64289867954",
       "menu": "series",
-      "seriesTitle": "Koori Zokusei Danshi To Cool Na Douryou Joshi บริษัทลุ้นรัก หนุ่มหิมะกับสาวสุดคูล ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Koori Zokusei Danshi To Cool Na Douryou Joshi บริษัทลุ้นรัก หนุ่มหิมะกับสาวสุดคูล ตอนที่ 1-12 ��ากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 4"
     },
     "1c5f5dc24e68a7c7215f1742ae7a6ff9": {
@@ -30511,7 +30597,7 @@
       "episode": "ตอนที่ 27"
     },
     "928d6f07d441ce4ba1a0ff372d1b5b83": {
-      "name": "Tenku Senki Shurato ศึกเทพสวรรค์ชูราโตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY - ตอนที่ 28",
+      "name": "Tenku Senki Shurato ศึกเทพสวร��ค์ชูราโตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY - ตอนที่ 28",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=118725&type=animeindy&hash=52b2eecf3bc0844a69e6f4cd3c22aaa4",
       "menu": "series",
       "seriesTitle": "Tenku Senki Shurato ศึกเทพสวรรค์ชูราโตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY",
@@ -30525,7 +30611,7 @@
       "episode": "ตอนที่ 29"
     },
     "6acd89c7408605c09914b9f5877bb0fb": {
-      "name": "Tenku Senki Shurato ศึกเทพสว��รค์ชูราโตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY - ตอนที่ 30",
+      "name": "Tenku Senki Shurato ศึกเทพสว��รค์ชูรา��ตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY - ตอนที่ 30",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=118725&type=animeindy&hash=52b2eecf3bc0844a69e6f4cd3c22aaa4",
       "menu": "series",
       "seriesTitle": "Tenku Senki Shurato ศึกเทพสวรรค์ชูราโตะ ตอนที่ 1-38 พากย์ไทย - ANIMEiNDY",
@@ -30816,7 +30902,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=113925&type=animeindy&hash=04e589627e690fae97b482a9d31779ca",
       "menu": "series",
       "seriesTitle": "Itai No Wa Iya Nano De Bougyoryoku Ni Kyokufuri Shitai To Omoimasu 2 น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 2"
+      "episode": "ตอนที��� 2"
     },
     "f9e0dfb9f59390c1c14691908ca35f31": {
       "name": "Itai No Wa Iya Nano De Bougyoryoku Ni Kyokufuri Shitai To Omoimasu 2 น้องโล่สายแทงก์แกร่งเกินร้อย ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
@@ -31116,7 +31202,7 @@
       "name": "Bungou Stray Dogs คณะประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=117671&type=animeindy&hash=f8cfc20e7b6fa65cacb685bae9f54a88",
       "menu": "series",
-      "seriesTitle": "Bungou Stray Dogs คณะประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Bungou Stray Dogs คณ��ประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "e4b86cef2ad17d610c6650ec71474d60": {
@@ -31130,7 +31216,7 @@
       "name": "Bungou Stray Dogs คณะประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=117671&type=animeindy&hash=f8cfc20e7b6fa65cacb685bae9f54a88",
       "menu": "series",
-      "seriesTitle": "Bungou Stray Dogs คณะประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Bungou Stray Dogs คณะปร��พันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "585af80f00f519d4df9130d5ea253904": {
@@ -31158,7 +31244,7 @@
       "name": "Bungou Stray Dogs คณะประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=117671&type=animeindy&hash=f8cfc20e7b6fa65cacb685bae9f54a88",
       "menu": "series",
-      "seriesTitle": "Bungou Stray Dogs คณะประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พ��กย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Bungou Stray Dogs คณะประพันธ์กรจรจัด ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "d12fc46120c9d7d0def532f9dee72b8d": {
@@ -31477,7 +31563,7 @@
       "episode": "ตอนที่ 4"
     },
     "0e5733f6e8a0b22b30af18eb4f7e7952": {
-      "name": "Shinchou Yuusha ผู้กล้าสุดแกร่ง ขี้ระแวงขั้นวิกฤติ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Shinchou Yuusha ผู้กล้าสุดแกร่ง ��ี้ระแวงขั้นวิกฤติ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=116116&type=animeindy&hash=f9150378a8d71b8e5016ea288a009dfa",
       "menu": "series",
       "seriesTitle": "Shinchou Yuusha ผู้กล้าสุดแกร่ง ขี้ระแวงขั้นวิกฤติ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -31809,7 +31895,7 @@
       "name": "Maou Gakuin No Futekigousha ใครว่าข้าไม่เหมาะเป็นจอมมาร ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=114170&type=animeindy&hash=b75acd4029fe33c5463f757719dbd590",
       "menu": "series",
-      "seriesTitle": "Maou Gakuin No Futekigousha ใครว่าข้าไม่เหมาะเป็นจอมมาร ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Maou Gakuin No Futekigousha ใครว่าข้าไม่เหมาะเป็นจอมมาร ตอนที่ 1-13 พากย���ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "4afc47ef9542ce504ad3f45fe0beeb57": {
@@ -32149,7 +32235,7 @@
       "episode": "ตอนที่ 26"
     },
     "a4909d435608e5f456098bfb37374609": {
-      "name": "Saikyou Ginga Ultimate Zero: Battle Spirits แบทเทิลสปิริตส์ อัลติเมทซีโร่ ตอนที่ 1-49 พากย์ไทย - ANIMEiNDY - ตอนที่ 27",
+      "name": "Saikyou Ginga Ultimate Zero: Battle Spirits แบทเทิลสปิริตส์ อัลติเมทซีโร่ ตอนที่ 1-49 พา��ย์ไทย - ANIMEiNDY - ตอนที่ 27",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=115473&type=animeindy&hash=28e7cb584d79cc7caedc3f9ad54c5572",
       "menu": "series",
       "seriesTitle": "Saikyou Ginga Ultimate Zero: Battle Spirits แบทเทิลสปิริตส์ อัลติเมทซีโร่ ตอนที่ 1-49 พากย์ไทย - ANIMEiNDY",
@@ -32621,7 +32707,7 @@
       "name": "Yakusoku No Neverland พันธสัญญาเนเวอร์แลนด์ ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=114550&type=animeindy&hash=06c6729344d877fdccb87180087f897c",
       "menu": "series",
-      "seriesTitle": "Yakusoku No Neverland พันธสัญญาเนเวอร์แลนด์ ภาค 1 ตอนที่ 1-12 พ���กย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yakusoku No Neverland พันธสัญญาเนเวอร์แลนด์ ภาค 1 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 9"
     },
     "1e228012889e7114e93c9cd9e114dc45": {
@@ -32838,7 +32924,7 @@
       "name": "Enen No Shouboutai หน่วยผจญคนไฟลุก ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=114417&type=animeindy&hash=a921c5cea7ecfd752033adfa0457242c",
       "menu": "series",
-      "seriesTitle": "Enen No Shouboutai หน่วยผจญคนไฟลุก ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Enen No Shouboutai หน่วยผจญคนไฟลุ��� ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 4"
     },
     "d29e93b764564787faed4c936db74245": {
@@ -34795,7 +34881,7 @@
       "episode": "ตอนที่ 1"
     },
     "accf00df146d06d6e86b3970ae5ff843": {
-      "name": "Detective Conan The Culprit Hanazawa ยอดนักสืบจิ๋วโคนัน ฮันซาวะ ตัวร้ายสุดโหด ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Detective Conan The Culprit Hanazawa ยอดนักสืบจิ๋วโคนัน ฮันซาวะ ตัวร้ายสุดโหด ต���นที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=112772&type=animeindy&hash=11b57aab2684997def28e6d996eadaca",
       "menu": "series",
       "seriesTitle": "Detective Conan The Culprit Hanazawa ยอดนักสืบจิ๋วโคนัน ฮันซาวะ ตัวร้ายสุดโหด ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -35421,7 +35507,7 @@
       "name": "Ultra Galaxy Fight The Destined Crossroad  อุลตร้าแกแลคซีไฟท์ ทางแยกแห่งชะตา ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111739&type=animeindy&hash=d58083254237a0aa498c1c3da4b23448",
       "menu": "series",
-      "seriesTitle": "Ultra Galaxy Fight The Destined Crossroad  อุลตร้าแกแลคซีไฟท์ ทางแยกแห่งชะตา ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Ultra Galaxy Fight The Destined Crossroad  อุลตร้าแกแลคซีไฟท์ ทางแยกแห่งชะตา ตอน���ี่ 1-10 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 6"
     },
     "58c21c69fd8a293802f42bc7cd9e67c8": {
@@ -35813,11 +35899,11 @@
       "name": "Mob Psycho 100 III ม็อบไซโค 100 คนพลังจิต ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=106253&type=animeindy&hash=04aa305b22f6016cf36c9a67c442e023",
       "menu": "series",
-      "seriesTitle": "Mob Psycho 100 III ม็อบไซโค 100 คนพลังจิต ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Mob Psycho 100 III ม็อบไซโค 100 คนพลัง���ิต ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 3"
     },
     "de4e2f28b7bcde5ba844620589ebc01f": {
-      "name": "Mob Psycho 100 III ม็อบไซโค 100 คนพล���งจิต ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Mob Psycho 100 III ม็อบไซโค 100 คนพลังจิต ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=106253&type=animeindy&hash=04aa305b22f6016cf36c9a67c442e023",
       "menu": "series",
       "seriesTitle": "Mob Psycho 100 III ม็อบไซโค 100 คนพลังจิต ภาค 3 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -36128,7 +36214,7 @@
       "name": "Yu Gi Oh Duel Monster ยูกิโอ ดูเอลมอนสเตอร์ ตอนที่ 1-22 พากย์ไทย - ANIMEiNDY - ตอนที่ 14",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=109447&type=animeindy&hash=eba3985137bcc21ee06ff9805d63f783",
       "menu": "series",
-      "seriesTitle": "Yu Gi Oh Duel Monster ยูกิโอ ดูเอลมอนสเตอร์ ตอนที่ 1-22 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu Gi Oh Duel Monster ยูกิโอ ดูเอลมอนสเตอร��� ตอนที่ 1-22 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 14"
     },
     "0bb8115d9e22ff6d9310298b0a1b3d5f": {
@@ -37542,7 +37628,7 @@
       "name": "Love All Play เลิฟ ออล เพลย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99704&type=animeindy&hash=ed4f627a04bf77c830f925b6305a3bf5",
       "menu": "series",
-      "seriesTitle": "Love All Play เลิฟ ออล เพลย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Love All Play เลิฟ ออล เพลย์ ��อนที่ 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 9"
     },
     "2a79015696a6e6cf347e65fe720d5bdf": {
@@ -37556,7 +37642,7 @@
       "name": "Love All Play เลิฟ ออล เพลย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99704&type=animeindy&hash=ed4f627a04bf77c830f925b6305a3bf5",
       "menu": "series",
-      "seriesTitle": "Love All Play เลิฟ ออล เพลย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Love All Play เลิฟ ออล เพลย��� ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "e83c1efa50d418ef96bae551b41ed99a": {
@@ -38250,10 +38336,10 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=101165&type=animeindy&hash=ffca5ca8d75260990a66b996654d1c83",
       "menu": "series",
       "seriesTitle": "Sankaku Mado No Sotogawa Wa Yoru คู่หูสามเหลี่ยมล่าปีศาจ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 12"
+      "episode": "ตอนที��� 12"
     },
     "2f0a9ce0e13a00acd3cc949a8037ee22": {
-      "name": "Bastard!! อสูรร้ายจอมราชัน ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+      "name": "Bastard!! อสูรร้ายจอมราชัน ตอนที่ 1-24 พา��ย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=95166&type=animeindy&hash=8c96404451c2f92f56213e264295865c",
       "menu": "series",
       "seriesTitle": "Bastard!! อสูรร้ายจอมราชัน ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -39060,7 +39146,7 @@
       "name": "Captain Tsubasa (2018) กัปตันซึบาสะ เจ้าหนูสิงห์นักเตะ ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 6 (2018)",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=103119&type=animeindy&hash=f434284be0a3b138f170dafbe21825d0",
       "menu": "series",
-      "seriesTitle": "Captain Tsubasa (2018) กัปตันซึบาสะ เจ้าหนูสิงห์นักเตะ ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Captain Tsubasa (2018) กัปตันซึบาสะ เจ้าหนูสิงห์นักเตะ ต��นที่ 1-52 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 6 (2018)"
     },
     "87d3dbf642fca69a16bcc15fca1f63d8": {
@@ -39718,11 +39804,11 @@
       "name": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY - ตอนที่ 48",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=23640&type=animeindy&hash=af1852ff2de74bccd9b2da753887f224",
       "menu": "series",
-      "seriesTitle": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Zoids Wild ซ���ยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 48"
     },
     "89d23410e79c02cd84a3ffc446a9a29b": {
-      "name": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY - ตอนที่ 49",
+      "name": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไ��โนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY - ตอนที่ 49",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=23640&type=animeindy&hash=af1852ff2de74bccd9b2da753887f224",
       "menu": "series",
       "seriesTitle": "Zoids Wild ซอยด์ไวลด์ ศึกจักรกลไดโนเสาร์ถล่มโลก ตอนที่ 1-50 พากย์ไทย - ANIMEiNDY",
@@ -39968,7 +40054,7 @@
       "menu": "series",
       "rating": "6.5 / 10",
       "cast": "ยูโตะ อูเอมูระ, ริซะ คูโบตะ, อาซูมิ วากิ, มาโกโตะ โคอิจิ, โทชิยูกิ โทโยนางะ, ซาโอริ ฮายามิ",
-      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้องผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
+      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้องผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งก���นและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
       "seriesTitle": "100-man No Inochi No Ue Ni Ore Wa Tatteiru ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 5"
     },
@@ -40162,7 +40248,7 @@
       "episode": "ตอนที่ 9"
     },
     "a94dc574494595d3795aecf49ea9d080": {
-      "name": "Gokushufudo พ่อบ้านสุดเก๋า พากย์ไทย ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
+      "name": "Gokushufudo พ่อบ้านสุดเก๋า พากย์ไทย ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ต��นที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102317&type=animeindy&hash=19210af3c689777a241d7a340b90b083",
       "menu": "series",
       "seriesTitle": "Gokushufudo พ่อบ้านสุดเก๋า พากย์ไทย ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
@@ -40197,7 +40283,7 @@
       "episode": "ตอนที่ 4"
     },
     "db262368b02eb78a93b5f13442664937": {
-      "name": "Arcane League Of Legends ลีคแห่งตำ��านอาร์เคน ตอนที่ 1-9 พากยไทย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Arcane League Of Legends ลีคแห่งตำนานอาร์เคน ตอนที่ 1-9 พากยไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102316&type=animeindy&hash=cbf20a342ca57f3f7365a721eb843814",
       "menu": "series",
       "seriesTitle": "Arcane League Of Legends ลีคแห่งตำนานอาร์เคน ตอนที่ 1-9 พากยไทย - ANIMEiNDY",
@@ -40808,13 +40894,13 @@
       "episode": "ตอนที่ 4"
     },
     "fc669c2d1ec2bd15c2bfc87a876114d4": {
-      "name": "100-man No Inochi No Ue Ni Ore Wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
+      "name": "100-man No Inochi No Ue Ni Ore Wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านช��วิตเพื่อพิชิตเกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://image.tmdb.org/t/p/w500/fbBY1UEW7Vx2alMrjg6xNNM3Pv9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/esBYtd4HLuEd5E1vlbTdBdgcdfe.jpg",
       "menu": "series",
       "rating": "6.5 / 10",
       "cast": "ยูโตะ อูเอมูระ, ริซะ คูโบตะ, อาซูมิ วากิ, มาโกโตะ โคอิจิ, โทชิยูกิ โทโยนางะ, ซาโอริ ฮายามิ",
-      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้องผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่างๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
+      "overview": "ยตสึยะ ยูสึเกะ นักเรียนชายธรรมด๊าธรรมดาที่วันนึงถูกดึงตัวไปยังโลกแฟนตาซีพร้อมเพื่อนสาวในห้องอีกสองคน ในโลกนั้นคนประหลาดที่เรียกตัวเองว่าเกมมาสเตอร์ได้บอกมาว่าทั้ง 3 คนต้องผ่านเควสท์ในเกมนี้ทั้ง 10 ด่านไปให้ได้ โดยบอกกฏต่���งๆมาด้วย และถ้าเกมโอเวอร์ก็จะเท่ากับว่าต้องตายจริงๆ ทั้ง 3 คนจึงต้องหาวิธีเอาตัวรอดในโลกแฟนตาซีที่ทั้งกวนและโหดร้าย พร้อมทั้งหาเพื่อนร่วมทางเพื่อช่วยในการปราบเควสท์ต่างๆไปด้วยให้ได้ นี่คือชีวิตอันแสนวุ่นวายของการผจญภัยเริ่มต้นขึ้นสำหรับนักเรียนสามคนซึ่งตอนนี้ไม่มีทางเลือก แต่ต้องทำภารกิจแบบสุ่มให้สำเร็จในหลายขั้นตอนในโลกแฟนตาซี หากพวกเขาต้องการมีชีวิตอยู่และปกป้องโลกแห่งความจริงจากปีศาจและสัตว์ประหลาดที่พวกเขาเผชิญหน้า",
       "seriesTitle": "100-man No Inochi No Ue Ni Ore Wa Tatteiru 2nd Season ข้าก้าวข้ามผ่าน 1 ล้านชีวิตเพื่อพิชิตเกมมรณะ ภาค 2 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 5"
     },
@@ -41393,7 +41479,7 @@
       "episode": "ตอนที่ 28"
     },
     "98c499aba72649ab31b3637b91f6228e": {
-      "name": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 29",
+      "name": "Toriko โทริโกะ นักล่าอาหาร ตอน���ี่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 29",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102283&type=animeindy&hash=e7147ed3e4aa585ed73701e1b36e072d",
       "menu": "series",
       "seriesTitle": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY",
@@ -42152,11 +42238,11 @@
       "name": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 137",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102283&type=animeindy&hash=e7147ed3e4aa585ed73701e1b36e072d",
       "menu": "series",
-      "seriesTitle": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Toriko โทริโกะ นักล่าอาหา��� ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 137"
     },
     "9fb3c953e3a4a68d72649f55e8b42edd": {
-      "name": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 138",
+      "name": "Toriko โท��ิโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY - ตอนที่ 138",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102283&type=animeindy&hash=e7147ed3e4aa585ed73701e1b36e072d",
       "menu": "series",
       "seriesTitle": "Toriko โทริโกะ นักล่าอาหาร ตอนที่ 1-144 จบ พากย์ไทย - ANIMEiNDY",
@@ -42964,7 +43050,7 @@
       "name": "The Founder Of Diabolism ปรมาจารย์ลัทธิมาร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY - ตอนที่ 35",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102267&type=animeindy&hash=9c6a5f4481b3d4209322d8213b751056",
       "menu": "series",
-      "seriesTitle": "The Founder Of Diabolism ปรมาจารย์ลัทธิมาร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Founder Of Diabolism ปรมาจารย์ลัทธิม���ร ตอนที่ 1-35 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 35"
     },
     "5fa07d2f0216020608c506bfb586baf4": {
@@ -44060,7 +44146,7 @@
       "episode": "ตอนที่ 11"
     },
     "99180bcfe6c1ec47ffb66185ed1887a7": {
-      "name": "Hanyou No Yashahime ยาฉะ��ิเมะ เจ้าหญิงครึ่งอสูร ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
+      "name": "Hanyou No Yashahime ยาฉะฮิเมะ เจ้าหญิงครึ่งอสูร ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=102261&type=animeindy&hash=550d0b61c33a840e9074951aea5e70de",
       "menu": "series",
       "seriesTitle": "Hanyou No Yashahime ยาฉะฮิเมะ เจ้าหญิงครึ่งอสูร ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -44427,7 +44513,7 @@
       "name": "Saiyuki Reload Zeroin ไซยูกิ สี่แสบฝ่าแดนทมิฬ ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=95485&type=animeindy&hash=6cee825bc95f7d6bf9499cc70ae61d29",
       "menu": "series",
-      "seriesTitle": "Saiyuki Reload Zeroin ไซยูกิ สี่แสบฝ่าแดนทมิฬ ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Saiyuki Reload Zeroin ไซยูกิ สี��แสบฝ่าแดนทมิฬ ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 5"
     },
     "8ca652e5d37b55f9bf4801520c8076da": {
@@ -45929,7 +46015,7 @@
       "episode": "ตอนที่ 7"
     },
     "dfff21e9e5a9e64d9d97ef92f59b4b6f": {
-      "name": "Pokemon Journey โปเกม่อน เจอร์นีย์ ปี23 ตอนที่ 1-48 พากย์ไทย�� - ANIMEiNDY - ตอนที่ 8",
+      "name": "Pokemon Journey โปเกม่อน เจอร์นีย์ ���ี23 ตอนที่ 1-48 พากย์ไทย�� - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=100530&type=animeindy&hash=2b047270e0f6c230c303420467e02322",
       "menu": "series",
       "seriesTitle": "Pokemon Journey โปเกม่อน เจอร์นีย์ ปี23 ตอนที่ 1-48 พากย์ไทย  - ANIMEiNDY",
@@ -46996,7 +47082,7 @@
       "name": "Gintama Season 1-2 กินทามะ ซีซั้น 1-2 (เสียงใหม่) ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 26",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=93727&type=animeindy&hash=f49d662dfd52071cb9a8c658758d277e",
       "menu": "series",
-      "seriesTitle": "Gintama Season 1-2 กินทามะ ซีซั้น 1-2 (เสียงใหม่) ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Gintama Season 1-2 กินทามะ ���ีซั้น 1-2 (เสียงใหม่) ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 26"
     },
     "1ea701916ce7f37187e55d6fb38117c2": {
@@ -47224,7 +47310,7 @@
       "episode": "ตอนที่ 6"
     },
     "482719a2e3c9ca45a4b8121834277894": {
-      "name": "Hakozume: Koban Joshi No Gyakushuu ฮาโกะซึเมะ สู้ตายตำรวจสาวป้อมยาม ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ��อนที่ 7",
+      "name": "Hakozume: Koban Joshi No Gyakushuu ฮาโกะซึเมะ สู้ตายตำรวจสาวป้อมยาม ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99186&type=animeindy&hash=510563de9a5589ae6dc040b6e40beef2",
       "menu": "series",
       "seriesTitle": "Hakozume: Koban Joshi No Gyakushuu ฮาโกะซึเมะ สู้ตายตำรวจสาวป้อมยาม ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
@@ -47332,7 +47418,7 @@
       "name": "World Trigger Season1 เวิลด์ ทริกเกอร์ ภาค 1 ตอนที่ 1-73 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=99089&type=animeindy&hash=9f3beb8e422cf11ab2add3da5c5c5f36",
       "menu": "series",
-      "seriesTitle": "World Trigger Season1 เวิลด์ ทริกเกอร์ ภาค 1 ตอนที่ 1-73 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "World Trigger Season1 เวิลด์ ทริกเ��อร์ ภาค 1 ตอนที่ 1-73 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "710bc6d7700b763d7a5a8a9a06d0bbe3": {
@@ -47987,7 +48073,7 @@
       "episode": "ตอนที่ 3"
     },
     "b745aa1520b670471cae7d542f34026a": {
-      "name": "Deatte 5-byou De Battle ประชันหน้า 5 วิ เปิดศึกมรณะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
+      "name": "Deatte 5-byou De Battle ประชันหน้า 5 วิ เปิดศึกมรณะ ตอนที่ 1-12 พ��กย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=98981&type=animeindy&hash=513eb6b5653e584a08ba334d833b8cee",
       "menu": "series",
       "seriesTitle": "Deatte 5-byou De Battle ประชันหน้า 5 วิ เปิดศึกมรณะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -48039,7 +48125,7 @@
       "name": "Deatte 5-byou De Battle ประชันหน้า 5 วิ เปิดศึกมรณะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=98981&type=animeindy&hash=513eb6b5653e584a08ba334d833b8cee",
       "menu": "series",
-      "seriesTitle": "Deatte 5-byou De Battle ประชันหน้า 5 วิ เปิดศึกมรณะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Deatte 5-byou De Battle ประชันหน้า 5 วิ เปิดศึกมรณะ ตอนที่ 1-12 พากย��ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "7b23e67a89ebd186d1352b97bd72b209": {
@@ -48382,7 +48468,7 @@
       "name": "Yuusha, Yamemasu ผมน่ะเลิกเป็นผู้กล้าแล้วครับ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=92137&type=animeindy&hash=b81831e574c37e2b7172a2bd23e5f1ea",
       "menu": "series",
-      "seriesTitle": "Yuusha, Yamemasu ผมน่ะเลิกเป็นผู้กล้าแล้วครับ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yuusha, Yamemasu ผมน่ะเลิกเป็นผู้กล้าแล้วครับ ตอนที่ 1-12 พากย์���ทย - ANIMEiNDY",
       "episode": "ตอนที่ 5"
     },
     "c8d0d076df3313b280da04d9938423b1": {
@@ -48701,7 +48787,7 @@
       "episode": "ตอนที่ 2"
     },
     "5dcf123272019b452aff2d0826173da0": {
-      "name": "Tenkuu Shinpan หน้ากากเดนนรก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Tenkuu Shinpan หน้ากากเดน��รก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=59581&type=animeindy&hash=9fbcf056ad3706245b2ba862225357f7",
       "menu": "series",
       "seriesTitle": "Tenkuu Shinpan หน้ากากเดนนรก ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -49429,7 +49515,7 @@
       "episode": "ตอนที่ 2"
     },
     "ffc7fd4c6c03fd53dfaae33e826e39b7": {
-      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชา���ินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=97752&type=animeindy&hash=e55aadf2bc65e209e6863bc1097ab4b4",
       "menu": "series",
       "seriesTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY",
@@ -49488,7 +49574,7 @@
       "name": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=97752&type=animeindy&hash=e55aadf2bc65e209e6863bc1097ab4b4",
       "menu": "series",
-      "seriesTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต้องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2 เกิดชาตินี้พี่ต���องเทพ พาร์ท 2 ตอนที่ 13-23 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "161963a536df1cc6813c948ca8c39d7c": {
@@ -50136,7 +50222,7 @@
       "episode": "ตอนที่ 6"
     },
     "97aa24cadd5cb1838eaf318b1445091e": {
-      "name": "Shin No Nakama Ja Nai To Yuusha No Party Wo Oidasareta Node, Henkyou De Slow Life Suru Koto Ni Shimashita ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
+      "name": "Shin No Nakama Ja Nai To Yuusha No Party Wo Oidasareta Node, Henkyou De Slow Life Suru Koto Ni Shimashita ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่��ายแดน ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=90622&type=animeindy&hash=1229764af5a217c8e8743ed527cc703a",
       "menu": "series",
       "seriesTitle": "Shin No Nakama Ja Nai To Yuusha No Party Wo Oidasareta Node, Henkyou De Slow Life Suru Koto Ni Shimashita ผมโดนกลุ่มผู้กล้าขับไสเลยต้องไปสโลว์ไลฟ์ที่ชายแดน ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
@@ -50832,7 +50918,7 @@
       "name": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมกลคนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=77607&type=animeindy&hash=7a394cdbcd938a37b2768ea2d89bacd0",
       "menu": "series",
-      "seriesTitle": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมกลคนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu-Gi-Oh! SEVENS ยูกิโอ! เกมก��คนอัจฉริยะ เซเว่น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 7"
     },
     "754e09b95256ea22a65507c385317351": {
@@ -51609,7 +51695,7 @@
       "name": "La Storia Della Arcana Famiglia มาเฟียมนตรา มือปราบกำราบหัวใจ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=46746&type=animeindy&hash=ebd2e8f453be14cefee986ce94cd2891",
       "menu": "series",
-      "seriesTitle": "La Storia Della Arcana Famiglia มาเฟียมนตรา มือปราบกำราบหัวใจ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "La Storia Della Arcana Famiglia มาเฟียมนตรา มือปราบกำราบหัวใจ ตอนที�� 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 8"
     },
     "31e4cef7d110b99df7a5e55bea4391b5": {
@@ -51623,7 +51709,7 @@
       "name": "La Storia Della Arcana Famiglia มาเฟียมนตรา มือปราบกำราบหัวใจ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=46746&type=animeindy&hash=ebd2e8f453be14cefee986ce94cd2891",
       "menu": "series",
-      "seriesTitle": "La Storia Della Arcana Famiglia มาเฟียมนตรา มือปราบกำราบหัวใจ ตอนที่ 1-12 พาก���์ไทย - ANIMEiNDY",
+      "seriesTitle": "La Storia Della Arcana Famiglia มาเฟียมนตรา มื���ปราบกำราบหัวใจ ตอนที่ 1-12 พาก���์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 10"
     },
     "3614566716a8da4f2bb9ef42a6f2bf23": {
@@ -53076,7 +53162,7 @@
       "episode": "ตอนที่ 13"
     },
     "2571940065f525d2460791040ebe57c4": {
-      "name": "Shinbi Apartment Ghost Ball X ชินบิ หอพักอลเวงโกสต์บอล เอ็กซ์ ตอนที่ 1-23 พากย์ไทย - ANIMEiNDY - ตอนที่ 14",
+      "name": "Shinbi Apartment Ghost Ball X ชินบิ หอพักอลเวงโกสต์บอล เอ็กซ์ ตอนที่ 1-23 พ��กย์ไทย - ANIMEiNDY - ตอนที่ 14",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=92511&type=animeindy&hash=38148087375e1f72fbba23f050d8f167",
       "menu": "series",
       "seriesTitle": "Shinbi Apartment Ghost Ball X ชินบิ หอพักอลเวงโกสต์บอล เอ็กซ์ ตอนที่ 1-23 พากย์ไทย - ANIMEiNDY",
@@ -53436,7 +53522,7 @@
       "name": "To Love-Ru ทูเลิฟรู ภาค 1 ตอนที่ 1-26 + OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=92318&type=animeindy&hash=adcf3b940cd1ee0004faffe395ffc48f",
       "menu": "series",
-      "seriesTitle": "To Love-Ru ทูเลิฟรู ภาค 1 ตอนที่ 1-26 + OVA พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "To Love-Ru ทูเลิฟรู ภาค 1 ตอนที่ 1-26 + OVA พา��ย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "f36e8566aab968179568e5f6dd7774f5": {
@@ -54273,10 +54359,10 @@
       "episode": "ตอนที่ 28"
     },
     "657e33f4bfb3ce716b0e6c7c0212f793": {
-      "name": "Beyblade G-Revolution ศึกอวสานลูกข่างสายฟ้า (ภาค3) พากย์ไทย ตอนที่ 1-52 - ตอนที่ 29",
+      "name": "Beyblade G-Revolution ศึกอวสานลูกข่างสายฟ้า (ภาค3) พากย์ไทย ต��นที่ 1-52 - ตอนที่ 29",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91557&type=animeindy&hash=3fa9bd80cb4cde1827db713516a7380c",
       "menu": "series",
-      "seriesTitle": "Beyblade G-Revolution ศึกอวสานลูกข่างสายฟ้า (ภาค3) พากย์ไท��� ตอนที่ 1-52",
+      "seriesTitle": "Beyblade G-Revolution ศึกอวสานลูกข่างสายฟ้า (ภาค3) พากย์ไทย ตอนที่ 1-52",
       "episode": "ตอนที่ 29"
     },
     "1fb6ffd624868340f1f9938e8bd95400": {
@@ -54539,7 +54625,7 @@
       "episode": "ตอนที่ 2"
     },
     "69b59da1ffc4b2a57a15dcb013a41975": {
-      "name": "Tensai Ouji No Akaji Kokka Saiseijutsu บูรณะมันวุ่นวาย ขายชาติเลยแล้วกัน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Tensai Ouji No Akaji Kokka Saiseijutsu บูรณะมันวุ่นวาย ขายชาติเลยแล��วกัน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=86849&type=animeindy&hash=e0c588f51d317aa68dca3ac47272cdc2",
       "menu": "series",
       "seriesTitle": "Tensai Ouji No Akaji Kokka Saiseijutsu บูรณะมันวุ่นวาย ขายชาติเลยแล้วกัน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -54549,7 +54635,7 @@
       "name": "Tensai Ouji No Akaji Kokka Saiseijutsu บูรณะมันวุ่นวาย ขายชาติเลยแล้วกัน ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=86849&type=animeindy&hash=e0c588f51d317aa68dca3ac47272cdc2",
       "menu": "series",
-      "seriesTitle": "Tensai Ouji No Akaji Kokka Saiseijutsu บูรณะมันวุ่นวาย ขายชาติเลยแล้วกัน ตอน���ี่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Tensai Ouji No Akaji Kokka Saiseijutsu บูรณ��มันวุ่นวาย ขายชาติเลยแล้วกัน ตอน���ี่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 4"
     },
     "aaeb3c22a3f20d71589d87ab405e4a97": {
@@ -55284,7 +55370,7 @@
       "name": "One Piece วันพีช ซีซั่น 19 เกาะโฮลเค้ก ตอนที่ 783-892 พาย์ไทย - ANIMEiNDY - ตอนที่ 830",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=78761&type=animeindy&hash=ec004c4d425cc34a30f4491472bcc79b",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 19 เกาะโฮลเค้ก ตอนที่ 783-892 พาย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ซีซั่น 19 เกาะโฮล��ค้ก ตอนที่ 783-892 พาย์ไทย - ANIMEiNDY",
       "episode": "ตอ��ที่ 830"
     },
     "94f718fe43b2ce4e3fc3e225bf1f95a8": {
@@ -55869,7 +55955,7 @@
       "episode": "ตอนที่ 21"
     },
     "732150e3e80dcb1c8a4d7d406383e263": {
-      "name": "Detective School Q โรงเรียนนักสืบ Q ตอนที่ 1-42 พากย์ไทย - ANIMEiNDY - ต���นที่ 22",
+      "name": "Detective School Q โรงเรียนนักสืบ Q ตอนที่ 1-42 พากย์ไทย - ANIMEiNDY - ตอนที่ 22",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=89597&type=animeindy&hash=7b87c516a92354699067b6d1ec6ceae8",
       "menu": "series",
       "seriesTitle": "Detective School Q โรงเรียนนักสืบ Q ตอนที่ 1-42 พากย์ไทย - ANIMEiNDY",
@@ -56033,7 +56119,7 @@
       "name": "Kamisama Hajimemashita จิ้งจอกเย็นชากับ ภาค 1 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=45273&type=animeindy&hash=6ffc5aee0314bebefc0b470e7482233b",
       "menu": "series",
-      "seriesTitle": "Kamisama Hajimemashita จิ้งจอกเย็นชากับ ภาค 1 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Kamisama Hajimemashita จิ้งจอกเย���นชากับ ภาค 1 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 3"
     },
     "627d29184f3ec33e44f3df9086d72c8c": {
@@ -56740,7 +56826,7 @@
       "name": "Inazuma Eleven Orion No Kokuin อินาสึมะอีเลฟเวน โอริออน โนะ โคคุอิน ตอนที่ 1-49 พากย์ไทย - ANIMEiNDY - ตอนที่ 28",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=83248&type=animeindy&hash=2b7a5dcd7397b948b158e3fd4eae5a5e",
       "menu": "series",
-      "seriesTitle": "Inazuma Eleven Orion No Kokuin อินาสึมะอีเลฟเวน โอริออน โนะ โคคุอิน ตอ���ที่ 1-49 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Inazuma Eleven Orion No Kokuin อิ���าสึมะอีเลฟเวน โอริออน โนะ โคคุอิน ตอ���ที่ 1-49 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 28"
     },
     "962b87244830c19d54a875bb30bf4d4b": {
@@ -57402,10 +57488,10 @@
       "episode": "ตอนที่ 14"
     },
     "6ef94b011bdd2d95b8d6b426072589f9": {
-      "name": "Fruits Basket เสน่ห์สาวข้าวปั้น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 15",
+      "name": "Fruits Basket เสน่ห์สาวข้าวป���้น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 15",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43181&type=animeindy&hash=58824b15bc442bd7a1d46bd63ae3ab82",
       "menu": "series",
-      "seriesTitle": "Fruits Basket เสน่ห์สาวข้าวปั้น ตอนที่ 1-26 ���ากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Fruits Basket เสน่ห์สาวข้าวปั้น ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 15"
     },
     "dc857a3312d6f6e7fdf611ed677f9bbf": {
@@ -58256,7 +58342,7 @@
       "episode": "ตอนที่ 52"
     },
     "3f42360b2721bdb21e53e1229592eff1": {
-      "name": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไท�� - ANIMEiNDY - ตอนที่ 53",
+      "name": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY - ตอนที่ 53",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43272&type=animeindy&hash=fb7d13e206c9e0354fe0ca7b4d5b89db",
       "menu": "series",
       "seriesTitle": "Rurouni Kenshin เคนชิน ซามูไรพเนจร 1-95 พากย์ไทย - ANIMEiNDY",
@@ -59096,7 +59182,7 @@
       "episode": "ตอนที่ 3"
     },
     "fe8386e8c654b6e6237b2afd54ca0f86": {
-      "name": "Kimetsu No Yaiba ดาบ���ิฆาตอสูร (Demon Slayer) ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+      "name": "Kimetsu No Yaiba ดาบพิฆาตอสูร (Demon Slayer) ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=40296&type=animeindy&hash=9632a98eb64b16385df6211a65e3a67e",
       "menu": "series",
       "seriesTitle": "Kimetsu No Yaiba ดาบพิฆาตอสูร (Demon Slayer) ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
@@ -59698,7 +59784,7 @@
       "episode": "ตอนที่ 324"
     },
     "82e68210e6ef86b87336c108331f3730": {
-      "name": "One Piece วันพีช ซีซั่น 9 เอนิเอส ล็อบบี้ ตอนที่ 265-336 พากย์ไทย - ANIMEiNDY - ตอนที่ 325",
+      "name": "One Piece วันพีช ซีซั่น 9 เอนิเอส ล็อบบี�� ตอนที่ 265-336 พากย์ไทย - ANIMEiNDY - ตอนที่ 325",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=45820&type=animeindy&hash=61e74c7eabc78b1fafba026f25929ee9",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 9 เอนิเอส ล็อบบี้ ตอนที่ 265-336 พากย์ไทย - ANIMEiNDY",
@@ -59869,7 +59955,7 @@
       "name": "One Piece วันพีช ซีซั่น 8 วอเตอร์ เซเว่น ตอนที่ 229-264 พากย์ไทย - ANIMEiNDY - ตอนที่ 241",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=45952&type=animeindy&hash=d8e20105f59b1d04fbe32a95339dd720",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 8 วอเตอร์ เซเว่น ตอนที่ 229-264 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ซีซั่น 8 วอเตอร์ เซเว่น ตอ���ที่ 229-264 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 241"
     },
     "410ea2c055d6a8a4c7e03ce36fcc9429": {
@@ -60391,7 +60477,7 @@
       "episode": "ตอนที่ 207"
     },
     "7f3d2f0d2de1ee89d76a83f29dd94452": {
-      "name": "One Piece วันพีช ซีซั่น 7 จี-เอท และเดวี แบค ไฟท์ ตอนที่ 197-228 พากย์ไทย - ANIMEiNDY - ตอนที่ 208",
+      "name": "One Piece วันพีช ซีซั่น 7 จี-เอท และเดวี แบค ไฟท์ ตอนที่ 197-228 พากย��ไทย - ANIMEiNDY - ตอนที่ 208",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=47399&type=animeindy&hash=2bd4735b0fae870415c2b4cae2d1a979",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 7 จี-เอท และเดวี แบค ไฟท์ ตอนที่ 197-228 พากย์ไทย - ANIMEiNDY",
@@ -60604,7 +60690,7 @@
       "name": "One Piece วันพีช ซีซั่น 5 ความฝัน และ ตำนานหมอกสีรุ้ง ตอนที่ 133-144 พากย์ไทย - ANIMEiNDY - ตอนที่ 142",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=49055&type=animeindy&hash=67ddaa348147a0f053994be37e82ee32",
       "menu": "series",
-      "seriesTitle": "One Piece วันพีช ซีซั่น 5 ความฝัน และ ตำนานหมอกสีรุ้ง ตอนที่ 133-144 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "One Piece วันพีช ซีซั่น 5 ความฝัน และ ตำนานหมอ���สีรุ้ง ตอนที่ 133-144 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 142"
     },
     "97f238199f6416751fe968fc07eeeebf": {
@@ -61406,7 +61492,7 @@
       "episode": "ตอนที่ 525"
     },
     "5488c7d78f51ace94222c82d2a2bd7de": {
-      "name": "One Piece วันพีช ซีซั่น 15 เกาะมนุษย��เงือก ตอนที่ 517-578 พากย์ไทย - ANIMEiNDY - ตอนที่ 526",
+      "name": "One Piece วันพีช ซีซั่น 15 เกาะมนุษย์เงือก ตอนที่ 517-578 พากย์ไทย - ANIMEiNDY - ตอนที่ 526",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43571&type=animeindy&hash=87ba040753578f126f122ba72d7b3eb5",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 15 เกาะมนุษย์เงือก ตอนที่ 517-578 พากย์ไทย - ANIMEiNDY",
@@ -61805,7 +61891,7 @@
       "episode": "ตอนที่ 460"
     },
     "c2085232129962fb6cd619c151a37403": {
-      "name": "One Piece วันพีช ซีซั่น 14 สงคราม มารีนฟอร์ด ตอนที่ 457-516 พากย์ไทย - ANIMEiNDY - ตอนที่ 461",
+      "name": "One Piece วันพีช ซีซั่น 14 สงคราม มารีนฟอร์ด ตอนที��� 457-516 พากย์ไทย - ANIMEiNDY - ตอนที่ 461",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=44515&type=animeindy&hash=ec9d40a77b5d1435bd82f9572703ab75",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 14 สงคราม มารีนฟอร์ด ตอนที่ 457-516 พากย์ไทย - ANIMEiNDY",
@@ -62162,7 +62248,7 @@
       "episode": "ตอนที่ 511"
     },
     "e4dbf8fa2a910b7bb061760a49b44fb1": {
-      "name": "One Piece วันพีช ซีซั่น 14 สงคราม มารีนฟอร์ด ตอนที่ 457-516 พากย์ไทย - ANIMEiNDY - ตอนที่ 512",
+      "name": "One Piece วันพีช ซีซั่น 14 สงครา�� มารีนฟอร์ด ตอนที่ 457-516 พากย์ไทย - ANIMEiNDY - ตอนที่ 512",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=44515&type=animeindy&hash=ec9d40a77b5d1435bd82f9572703ab75",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 14 สงคราม มารีนฟอร์ด ตอนที่ 457-516 พากย์ไทย - ANIMEiNDY",
@@ -62841,7 +62927,7 @@
       "episode": "ตอนที่ 392"
     },
     "f8cd57b034534f7125c49c8816c5935e": {
-      "name": "One Piece วันพีช ซีซั่น 11 หมู่เกาะชาบอนดี้ ตอนที่ 385-404 พากย์ไทย - ANIMEiNDY - ตอนที่ 393",
+      "name": "One Piece วันพีช ซีซั่น 11 หมู่เกาะชาบอนดี้ ตอนที่ 385-404 พากย์ไทย - ANIMEiNDY - ต���นที่ 393",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=44579&type=animeindy&hash=34804ec88a165eb823bfd0059321d030",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 11 หมู่เกาะชาบอนดี้ ตอนที่ 385-404 พากย์ไทย - ANIMEiNDY",
@@ -63191,7 +63277,7 @@
       "episode": "ตอนที่ 182"
     },
     "afa25d22b94513cc80159ab6b9ea5aa4": {
-      "name": "One Piece วันพีช ซีซั่น 6 เกาะแห่งท้องฟ้า ตอนที่ 145-196 พากย์ไทย - ANIMEiNDY - ตอนที่ 183",
+      "name": "One Piece วันพี��� ซีซั่น 6 เกาะแห่งท้องฟ้า ตอนที่ 145-196 พากย์ไทย - ANIMEiNDY - ตอนที่ 183",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=49027&type=animeindy&hash=31fee73851f3d438c79d226014bdf356",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 6 เกาะแห่งท้องฟ้า ตอนที่ 145-196 พากย์ไทย - ANIMEiNDY",
@@ -64619,7 +64705,7 @@
       "episode": "ตอนที่ 1"
     },
     "8d92a8941cbb1a498629676a406925e9": {
-      "name": "Kingdom Season 1 คิงดอม สงครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+      "name": "Kingdom Season 1 คิงดอม สงครามบัลลัง��์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=18280&type=animeindy&hash=497659057971a775736f9994b6a86fa0",
       "menu": "series",
       "seriesTitle": "Kingdom Season 1 คิงดอม สงครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY",
@@ -64633,7 +64719,7 @@
       "episode": "ตอนที่ 1"
     },
     "dca6fa42a7d870c61e949538e497a077": {
-      "name": "Kingdom Season 1 คิงดอม สงครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+      "name": "Kingdom Season 1 คิงดอม ส���ครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=18280&type=animeindy&hash=497659057971a775736f9994b6a86fa0",
       "menu": "series",
       "seriesTitle": "Kingdom Season 1 คิงดอม สงครามบัลลังก์ผงาดจิ๋นซี ภาค 1 ตอนที่ 1-39 พากย์ไทย - ANIMEiNDY",
@@ -65221,7 +65307,7 @@
       "episode": "ตอนที่ 9"
     },
     "49d267c6395a333b7f95fc8e994a4701": {
-      "name": "Dinosaur King ไดโนคิง ราชันย์พันธุ์ไดโนเสาร์ ตอนที่ 1-18 จบ���ากย์ไทย - ANIMEiNDY - ตอนที่ 10",
+      "name": "Dinosaur King ไดโนคิง ราชันย์พันธุ์ไดโนเสาร์ ตอนที่ 1-18 จบพากย์ไทย - ANIMEiNDY - ตอนที่ 10",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=20805&type=animeindy&hash=6a247b4d56d44c93f671087c6ebee7c3",
       "menu": "series",
       "seriesTitle": "Dinosaur King ไดโนคิง ราชันย์พันธุ์ไดโนเสาร์ ตอนที่ 1-18 จบพากย์ไทย - ANIMEiNDY",
@@ -65340,7 +65426,7 @@
       "episode": "ตอนที่ 3"
     },
     "f8eb21863b017ac464b6082f5066e5bb": {
-      "name": "Natsume Yuujinchou นัตสึเมะกับบันทึกพิศวง ภาค 3 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Natsume Yuujinchou นัตสึเมะกับบันทึกพ��ศวง ภาค 3 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=28663&type=animeindy&hash=51c46fbd8bf0378dec9a59e3671a85dd",
       "menu": "series",
       "seriesTitle": "Natsume Yuujinchou นัตสึเมะกับบันทึกพิศวง ภาค 3 ตอนที่ 1-13 พากย์ไทย - ANIMEiNDY",
@@ -66005,7 +66091,7 @@
       "episode": "ตอนที่ 11"
     },
     "aa67e11da2670cc8cc9394ceae43f331": {
-      "name": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
+      "name": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที��� 1-24+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29581&type=animeindy&hash=b9d892b4790266400de64c81986219d3",
       "menu": "series",
       "seriesTitle": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY",
@@ -66068,7 +66154,7 @@
       "episode": "ตอนที่ 20"
     },
     "14c75a829c0759a36710d2164d779217": {
-      "name": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 21",
+      "name": "Steins Gate สไต���ส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY - ตอนที่ 21",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29581&type=animeindy&hash=b9d892b4790266400de64c81986219d3",
       "menu": "series",
       "seriesTitle": "Steins Gate สไตนส์ เกท ฝ่าวิกฤตพิชิตกาลเวลา ตอนที่ 1-24+OVA พากย์ไทย - ANIMEiNDY",
@@ -66393,7 +66479,7 @@
       "name": "Duel Masters Versus Revolution Final สงครามเกมส์ไพ่ วีเอสอา ไฟนอล ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=79997&type=animeindy&hash=32bb23aa3d864deef3f322ae93ad8174",
       "menu": "series",
-      "seriesTitle": "Duel Masters Versus Revolution Final สงครามเกมส์ไพ่ วีเอสอา ไฟนอล ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Duel Masters Versus Revolution Final สงครามเกมส์ไพ่ วีเอสอา ไฟนอล ตอนที่ 1-51 พ���กย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 3"
     },
     "006b0fb633302fd343f2488292cfe027": {
@@ -66736,11 +66822,11 @@
       "name": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 29",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=79890&type=animeindy&hash=d7ad846e2041909922c099dfb07b77e2",
       "menu": "series",
-      "seriesTitle": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พ��กย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 29"
     },
     "44c46f8537a52f1893663e40aaa4184f": {
-      "name": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 30",
+      "name": "Duel Masters Versus Revolution สงครามเกมส���ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY - ตอนที่ 30",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=79890&type=animeindy&hash=d7ad846e2041909922c099dfb07b77e2",
       "menu": "series",
       "seriesTitle": "Duel Masters Versus Revolution สงครามเกมส์ไพ่ วีเอสอา ตอนที่ 1-51 พากย์ไทย - ANIMEiNDY",
@@ -67433,10 +67519,10 @@
       "episode": "ตอนที่ 77"
     },
     "1199e2dee49f60b1a41b44bc1bcafc9c": {
-      "name": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY - ตอนที่ 78",
+      "name": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY - ตอนที��� 78",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=58991&type=animeindy&hash=75f1ae60c07673f0366dcb99fd21a8c9",
       "menu": "series",
-      "seriesTitle": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ต��นที่ 1-180 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 78"
     },
     "66bd98ed00f0a7717b28b781cf17eede": {
@@ -67801,7 +67887,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=58991&type=animeindy&hash=75f1ae60c07673f0366dcb99fd21a8c9",
       "menu": "series",
       "seriesTitle": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 130"
+      "episode": "ต���นที่ 130"
     },
     "f6f581fb68f79c8c70b65f7f7fe337a5": {
       "name": "Yu-Gi-Oh GX ยูกิโอ เกมกลคนอัจฉริยะ GX ภาค1-4 ตอนที่ 1-180 พากย์ไทย - ANIMEiNDY - ตอนที่ 131",
@@ -68157,7 +68243,7 @@
       "name": "Sakigake Otokojuku ขุนพลประจัญบาน ตอนที่ 1-2 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=46402&type=animeindy&hash=804497a6c322ca73be244331015d559b",
       "menu": "series",
-      "seriesTitle": "Sakigake Otokojuku ขุนพลประจัญบาน ตอนที่ 1-2 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Sakigake Otokojuku ขุนพลประ��ัญบาน ตอนที่ 1-2 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "3952b687d44e0e85f7ee21bd9ca1b71b": {
@@ -68504,7 +68590,7 @@
       "episode": "ตอนที่ 6"
     },
     "41906ef0f712914453ecf7a0dda7b61b": {
-      "name": "Zero No Tsukaima F อสูรรับใช้ของยาย 0 สนิท ภาค 4 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
+      "name": "Zero No Tsukaima F อสูรรับใช้ของยาย 0 สนิท ภาค 4 ตอนที่ 1-12 พากย์ไท��� - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=47956&type=animeindy&hash=17ad4eee23b90d819cfc94fd760b6500",
       "menu": "series",
       "seriesTitle": "Zero No Tsukaima F อสูรรับใช้ของยาย 0 สนิท ภาค 4 ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -68861,7 +68947,7 @@
       "episode": "ตอนที่ 21"
     },
     "b97e646de6f22faf79fd858a60da6e11": {
-      "name": "Zetsuen No Tempest ปมปริศนา ศึกมหาเวทย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 22",
+      "name": "Zetsuen No Tempest ปมปริศนา ศึกมหาเวทย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที�� 22",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=41854&type=animeindy&hash=669cd23e9dba4fa38f417381b68e951c",
       "menu": "series",
       "seriesTitle": "Zetsuen No Tempest ปมปริศนา ศึกมหาเวทย์ ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -69060,7 +69146,7 @@
       "name": "Urasekai Picnic ฝ่าปริศนาตะลุยโลกเบื้องหลัง ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=76585&type=animeindy&hash=553e0759116352d129102ad5d6107b8f",
       "menu": "series",
-      "seriesTitle": "Urasekai Picnic ฝ่าปริศนาตะลุยโลกเบื้องหลัง ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Urasekai Picnic ฝ่าปริศนาตะลุยโลกเบื้องหลัง ตอนท��่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 5"
     },
     "2f10018988ec37319a8c47e055c4fe86": {
@@ -69249,7 +69335,7 @@
       "name": "GTO จีทีโอ คุณครูพันธุ์หายาก ตอนที่ 1-43 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=35894&type=animeindy&hash=ea8beed95a85f5d9ee3a955de4d3acc2",
       "menu": "series",
-      "seriesTitle": "GTO จีทีโอ คุณครูพันธุ์หายาก ตอนที่ 1-43 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "GTO จีทีโอ คุณ��รูพันธุ์หายาก ตอนที่ 1-43 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 3"
     },
     "210537f9849481eb4c31186943b5a56b": {
@@ -69883,7 +69969,7 @@
       "episode": "ตอนที่ 1"
     },
     "56f705d91bba9fe33f257fb7752afc95": {
-      "name": "Nurarihyon No Mago นูระหลานจอมภูต ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Nurarihyon No Mago นูระหลานจอมภูต ภาค 1 ตอนที่ 1-24 พ��กย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29473&type=animeindy&hash=7b2cebf75426e59e2949bd6220dc4f8d",
       "menu": "series",
       "seriesTitle": "Nurarihyon No Mago นูระหลานจอมภูต ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -70691,7 +70777,7 @@
       "name": "Shonen Onmyoji โชเน็น อนเมียวจิ จอมเวทปราบมาร ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=32117&type=animeindy&hash=a6e02dc1f62fc8588959b842d256dc1c",
       "menu": "series",
-      "seriesTitle": "Shonen Onmyoji โชเน็น อนเมียวจิ จอมเวทปร���บมาร ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Shonen Onmyoji โชเน็น อนเมียวจิ จอมเวทปราบมาร ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 6"
     },
     "1d2bdf4ac688c8a61c84611ace4d1d75": {
@@ -71444,7 +71530,7 @@
       "episode": "ตอนที่ 2"
     },
     "d944c39f077b72869b144299854d3e72": {
-      "name": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภาค 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
+      "name": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภาค 2 ตอนที��� 1-47 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=30855&type=animeindy&hash=6d49d149f9674fbbc18d2f31e26d4b00",
       "menu": "series",
       "seriesTitle": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภาค 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY",
@@ -71461,7 +71547,7 @@
       "name": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภาค 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=30855&type=animeindy&hash=6d49d149f9674fbbc18d2f31e26d4b00",
       "menu": "series",
-      "seriesTitle": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภา�� 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Inazuma Eleven GO นักเตะแข้งสายฟ้า ภาค 2 ตอนที่ 1-47 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 2"
     },
     "4332a3685d13d210ef7d4025bb5f3c72": {
@@ -71801,7 +71887,7 @@
       "episode": "ตอนที่ 3"
     },
     "f252f4675329931b39efe96b5c6d2cd4": {
-      "name": "Inazuma Eleven GO Chrono Stone นักเตะแข้งสายฟ้า ภาค 3 ตอนที่ 1-51พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
+      "name": "Inazuma Eleven GO Chrono Stone นักเตะแข้งสายฟ้า ภ��ค 3 ตอนที่ 1-51พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=30909&type=animeindy&hash=4ae101c1493b85bcb96763d1412a14f5",
       "menu": "series",
       "seriesTitle": "Inazuma Eleven GO Chrono Stone นักเตะแข้งสายฟ้า ภาค 3 ตอนที่ 1-51พากย์ไทย - ANIMEiNDY",
@@ -71811,7 +71897,7 @@
       "name": "Inazuma Eleven GO Chrono Stone นักเตะแข้งสายฟ้า ภาค 3 ตอนที่ 1-51พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=30909&type=animeindy&hash=4ae101c1493b85bcb96763d1412a14f5",
       "menu": "series",
-      "seriesTitle": "Inazuma Eleven GO Chrono Stone นักเตะแข้งสายฟ้า ภาค 3 ตอนที่ 1-51พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Inazuma Eleven GO Chrono Stone นักเตะแข้งสายฟ้า ภาค 3 ตอนที่ 1-51พากย์ไท�� - ANIMEiNDY",
       "episode": "ตอนที่ 3"
     },
     "fadf86359a69938fc23b793bd2b78e53": {
@@ -73078,7 +73164,7 @@
       "name": "To Aru Majutsu No Index อินเดกซ์ คัมภีร์คาถาต้องห้าม ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=30286&type=animeindy&hash=94d3ea601b5b5b0a3ac087eb77839041",
       "menu": "series",
-      "seriesTitle": "To Aru Majutsu No Index อินเดกซ์ คัมภีร์คาถ���ต้องห้าม ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "To Aru Majutsu No Index อินเดกซ์ คัมภีร์คาถาต้องห้าม ภาค 1 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 1"
     },
     "5584a9ed4f0f5f2c23bc48541282cf8d": {
@@ -73705,7 +73791,7 @@
       "episode": "ตอนที่ 4"
     },
     "9e424530e06fdd8b2d3760f14c81e788": {
-      "name": "Shakugan No Shana ชานะ นักรบเนตรอัคคี ภาค 2 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
+      "name": "Shakugan No Shana ชานะ ��ักรบเนตรอัคคี ภาค 2 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29087&type=animeindy&hash=df52f3d72740a9cb42d24366241c75a5",
       "menu": "series",
       "seriesTitle": "Shakugan No Shana ชานะ นักรบเนตรอัคคี ภาค 2 ตอนที่ 1-24 พากย์ไทย - ANIMEiNDY",
@@ -73922,7 +74008,7 @@
       "episode": "ตอนที่ 11"
     },
     "50dc14a55073ff9e98816e8e54bafcb8": {
-      "name": "Medaka Box เม��ากะ บ๊อก คุโรคามิ มาดากะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
+      "name": "Medaka Box เมดากะ บ๊อก คุโรคามิ มาดากะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=29344&type=animeindy&hash=18effd9ec4f65ab78e47bce8a018ae61",
       "menu": "series",
       "seriesTitle": "Medaka Box เมดากะ บ๊อก คุโรคามิ มาดากะ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -74062,7 +74148,7 @@
       "episode": "ตอนที่ 6"
     },
     "92bbf70685fc58c3e0fea25c1693c623": {
-      "name": "School Rumble สกูลรัมเบิ้ล สูตรรักฉบับนักเรียน ภาค 1 ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
+      "name": "School Rumble สกูลรัมเบิ้ล สูตรรักฉบับนักเ��ียน ภาค 1 ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=28451&type=animeindy&hash=431d7412c8e261828e0655b942e62bd7",
       "menu": "series",
       "seriesTitle": "School Rumble สกูลรัมเบิ้ล สูตรรักฉบับนักเรียน ภาค 1 ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
@@ -75088,7 +75174,7 @@
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=42329&type=animeindy&hash=9c57c8d9eae7255b36fa06a1c20b508f",
       "menu": "series",
       "seriesTitle": "One Piece วันพีช ซีซั่น 16 พังค์ ฮาซาร์ด ตอนที่ 579-628 พากย์ไทย - ANIMEiNDY",
-      "episode": "ตอนที่ 627"
+      "episode": "ตอน��ี่ 627"
     },
     "0af6fc24b99bd9aac7544659e4d09352": {
       "name": "One Piece วันพีช ซีซั่น 16 พังค์ ฮาซาร์ด ตอนที่ 579-628 พากย์ไทย - ANIMEiNDY - ตอนที่ 628",
@@ -75451,7 +75537,7 @@
       "name": "Magic Kaito จอมโจร อัจฉริยะ บุรุษรัตติกาล ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=27809&type=animeindy&hash=95aeca8f8daeaceb181bb9a1027e9f55",
       "menu": "series",
-      "seriesTitle": "Magic Kaito จอมโจร อัจฉริยะ บุรุษรัตติกาล ต��นที่ 1-12 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Magic Kaito จอมโจร อัจฉริยะ บุรุษรัตติกาล ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 9"
     },
     "50f6dfee34f84ded86679aec9e475bd7": {
@@ -76207,7 +76293,7 @@
       "name": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 39",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=24640&type=animeindy&hash=8c4b3517fe4cf8ba4d2e62893916ca2a",
       "menu": "series",
-      "seriesTitle": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภา���1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 39"
     },
     "bff8fa881d3941e2be5fd78522e18dd7": {
@@ -76260,14 +76346,14 @@
       "episode": "ตอนที่ 46"
     },
     "e05094400bd490d6f9a55482988d585a": {
-      "name": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 47",
+      "name": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 ��ากย์ไทย - ANIMEiNDY - ตอนที่ 47",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=24640&type=animeindy&hash=8c4b3517fe4cf8ba4d2e62893916ca2a",
       "menu": "series",
       "seriesTitle": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 47"
     },
     "3b7062f662bb270d1e1b0b0194e019f1": {
-      "name": "Mar Heaven อิ��ธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 48",
+      "name": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 48",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=24640&type=animeindy&hash=8c4b3517fe4cf8ba4d2e62893916ca2a",
       "menu": "series",
       "seriesTitle": "Mar Heaven อิทธิฤทธิ์พิชิตมายา ภาค1 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
@@ -78496,7 +78582,7 @@
       "name": "Beyblade เบย์เบลด ศึกลูกข่างสะท้านฟ้า ภาค1-2 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=22032&type=animeindy&hash=083102bf689af88cc9c1da46d1349863",
       "menu": "series",
-      "seriesTitle": "Beyblade เบย์เบลด ศึกลูกข่างสะท้านฟ้า ภาค1-2 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Beyblade เบย์เบลด ศึกลูกข่างสะท้านฟ้า ภาค1-2 ตอนที่ 1-52 พาก���์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "d52ea2a82b978359a9354488a70f4ca6": {
@@ -78731,7 +78817,7 @@
       "episode": "ตอนที่ 44"
     },
     "a1504e3934f66647fe0985a0630b3354": {
-      "name": "Beyblade เบย์เบลด ศึกลูกข��างสะท้านฟ้า ภาค1-2 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 45",
+      "name": "Beyblade เบย์เบลด ศึกลูกข����งสะท้านฟ้า ภาค1-2 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 45",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=22032&type=animeindy&hash=083102bf689af88cc9c1da46d1349863",
       "menu": "series",
       "seriesTitle": "Beyblade เบย์เบลด ศึกลูกข่างสะท้านฟ้า ภาค1-2 ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
@@ -79291,7 +79377,7 @@
       "episode": "ตอนที่ 05"
     },
     "4288a23efa02392d812ce8b0429c1876": {
-      "name": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 06",
+      "name": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเข��� ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY - ตอนที่ 06",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=19549&type=animeindy&hash=97211ed008a207cd28969169a65f3dad",
       "menu": "series",
       "seriesTitle": "Idaten Jump เจ้าหนูนักซิ่งสิงห์ภูเขา ตอนที่ 1-52 พากย์ไทย - ANIMEiNDY",
@@ -80418,7 +80504,7 @@
       "episode": "ตอนที่ 7"
     },
     "903b973261bd0d16ca2bd70fa34941f6": {
-      "name": "Juohmaru จูโอมารุ นักสู้คอมพิวเตอร์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
+      "name": "Juohmaru จูโอมารุ นักสู้คอมพิวเตอร�� ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=20672&type=animeindy&hash=233db147ec5f625604396611be2d46dd",
       "menu": "series",
       "seriesTitle": "Juohmaru จูโอมารุ นักสู้คอมพิวเตอร์ ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -81076,7 +81162,7 @@
       "episode": "ตอนที่ 027"
     },
     "058ad5edc5a101aa91196155b2a02348": {
-      "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 028",
+      "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พ��กย์ไทย - ANIMEiNDY - ตอนที่ 028",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
       "menu": "series",
       "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
@@ -81135,7 +81221,7 @@
       "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 036",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
       "menu": "series",
-      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูก���ักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 036"
     },
     "9e7adbb1ea36aed0aac46c1e2e0e29e7": {
@@ -81832,7 +81918,7 @@
       "episode": "ตอนที่ 135"
     },
     "b9b592cd36da4d78ded55d837d56364c": {
-      "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 136",
+      "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหล��ด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 136",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
       "menu": "series",
       "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
@@ -82031,7 +82117,7 @@
       "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY - ตอนที่ 164",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
       "menu": "series",
-      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พาก���์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 164"
     },
     "b46d7ef467f7def29666cb40fb6ea0c7": {
@@ -82392,7 +82478,7 @@
       "episode": "ตอนที่ 11"
     },
     "f1ef59eaae1ad966b3654d8b3a82622f": {
-      "name": "Pokemon โปเกม่อน เดอะมูฟวี่ ตอนที่ 1-19 - ANIMEiNDY - ตอนที่ 12",
+      "name": "Pokemon โปเกม่อน เดอะมู���วี่ ตอนที่ 1-19 - ANIMEiNDY - ตอนที่ 12",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=18975&type=animeindy&hash=994c75eb67e6ad68f80f199a0bbed376",
       "menu": "series",
       "seriesTitle": "Pokemon โปเกม่อน เดอะมูฟวี่ ตอนที่ 1-19 - ANIMEiNDY",
@@ -83242,7 +83328,7 @@
       "name": "Shinbi Apartment ชินบิ หอพักอลเวง ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=51887&type=animeindy&hash=68d72e218e0fc4d48b7634b6389764d1",
       "menu": "series",
-      "seriesTitle": "Shinbi Apartment ชินบิ หอพักอลเวง ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Shinbi Apartment ชินบิ หอพัก��ลเวง ตอนที่ 1-26 พากย์ไทย - ANIMEiNDY",
       "episode": "ตอนที่ 11"
     },
     "f04b2eb5848ac7d172cdfdc219fef20d": {
@@ -83613,7 +83699,7 @@
       "name": "Blue Exorcist มือปราบผีพันธุ์ซาตาน ภาค 1 ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY - Season 1 - Episode 8",
       "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=43153&type=animeindy&hash=844392e93d9200a3cf042459bcb77b0a",
       "menu": "series",
-      "seriesTitle": "Blue Exorcist มือปราบผีพันธุ์ซาตาน ภาค 1 ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
+      "seriesTitle": "Blue Exorcist มือปราบผีพันธุ์ซาตาน ภา�� 1 ตอนที่ 1-25 พากย์ไทย - ANIMEiNDY",
       "episode": "Season 1 - Episode 8"
     },
     "91d2f6cbab7a5ca683192d75d4534c6d": {
@@ -84012,7 +84098,7 @@
       "menu": "movies"
     },
     "25f5ea75cc57925580e5096fb8d25e03": {
-      "name": "Never After Dark (2026) มืดค่ำ อย่า! ย่างกราย",
+      "name": "Never After Dark (2026) ม���ดค่ำ อย่า! ย่างกราย",
       "logo": "https://25-hd.com/wp-content/uploads/2026/11/jguB76QbAx6yExiOLIPvOaxW95b-scaled-1.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -84655,7 +84741,7 @@
     "179eb8ff57c0caebd5a1bb93d0080541": {
       "name": "หมัดเทวา ท้าเดิมพัน (2026) God Skin",
       "logo": "https://25-hd.com/wp-content/uploads/2026/09/Ao4sN50C7RoyQJJlmPrFEMrizAp.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "หนังให��่ 2006",
       "menu": "movies"
     },
     "c4a68ff0006eff398a03cdad37da3350": {
@@ -84667,7 +84753,7 @@
     "a35efdf4df2e4f88e919593a6d9e5b74": {
       "name": "MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe (2026) Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe",
       "logo": "https://25-hd.com/wp-content/uploads/2026/08/6YkVpc9Dn1L2FHNlLOybpSKeGc7.jpg",
-      "group": "หนังใ��ม่ 2006",
+      "group": "หนังใหม่ 2006",
       "menu": "movies"
     },
     "8f136a68ad2a4cc970c90e9083675676": {
@@ -85945,7 +86031,7 @@
     "9b7af7d60ed3221218bfcee12c2416c3": {
       "name": "Obsession (2026) สาปรักคลั่งหลอน",
       "logo": "https://25-hd.com/wp-content/uploads/2026/06/pmDXwRcYseEdjmdR8jVtBJ4E2Cl-1.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "หน��งใหม่ 2006",
       "menu": "movies"
     },
     "70a2e294ec8df100532b71a2d8a64367": {
@@ -87173,7 +87259,7 @@
       "menu": "movies"
     },
     "75f7fec297014dc11746f45a81b5ba02": {
-      "name": "Ultraman: Rising (2024) อุลตร้าแมน: ผงาด",
+      "name": "Ultraman: Rising (2024) อุลตร้า���มน: ผงาด",
       "logo": "https://25-hd.com/wp-content/uploads/2026/03/wLkuwqaLhHVsmWoXO0l4OMJg2JE.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -87181,7 +87267,7 @@
     "badfedbc75e2e649c2768a21bf81bdd7": {
       "name": "The Dresden Sun (2026)",
       "logo": "https://25-hd.com/wp-content/uploads/2026/03/cwBA8R171aQb2M3Iax80BYvYS1i.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "���นังใหม่ 2006",
       "menu": "movies"
     },
     "3d7c37b3b2ec1cf6d617073c2cfef61c": {
@@ -87895,7 +87981,7 @@
     "8eb6e002747f75579cc916afddae6e03": {
       "name": "Habal (2025)",
       "logo": "https://25-hd.com/wp-content/uploads/2026/02/1Pqnk5rLEHdV9bfTbeCU3vXHFYW.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "หนังใ��ม่ 2006",
       "menu": "movies"
     },
     "5e57cfa3192c5622723c2fc7879f0341": {
@@ -88537,7 +88623,7 @@
     "3039119d857fad3710c56f071a8972b8": {
       "name": "Mercy (2026) 90 นาทีสั่งตาย",
       "logo": "https://25-hd.com/wp-content/uploads/2026/01/A62cueRErsygbxm95wQvcMplwk8-scaled-1.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "���นังใหม่ 2006",
       "menu": "movies"
     },
     "2fbd4cfa5f6cd1fce2552019c481c4d3": {
@@ -90529,7 +90615,7 @@
     "d065b28fb6399a18cc65c013c3e38ad5": {
       "name": "Godzilla x Kong: The New Empire (2024) ก็อดซิลล่า ปะทะ คอง 2 อาณาจักรใหม่",
       "logo": "https://25-hd.com/wp-content/uploads/2025/11/tTuk2noT16wZQ5U4QJ1Kh4nVAbM-scaled-2.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "หนังใหม�� 2006",
       "menu": "movies"
     },
     "0e79bfc2ccea7522c866f0bc0a189286": {
@@ -93853,7 +93939,7 @@
     "14ff305184b68b90b153225e6a80b04c": {
       "name": "Coolie (2025)",
       "logo": "https://25-hd.com/wp-content/uploads/2025/09/kKWOHMZkPWoGZsDlNtQP3WqGmY4-scaled-2.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "���นังใหม่ 2006",
       "menu": "movies"
     },
     "ebc194fbf145bd311904fd45508fa7d3": {
@@ -95165,7 +95251,7 @@
       "menu": "movies"
     },
     "010c6c4c3ede43ad5b3bb5924e8e487b": {
-      "name": "Winter Spring Summer or Fall (2024) วินเทอร์ สปริง ซัมเมอร์ ออร์ ฟอลล์ หัวใจสี่ฤดู",
+      "name": "Winter Spring Summer or Fall (2024) วินเทอร์ สปริง ซัมเมอร์ ออร์ ฟอลล�� หัวใจสี่ฤดู",
       "logo": "https://25-hd.com/wp-content/uploads/2025/09/mEPi5ISa5RmzpzeDfwkhX0CcNsf-scaled-3.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -95389,7 +95475,7 @@
     "c23964c5102eb792c90dde8c0048f3d9": {
       "name": "Romance in Style (2022) โรแมนซ์ อิน สไตล์",
       "logo": "https://25-hd.com/wp-content/uploads/2025/08/gYcVRws4Hu5B36ji7BheKDnSbfP-scaled-4.jpg",
-      "group": "หนังใหม่ 2006",
+      "group": "หนังใ���ม่ 2006",
       "menu": "movies"
     },
     "bc6a8af146dafcad95d1b3197a041e11": {
@@ -99059,7 +99145,7 @@
       "menu": "movies"
     },
     "f5862008f7edf18692d262d0f239f8b2": {
-      "name": "The Desperate Hour (2022) ฝ่าวิกฤต วิ่งหนีตาย",
+      "name": "The Desperate Hour (2022) ฝ��าวิกฤต วิ่งหนีตาย",
       "logo": "https://25-hd.com/wp-content/uploads/2025/07/8YEblspcbfMdRGla0IF1oifCOXO-scaled-3.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -99863,7 +99949,7 @@
       "menu": "movies"
     },
     "dd858e265334530213eb7cc218fb29d4": {
-      "name": "Semi-Soeter (2025) เรื่องรักกึ่งหวาน งานนี้บานปลาย",
+      "name": "Semi-Soeter (2025) เรื่องรักกึ่งหวาน งานน���้บานปลาย",
       "logo": "https://25-hd.com/wp-content/uploads/2025/06/xTJXvW3u16MwMwGYnG1k2R96zYS-2.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -99875,7 +99961,7 @@
       "menu": "movies"
     },
     "6f44af7f9e436f691dcc28e1e070a3b4": {
-      "name": "The New King of Comedy (2019) คนเล็กไม่เกร��ใจนรก",
+      "name": "The New King of Comedy (2019) คนเล็กไม่เกรงใจนรก",
       "logo": "https://25-hd.com/wp-content/uploads/2025/06/8uAybWSkrEmGkRDDGouZR1A8hxD-3.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -101537,7 +101623,7 @@
       "menu": "movies"
     },
     "2ef36ffee7002c360673b7c20e92ab7a": {
-      "name": "Fuuto PI: The Portrait of Kamen Rider Skull (2024) ยอดนักสืบแห่งฟูโตะ ภาพสลักแห่งมาสค์ไรเดอร์สกัล",
+      "name": "Fuuto PI: The Portrait of Kamen Rider Skull (2024) ยอดนักสืบแห่งฟูโตะ ภาพสลักแห่งม��สค์ไรเดอร์สกัล",
       "logo": "https://25-hd.com/wp-content/uploads/2025/06/n6YOsMXed9z3NHIPptmAocOfh4Q-scaled-3.jpg",
       "group": "หนังใหม่ 2006",
       "menu": "movies"
@@ -102712,49 +102798,98 @@
     {
       "group": "หนังใหม่ 2006",
       "title": "หนังใหม่ 2006",
+      "custom": false,
       "items": [
         {
-          "id": "bba4d9e60fe48ee4450cac38305d07b1",
-          "name": "The Bad Guys 2 (2025) วายร้ายพันธุ์ดี 2",
-          "logo": "https://www.123hdtv.com/wp-content/uploads/2025/08/The-Bad-Guys-2-2025-วายร้ายพันธุ์ดี-2.png",
-          "url": "https://main.24playerhd.com/newplaylist/3c403f56265a1ff60b2df342/3c403f56265a1ff60b2df342.m3u8",
-          "group": "หนัง Zoom",
-          "year": "2025",
-          "rating": ""
+          "id": "60524dc0d4fba9a6184064b01bab1c1b",
+          "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
         },
         {
-          "id": "e8aa96ab3e237ac8257c8e23e6f9aba9",
-          "name": "M3GAN 2.0 (2025) เมแกน 2.0",
-          "logo": "https://www.123hdtv.com/wp-content/uploads/2025/06/M3GAN-2.0-2025-เมแกน-2.0.png",
-          "url": "https://main.24playerhd.com/newplaylist/bf5d05c1c98b587e4689ecda/bf5d05c1c98b587e4689ecda.m3u8",
-          "group": "หนัง Zoom",
-          "year": "2025",
-          "rating": ""
+          "id": "25f5ea75cc57925580e5096fb8d25e03",
+          "name": "Never After Dark (2026) ม���ดค่ำ อย่า! ย่างกราย",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/jguB76QbAx6yExiOLIPvOaxW95b-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110098/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
         },
         {
-          "id": "4706ee7ce367783e93f07b65a0ed090d",
-          "name": "Demon Slayer Kimetsu no Yaiba Infinity Castle (2025) ดาบพิฆาตอสูร ภาคปราสาทไร้ขอบเขต",
-          "logo": "https://www.123hdtv.com/wp-content/uploads/2025/08/Demon-Slayer-Kimetsu-no-Yaiba-Infinity-Castle-2025-ดาบพิฆาตอสูร-ภาคปราสาทไร้ขอบเขต.png",
-          "url": "https://main.24playerhd.com/newplaylist/ca1cafa70bedd79d9ed61524/ca1cafa70bedd79d9ed61524.m3u8",
-          "group": "หนัง Zoom",
-          "year": "2025",
-          "rating": ""
+          "id": "862603127025157f13d431e3326d5fe3",
+          "name": "A Story of Derry (2026) เรื่องราวของเดอร์รี่",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/hcJzOspkHAjPzXs5Y2KrhphA2oj-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110094/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
         },
         {
-          "id": "367754802cffc47916f701a19a62c7ba",
-          "name": "Elio (2025) เอลิโอ",
-          "logo": "https://www.123hdtv.com/wp-content/uploads/2025/06/Elio-2025-เอลิโอ.png",
-          "url": "https://main.24playerhd.com/newplaylist/28286f39847a125a2da31e93/28286f39847a125a2da31e93.m3u8",
-          "group": "หนัง Zoom",
-          "year": "2025",
-          "rating": ""
+          "id": "e77046d160940d0cc1f784e6ab20e31e",
+          "name": "นาคี 3 ครุฑา นาคี (2026) Nakee 3: The Cursed War",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/10/sfVC55w5M4lSILmtqOX2lBYcM04.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110041/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "ab98b773b15628cfc856ba7ca05dcc7f",
+          "name": "Isla (2026)",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/09/clGpGnasLM0ghJb56maKD5CawGl.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109674/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "210ed7b0c8c368d6d590f19ad15c450e",
+          "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
         }
-      ],
-      "custom": false
+      ]
     },
     {
       "group": "เรื่องหลอนๆ",
       "title": "เรื่องหลอนๆ",
+      "custom": false,
       "items": [
         {
           "id": "c5fdcb9e38bffb87653d874f30c45add",
@@ -102810,8 +102945,7 @@
           "year": "",
           "rating": ""
         }
-      ],
-      "custom": false
+      ]
     }
   ]
 }
