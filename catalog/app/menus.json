@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795250471834,
+  "generatedAt": 1795254904790,
   "menus": {
     "folders": {
       "หนัง ผู้ใหญ่": "tv",
@@ -14,7 +14,16 @@
       "All": "tv",
       "เรื่องหลอนๆ": "series",
       "หนัง": "movies",
-      "ยอดนิยม": "movies"
+      "ยอดนิยม": "movies",
+      "Digital TV": "tv",
+      "รวมกีฬา": "sports",
+      "หนัง HD": "movies",
+      "ละคร ทีวี": "tv",
+      "เป็นต่อ 2022": "tv",
+      "เป็นต่อ 2023": "tv",
+      "เป็นต่อ 2024": "tv",
+      "เป็นต่อ 2025": "tv",
+      "แฟชั่น": "tv"
     },
     "titles": {},
     "hidden": [
@@ -58,6 +67,22 @@
           "url": "https://hd25-playlists.9aofth.workers.dev/play/109943/master.m3u8",
           "group": "Movie",
           "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        }
+      ],
+      "tv": [
+        {
+          "id": "082534df3959b8188bc68871bae9fd6a",
+          "name": "เป็นต่อ 2022 Ep.25",
+          "logo": "https://image.onehd.net/Media/Show/221602101637611.jpg",
+          "url": "https://ok.ru/video/3728755329595",
+          "group": "เป็นต่อ 2022",
+          "year": "2022",
           "rating": "",
           "isSeries": false,
           "seriesTitle": "",
