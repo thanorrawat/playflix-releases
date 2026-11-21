@@ -1,10 +1,10 @@
 {
   "version": 2,
   "catalogVersion": 2,
-  "generatedAt": "2026-11-21T02:49:39.288Z",
+  "generatedAt": "2026-11-21T02:51:43.208Z",
   "summary": {
     "totalFolders": 2,
-    "totalVideos": 269,
+    "totalVideos": 274,
     "heroesConfigured": 0
   },
   "sources": [
@@ -148,10 +148,80 @@
               "isYouTube": false
             },
             {
-              "id": "210ed7b0c8c368d6d590f19ad15c450e",
-              "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
-              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
-              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+              "id": "ae17ac9082743aa16b92adb941b0dff7",
+              "name": "Hope (2026) โฮป",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109562/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/kgtrTTOq87VPaLnXA8WSoiQgUYD-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "d0c5f78b579052922f5143016d691d0c",
+              "name": "พนักงานใหม่ (โปรดรับไว้พิจารณา) (2026) Human Resource",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/107986/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/06/dOu6nV4S4VBpTwnsKgc30lR1aVO-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "190248eea1bec65c1a13be72a9e24d82",
+              "name": "Resident Evil (2026)",
+              "streamUrl": "https://main.24playerhd.com/m3u8/7e813ec82b188e87008801a7/7e813ec82b188e87008801a7438.m3u8",
+              "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwiZdBxKPrebrH0gZi1VtGnE8WTcd9ZC54QFxq4WzTw&s=10",
+              "groupTitle": "หนังชนโรง",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "f07fe212a2b327e6cc8c09813a7ca666",
+              "name": "A Marvel Television Special Presentation – The Punisher: One Last Kill (2026) เดอะ พันนิชเชอร์: ฆ่าทิ้งทวน",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/107793/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/05/gOggsBCSypNXq0yApYeXe7nnopT-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "cb5782cab41bc3bc72d72dcbae779c59",
+              "name": "Unabomber (2026) ยูนาบอมเมอร์",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109645/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "3fe541bb9b56fa0d7bb0f5bb0c3f7c51",
+              "name": "สาปเมือง (2026) Ghostfluencer",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109623/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/t9bwmdEIL0wF6nsUOo9jQZYsrW9.jpg",
               "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
@@ -165,7 +235,7 @@
         },
         {
           "title": "เรื่องหลอนๆ",
-          "group": "เรื่องหลอนๆ",
+          "group": "เ���ื่องหลอนๆ",
           "items": [
             {
               "id": "c5fdcb9e38bffb87653d874f30c45add",
@@ -389,10 +459,80 @@
               "isYouTube": false
             },
             {
-              "id": "210ed7b0c8c368d6d590f19ad15c450e",
-              "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
-              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
-              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+              "id": "ae17ac9082743aa16b92adb941b0dff7",
+              "name": "Hope (2026) โฮป",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109562/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/kgtrTTOq87VPaLnXA8WSoiQgUYD-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "d0c5f78b579052922f5143016d691d0c",
+              "name": "พนักงานใหม่ (โปรดรับไว้พิจารณา) (2026) Human Resource",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/107986/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/06/dOu6nV4S4VBpTwnsKgc30lR1aVO-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "190248eea1bec65c1a13be72a9e24d82",
+              "name": "Resident Evil (2026)",
+              "streamUrl": "https://main.24playerhd.com/m3u8/7e813ec82b188e87008801a7/7e813ec82b188e87008801a7438.m3u8",
+              "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwiZdBxKPrebrH0gZi1VtGnE8WTcd9ZC54QFxq4WzTw&s=10",
+              "groupTitle": "หนังชนโรง",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "f07fe212a2b327e6cc8c09813a7ca666",
+              "name": "A Marvel Television Special Presentation – The Punisher: One Last Kill (2026) เดอะ พันนิชเชอร์: ฆ่าทิ้งทวน",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/107793/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/05/gOggsBCSypNXq0yApYeXe7nnopT-scaled-1.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "cb5782cab41bc3bc72d72dcbae779c59",
+              "name": "Unabomber (2026) ยูนาบอมเมอร์",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109645/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+              "groupTitle": "หนังใหม่ 2006",
+              "groups": [
+                "หนังใหม่ 2006"
+              ],
+              "showOnHome": true,
+              "isLive": false,
+              "isEmbed": false,
+              "isYouTube": false
+            },
+            {
+              "id": "3fe541bb9b56fa0d7bb0f5bb0c3f7c51",
+              "name": "สาปเมือง (2026) Ghostfluencer",
+              "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109623/master.m3u8",
+              "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/t9bwmdEIL0wF6nsUOo9jQZYsrW9.jpg",
               "groupTitle": "หนังใหม่ 2006",
               "groups": [
                 "หนังใหม่ 2006"
@@ -1437,8 +1577,8 @@
       "videoId": "qps6v7bJaBA"
     },
     {
-      "id": "600eb810dee7ca5e83acc39355e1cdd0",
-      "name": "บ้านหลังสุดท้าย ( หนองบัวลำภู ) - ห��อนสเปเชียล / PODCAST EP. 258",
+      "id": "be15af786e0b3832d03ba2f3bbf83643",
+      "name": "บ้านหลังสุดท้าย ( หนองบัวลำภู ) - หลอ��สเปเชียล / PODCAST EP. 258",
       "streamUrl": "https://www.youtube.com/watch?v=3dWj1zjSN-k",
       "logoUrl": "https://i.ytimg.com/vi/3dWj1zjSN-k/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -1962,8 +2102,8 @@
       "videoId": "PR24R8gBZsY"
     },
     {
-      "id": "6d61cd9c1912b26f107813809e15db78",
-      "name": "อาถรรพ์ 402 ( บางนาตร���ด ) - หลอนสเปเชียล / PODCAST EP. 233",
+      "id": "ce61788a4ba9cf771443077390074b71",
+      "name": "อาถรรพ์ 402 ( บางนาตราด ) - หลอนสเปเชียล / PODCAST EP. 233",
       "streamUrl": "https://www.youtube.com/watch?v=pD84ZugKuLU",
       "logoUrl": "https://i.ytimg.com/vi/pD84ZugKuLU/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2550,8 +2690,8 @@
       "videoId": "cHgcU31O8_E"
     },
     {
-      "id": "dbb7c3abca29a54c0613ec705d06a4de",
-      "name": "ไปส่งวัด ( ปทุมธานี ) - หลอนสเปเชียล / PODCAST EP. 205",
+      "id": "b547afe4476342829516348fdbfeb582",
+      "name": "ไปส่งวัด ( ปทุมธานี ) - ห���อนสเปเชียล / PODCAST EP. 205",
       "streamUrl": "https://www.youtube.com/watch?v=HAXYieWtv1o",
       "logoUrl": "https://i.ytimg.com/vi/HAXYieWtv1o/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2718,8 +2858,8 @@
       "videoId": "8uaD5F2KxAA"
     },
     {
-      "id": "15fdd6ec1d590664988e62a8fe4299ee",
-      "name": "คืนออกทริป ( กาญจนบุรี ) - หลอ���สเปเชียล / PODCAST EP. 199",
+      "id": "358f8ba5fdee4932cf0159cedde69fd6",
+      "name": "คืนออกทริป ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 199",
       "streamUrl": "https://www.youtube.com/watch?v=KQFJx3gB3Es",
       "logoUrl": "https://i.ytimg.com/vi/KQFJx3gB3Es/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2781,8 +2921,8 @@
       "videoId": "TFGp6538G38"
     },
     {
-      "id": "385c3ea1121be6387c648b9b99a98d08",
-      "name": "จ้างเฝ้าไข้ ( ลพบุรี ) - หลอนสเปเชียล / PODCAST EP. 196",
+      "id": "82f710a4f8ba86f8e6c4373c4ae1c90c",
+      "name": "จ้างเฝ้าไข้ ( ลพบุรี ) - หลอนสเปเชีย��� / PODCAST EP. 196",
       "streamUrl": "https://www.youtube.com/watch?v=t4B_vWWcFiY",
       "logoUrl": "https://i.ytimg.com/vi/t4B_vWWcFiY/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -2802,8 +2942,8 @@
       "videoId": "t4B_vWWcFiY"
     },
     {
-      "id": "f95eabe3039a7917913c14c8dc9dd504",
-      "name": "รุ่นน้องที่ม��าลัย ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 195",
+      "id": "3872d83ec886b244555ecd798a62f246",
+      "name": "รุ่นน้องที่มหาลัย ( กาญจนบุรี ) - หลอนสเปเชียล / PODCAST EP. 195",
       "streamUrl": "https://www.youtube.com/watch?v=EAQETsF7Np0",
       "logoUrl": "https://i.ytimg.com/vi/EAQETsF7Np0/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3453,8 +3593,8 @@
       "videoId": "YWWS8jfmjic"
     },
     {
-      "id": "ae4da89dcf77ab4d273a9733fe155e2c",
-      "name": "หลอนทั้งหมู่บ้าน ( สุรินทร��� ) - หลอนสเปเชียล / PODCAST EP. 162",
+      "id": "d4c4976bf6dc35e52a4b0b312e184476",
+      "name": "หลอนทั้งหมู่บ้าน ( สุรินทร์ ) - หลอนสเปเชียล / PODCAST EP. 162",
       "streamUrl": "https://www.youtube.com/watch?v=1cmHiaRCToY",
       "logoUrl": "https://i.ytimg.com/vi/1cmHiaRCToY/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3537,8 +3677,8 @@
       "videoId": "6fbKl0aXOFk"
     },
     {
-      "id": "a584f88a42c4225807dadf6f53cb6e22",
-      "name": "จำเป็นต้อ���ย้าย ( ปุทมธานี ) - หลอนสเปเชียล / PODCAST EP. 156",
+      "id": "dbd44f938282936d0671ee5f34357d48",
+      "name": "จำเป็นต้องย้าย ( ปุทมธานี ) - หลอนสเปเชียล / PODCAST EP. 156",
       "streamUrl": "https://www.youtube.com/watch?v=uZIsML2_DFo",
       "logoUrl": "https://i.ytimg.com/vi/uZIsML2_DFo/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3600,8 +3740,8 @@
       "videoId": "NOr-9oaCoDQ"
     },
     {
-      "id": "8a6aa4d945c7d1a01ac2bf248f749812",
-      "name": "เพื่อนพี่สาว ( ขอนแก่น ) - หลอนสเปเชียล / PODCAST EP. 153",
+      "id": "b794b074ade1d97086ab5de7b222f186",
+      "name": "เพื่อนพี่สาว ( ���อนแก่น ) - หลอนสเปเชียล / PODCAST EP. 153",
       "streamUrl": "https://www.youtube.com/watch?v=dDOV8XSb9rk",
       "logoUrl": "https://i.ytimg.com/vi/dDOV8XSb9rk/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3642,8 +3782,8 @@
       "videoId": "UdyTxE2P7Y4"
     },
     {
-      "id": "8107e8fa6b068710a77bdd7c539c7f47",
-      "name": "เพื่อนร่วมห้อง ( รามคำแหง ) - หล���นสเปเชียล / PODCAST EP. 151",
+      "id": "7a923415dcc354b104308d5d5b794dc4",
+      "name": "เพื่อนร่วมห้อง ( รามคำแหง ) - หลอนสเปเชียล / PODCAST EP. 151",
       "streamUrl": "https://www.youtube.com/watch?v=LVoZ1IZc6zc",
       "logoUrl": "https://i.ytimg.com/vi/LVoZ1IZc6zc/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3726,8 +3866,8 @@
       "videoId": "tV7YOU-6N_U"
     },
     {
-      "id": "17eabb3c3bdec19496a6da21c28ecfcf",
-      "name": "คืนที่โชคร้าย ( จ.น��รพนม ) - หลอนสเปเชียล / PODCAST EP. 147",
+      "id": "ddbf8180c4cf6623b5e840f938a8c39e",
+      "name": "คืนที่โชคร้าย ( จ.นครพนม ) - หลอนสเปเชียล / PODCAST EP. 147",
       "streamUrl": "https://www.youtube.com/watch?v=4D7O4N9xpz0",
       "logoUrl": "https://i.ytimg.com/vi/4D7O4N9xpz0/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3810,8 +3950,8 @@
       "videoId": "MvOW7neyvxY"
     },
     {
-      "id": "16363e6806d0d83d9a8fecac49017c6f",
-      "name": "รู้ทั้งหม���่บ้าน ( จ.นนทบุรี ) - หลอนสเปเชียล / PODCAST EP. 142",
+      "id": "47af96476ef40ec372af41a442185ee9",
+      "name": "รู้ทั้งหมู่บ้าน ( จ.นนทบุรี ) - หลอนสเปเชียล / PODCAST EP. 142",
       "streamUrl": "https://www.youtube.com/watch?v=cnfML15lhM4",
       "logoUrl": "https://i.ytimg.com/vi/cnfML15lhM4/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -3978,8 +4118,8 @@
       "videoId": "-7ctLzJdbkI"
     },
     {
-      "id": "7d58957bf963d2b27c9766fba433e6bd",
-      "name": "รับซื้อของเก่า ( จตุจักร ) - หลอนสเปเชียล / PODCAST EP. 134",
+      "id": "7c0c19177c9fa3743f483c428aa9ca52",
+      "name": "รับซื้อของเก่า ( จ���ุจักร ) - หลอนสเปเชียล / PODCAST EP. 134",
       "streamUrl": "https://www.youtube.com/watch?v=6F9LJPxuhdw",
       "logoUrl": "https://i.ytimg.com/vi/6F9LJPxuhdw/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4209,8 +4349,8 @@
       "videoId": "Dkdab2Rw3OM"
     },
     {
-      "id": "9278afff3b5dc6a0cda1e064f79f1622",
-      "name": "พี่น้องสยองขวัญ ( ลาดพร้าว ) - หลอนสเปเชี��ล / PODCAST EP. 123",
+      "id": "eb2609dc1bf9a4a54799269d202380cb",
+      "name": "พี่น้องสยองขวัญ ( ลาดพร้าว ) - หลอนสเปเชียล / PODCAST EP. 123",
       "streamUrl": "https://www.youtube.com/watch?v=XSJ9ynleL-0",
       "logoUrl": "https://i.ytimg.com/vi/XSJ9ynleL-0/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4377,8 +4517,8 @@
       "videoId": "e6D5UcUS-ok"
     },
     {
-      "id": "c7ca151befa43cae6abc0b37060dfeca",
-      "name": "คืนดวงตก ( ศรีนคริน���ร์ ) - หลอนสเปเชียล / PODCAST EP. 114",
+      "id": "699ae61f63b04767cc003c5305c8fc24",
+      "name": "คืนดวงตก ( ศรีนครินทร์ ) - หลอนสเปเชียล / PODCAST EP. 114",
       "streamUrl": "https://www.youtube.com/watch?v=sai4NzHdX4c",
       "logoUrl": "https://i.ytimg.com/vi/sai4NzHdX4c/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4629,8 +4769,8 @@
       "videoId": "iibf-uJE49Y"
     },
     {
-      "id": "b6155c3eccd0510b9590dc6ceadd2f57",
-      "name": "ตึกเก่าบ้านพักครู ( ชลบุรี ) - หลอนสเปเชียล / PODCAST EP. 102",
+      "id": "7f86386f248ccbbe1eb8b5b8f7e80572",
+      "name": "ตึกเก่���บ้านพักครู ( ชลบุรี ) - หลอนสเปเชียล / PODCAST EP. 102",
       "streamUrl": "https://www.youtube.com/watch?v=nCLGl8z_PuA",
       "logoUrl": "https://i.ytimg.com/vi/nCLGl8z_PuA/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4839,8 +4979,8 @@
       "videoId": "G5nHgQFkjfQ"
     },
     {
-      "id": "8e87b62248ce47ea602856bfd22b6c03",
-      "name": "จ้างให้ก็ไม่อยู่ ( จ.อยุธยา ) - ��ลอนสเปเชียล / PODCAST EP. 92",
+      "id": "02447651dac3ef3909fa7bd493e9b00a",
+      "name": "จ้างให้ก็ไม่อยู่ ( จ.อยุธยา ) - หลอนสเปเชียล / PODCAST EP. 92",
       "streamUrl": "https://www.youtube.com/watch?v=kSNYSXWc6D8",
       "logoUrl": "https://i.ytimg.com/vi/kSNYSXWc6D8/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -4923,8 +5063,8 @@
       "videoId": "XqqN4JdnQlY"
     },
     {
-      "id": "564861b05accdedb72484d8f9e01f2b3",
-      "name": "ชุดสุดท้ายที่ได้ใส่ - หลอน���เปเชียล / PODCAST EP. 88",
+      "id": "45dc32a94aa569a348de25db7f0e0e26",
+      "name": "ชุดสุดท้ายที่ได้ใส่ - หลอนสเ��เชียล / PODCAST EP. 88",
       "streamUrl": "https://www.youtube.com/watch?v=W6xAevuRdMg",
       "logoUrl": "https://i.ytimg.com/vi/W6xAevuRdMg/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5616,8 +5756,8 @@
       "videoId": "VuKXppX29xU"
     },
     {
-      "id": "81dae5f0f426235860f1e0a469233ff1",
-      "name": "บ้าน��ลังนี้เจ้าที่ยังยอม - หลอนสเปเชียล / PODCAST EP. 53",
+      "id": "5ed74531b1e4c3b9c8b02816a96e65dd",
+      "name": "บ้านหลังนี้เจ้าที่ยังยอม - หลอนสเปเชียล / PODCAST EP. 53",
       "streamUrl": "https://www.youtube.com/watch?v=YDly7EikNuI",
       "logoUrl": "https://i.ytimg.com/vi/YDly7EikNuI/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -5952,8 +6092,8 @@
       "videoId": "qZgDWZlBKfg"
     },
     {
-      "id": "d98c129d84915e5635998ba1394a46c0",
-      "name": "เพื่อนใหม่ - หลอนสเปเช��ยล / PODCAST EP. 33",
+      "id": "408d0c76b82e27633afd56ce96a4a5f1",
+      "name": "เพื่อนใหม่ - หลอนสเปเชียล / PODCAST EP. 33",
       "streamUrl": "https://www.youtube.com/watch?v=HKn2QnmDq4M",
       "logoUrl": "https://i.ytimg.com/vi/HKn2QnmDq4M/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -6204,8 +6344,8 @@
       "videoId": "flMfx-OYJiQ"
     },
     {
-      "id": "790fd00e1b734a32d3a605fe2180d29d",
-      "name": "ช่วยยายซื��อหน่อย - หลอนสเปเชียล / PODCAST EP. 15",
+      "id": "31bf88236df985b4d7bb14b6a81b402b",
+      "name": "ช่วยยายซื้อหน่อย - หลอนสเปเชียล / PODCAST EP. 15",
       "streamUrl": "https://www.youtube.com/watch?v=EXiXF16WdZQ",
       "logoUrl": "https://i.ytimg.com/vi/EXiXF16WdZQ/hqdefault.jpg",
       "groupTitle": "เรื่องหลอนๆ",
@@ -6484,10 +6624,80 @@
       "isYouTube": false
     },
     {
-      "id": "210ed7b0c8c368d6d590f19ad15c450e",
-      "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
-      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
-      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+      "id": "ae17ac9082743aa16b92adb941b0dff7",
+      "name": "Hope (2026) โฮป",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109562/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/kgtrTTOq87VPaLnXA8WSoiQgUYD-1.jpg",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "showOnHome": true,
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false
+    },
+    {
+      "id": "d0c5f78b579052922f5143016d691d0c",
+      "name": "พนักงานใหม่ (โปรดรับไว้พิจารณา) (2026) Human Resource",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/107986/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/06/dOu6nV4S4VBpTwnsKgc30lR1aVO-scaled-1.jpg",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "showOnHome": true,
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false
+    },
+    {
+      "id": "190248eea1bec65c1a13be72a9e24d82",
+      "name": "Resident Evil (2026)",
+      "streamUrl": "https://main.24playerhd.com/m3u8/7e813ec82b188e87008801a7/7e813ec82b188e87008801a7438.m3u8",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwiZdBxKPrebrH0gZi1VtGnE8WTcd9ZC54QFxq4WzTw&s=10",
+      "groupTitle": "หนังชนโรง",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "showOnHome": true,
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false
+    },
+    {
+      "id": "f07fe212a2b327e6cc8c09813a7ca666",
+      "name": "A Marvel Television Special Presentation – The Punisher: One Last Kill (2026) เดอะ พันนิชเชอร์: ฆ่าทิ้งทวน",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/107793/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/05/gOggsBCSypNXq0yApYeXe7nnopT-scaled-1.jpg",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "showOnHome": true,
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false
+    },
+    {
+      "id": "cb5782cab41bc3bc72d72dcbae779c59",
+      "name": "Unabomber (2026) ยูนาบอมเมอร์",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109645/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+      "groupTitle": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "showOnHome": true,
+      "isLive": false,
+      "isEmbed": false,
+      "isYouTube": false
+    },
+    {
+      "id": "3fe541bb9b56fa0d7bb0f5bb0c3f7c51",
+      "name": "สาปเมือง (2026) Ghostfluencer",
+      "streamUrl": "https://hd25-playlists.9aofth.workers.dev/play/109623/master.m3u8",
+      "logoUrl": "https://25-hd.com/wp-content/uploads/2026/09/t9bwmdEIL0wF6nsUOo9jQZYsrW9.jpg",
       "groupTitle": "หนังใหม่ 2006",
       "groups": [
         "หนังใหม่ 2006"
@@ -102871,10 +103081,80 @@
           "tags": []
         },
         {
-          "id": "210ed7b0c8c368d6d590f19ad15c450e",
-          "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
-          "logo": "https://25-hd.com/wp-content/uploads/2026/09/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
+          "id": "ae17ac9082743aa16b92adb941b0dff7",
+          "name": "Hope (2026) โฮป",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/09/kgtrTTOq87VPaLnXA8WSoiQgUYD-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109562/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "d0c5f78b579052922f5143016d691d0c",
+          "name": "พนักงานใหม่ (โปรดรับไว้พิจารณา) (2026) Human Resource",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/06/dOu6nV4S4VBpTwnsKgc30lR1aVO-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/107986/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "190248eea1bec65c1a13be72a9e24d82",
+          "name": "Resident Evil (2026)",
+          "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwiZdBxKPrebrH0gZi1VtGnE8WTcd9ZC54QFxq4WzTw&s=10",
+          "url": "https://main.24playerhd.com/m3u8/7e813ec82b188e87008801a7/7e813ec82b188e87008801a7438.m3u8",
+          "group": "หนังชนโรง",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "f07fe212a2b327e6cc8c09813a7ca666",
+          "name": "A Marvel Television Special Presentation – The Punisher: One Last Kill (2026) เดอะ พันนิชเชอร์: ฆ่าทิ้งทวน",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/05/gOggsBCSypNXq0yApYeXe7nnopT-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/107793/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "cb5782cab41bc3bc72d72dcbae779c59",
+          "name": "Unabomber (2026) ยูนาบอมเมอร์",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/09/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109645/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "3fe541bb9b56fa0d7bb0f5bb0c3f7c51",
+          "name": "สาปเมือง (2026) Ghostfluencer",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/09/t9bwmdEIL0wF6nsUOo9jQZYsrW9.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109623/master.m3u8",
           "group": "หนังใหม่ 2006",
           "year": "2026",
           "rating": "",
@@ -102887,7 +103167,7 @@
       ]
     },
     {
-      "group": "เรื่องหลอนๆ",
+      "group": "เ���ื่องหลอนๆ",
       "title": "เรื่องหลอนๆ",
       "custom": false,
       "items": [
