@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "generatedAt": 1795249808781,
+  "menus": {
+    "folders": {
+      "หนัง ผู้ใหญ่": "tv",
+      "ธรรมะ บทสวด": "tv",
+      "ดูกล้องวงจรปิด": "tv",
+      "News ข่าวทั่วโลก": "tv",
+      "ช่อง TV ทั่วโลก": "tv",
+      "ช่องการศึกษา": "tv",
+      "เรื่องหลอนๆ": "series",
+      "กำลังฮิต": "series",
+      "Spartacus House of Ashur (2025)": "series",
+      "หนัง": "movies",
+      "ทดสอบ": "movies",
+      "หนังใหม่ 2006": "movies",
+      "18+": "movies",
+      "ญี่ปุ่น+จีน+ฝรั่ง": "18+",
+      "MONOMAX": "18+",
+      "18+Live-011": "18+",
+      "Digital TV": "page_mwpti8wy"
+    },
+    "titles": {
+      "page_mwpti8wy": "ช่องสด"
+    },
+    "hidden": [
+      "folders"
+    ],
+    "heroes": {},
+    "heroLists": {
+      "all": [
+        {
+          "id": "3d12fd9ad20630502f3f4ddcfb84f92d",
+          "name": "Jungleland (2020) พี่น้องสังเวียนเถื่อน",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/d766D00fhJTEYBspmMrHRUp1RyR-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110114/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2020",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "862603127025157f13d431e3326d5fe3",
+          "name": "A Story of Derry (2026) เรื่องราวของเดอร์รี่",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/hcJzOspkHAjPzXs5Y2KrhphA2oj-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110094/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "78a1aff38e34bfcf231dbc36de4a09d1",
+          "name": "Vantage Point (2008) เสี้ยววินาทีสังหาร",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/9xA1KaGoYQJveY3C87J41Au5Kkn.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110100/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2008",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        }
+      ],
+      "movies": [
+        {
+          "id": "2a46b3423246b86cca6839c2d04f15e4",
+          "name": "Other Mommy (2026) แม่…หลอน",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/10/crdWTtk36l5S8zQtHQQzHBQnFXS.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109825/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "7c61134b69d25e295aae270ecc30af66",
+          "name": "Descendants: The Rise of Red (2024)",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/10/8fYluTtB3b3HKO7KQa5tzrvGaps-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109820/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2024",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "3da1ecf4b6c820837b6422f1686a215e",
+          "name": "Fireflies at El Mozote (2025)",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/10/vAMPpEvaW9EmRwFmzFMaM8wS3KV.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109803/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2025",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "3bce3649aed58de52089c4746fb7ac52",
+          "name": "Idiots (2026)",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/10/l1JFNC1SdgyXVr7BaD5ehaYBvOC-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109767/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        }
+      ],
+      "series": [
+        {
+          "id": "14a1f14428327fdd4280bac4701d417d",
+          "name": "Re:Zero Kara Hajimeru Isekai Seikatsu Season 3Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ภาค 3 ตอนที่ 1-16 พา��ย์ไทย - ANIMEiNDY",
+          "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=148629&type=animeindy&hash=83759370e89a91343d41647284d6370d",
+          "url": "",
+          "group": "ซีรีส์ที่รวมแล้ว",
+          "year": "",
+          "rating": "",
+          "isSeries": true,
+          "seriesTitle": "Re:Zero Kara Hajimeru Isekai Seikatsu Season 3Re:ZERO รีเซทชีวิต ฝ่าวิกฤตต่างโลก ภาค 3 ตอนที่ 1-16 พากย์ไทย - ANIMEiNDY",
+          "episode": "ตอนที่ 3",
+          "episodeCount": 16,
+          "tags": []
+        }
+      ],
+      "18+": [
+        {
+          "id": "35fd0de0f998f05f34187209aba282f7",
+          "name": "MIDA-383 My Friend’s Sister พิธีอัปไซซ์ เสียวไส้จนน้ำทะลัก",
+          "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/11/mida383pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=46&type=video",
+          "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "1cab86303176d3c6a2d68efff4523242",
+          "name": "EBWH-263 Missed The Last Train อุบัติเหตุสวรรค์ คืนนั้นมันโคตรเสียว",
+          "logo": "https://ww.avsubthai.men/wp-content/uploads/2025/11/ebwh263pl.webp",
+          "url": "https://3ird.samorn-team.workers.dev/?id=58&type=video",
+          "group": "ญี่ปุ่น+จีน+ฝรั่ง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        }
+      ]
+    },
+    "limits": {
+      "ทดสอบ": 20,
+      "18+": 20
+    },
+    "pages": [
+      {
+        "id": "all",
+        "title": "หน้าแรก",
+        "icon": "🏠",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "movies",
+        "title": "ภาพยนตร์",
+        "icon": "🎬",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "series",
+        "title": "ซีรีส์",
+        "icon": "📺",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "tv",
+        "title": "รายการทีวี",
+        "icon": "📡",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "sports",
+        "title": "กีฬา",
+        "icon": "⚽",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "ทดสอบ",
+        "title": "ทดสอบ",
+        "icon": "✨",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "18+",
+        "title": "18+",
+        "icon": "🔞",
+        "type": "category",
+        "published": false
+      },
+      {
+        "id": "page_mwpti8wy",
+        "title": "ช่องสด",
+        "icon": "🔴",
+        "type": "live",
+        "published": true
+      }
+    ]
+  },
+  "files": {
+    "all": "page-0.json",
+    "movies": "page-1.json",
+    "series": "page-2.json",
+    "tv": "page-3.json",
+    "sports": "page-4.json",
+    "ทดสอบ": "page-5.json",
+    "18+": "page-6.json",
+    "page_mwpti8wy": "page-7.json"
+  }
+}
