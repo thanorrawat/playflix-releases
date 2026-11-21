@@ -1,24 +1,25 @@
 {
   "version": 1,
-  "generatedAt": 1795206244176,
+  "generatedAt": 1795244484294,
   "entries": 50000,
   "sources": [
     {
-      "title": "Free",
-      "url": "https:\/\/raw.githubusercontent.com\/thanorrawat\/playflix-releases\/main\/Free.w3u",
-      "ok": false,
-      "why": "ไม่ตอบ"
+      "title": "FLIXMONO2 (หนัง\/ซีรีส์)",
+      "url": "asset:flixmono2.w3u",
+      "ok": true,
+      "kind": "w3u",
+      "entries": 468
     },
     {
-      "title": "Yantech By ส.วิศวะ",
+      "title": "ส.วิศวะ (Yantech TV)",
       "url": "https:\/\/docs.google.com\/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53",
       "ok": true,
       "kind": "w3u",
-      "entries": 50000
+      "entries": 49532
     }
   ],
   "unreadable": {
-    "count": 847,
+    "count": 848,
     "folders": [
       {
         "name": "New.M1(moviesdoofree)",
@@ -822,17 +823,17 @@
       }
     ]
   },
-  "playable": 21570,
+  "playable": 21561,
   "folders": 2484,
   "rows": 11,
   "files": {
     "home.json": {
-      "bytes": 181217,
-      "sha256": "70d755a8e681174467cc37b013372843f95aa9749ff9d4cadcddab86f93b42fc"
+      "bytes": 181587,
+      "sha256": "14502032c393ead039cb925aaf0347e291b2bc9939de6d640032e8396b8619b9"
     },
     "index.tsv.gz": {
-      "bytes": 3723730,
-      "sha256": "45794d0f6044bd98933fa203e5f39ad61e7994a13de0dc30948da02c45bdd296"
+      "bytes": 3725719,
+      "sha256": "d5141d0c520490378a8a26ca5556612454fdec21d93e8675dc2ed8441700058b"
     }
   }
 }
