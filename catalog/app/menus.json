@@ -1,94 +1,254 @@
 {
   "version": 1,
-  "generatedAt": 1795254904790,
+  "generatedAt": 1795361076624,
   "menus": {
-    "folders": {
-      "หนัง ผู้ใหญ่": "tv",
-      "ธรรมะ บทสวด": "tv",
-      "ดูกล้องวงจรปิด": "tv",
-      "News ข่าวทั่วโลก": "tv",
-      "ช่อง TV ทั่วโลก": "tv",
-      "ช่องการศึกษา": "tv",
-      "Thai - หนังไทย": "tv",
-      "Western - หนังฝรั่ง": "tv",
-      "All": "tv",
-      "เรื่องหลอนๆ": "series",
-      "หนัง": "movies",
-      "ยอดนิยม": "movies",
-      "Digital TV": "tv",
-      "รวมกีฬา": "sports",
-      "หนัง HD": "movies",
-      "ละคร ทีวี": "tv",
-      "เป็นต่อ 2022": "tv",
-      "เป็นต่อ 2023": "tv",
-      "เป็นต่อ 2024": "tv",
-      "เป็นต่อ 2025": "tv",
-      "แฟชั่น": "tv"
+    "folders": {},
+    "titles": {
+      "all": "หน้าแรก",
+      "movies": "ภาพยนตร์",
+      "series": "ซีรีส์",
+      "tv": "รายการทีวี",
+      "sports": "กีฬา",
+      "ยอดนิยม": "ยอดนิยม"
     },
-    "titles": {},
     "hidden": [
       "folders"
     ],
-    "heroes": {},
+    "heroes": {
+      "all": "5ae1aa018141d2c40b9a33adeff294c6",
+      "movies": "5ae1aa018141d2c40b9a33adeff294c6",
+      "series": "9b05eec492fa57934a928574f89b70c9",
+      "tv": "438787521abaa3c708407a8fbe0ab028",
+      "sports": "c803ebe2774b9d1373170836c239b5a0",
+      "ยอดนิยม": "5ae1aa018141d2c40b9a33adeff294c6"
+    },
     "heroLists": {
       "all": [
         {
-          "id": "60524dc0d4fba9a6184064b01bab1c1b",
-          "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
-          "logo": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
-          "group": "Movie",
-          "year": "2026",
+          "id": "5ae1aa018141d2c40b9a33adeff294c6",
+          "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Gayong-2-2026-เจ้าตำนานมวยกาหยง-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
           "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
         },
         {
-          "id": "cca2ac669d8fa4dc65dbb84634bfe05f",
-          "name": "Apocalypse Z: New World (2026) อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ ภาค 2",
-          "logo": "https://25-hd.com/wp-content/uploads/2026/10/plu8tTviVZDO5jP7nzNXsDHLu8P.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/110065/master.m3u8",
-          "group": "Movie",
-          "year": "2026",
+          "id": "3f8f28fd5e5c0928eb3311eb39355620",
+          "name": "Anime_3 - Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
           "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
         },
         {
-          "id": "bbc5e9d586c11f5b817e35475aa1cf88",
-          "name": "The Psychic: Files (2026)",
-          "logo": "https://25-hd.com/wp-content/uploads/2026/10/inWBtSDjVnMy2vWK3UIhxuof7j9.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109943/master.m3u8",
-          "group": "Movie",
-          "year": "2026",
+          "id": "0203b9cad758e3a6f39a4d1e378bf067",
+          "name": "Anime_3 - Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
           "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        }
+      ],
+      "movies": [
+        {
+          "id": "5ae1aa018141d2c40b9a33adeff294c6",
+          "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Gayong-2-2026-เจ้าตำนานมวยกาหยง-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        },
+        {
+          "id": "3f8f28fd5e5c0928eb3311eb39355620",
+          "name": "Anime_3 - Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        },
+        {
+          "id": "0203b9cad758e3a6f39a4d1e378bf067",
+          "name": "Anime_3 - Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        }
+      ],
+      "series": [
+        {
+          "id": "9b05eec492fa57934a928574f89b70c9",
+          "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+          "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+          "url": "https://hls.animeindy.com:8443/vid/OkbThamxT/video.mp4/playlist.m3u8",
+          "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        },
+        {
+          "id": "3550ac371978724dc9c335bc56bb71a2",
+          "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
+          "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+          "url": "https://hls.animeindy.com:8443/vid/jCzUzzQQm8/video.mp4/playlist.m3u8",
+          "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        },
+        {
+          "id": "24c183fe4364213d212aaffa10acfd25",
+          "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
+          "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+          "url": "https://hls.animeindy.com:8443/vid/mDgyX2rbfx/video.mp4/playlist.m3u8",
+          "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
         }
       ],
       "tv": [
         {
-          "id": "082534df3959b8188bc68871bae9fd6a",
-          "name": "เป็นต่อ 2022 Ep.25",
-          "logo": "https://image.onehd.net/Media/Show/221602101637611.jpg",
-          "url": "https://ok.ru/video/3728755329595",
-          "group": "เป็นต่อ 2022",
-          "year": "2022",
+          "id": "438787521abaa3c708407a8fbe0ab028",
+          "name": "NBT",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+          "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w1905166033_b3128000.m3u8",
+          "group": "Digital TV",
+          "year": "",
           "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
+          "tags": [],
+          "isLive": true,
+          "isEmbed": false
+        },
+        {
+          "id": "8a26f197c5c95569b288cb385a8fe95d",
+          "name": "NBT-ภาคกลาง",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+          "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/chunklist_w1601605558_b3128000.m3u8",
+          "group": "Digital TV",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": true,
+          "isEmbed": false
+        },
+        {
+          "id": "d958b9a14f37db43ce2c85d81adc5a00",
+          "name": "NBT-ภาคเหนือ",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png",
+          "url": "https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/chunklist_w149323924_b3128000.m3u8",
+          "group": "Digital TV",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": true,
+          "isEmbed": false
+        }
+      ],
+      "sports": [
+        {
+          "id": "c803ebe2774b9d1373170836c239b5a0",
+          "name": "มหัศจรรย์อเมริกันฟุตบอล",
+          "logo": "https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1671769012023.jpg",
+          "url": "https://nextstep-sooyp4zfonli.stream-playlist.byteark.com/streams/TADsUgiGrtqn/playlist.m3u8",
+          "group": "อาณาจักรแห่งนวัตกรรม™",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": true,
+          "isEmbed": false
+        },
+        {
+          "id": "99c0e70cf14416d777ac269a07bbfd68",
+          "name": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/11/Lefter-The-Story-of-the-Ordinarius-2025-ตำนานฟุตบอลเหนือธรรมชาติ.png",
+          "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        },
+        {
+          "id": "4b0a6c77607d4d2843c37136603e930e",
+          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2023/08/Johnny-Football-2023-จอห์นนี่-ฟุตบอล.jpg",
+          "url": "https://main.24playerhd.com/m3u8/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        }
+      ],
+      "ยอดนิยม": [
+        {
+          "id": "5ae1aa018141d2c40b9a33adeff294c6",
+          "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Gayong-2-2026-เจ้าตำนานมวยกาหยง-2-300x450.png",
+          "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        },
+        {
+          "id": "3f8f28fd5e5c0928eb3311eb39355620",
+          "name": "Anime_3 - Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
+        },
+        {
+          "id": "0203b9cad758e3a6f39a4d1e378bf067",
+          "name": "Anime_3 - Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
+          "rating": "",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false
         }
       ]
     },
