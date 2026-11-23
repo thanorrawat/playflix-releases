@@ -1,8 +1,20 @@
 {
   "version": 1,
-  "generatedAt": 1795361076624,
+  "generatedAt": 1795423598936,
   "menus": {
-    "folders": {},
+    "folders": {
+      "🍀MOVIES NEW_TEST_7hd🍀": "movies",
+      "หน้า 1": "movies",
+      "หน้า 2": "movies",
+      "หน้า 3": "movies",
+      "หน้า 4": "movies",
+      "หน้า 5": "movies",
+      "หน้า 6": "movies",
+      "หน้า 7": "movies",
+      "หน้า 8": "movies",
+      "หน้า 9": "movies",
+      "หน้า 10": "movies"
+    },
     "titles": {
       "all": "หน้าแรก",
       "movies": "ภาพยนตร์",
@@ -34,11 +46,12 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
         },
         {
           "id": "3f8f28fd5e5c0928eb3311eb39355620",
-          "name": "Anime_3 - Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
           "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
@@ -46,11 +59,12 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
         },
         {
           "id": "0203b9cad758e3a6f39a4d1e378bf067",
-          "name": "Anime_3 - Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
           "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
@@ -58,7 +72,8 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
         }
       ],
       "movies": [
@@ -72,11 +87,12 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
         },
         {
           "id": "3f8f28fd5e5c0928eb3311eb39355620",
-          "name": "Anime_3 - Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
           "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
@@ -84,11 +100,12 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
         },
         {
           "id": "0203b9cad758e3a6f39a4d1e378bf067",
-          "name": "Anime_3 - Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
           "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
@@ -96,13 +113,14 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
         }
       ],
       "series": [
         {
           "id": "9b05eec492fa57934a928574f89b70c9",
-          "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
+          "name": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 1",
           "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
           "url": "https://hls.animeindy.com:8443/vid/OkbThamxT/video.mp4/playlist.m3u8",
           "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -110,31 +128,34 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 1"
         },
         {
-          "id": "3550ac371978724dc9c335bc56bb71a2",
-          "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
+          "id": "d5aa82e2a9aab82fa23881c6326f8782",
+          "name": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 2",
           "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
-          "url": "https://hls.animeindy.com:8443/vid/jCzUzzQQm8/video.mp4/playlist.m3u8",
+          "url": "https://hls.animeindy.com:8443/vid/JXQDqMuhyc/video.mp4/playlist.m3u8",
           "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
           "year": "",
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 2"
         },
         {
-          "id": "24c183fe4364213d212aaffa10acfd25",
-          "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
+          "id": "943e4423114e7dd6e3d2f0e6fd181646",
+          "name": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 3",
           "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
-          "url": "https://hls.animeindy.com:8443/vid/mDgyX2rbfx/video.mp4/playlist.m3u8",
+          "url": "https://hls.animeindy.com:8443/vid/xoraeKdr7A/video.mp4/playlist.m3u8",
           "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
           "year": "",
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 3"
         }
       ],
       "tv": [
@@ -148,7 +169,8 @@
           "rating": "",
           "tags": [],
           "isLive": true,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "NBT"
         },
         {
           "id": "8a26f197c5c95569b288cb385a8fe95d",
@@ -160,7 +182,8 @@
           "rating": "",
           "tags": [],
           "isLive": true,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "NBT-ภาคกลาง"
         },
         {
           "id": "d958b9a14f37db43ce2c85d81adc5a00",
@@ -172,7 +195,8 @@
           "rating": "",
           "tags": [],
           "isLive": true,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "NBT-ภาคเหนือ"
         }
       ],
       "sports": [
@@ -186,7 +210,8 @@
           "rating": "",
           "tags": [],
           "isLive": true,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "มหัศจรรย์อเมริกันฟุตบอล"
         },
         {
           "id": "99c0e70cf14416d777ac269a07bbfd68",
@@ -198,7 +223,8 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ"
         },
         {
           "id": "4b0a6c77607d4d2843c37136603e930e",
@@ -210,7 +236,8 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Johnny Football (2023) จอห์นนี่ ฟุตบอล"
         }
       ],
       "ยอดนิยม": [
@@ -224,11 +251,12 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
         },
         {
           "id": "3f8f28fd5e5c0928eb3311eb39355620",
-          "name": "Anime_3 - Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
           "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
@@ -236,11 +264,12 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
         },
         {
           "id": "0203b9cad758e3a6f39a4d1e378bf067",
-          "name": "Anime_3 - Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
           "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
           "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
@@ -248,7 +277,8 @@
           "rating": "",
           "tags": [],
           "isLive": false,
-          "isEmbed": false
+          "isEmbed": false,
+          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
         }
       ]
     },
