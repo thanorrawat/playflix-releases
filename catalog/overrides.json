@@ -182,7 +182,6 @@
       "title": "หนังเกาหลี",
       "items": [
         "ae17ac9082743aa16b92adb941b0dff7",
-        "4f51785722fa288c2005f8ec5a7f2649",
         "c6de2285e63e70f68216dffd1ce910aa",
         "1dc029134b7732779b64865fe6fb549d",
         "99c0e70cf14416d777ac269a07bbfd68",
@@ -421,7 +420,6 @@
         "title": "หนังเกาหลี",
         "items": [
           "ae17ac9082743aa16b92adb941b0dff7",
-          "4f51785722fa288c2005f8ec5a7f2649",
           "c6de2285e63e70f68216dffd1ce910aa",
           "1dc029134b7732779b64865fe6fb549d",
           "99c0e70cf14416d777ac269a07bbfd68",
@@ -562,6 +560,20 @@
         "title": "หนังเข้าฉายใหม่ (ตามกำหนดฉาย)",
         "custom": true,
         "items": [
+          "4f51785722fa288c2005f8ec5a7f2649",
+          "647a5f84f7fee7e56247fd613dc744b3",
+          "120552974995a56a1fba5aa90f2fa77d",
+          "48ea16f7f556a55657dc58956112c579",
+          "887cbaa574188823313025adc427e613",
+          "a62e14f6eaf3a470ef1c06cd6fcc70da",
+          "4f06448c3f95235b5e79aeec33189d64",
+          "854ffabc5f67bdd9debcad8b1b7b4387",
+          "890bcf4ed692f024e648a480ee778702",
+          "905513c6a7ea35c1890c1cd714c6ae2b",
+          "67de2d2fdceaa4a7a25fbdbc4a14bcaf",
+          "f0d6e36678c43396960ed25e3f50eda5",
+          "be42a1d4936d89485f24d786cf072d30",
+          "242318b7027bbc306e48d9cb5af8de24",
           "2a46b3423246b86cca6839c2d04f15e4",
           "f28cc511539c76e0ab9967d4646af395",
           "2358a2e8d60bbbf66495fdd9aabc4263",
@@ -130514,10 +130526,6 @@
       "name": "คอร์สนวดคู่ออฟชั่นฟู",
       "logo": "https://file-api.aws-live-streaming.com/uploads/av24flix/preview/1623928347600nurumassage_EmbracingHerSexuality.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://vod.googlecdnforstreaming.live:443/vodav/1623928445376NuruMassage - Embracing Her Sexuality %E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B8%99%E0%B8%A7%E0%B8%94%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%AD%E0%B8%AD%E0%B8%9F%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B8%9F%E0%B8%B9 - %E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B9%82%E0%B8%9B%E0%B9%8A%E0%B8%8B%E0%B8%B1%E0%B8%9A%E0%B9%84%E0%B8%97%E0%B8%A2.mp4/playlist.m3u8"
     },
     "8c411ccd5db1bff3af6d6f290ae9debc": {
@@ -133883,12 +133891,22 @@
     "3fe541bb9b56fa0d7bb0f5bb0c3f7c51": {
       "name": "สาปเมือง (2026) Ghostfluencer",
       "logo": "https://25-hd.com/wp-content/uploads/2026/09/t9bwmdEIL0wF6nsUOo9jQZYsrW9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4dQvoSncw10aKeUUcj5rpR2vu62.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/109623/master.m3u8"
+      "rating": "5.5 / 10",
+      "year": "2026",
+      "cast": "พิจักขณา วงศารัตนศิลป์, บุญยเกียรติ วงษาแจ่ม, ภูริตา สุปินชุมภู, ธนเชษฐ์ นามวงศ์, Nattachot Sriponwaree, พัชร์ธีรัตน์ แหลมหลวง",
+      "overview": "เมื่อ “ผีสาวชาวเหนือ” จากร้อยกว่าปีก่อน อยากสร้างตำนานรักบทใหม่ ให้เป็นที่กล่าวขาน  ภารกิจตามหา “หมาเด็ก” จึงเริ่มขึ้น!",
+      "genres": "หนังรักโรแมนติก, ตลก, สยองขวัญ",
+      "metadataSource": "tmdb"
     },
     "ade9051309da385e761c985f6e888992": {
       "name": "Barbie (2023) บาร์บี้",
@@ -134443,12 +134461,22 @@
     "a62e14f6eaf3a470ef1c06cd6fcc70da": {
       "name": "โกฮัง..หัวใจโกโฮม (2026) Gohan",
       "logo": "https://25-hd.com/wp-content/uploads/2026/08/bUmlrkJe411RzdVKBKLbRSJChem.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/109266/master.m3u8"
+      "rating": "7.1 / 10",
+      "year": "2026",
+      "cast": "ยาสุชิ คิตะจิมา, ชาติชาย ชินศรี, Poe Mamhe Thar, นพพันธ์ บุญใหญ่, จินเจษฎ์ วรรธนะสิน, ต้นตะวัน ตันติเวชกุล",
+      "overview": "สุนัขจรจัด โกฮัง ได้ย้ายไปอยู่กับเจ้าของใหม่หลายรายในช่วงเวลา 10 ปี โดยเข้าไปมีส่วนสำคัญในชีวิตของวิศวกรวัยเกษียณ แม่บ้าน และสองหนุ่มสาวคู่รัก",
+      "genres": "หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "15f56b2106822988bf810391de6c177e": {
       "name": "ราคี (2026) The Stain",
@@ -134980,12 +135008,21 @@
     "647a5f84f7fee7e56247fd613dc744b3": {
       "name": "อ้ายต้าววเอวหวาน ระเบียบวาทะศิลป์ (2026) Mor Lam Rhythm",
       "logo": "https://25-hd.com/wp-content/uploads/2026/08/fCEe9ehLCjkctdRvHDTP5JoKia.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y2l2YsDVQIhNgsU46QiTzRPkXmn.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/109104/master.m3u8"
+      "year": "2026",
+      "cast": "ยุคลเดช ปัจฉิม, Minlaya Tangseabwong, Pakdee Pollum, สิทธิเดช บรรมณี, อภิเชษฐ์ เอติรัตนะ, Montien Detchtrakool",
+      "overview": "หยอง หนุ่มบ้าน ๆ ผู้ขยันและรักครอบครัว ใช้ชีวิตเรียบง่ายกับ ยิ้ม น้องสาวตัวเล็กที่ฝันอยากเป็นนางรำหมอลำให้ได้สักครั้งในชีวิต แต่โชคชะตากลับเล่นตลก เมื่อยิ้มล้มป่วยด้วยโรคร้าย ต้องใช้เงินก้อนใหญ่ในการรักษา หยองจึงตัดสินใจทำทุกอย่างเพื่อช่วยน้อง แม้จะต้องก้าวเข้าสู่โลกที่เขาไม่เคยคิดฝันมาก่อน",
+      "genres": "ดนตรี, ตลก, หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "c7bea8d1820775e33267ca44a5197289": {
       "name": "The Last House (2026) บ้านหลังสุดท้าย",
@@ -135335,7 +135372,8 @@
       ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
       "rating": "5.4 / 10",
       "year": "2026",
@@ -136785,9 +136823,22 @@
     },
     "890bcf4ed692f024e648a480ee778702": {
       "name": "ผีเข้า (2026) Possessed",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/06/nQP2qBDxFYhgTY1mmDRVOz7C0aA.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/nQP2qBDxFYhgTY1mmDRVOz7C0aA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ptBZVnF4cHnS7VdfCJ3iHWsYmOK.jpg",
       "group": "หนังใหม่ 2006",
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/107984/master.m3u8"
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "menu": "movies",
+      "menus": [
+        "movies"
+      ],
+      "rating": "5.0 / 10",
+      "year": "2026",
+      "cast": "อิษยา ฮอสุวรรณ, Chayanit Sornkaewthammung, Karuna Looktumthong, ณัฐพล นามแก้ว, ธนาดล บัวระบัติ, Nattawat Srirakij",
+      "overview": "เรื่องราวของ 'นัท' พยาบาลสาวที่รู้สึกว่ามีบางอย่างกำลังคืบคลานเข้ามาและกัดกินคนที่อยู่รอบตัวของเธอ ภายใต้ความเชื่อของทุกคนที่เรียกว่า 'ผีเข้า'",
+      "genres": "สยองขวัญ",
+      "metadataSource": "tmdb"
     },
     "0462b967f11b77da3b96cf7b38c4505d": {
       "name": "The Legend Hunters (2026)",
@@ -138486,15 +138537,20 @@
       "logo": "https://25-hd.com/wp-content/uploads/2026/03/hw0fPqJCfDgSs9Nqzp2AVbsoR3u-1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yonNGnKweIBwBqpZOIQfpzBh7Dj.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/107102/master.m3u8",
       "rating": "5.5 / 10",
       "year": "2026",
+      "cast": "อิลฮงมิน, อัจฉรีย์ ศรีสุข, เพ็ชรทาย วงษ์คำเหลา, สมพงษ์ คุนาประถม, สิทธิเดช บรรมณี, สวนีย์ อุทุมมา",
       "overview": "A female parade-band singer and the backbone of her family faces a life in ruins when she is kicked out of the band, dumped by her boyfriend, and overwhelmed by debt. She decides to travel to South Korea with her best friend to search for a new way to survive.",
-      "genres": "ตลก, โรแมนติก",
+      "genres": "ตลก, หนังรักโรแมนติก",
+      "metadataSource": "tmdb",
       "releaseDate": "2026-03-26"
     },
     "d304df0551843bc8bcc1eb20e77a59f8": {
@@ -138605,9 +138661,23 @@
     },
     "854ffabc5f67bdd9debcad8b1b7b4387": {
       "name": "เส้นตาย สายลวง (2026) The Red Line",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/03/at29WEJ7lmFua6eWz79B6XFhfu2-1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/at29WEJ7lmFua6eWz79B6XFhfu2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
       "group": "หนังใหม่ 2006",
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/107011/master.m3u8"
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "menu": "movies",
+      "menus": [
+        "movies",
+        "หนังไทย"
+      ],
+      "rating": "6.9 / 10",
+      "year": "2026",
+      "cast": "นิษฐา จิรยั่งยืน, Esther Supreeleela, ชุติมา มะโหละกุล, ทศพล หมายสุข, ต้นหน ตันติเวชกุล, Paowalee Pornpimol",
+      "overview": "อร อดีตนักการตลาดมือดีที่ผันตัวมาเป็นแม่บ้าน แต่พลาดท่าถูกแก๊งคอลเซ็นเตอร์หลอกเอาเงินเก็บก้อนใหญ่ของครอบครัวไป โดยมีฉากหลังเป็นช่วงเวลาก่อนที่จะเกิดสถานการณ์ขัดแย้งบริเวณชายแดน โดยอรต้องเผชิญความจริงอันโหดร้าย เมื่อพบว่ากระบวนการยุติธรรมไม่อาจทวงคืนสิ่งที่สูญเสียไปได้ เมื่อความสิ้นหวังกลายเป็นความโกรธแค้น เธอจึงร่วมมือกับเหยื่อรายอื่น ๆ ทั้ง ฝ้าย นักกายภาพบำบัดที่สูญเสียเงินออมเพื่อความฝัน และ แวววาว ออนไลน์ที่อาม่าของเธอถูกหลอกเอาเงินเก็บทั้งชีวิตไป เพื่อตามล่า อู๊ด หัวหน้าแก๊งคอลเซ็นเตอร์ผู้อยู่เบื้องหลังการหลอกลวงทั้งหมด โดยได้รับความช่วยเหลือจาก โอเจ แฮกเกอร์มือฉมัง เกิดเป็นปฏิบัติการสุดอันตรายในการไล่ล่าแก๊งอาชญากรรมเพื่อทวงทุกสิ่งที่เสียไปกลับคืนมา",
+      "genres": "ระทึกขวัญ, อาชญากรรม, หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "be990e18adb0dd530c01f63eb502472d": {
       "name": "Swords of Legends: Soul and Blade (2026) กระบี่แห่งตำนาน: จิตวิญญาณและคมดาบ",
@@ -140289,14 +140359,19 @@
       "name": "สรรพลี้หวน (2026) The Spoonerism",
       "logo": "https://image.tmdb.org/t/p/w500/Q0CQDyF1uZgXjRG6zpBmT1bKEd.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/100628/master.m3u8",
       "year": "2026",
+      "cast": "สิงหา สิทธินนท์ โรจนเมธากุล, Fabriccio Paulo, Philippa Rinlanee Deacon, ชลาทิศ ตันติวุฒิ, เอกชัย ศรีวิชัย, ผดุง ทรงแสง",
       "overview": "A fourth-year university student was stressed about finding a play for his graduation project because no matter how hard he tried, he couldn’t come up with any ideas. Then he remembered the story Sappaleehuan, so he decided to adapt it for his stage performance, as he was from the South and very familiar with the tale.",
-      "genres": "ตลก, โรแมนติก",
+      "genres": "ตลก, หนังรักโรแมนติก",
+      "metadataSource": "tmdb",
       "releaseDate": "2026-02-05"
     },
     "c3b7490ceec01973fada2b650eacc543": {
@@ -140497,13 +140572,22 @@
     },
     "4f06448c3f95235b5e79aeec33189d64": {
       "name": "A Letter to My Youth (2026) จดหมายถึงฉันในวัยเยาว์",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/02/iqrp25kOrskrFDOKkKQWhFkI69e-1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/xxwgHtSCcUeo21jwui1i2KYKhr9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/90780/master.m3u8"
+      "rating": "7.9 / 10",
+      "year": "2026",
+      "cast": "Millo Taslim, Agus Wibowo, Kathleen Thomas, Willem Bevers, Verdi Solaiman, Aqilla Herby",
+      "overview": "วัยรุ่นหัวขบถและผู้ดูแลที่เงียบขรึมสานความผูกพันโดยไม่คาดคิดในสถานเลี้ยงเด็กกำพร้า ขณะที่ทั้งคู่พยายามเดินหน้าต่อและทำใจยอมรับอดีตอันเจ็บปวดของตัวเอง",
+      "genres": "หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "6dd96c74487e788afa1c1dc82d2213e7": {
       "name": "Send Help (2026) โปรดส่งใครมาช่วยฉันที",
@@ -140562,9 +140646,23 @@
     },
     "905513c6a7ea35c1890c1cd714c6ae2b": {
       "name": "เดี่ยว สติล อะไลฟ์ (2026) Deaw Still Alive",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/01/FEnl9oWLFmkBe0H5hNzYCENCy6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/FEnl9oWLFmkBe0H5hNzYCENCy6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4qTFzhQNJAXfPHTgLZYo26ejyLo.jpg",
       "group": "หนังใหม่ 2006",
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/90749/master.m3u8"
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "menu": "movies",
+      "menus": [
+        "movies",
+        "หนังไทย"
+      ],
+      "rating": "7.0 / 10",
+      "year": "2026",
+      "cast": "อุดม แต้พานิช",
+      "overview": "อุดม แต้พานิช ขึ้นเวทีจับไมค์แชร์ชีวิตวายป่วง ตั้งแต่ประสบการณ์มูเตลู พิธีกรรมสายดำ ไปจนถึงวีรกรรมตอนไปเกาหลีอย่างไม่มีกั๊ก ในผลงานสแตนด์อัพคอมเมดี้ชุดนี้",
+      "genres": "ตลก",
+      "metadataSource": "tmdb"
     },
     "2abeb308f10788c74c677c88e8b8b1b5": {
       "name": "Heer Express (2025)",
@@ -141148,13 +141246,22 @@
     },
     "be42a1d4936d89485f24d786cf072d30": {
       "name": "Spiderhead (2022) สไปเดอร์เฮด",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/01/7rbCyHudkc72viAl77srTWYcdH3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/7rbCyHudkc72viAl77srTWYcdH3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ulkWS7Atv0vv33KVCSAmNizAmJd.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/90501/master.m3u8"
+      "rating": "5.8 / 10",
+      "year": "2022",
+      "cast": "คริส เฮมส์เวิร์ท, ไมลส์ เทลเลอร์, เจอร์นี สโมลเล็ตต์, Mark Paguio, Tess Haubrich, BeBe Bettencourt",
+      "overview": "นักโทษในเรือนจำล้ำเทคโนโลยีเริ่มสงสัยในจุดประสงค์ของอัจฉริยะแห่งวงการเภสัชกรรม ที่ใช้เขาเป็นหนูทดลองยาปรับอารมณ์ขนานใหม่",
+      "genres": "นิยายวิทยาศาสตร์, ระทึกขวัญ",
+      "metadataSource": "tmdb"
     },
     "5d3958f06065e7b37054d500105ec6a5": {
       "name": "Greenland (2020) นาทีระทึก..วันสิ้นโลก",
@@ -143945,15 +144052,20 @@
       "logo": "https://image.tmdb.org/t/p/w500/aC3ojoL7aEilCS0bZJVOwPBM0d0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9qu3iKGeayx6u9DUzu9dN6SYOpJ.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/89388/master.m3u8",
       "rating": "4.3 / 10",
       "year": "2026",
+      "cast": "ผดุง ทรงแสง, ชูศักดิ์ เอี่ยมสุข, กาจบัณฑิต ใจดี, จักริน  ภูริพัฒน์, นิภาภรณ์ ฐิติธนการ, องอาจ เจียมเจริญพรกุล",
       "overview": "Once upon a time in a land far, far away, Tang Sanzang set out on a journey with Monkey King Jazz and Sha Wujing—However, one member was missing from their group: Zhu Baji.",
-      "genres": "ตลก, แฟนตาซี, ผจญภัย",
+      "genres": "ตลก, จินตนาการ, ผจญ",
+      "metadataSource": "tmdb",
       "releaseDate": "2026-04-30"
     },
     "528dd0a19bc119d392eee36d1a072d56": {
@@ -148406,13 +148518,22 @@
     },
     "242318b7027bbc306e48d9cb5af8de24": {
       "name": "Kiss of the Spider Woman (2025)",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/10/c8zDeDq0Uatjly6Fh4ycmWuoLYy-scaled-2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lbrn4gOjYKrLrINn3uUJRlV2NZO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sQSKR3iDCtayRTN2Nr9LiRYy6TT.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/69827/master.m3u8"
+      "rating": "7.0 / 10",
+      "year": "1985",
+      "cast": "วิลเลียม เฮิร์ต, Raúl Juliá, Sonia Braga, José Lewgoy, Milton Gonçalves, Miriam Pires",
+      "overview": "The story of two radically different men thrown together in a Latin American prison cell. One is Valentin, a journalist being tortured for his political beliefs. The other is Molina, a gay window-dresser who fills their lonely nights by spinning romantic fantasies drawn from memories of old movies.",
+      "genres": "หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "1675e00d6a2b73b3c0235378aaa88f0c": {
       "name": "Brownsville Bred (2025)",
@@ -154534,13 +154655,22 @@
     },
     "67de2d2fdceaa4a7a25fbdbc4a14bcaf": {
       "name": "The Spiderwick Chronicles (2008) ตำนานสไปเดอร์วิก",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/08/f0V7Hc6uv7aSVD1Ojf75F8vlOxC-scaled-2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/mIfvcBxsOoD2xOsrIhLOZnJWXO6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cVfaHnjOOS5qX8z10qnBsslq2Oi.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/60898/master.m3u8"
+      "rating": "6.7 / 10",
+      "year": "2008",
+      "cast": "เฟรดดี ไฮมอร์, ซาร่าห์ โบลเกอร์, ดวิด สเตรทธาร์น, Mary-Louise Parker, Nick Nolte, Joan Plowright",
+      "overview": "สองพี่น้องฝาแฝดต้องย้ายจากเมืองมาอยู่คฤหาสน์ที่ทรุดโทรมในชนบท ทั้งสองปรับตัวอย่างหนักโดยเฉพาะอย่างยิ่งหลังจากหลุดเข้าไปในโลกมหัศจรรย์แห่งเวทมนตร์",
+      "genres": "ครอบครัว, ผจญ, จินตนาการ, บู๊, หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "2b86f25aa07618aa65865d0e8c631b38": {
       "name": "The Running Man (1987) คนเหล็กท้าชนนรก",
@@ -160193,13 +160323,22 @@
     },
     "f0d6e36678c43396960ed25e3f50eda5": {
       "name": "The Girl in the Spider’s Web (2018) พยัคฆ์สาวล่ารหัสใยมรณะ",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/06/74tdEZyxrycjdD2kbgQizIKHCgE-2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/74tdEZyxrycjdD2kbgQizIKHCgE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ejmwCnlgWXkpDLsrhsnB8Mn6dcu.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/59712/master.m3u8"
+      "rating": "6.1 / 10",
+      "year": "2018",
+      "cast": "Claire Foy, Sverrir Gudnason, LaKeith Stanfield, Sylvia Hoeks, Stephen Merchant, คริสโตเฟอร์ คอนเวรี่",
+      "overview": "พยัคฆ์สาวล่ารหัสใยมรณะ ดัดแปลงจากนิยายชุดขายดี Millennium ที่เขียนโดย สตีก ลาร์สัน โดยภาคนี้จะได้ แคลร์ ฟอย นักแสดงหญิงเจ้าของรางวัลลูกโลกทองคำจากเรื่อง The Crown มารับบทเป็น ลิสเบ็ธ ซาลันเดอร์ หรือ สาวรอยสักมังกร กำกับโดย เฟเด อัลวาเรซ ผู้เคยสร้างผลงานระทึกขวัญอย่าง Don’t Breathe!!!",
+      "genres": "บู๊, อาชญากรรม, ระทึกขวัญ",
+      "metadataSource": "tmdb"
     },
     "79973652d2c611ceacad1302d6a0c055": {
       "name": "The Exorcism of Emily Rose (2005) พลิกปมอาถรรพ์สยองโลก",
@@ -436600,10 +436739,6 @@
       "name": "ความรักครั้งแรกแตกในตอนทำงาน CUS-1828",
       "logo": "https://avvrx.co/wp-content/uploads/2023/12/สกรีนช็อต-2023-12-10-091727.png",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://avvrx.javzero.xyz/caaaa930-d584-46b2-9aa8-c129392459ba/_"
     },
     "07cee36f03c145ad43bf9f5e404bc73a": {
@@ -437132,10 +437267,6 @@
       "name": "คอนเทนท์เย็ดสดกับชายแปลกหน้าหาคนโชคดี 91KCM-094",
       "logo": "https://avvrx.co/wp-content/uploads/2023/04/xQwAS.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://avvrx.javzero.xyz/7d951153-af6f-46fd-9edf-3fcff0288c6a/_"
     },
     "b033e8224e439d9e925ab2d30739b3af": {
@@ -439682,10 +439813,6 @@
       "name": "คืนล้างบาป เทศกาลล้างบาปกับเมียคนอื่นฟินเวอร์เย็ดยันเช้า",
       "logo": "https://www.javtu.com/wp-content/uploads/2020/01/2-3-300x201.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5e81919398127_1e20a43c2e05a7a64dc0c6d4ebf879a5.mp4/master.m3u8"
     },
     "c57d539694baddec8c40edec55a84ec8": {
@@ -439784,10 +439911,6 @@
       "name": "ค้ำประกันสามี ให้หัวหน้าผัวเย็ดรั่วเพื่อให้สามีเลื่อนขั้น",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/12/3-7-300x202.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5e80fdff6b432_8daa5bc6d79f7d45b36f575b3ecba7c3.mp4/master.m3u8"
     },
     "c8823ed1c0bbcc1f7d244e0097df47bf": {
@@ -440518,10 +440641,6 @@
       "name": "คันหีจริงหนอ คุณพ่อตารู้ทันจับลูกสะใภ้คนมานอนเกาหีกลางบ้าน",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/09/4-300x200.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5ea54e6c587c8_46V87f7beaa01fb25ee215e861decdf384ba2.mp4/master.m3u8"
     },
     "33c16c49cdf4b92175b710eca08b4f0a": {
@@ -441748,10 +441867,6 @@
       "name": "คันกันดีนัก จับสะใภ้ตัวดีมานั่งเกาก่อนจะจับเยสจัดเลยเลย",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/04/3-8-300x201.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5ea54bd10e129_MVUKi2094df04771cf523b06a9c68897f8396.mp4/master.m3u8"
     },
     "1af92ce67168bbd626249b1974c7f0ea": {
@@ -441944,10 +442059,6 @@
       "name": "คันราคะหนัก น้องสาวกำลังโตเลยขอพี่ชายสุดหล่อเย็ดด้วยกัน",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/04/3-4-300x202.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5ea1507747ccb_w44Gn2d30186969ff4f41754d1d0f59251c28.mp4/master.m3u8"
     },
     "3617c05af05e516d9c4ebd5bbb2efe5d": {
@@ -442074,10 +442185,6 @@
       "name": "ความลับคุณพยาบาลสาว ความผิดพลาดยอมเด็กเย็ดเพื่อปิดความลับ",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/04/3-1-300x201.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5ea1bfbd279d6_AvWOo3a45fbfd0458a97dc053defe98e3c1cf.mp4/master.m3u8"
     },
     "1333dfcd212dbeb68dae0f4132c7868f": {
@@ -442558,10 +442665,6 @@
       "name": "คอนโดแตก แอบย่องมาจัดหนักผู้จัดสาวสาวเล่นสะเคลิ้มก็จับเย็ด",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/03/2-2-300x202.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5ea6e064ef142_Xcbju3380e3705c186679e078f3cea176e687.mp4/master.m3u8"
     },
     "c8eda93cd39fe55db847d13cd7c47038": {
@@ -442700,10 +442803,6 @@
       "name": "ความสวยบังตา คุณบ้านนี้นี้สวยเกินบรรยายเลยจับเย็ดสะร้องลั่น",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/02/5-5-300x202.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5ea1d77660dac_mN8Kq11654e5393a1be0abf4c1e2d9e83373b.mp4/master.m3u8"
     },
     "af54ca88e944080f80b227522211c5e6": {
@@ -443150,10 +443249,6 @@
       "name": "ความสวย ทำควยตุ้งหนุ่มทนไม่ไหวจับเธอเย็ดสะร้องครางลั้นห้อง",
       "logo": "https://www.javtu.com/wp-content/uploads/2019/01/5-2-300x165.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5eac8146bcea1_GlapXb75c6936e88081da4e65ac92ab649367.mp4/master.m3u8"
     },
     "a81dcc829b08b2705a05a1bbc1b0eb12": {
@@ -444988,10 +445083,6 @@
       "name": "ความลับแตก สายลับคนสวยเลยซวยโดนจับลุมเย็ดเพื่อคลายความลับ",
       "logo": "https://www.javtu.com/wp-content/uploads/2018/07/1-6-300x165.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5eac6f9e2118c_sKKUz071261ea33d640999143f57ac50184eb.mp4/master.m3u8"
     },
     "9fdec797a4d7434f559b20c3e401ac4f": {
@@ -445646,10 +445737,6 @@
       "name": "ความรักเด็กมอปลาย นักเรียนสาวโดนเพื่อนชายจับเย็ดบนรถแตกใน",
       "logo": "https://www.javtu.com/wp-content/uploads/2018/06/3-6-300x201.jpg",
       "group": "Good for heartGEN2",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://as.stream-lnw.com/hls/5ead72831398c_CtBVk616079aa49af792ad57a4be41e1be021.mp4/master.m3u8"
     },
     "f8d37ecbd8e64d3231a71e1cd23f1beb": {
@@ -496184,25 +496271,13 @@
       "name": "คลิปหลุด Xreindeers สาวอวบขี้เงี่ยนมาโชว์เสียว แหวกขาเย็ดกระแทกหี ร่อนเอวอย่างเฟี้ยว กับคู่เทพงานดีที่มาจัดเต็มทุกท่วงท่า",
       "logo": "https://bbk100.xyz/media/cache/strip/202512/movie/906cb4a5a483d4e68f21539b1d70c2ce.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://vod1.stream25.com/คลิปหลุด-Xreindeers-สาวอวบขี้เงี่ยนมาโชว์เสียว.mp4.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://vod1.stream25.com/คลิปหลุด-Xreindeers-สาวอวบขี้เงี่ยนมาโชว์เสียว.mp4.m3u8"
     },
     "ec451e2dd58d6f314de84e76f13dae53": {
       "name": "คลิปหลุด Xreindeers สาวอวบขี้เงี่ยนมาโชว์เสียว แหวกขาเย็ดกระแทกหี ร่อนเอวอย่างเฟี้ยว กับคู่เทพงานดีที่มาจัดเต็มทุกท่วงท่า",
       "logo": "https://bbk100.xyz/media/cache/strip/202512/movie/906cb4a5a483d4e68f21539b1d70c2ce.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/b6463cda953a00b68d2d5b925d6acb3f/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/b6463cda953a00b68d2d5b925d6acb3f/master.m3u8"
     },
     "d3c00c2157f133c98b16a605e5f2c680": {
       "name": "คลิปหลุด Xreindeers สาวอวบขี้เงี่ยนมาโชว์เสียว แหวกขาเย็ดกระแทกหี ร่อนเอวอย่างเฟี้ยว กับคู่เทพงานดีที่มาจัดเต็มทุกท่วงท่า",
@@ -496228,13 +496303,7 @@
       "name": "คลิปหลุดใหม่ล่าสุด น้องพิม Ppkkimxx ชวนแฟนสาวเย็ดริมหน้าต่าง โชว์กระเด้าควยเย็ดแบบไม่เกรงใจใคร ต่อด้วยท่ายืนหีพิงผนัง",
       "logo": "https://bbk100.xyz/media/cache/strip/202512/movie/0a47864f0f4deb6fb1f16d6022d63495.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/e5cc965b2c848c8be563581ea7102f39/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/e5cc965b2c848c8be563581ea7102f39/master.m3u8"
     },
     "269ba5b291a506a66bcbdc378966e2cc": {
       "name": "คลิปหลุดใหม่ล่าสุด น้องพิม Ppkkimxx ชวนแฟนสาวเย็ดริมหน้าต่าง โชว์กระเด้าควยเย็ดแบบไม่เกรงใจใคร ต่อด้วยท่ายืนหีพิงผนัง",
@@ -498708,30 +498777,18 @@
       "name": "คลิป Onlyfans ออมสิน wwwaomsincom x mickeemouse เย็ดสาวสวยกระแทกหีไม่ยั้ง ร้องลั่นเต็มห้อง",
       "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/9c8b6a776d27027df3f0100120269174.jpg",
       "group": "27. SEXY 1",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://vod1.stream25.com/คลิป-Onlyfans-ออมสิน-wwwaomsincom-x-mickeemouse.mp4.m3u8"
     },
     "d8c053a9a9ec6174ed669a0d829352cc": {
       "name": "คลิป Onlyfans ออมสิน wwwaomsincom x mickeemouse เย็ดสาวสวยกระแทกหีไม่ยั้ง ร้องลั่นเต็มห้อง",
       "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/9c8b6a776d27027df3f0100120269174.jpg",
       "group": "27. SEXY 1",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://ezmovie4k.com/cdn/hls/ddaa94f93c0e1985e1b262e3639d258a/master.m3u8"
     },
     "877c12dac2dde7f9a488962ff8a76aa2": {
       "name": "คลิป Onlyfans ออมสิน wwwaomsincom x mickeemouse เย็ดสาวสวยกระแทกหีไม่ยั้ง ร้องลั่นเต็มห้อง",
       "logo": "https://bbk100.xyz/media/cache/strip/202510/movie/9c8b6a776d27027df3f0100120269174.jpg",
       "group": "27. SEXY 1",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://vod1.stream25.com/คลิป-Onlyfans-ออมสิน-wwwaomsincom-x-mickeemouse.mp4.m3u8"
     },
     "6b05bd9bf0ae791b308482546d6e3f05": {
@@ -499688,20 +499745,12 @@
       "name": "คลิป Onlyfans พี่บูม boom_58 นัดเย็ดรุ่นน้องคนสวย โดนจับแหกหีเย็ดท่าหมาซอยไม่ยั่ง จนน้ำพุ่ง",
       "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/50ee26e4e827ff23cf7c20f552385612.jpg",
       "group": "27. SEXY 1",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://vod1.stream25.com/คลิป-Onlyfans-พี่บูม-boom_58-นัดรุ่นน้องคนสวยมาเยส.mp4.m3u8"
     },
     "af16a48e6c61f0e71a3284f1260b15cf": {
       "name": "คลิป Onlyfans พี่บูม boom_58 นัดเย็ดรุ่นน้องคนสวย โดนจับแหกหีเย็ดท่าหมาซอยไม่ยั่ง จนน้ำพุ่ง",
       "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/50ee26e4e827ff23cf7c20f552385612.jpg",
       "group": "27. SEXY 1",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://ezmovie4k.com/cdn/hls/a4bcb67f3a7db732af87b01056698145/master.m3u8"
     },
     "18f336caba100f69e62bd6a15c008c2d": {
@@ -500298,10 +500347,6 @@
       "name": "คลิป Onlyfans ออมสิน wwwaomsincom เย็ดกับสาวไต้หวันงานดี โดนซอยหีร้องลั่นเต็มห้อง จนน้ำเงี่ยนแตกคาปาก",
       "logo": "https://bbk100.xyz/media/cache/strip/202508/movie/d14bb8fe81512fa354a797b54ab39592.jpg",
       "group": "27. SEXY 1",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://ezmovie4k.com/cdn/hls/dfe7bfb3f2eba311e5dc272f7dd9394e/master.m3u8"
     },
     "0f4ea0f3800ee3751aabf08e989b3336": {
@@ -501010,25 +501055,13 @@
       "name": "คลิปหลุด ออมสิน wwwaomsincom นัดเย็ดสาวหัวเขียว ทาเซรั่มก่อนนอน โดนหนุ่มตี๋หุ่นล่ำจับเย็ดคาห้องน้ำ",
       "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/4928d6000acf07e863f40a5206679e4a.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/86f8615771aecc6120dfb809edc03f75/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/86f8615771aecc6120dfb809edc03f75/master.m3u8"
     },
     "3b81bc11fb2ea4c8db01fd77feab8f34": {
       "name": "คลิปหลุด ออมสิน wwwaomsincom นัดเย็ดสาวหัวเขียว ทาเซรั่มก่อนนอน โดนหนุ่มตี๋หุ่นล่ำจับเย็ดคาห้องน้ำ",
       "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/4928d6000acf07e863f40a5206679e4a.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://vod1.stream25.com/คลิปหลุด-ออมสิน-wwwaomsincom-นัดเย็ดสาวหัวเขียว.mp4.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://vod1.stream25.com/คลิปหลุด-ออมสิน-wwwaomsincom-นัดเย็ดสาวหัวเขียว.mp4.m3u8"
     },
     "5cebc5f86139b260c066d734d18313f2": {
       "name": "น้องจูจู juju_swing ประสบการณ์ใหม่สวิงกิ้ง เล่นเจลหล่อลื่น เสียวหีกว่าเดิม ผลัดกันเย็ดผลัดกันเสียบ ฟินหีไปหมด",
@@ -501464,23 +501497,13 @@
       "name": "คลิปหลุด zxvipxx นัดเย็ดกับสาวโสด โดยจัดรั่วไม่ยั้ง ร้องลั่นห้อง เสียวไม่ไหว",
       "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/c7e328fa973eda18ffdf63a225582104.jpg",
       "group": "27. SEXY 1",
-      "menu": "18+",
-      "menus": [
-        "18+"
-      ],
       "url": "https://ezmovie4k.com/cdn/hls/8e574cf3026d22efa6abf1db25bf352d/master.m3u8"
     },
     "85808a9243634e8e468fd7bec2b13c95": {
       "name": "คลิปหลุด zxvipxx นัดเย็ดกับสาวโสด โดยจัดรั่วไม่ยั้ง ร้องลั่นห้อง เสียวไม่ไหว",
       "logo": "https://bbk100.xyz/media/cache/strip/202507/movie/c7e328fa973eda18ffdf63a225582104.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://vod1.stream25.com/zxvipxx-นัดเย็ดกับสาวโสด-โดยจัดรั่วไม่ยั้ง-ร้องลั่นห้อง-เสียวไม่ไหว.mp4.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://vod1.stream25.com/zxvipxx-นัดเย็ดกับสาวโสด-โดยจัดรั่วไม่ยั้ง-ร้องลั่นห้อง-เสียวไม่ไหว.mp4.m3u8"
     },
     "4cc6e2cf02ba6fc6d6dc6ac89a90f074": {
       "name": "STARS-770 Meisa Nishimoto เสือสิงห์รุมเคลมปิดเกมเด็กใหม่",
@@ -502338,13 +502361,7 @@
       "name": "คลิปหลุด Yamthacha น้องแยมโก่งตูดท่าหมา โดนกระแทกหีรัวสุดเสียวอย่างเด็ด",
       "logo": "https://bbk100.xyz/media/cache/strip/202409/movie/660d4eba8fcd6421c7a0377e2e208956.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/6591c792e96d0c0967ea8f726ac1cdbf/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/6591c792e96d0c0967ea8f726ac1cdbf/master.m3u8"
     },
     "84da9ff363fa837536d929dcdc779cc1": {
       "name": "SONE-288 Tsukasa Aoi & Miru Sakamichi สองรักไม่ถอยนายหยอยต้องเลือก",
@@ -503030,13 +503047,7 @@
       "name": "คลิปหลุด MLive น้องเอิร์นพริตตี้สุดเอ็กซ์ไลฟ์โชว์นมใหญ่ ตูดเนียนน่าตี",
       "logo": "https://bbk100.xyz/media/cache/strip/202409/movie/f2820c4904cd82107dde58122696cac0.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/71d3f5ea23d216d03da644bede3a1326/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/71d3f5ea23d216d03da644bede3a1326/master.m3u8"
     },
     "4cea7458d806cb2f6359f3fff03c4910": {
       "name": "FSDSS-867 Ranran Fujii แอร์มันเสีย ช่วยเลียให้หน่อย",
@@ -503392,13 +503403,7 @@
       "name": "คลิปหลุด Jezzi.Xo สาวหน้าหมวยนมโต เชิญเจ้านายมาเย็ดถวายหีถึงที่ ลีลาสุดเร้าใจลงอักขระเม็ดแตด",
       "logo": "https://bbk100.xyz/media/cache/strip/202501/movie/3d621fb84962cb1979b0f27536c3f46c.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/906e7ddb001e5c4c64223604d6c7fde9/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/906e7ddb001e5c4c64223604d6c7fde9/master.m3u8"
     },
     "bb28f93d3705ed29041201301e396ea8": {
       "name": "WAAA-393 Hachino Tsubasa สะใภ้หนึบหนับสู้กลับโอละพ่อ",
@@ -503490,25 +503495,13 @@
       "name": "คลิปหลุด Jayinne สาวหมวยตัวเล็กขี้เล่น เขามีแต่เล่นของสูง แต่นี่เล่นของใหญ่ รู้ว่าเจ็บแต่คงต้องขอลอง",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/dbd5c1158ea3313ce71fe4d94a98ef50.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/9a6ffe83d38bc3dd030246f1ab346dde/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/9a6ffe83d38bc3dd030246f1ab346dde/master.m3u8"
     },
     "26db87e59e8be8ee378993f2c93b4af4": {
       "name": "คลิปหลุด Tickswg เจ๊ติ๊กสุดเร่าร้อน สอนทุกท่วงท่า ลุงชัยแรงเหลือ ขยี้หนักระดับมือโปร",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/88a401594709f36689c79102a5edc2c6.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/38bfba1ea3f631d526a74919dd09b555/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/38bfba1ea3f631d526a74919dd09b555/master.m3u8"
     },
     "d9d28a28411d912e6bd6a6e77ff6d199": {
       "name": "IPX-583 Tsubasa Amami หลงรักคุณครูรู้ทั้งรู้ว่ามันผิดศีลธรรม",
@@ -503524,13 +503517,7 @@
       "name": "คลิปหลุด Mojiniim เมื่อห้องน้ำกลายเป็นที่ปลดปล่อยความเสียวของน้องนุ่มนิ่ม",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/ac5ca67783e7fc8f9e039634037773c5.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/ee0a9896f53f8b8a5c3f2d58ffae3225/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/ee0a9896f53f8b8a5c3f2d58ffae3225/master.m3u8"
     },
     "036a91149b9982e80cf7746563cd4053": {
       "name": "IPZZ-433 Saki Sasaki ระบบปี้ป่นส้มหล่นได้สาว",
@@ -503546,25 +503533,13 @@
       "name": "คลิปหลุด Jennny2118 เสียวซ่านสุดขีด น้องเจนนี่อมเพลินลิ้นตวัดพลิ้ว เสียวสะท้านก่อนแตกเต็มหน้าสวย",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/5258bf710fbbebceaadee775c62557f2.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/8c8bf3b235196ab1486f39c72e0cc7dc/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/8c8bf3b235196ab1486f39c72e0cc7dc/master.m3u8"
     },
     "ee766d9b71a1a954fab14a3d360d6707": {
       "name": "คลิปหลุด Mojiniim พยาบาลสุดเซ็กซี่ กับภารกิจปลดปล่อยคนไข้ งานนี้มีอะไรมากกว่าการรักษา",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/f549516e74a72b00b4c9351552ef221f.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/d3845458b3d0a4464eb9f5d9d138615c/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/d3845458b3d0a4464eb9f5d9d138615c/master.m3u8"
     },
     "795018af99cd7f62919fa69ccdeaada2": {
       "name": "PPPE-264 Karen Yuzuriha แหกคุกคะนองกี สามปีที่ขาดกรวย",
@@ -503590,13 +503565,7 @@
       "name": "คลิปหลุด Ppkkimxx น้องพิมเที่ยวเขาวิวดี เปิดประสบการณ์ใหม่อันเร้าใจ เย็ดคาอ่างสุดแซ่บ",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/2a48ee6368e36277be1f52ed0ddefab1.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/7b42c9a9a7cc2ee43275b940202d7737/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/7b42c9a9a7cc2ee43275b940202d7737/master.m3u8"
     },
     "389947d72a3149cea5c80b9408b30ac4": {
       "name": "MIMK-194 Kokoro Asano ประสบการณ์อยากเสียว อารมณ์เปลี่ยวกับรุ่นลุง",
@@ -503612,13 +503581,7 @@
       "name": "คลิปหลุด Babynookie น้องนุ๊กกี้เปิดคลิปสุดเรียว นัดผู้ชายแปลกหน้า และมอบความแซ่บในห้องลับสุดเร้า",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/312da157a7da851285d01666963d7765.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/a65afea0aaba398ac45791dac5ae7a9c/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/a65afea0aaba398ac45791dac5ae7a9c/master.m3u8"
     },
     "7089490f54130d87848e27a5a0d3fe29": {
       "name": "MIDA-037 Nao Jinguji วานเมียเปลี่ยนชุด ขึ้นสุดแข็งนาน",
@@ -505052,13 +505015,7 @@
       "name": "คลิปหลุด Idannawie2 น้องอุ้ม สาวสักลาย ปะทะชายต๊องขี้เล่น งานนี้ไม่มีใครยอมใคร ความเสียวระดับสิบต้องมา",
       "logo": "https://bbk100.xyz/media/cache/strip/202502/movie/6307a5d8f44c4f8ba84225a1667fdf9e.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/9244ee5e910442ff391a4b6a49850cba/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/9244ee5e910442ff391a4b6a49850cba/master.m3u8"
     },
     "fef501a397fcece8f4b403f3ca6aaf9f": {
       "name": "คลิปหลุดสาวไทย irenkampong1 ขับรถเล่นไม่ถึงไหน น้องไอรินบอกเงี่ยนเต็มที่ จอดรถเลียหีก่อนเย็ดข้างทาง",
@@ -505306,13 +505263,7 @@
       "name": "คลิปหลุด sistersgrimmpv นัด 2 หนุ่ม มาสวิงกิ้งกันครั้งแรก จับชักให้ทีละคน ก่อนจะโดนเย็ดสดท่าหมา",
       "logo": "https://bbk100.xyz/media/cache/strip/202408/movie/1e7f5a6b8cc431a8f208892d621b48c1.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/55b091a5b6f2b45970aad3cf5f900451/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/55b091a5b6f2b45970aad3cf5f900451/master.m3u8"
     },
     "6a705a22792ac78760b5d8a06b93b410": {
       "name": "น้องโอเว่น o_owennxx นัดพี่ลูกหมีสาวอวบนมใหญ่มาจัดหนัก",
@@ -505910,13 +505861,7 @@
       "name": "คลิปหลุด Onlyfans น้องแอมนมใหญ่ ใส่แว่นโดนจับตอกแตกคาอก",
       "logo": "https://bbk100.xyz/media/cache/strip/202401/movie/df931d166bb8e9225c7b2558ef588e4f.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/db019dd36c9efaee2f28409434a060ea/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/db019dd36c9efaee2f28409434a060ea/master.m3u8"
     },
     "61630219618ff98c6360945f3f8dce86": {
       "name": "คลิปหลุด ดาราสาวกำลังโม๊คให้แฟน",
@@ -506134,13 +506079,7 @@
       "name": "คลิปหลุด แอลลี irenkampong1 อมควยให้แฟน ก่อนโดนแฟนเล่นหีให้จนเสร็จ",
       "logo": "https://bbk100.xyz/media/cache/strip/202402/movie/c083dacfb261abded49f13bd0d287584.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/7c5a80988241511a53281d4b46d94945/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/7c5a80988241511a53281d4b46d94945/master.m3u8"
     },
     "5afb2bb2b1262822f4c014ec90e14c88": {
       "name": "ATID-574 Ema Futaba ครอบครัว กลับมาหาลุงผู้เปิดซิงในรอบ 10 ปี",
@@ -506418,13 +506357,7 @@
       "name": "คลิปหลุด Msbreewcfree ให้ครูฝรั่งมาติวตัวต่อตัวถึงห้อง คาชุดนักเรียน โดนจับกดหัวอมดินสอยี่ห้อควยซะงั้น",
       "logo": "https://bbk100.xyz/media/cache/strip/202307/movie/3133a20b954f3dc3d766f9b53d37a9ed.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/e76929be2fc098df5adc6078ac097824/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/e76929be2fc098df5adc6078ac097824/master.m3u8"
     },
     "3c34469551f3ae1ec0849a9d5946aa56": {
       "name": "น้องหมวย mueylix สาวสักลายนมใหญ่งานดี มองกี่ทีก็อดใจไม่ไหว",
@@ -507298,13 +507231,7 @@
       "name": "คลิปหลุด XReindeers รับงาน สาวสวยหุ่นแซ่บ บริการถึงใจ ฟินจนต้องร้องขอชีวิต",
       "logo": "https://bbk100.xyz/media/cache/strip/202306/movie/898aad37120cd25b8c929797c10146f5.jpg",
       "group": "27. SEXY 1",
-      "menus": [],
-      "url": "https://ezmovie4k.com/cdn/hls/ba87be57ae782c4e7114bd77a08247bb/master.m3u8",
-      "broken": true,
-      "brokenCheckedAt": "2026-11-23T17:42:35.291Z",
-      "excludedMenus": [
-        "18+"
-      ]
+      "url": "https://ezmovie4k.com/cdn/hls/ba87be57ae782c4e7114bd77a08247bb/master.m3u8"
     },
     "56041bc949b1d2af686e83252cd10bea": {
       "name": "น้องกวาง Deerlon สาวแว่นนมสวย หุ่นอย่างเด็ด ขึ้นขย่มอย่างโดน อ้อนขอเสียวจนตัวสั่น",
