@@ -1,11 +1,12 @@
 {
   "version": 1,
-  "generatedAt": 1795451235966,
+  "generatedAt": 1795451832087,
   "menus": {
     "folders": {
       "movies": [
         "หนังใหม่ 2006",
-        "ญี่ปุ่น Japanese porn videos"
+        "ญี่ปุ่น Japanese porn videos",
+        "หนัง_:ซีรี่ต่างประเทศ"
       ]
     },
     "titles": {
@@ -22,7 +23,6 @@
       "folders"
     ],
     "heroes": {
-      "all": "99c0e70cf14416d777ac269a07bbfd68",
       "movies": "99c0e70cf14416d777ac269a07bbfd68",
       "series": "9b05eec492fa57934a928574f89b70c9",
       "tv": "438787521abaa3c708407a8fbe0ab028",
@@ -33,32 +33,6 @@
     },
     "heroLists": {
       "all": [
-        {
-          "id": "99c0e70cf14416d777ac269a07bbfd68",
-          "name": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
-          "logo": "https://image.tmdb.org/t/p/w500/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",
-          "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2025",
-          "rating": "7.0 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ"
-        },
-        {
-          "id": "79752a76aa32f19135002034902e186c",
-          "name": "Clash (2025) พุ่งชนคนกีฬา",
-          "logo": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-          "url": "https://main.24playerhd.com/m3u8/4da6388c0f1a20c2f3aa9d36/4da6388c0f1a20c2f3aa9d36438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2026",
-          "rating": "6.6 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Clash (2025) พุ่งชนคนกีฬา"
-        },
         {
           "id": "5ae1aa018141d2c40b9a33adeff294c6",
           "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
@@ -73,30 +47,79 @@
           "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
         },
         {
-          "id": "4b0a6c77607d4d2843c37136603e930e",
-          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
-          "logo": "https://image.tmdb.org/t/p/w500/eFfoGdcIk6llb8bO1dREzW84zm8.jpg",
-          "url": "https://main.24playerhd.com/m3u8/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2023",
-          "rating": "6.8 / 10",
+          "id": "60524dc0d4fba9a6184064b01bab1c1b",
+          "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
           "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Johnny Football (2023) จอห์นนี่ ฟุตบอล"
+          "displayName": "Legend of the White Dragon (2026) ไวท์ดรากอน"
         },
         {
-          "id": "c6927c9c928e9f9d27db7469ffeea8ed",
-          "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
-          "logo": "https://image.tmdb.org/t/p/w500/eD1mfjEeDUOAAsptZjQA6skrdJy.jpg",
-          "url": "https://main.24playerhd.com/m3u8/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2024",
-          "rating": "6.8 / 10",
+          "id": "25f5ea75cc57925580e5096fb8d25e03",
+          "name": "Never After Dark (2026) มืดค่ำ อย่า! ย่างกราย",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/jguB76QbAx6yExiOLIPvOaxW95b-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110098/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
           "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย"
+          "displayName": "Never After Dark (2026) มืดค่ำ อย่า! ย่างกราย"
+        },
+        {
+          "id": "862603127025157f13d431e3326d5fe3",
+          "name": "A Story of Derry (2026) เรื่องราวของเดอร์รี่",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/11/hcJzOspkHAjPzXs5Y2KrhphA2oj-scaled-1.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110094/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": [],
+          "displayName": "A Story of Derry (2026) เรื่องราวของเดอร์รี่"
+        },
+        {
+          "id": "cca2ac669d8fa4dc65dbb84634bfe05f",
+          "name": "Apocalypse Z: New World (2026) อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ ภาค 2",
+          "logo": "https://image.tmdb.org/t/p/w500/pS2R3DEiucuizVkKP80qzdO97TE.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/110065/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "6.2 / 10",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": [],
+          "displayName": "Apocalypse Z: New World (2026) อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ ภาค 2"
+        },
+        {
+          "id": "210ed7b0c8c368d6d590f19ad15c450e",
+          "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
+          "logo": "https://image.tmdb.org/t/p/w500/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "rating": "7.5 / 10",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": [],
+          "displayName": "Resident Evil (2026) เรสซิเดนท์ อีวิล"
         }
       ],
       "movies": [
