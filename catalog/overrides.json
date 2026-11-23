@@ -560,6 +560,7 @@
         "title": "หนังเข้าฉายใหม่ (ตามกำหนดฉาย)",
         "custom": true,
         "items": [
+          "0786d71b4bf90569729b1c03edcbeb82",
           "4f51785722fa288c2005f8ec5a7f2649",
           "647a5f84f7fee7e56247fd613dc744b3",
           "120552974995a56a1fba5aa90f2fa77d",
@@ -137604,13 +137605,22 @@
     },
     "0786d71b4bf90569729b1c03edcbeb82": {
       "name": "Mortal Kombat II (2026) มอร์ทัล คอมแบท 2",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/05/SfKxOf7Ttuy8ZsVRCpqXVMG24A.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ybmfvoIPxQ9Ivy2tEhi6JxufMJL.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/107667/master.m3u8"
+      "rating": "7.7 / 10",
+      "year": "2026",
+      "cast": "คาร์ล เออร์บัน, Adeline Rudolph, Ludi Lin, Jessica McNamee, Martyn Ford, Josh Lawson",
+      "overview": "ภาพยนตร์ภาคต่อของแฟรนไชส์วิดีโอเกมยอดนิยมที่กลับมาพร้อมความโหดเหี้ยมเต็มพิกัด ที่ครั้งนี้เหล่าแชมเปี้ยนขวัญใจแฟน ๆ ซึ่งรวมถึง จอห์นนี่ เคจ เอง ก็ต้องมาประจันหน้าในการต่อสู้ที่ไร้กฎเกณฑ์และเต็มไปด้วยเลือดเนื้อ เพื่อโค่นล้มการปกครองอันมืดมิดของ เชา คาห์น ที่กำลังคุกคามการดำรงอยู่ของเอิร์ทเรล์มและผู้พิทักษ์ทั้งหลาย",
+      "genres": "บู๊, จินตนาการ, ผจญ",
+      "metadataSource": "tmdb"
     },
     "e4d16c9783596793658d6a53168307b6": {
       "name": "เลือดรักนักฆ่า (2026) My Dearest Assassin",
