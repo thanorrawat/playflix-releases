@@ -1,8 +1,7 @@
 {
   "version": 1,
-  "generatedAt": 1795441116551,
+  "generatedAt": 1795449616923,
   "menus": {
-    "folders": {},
     "titles": {
       "all": "หน้าแรก",
       "movies": "ภาพยนตร์",
@@ -493,20 +492,6 @@
         "published": true
       },
       {
-        "id": "มาใหม่",
-        "title": "มาใหม่",
-        "icon": "🆕",
-        "type": "category",
-        "published": false
-      },
-      {
-        "id": "updates",
-        "title": "อัปเดตใหม่",
-        "icon": "🔔",
-        "type": "category",
-        "published": false
-      },
-      {
         "id": "movies",
         "title": "ภาพยนตร์",
         "icon": "🎬",
@@ -540,25 +525,15 @@
         "icon": "⚽",
         "type": "category",
         "published": true
-      },
-      {
-        "id": "ยอดนิยม",
-        "title": "ยอดนิยม",
-        "icon": "✨",
-        "type": "category",
-        "published": false
       }
     ]
   },
   "files": {
     "all": "page-0.json",
-    "มาใหม่": "page-1.json",
-    "updates": "page-2.json",
-    "movies": "page-3.json",
-    "series": "page-4.json",
-    "cartoon": "page-5.json",
-    "tv": "page-6.json",
-    "sports": "page-7.json",
-    "ยอดนิยม": "page-8.json"
+    "movies": "page-1.json",
+    "series": "page-2.json",
+    "cartoon": "page-3.json",
+    "tv": "page-4.json",
+    "sports": "page-5.json"
   }
 }
