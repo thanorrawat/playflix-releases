@@ -1,12 +1,29 @@
 {
   "version": 1,
-  "generatedAt": 1795452356853,
+  "generatedAt": 1795455768881,
   "menus": {
     "folders": {
       "movies": [
         "หนังใหม่ 2006",
         "ญี่ปุ่น Japanese porn videos",
-        "หนัง_:ซีรี่ต่างประเทศ"
+        "หนัง_:ซีรี่ต่างประเทศ",
+        "18+",
+        "หนังไทย"
+      ],
+      "tv": [
+        "ละคร ทีวี",
+        "Best JAV",
+        "Vip Japan",
+        "18+Live-011"
+      ],
+      "18+": [
+        "Good for heartGEN2",
+        "ญี่ปุ่น+จีน+ฝรั่ง",
+        "4สิงหา",
+        "27. SEXY 1",
+        "18+ 077",
+        "XXX_VIP",
+        "ช่องนี้ทำเอง"
       ]
     },
     "titles": {
@@ -17,7 +34,9 @@
       "sports": "กีฬา",
       "ยอดนิยม": "ยอดนิยม",
       "cartoon": "การ์ตูน",
-      "มาใหม่": "มาใหม่"
+      "มาใหม่": "มาใหม่",
+      "18+": "18+",
+      "หนังไทย": "หนังไทย"
     },
     "hidden": [
       "folders"
@@ -510,7 +529,9 @@
       ]
     },
     "limits": {
-      "ยอดนิยม": 20
+      "ยอดนิยม": 20,
+      "18+": 20,
+      "หนังไทย": 20
     },
     "pages": [
       {
@@ -554,6 +575,20 @@
         "icon": "⚽",
         "type": "category",
         "published": true
+      },
+      {
+        "id": "18+",
+        "title": "18+",
+        "icon": "🔞",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "หนังไทย",
+        "title": "หนังไทย",
+        "icon": "✨",
+        "type": "category",
+        "published": true
       }
     ]
   },
@@ -563,6 +598,8 @@
     "series": "page-2.json",
     "cartoon": "page-3.json",
     "tv": "page-4.json",
-    "sports": "page-5.json"
+    "sports": "page-5.json",
+    "18+": "page-6.json",
+    "หนังไทย": "page-7.json"
   }
 }
