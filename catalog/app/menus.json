@@ -1,120 +1,164 @@
 {
   "version": 1,
-  "generatedAt": 1795423598936,
+  "generatedAt": 1795441116551,
   "menus": {
-    "folders": {
-      "🍀MOVIES NEW_TEST_7hd🍀": "movies",
-      "หน้า 1": "movies",
-      "หน้า 2": "movies",
-      "หน้า 3": "movies",
-      "หน้า 4": "movies",
-      "หน้า 5": "movies",
-      "หน้า 6": "movies",
-      "หน้า 7": "movies",
-      "หน้า 8": "movies",
-      "หน้า 9": "movies",
-      "หน้า 10": "movies"
-    },
+    "folders": {},
     "titles": {
       "all": "หน้าแรก",
       "movies": "ภาพยนตร์",
       "series": "ซีรีส์",
       "tv": "รายการทีวี",
       "sports": "กีฬา",
-      "ยอดนิยม": "ยอดนิยม"
+      "ยอดนิยม": "ยอดนิยม",
+      "cartoon": "การ์ตูน",
+      "มาใหม่": "มาใหม่"
     },
     "hidden": [
       "folders"
     ],
     "heroes": {
-      "all": "5ae1aa018141d2c40b9a33adeff294c6",
-      "movies": "5ae1aa018141d2c40b9a33adeff294c6",
+      "all": "99c0e70cf14416d777ac269a07bbfd68",
+      "movies": "99c0e70cf14416d777ac269a07bbfd68",
       "series": "9b05eec492fa57934a928574f89b70c9",
       "tv": "438787521abaa3c708407a8fbe0ab028",
       "sports": "c803ebe2774b9d1373170836c239b5a0",
-      "ยอดนิยม": "5ae1aa018141d2c40b9a33adeff294c6"
+      "ยอดนิยม": "99c0e70cf14416d777ac269a07bbfd68",
+      "cartoon": "2e87887010608265d781e758feab581f",
+      "มาใหม่": "2a46b3423246b86cca6839c2d04f15e4"
     },
     "heroLists": {
       "all": [
         {
+          "id": "99c0e70cf14416d777ac269a07bbfd68",
+          "name": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
+          "logo": "https://image.tmdb.org/t/p/w500/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "2025",
+          "rating": "7.0 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ"
+        },
+        {
+          "id": "79752a76aa32f19135002034902e186c",
+          "name": "Clash (2025) พุ่งชนคนกีฬา",
+          "logo": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4da6388c0f1a20c2f3aa9d36/4da6388c0f1a20c2f3aa9d36438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "2026",
+          "rating": "6.6 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Clash (2025) พุ่งชนคนกีฬา"
+        },
+        {
           "id": "5ae1aa018141d2c40b9a33adeff294c6",
           "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
-          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Gayong-2-2026-เจ้าตำนานมวยกาหยง-2-300x450.png",
+          "logo": "https://image.tmdb.org/t/p/w500/gqJTbAJqtmnlhH8567YhTd0LUIF.jpg",
           "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2026",
+          "rating": "8.5 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
           "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
         },
         {
-          "id": "3f8f28fd5e5c0928eb3311eb39355620",
-          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
+          "id": "4b0a6c77607d4d2843c37136603e930e",
+          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
+          "logo": "https://image.tmdb.org/t/p/w500/eFfoGdcIk6llb8bO1dREzW84zm8.jpg",
+          "url": "https://main.24playerhd.com/m3u8/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2023",
+          "rating": "6.8 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
+          "displayName": "Johnny Football (2023) จอห์นนี่ ฟุตบอล"
         },
         {
-          "id": "0203b9cad758e3a6f39a4d1e378bf067",
-          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
+          "id": "c6927c9c928e9f9d27db7469ffeea8ed",
+          "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
+          "logo": "https://image.tmdb.org/t/p/w500/eD1mfjEeDUOAAsptZjQA6skrdJy.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2024",
+          "rating": "6.8 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
+          "displayName": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย"
         }
       ],
       "movies": [
         {
+          "id": "99c0e70cf14416d777ac269a07bbfd68",
+          "name": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
+          "logo": "https://image.tmdb.org/t/p/w500/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "2025",
+          "rating": "7.0 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ"
+        },
+        {
+          "id": "79752a76aa32f19135002034902e186c",
+          "name": "Clash (2025) พุ่งชนคนกีฬา",
+          "logo": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4da6388c0f1a20c2f3aa9d36/4da6388c0f1a20c2f3aa9d36438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "2026",
+          "rating": "6.6 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Clash (2025) พุ่งชนคนกีฬา"
+        },
+        {
           "id": "5ae1aa018141d2c40b9a33adeff294c6",
           "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
-          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Gayong-2-2026-เจ้าตำนานมวยกาหยง-2-300x450.png",
+          "logo": "https://image.tmdb.org/t/p/w500/gqJTbAJqtmnlhH8567YhTd0LUIF.jpg",
           "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2026",
+          "rating": "8.5 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
           "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
         },
         {
-          "id": "3f8f28fd5e5c0928eb3311eb39355620",
-          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
+          "id": "4b0a6c77607d4d2843c37136603e930e",
+          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
+          "logo": "https://image.tmdb.org/t/p/w500/eFfoGdcIk6llb8bO1dREzW84zm8.jpg",
+          "url": "https://main.24playerhd.com/m3u8/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2023",
+          "rating": "6.8 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
+          "displayName": "Johnny Football (2023) จอห์นนี่ ฟุตบอล"
         },
         {
-          "id": "0203b9cad758e3a6f39a4d1e378bf067",
-          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
+          "id": "c6927c9c928e9f9d27db7469ffeea8ed",
+          "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
+          "logo": "https://image.tmdb.org/t/p/w500/eD1mfjEeDUOAAsptZjQA6skrdJy.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2024",
+          "rating": "6.8 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
+          "displayName": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย"
         }
       ],
       "series": [
@@ -242,43 +286,198 @@
       ],
       "ยอดนิยม": [
         {
+          "id": "99c0e70cf14416d777ac269a07bbfd68",
+          "name": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
+          "logo": "https://image.tmdb.org/t/p/w500/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "2025",
+          "rating": "7.0 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ"
+        },
+        {
+          "id": "79752a76aa32f19135002034902e186c",
+          "name": "Clash (2025) พุ่งชนคนกีฬา",
+          "logo": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
+          "url": "https://main.24playerhd.com/m3u8/4da6388c0f1a20c2f3aa9d36/4da6388c0f1a20c2f3aa9d36438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "2026",
+          "rating": "6.6 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Clash (2025) พุ่งชนคนกีฬา"
+        },
+        {
           "id": "5ae1aa018141d2c40b9a33adeff294c6",
           "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
-          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Gayong-2-2026-เจ้าตำนานมวยกาหยง-2-300x450.png",
+          "logo": "https://image.tmdb.org/t/p/w500/gqJTbAJqtmnlhH8567YhTd0LUIF.jpg",
           "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2026",
+          "rating": "8.5 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
           "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
         },
         {
-          "id": "3f8f28fd5e5c0928eb3311eb39355620",
-          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
+          "id": "4b0a6c77607d4d2843c37136603e930e",
+          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
+          "logo": "https://image.tmdb.org/t/p/w500/eFfoGdcIk6llb8bO1dREzW84zm8.jpg",
+          "url": "https://main.24playerhd.com/m3u8/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2023",
+          "rating": "6.8 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
+          "displayName": "Johnny Football (2023) จอห์นนี่ ฟุตบอล"
         },
         {
-          "id": "0203b9cad758e3a6f39a4d1e378bf067",
-          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
+          "id": "c6927c9c928e9f9d27db7469ffeea8ed",
+          "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
+          "logo": "https://image.tmdb.org/t/p/w500/eD1mfjEeDUOAAsptZjQA6skrdJy.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "year": "2024",
+          "rating": "6.8 / 10",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
+          "displayName": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย"
+        }
+      ],
+      "cartoon": [
+        {
+          "id": "2e87887010608265d781e758feab581f",
+          "name": "The First Snow of Fraggle Rock (2025)",
+          "logo": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
+          "url": "https://main.24playerhd.com/m3u8/482271b2e8a1df33321b84b8/482271b2e8a1df33321b84b8438.m3u8",
+          "group": "การ์ตูน",
+          "year": "2025",
+          "rating": "6.6 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "The First Snow of Fraggle Rock (2025)"
+        },
+        {
+          "id": "bc3a1f104fb3d864123b485de64640ac",
+          "name": "Lego Disney Princess Villains Unite (2025)",
+          "logo": "https://image.tmdb.org/t/p/w500/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg",
+          "url": "https://main.24playerhd.com/m3u8/a8fc90c87bb8ff2355cac794/a8fc90c87bb8ff2355cac794438.m3u8",
+          "group": "การ์ตูน",
+          "year": "2025",
+          "rating": "6.6 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Lego Disney Princess Villains Unite (2025)"
+        },
+        {
+          "id": "dd94afcadb4e1ecd6c402fe7799ac595",
+          "name": "Lulu Is a Rhinoceros (2025)",
+          "logo": "https://image.tmdb.org/t/p/w500/h6cxDZb5JRzaMZP37AfGPlHfCnm.jpg",
+          "url": "https://main.24playerhd.com/m3u8/9986ac865f120422e0b7c342/9986ac865f120422e0b7c342438.m3u8",
+          "group": "การ์ตูน",
+          "year": "2025",
+          "rating": "6.8 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Lulu Is a Rhinoceros (2025)"
+        },
+        {
+          "id": "a8ad40ccffc6458c5198ab34eb3596ce",
+          "name": "Me & Roboco- The Movie (2025) ผมกับโรโบโกะ หุ่นเมดพันธุ์ซ่า เดอะมูฟวี่",
+          "logo": "https://image.tmdb.org/t/p/w500/42vqRpZFCEepFIesludCFLZmUP7.jpg",
+          "url": "https://main.24playerhd.com/m3u8/1ffc05b13d6607c16494eca2/1ffc05b13d6607c16494eca2438.m3u8",
+          "group": "การ์ตูน",
+          "year": "2025",
+          "rating": "8.7 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Me & Roboco- The Movie (2025) ผมกับโรโบโกะ หุ่นเมดพันธุ์ซ่า เดอะมูฟวี่"
+        },
+        {
+          "id": "dcbdb241048ecd2e03741c4337ae31b0",
+          "name": "Pui Pui Molcar the Movie Molmax (2024) ปุยปุย มอลก้า เดอะ มูฟวี่ มอลแม็กซ์",
+          "logo": "https://image.tmdb.org/t/p/w500/hFaLQGnlY7REAG9WNMWyZaqcBeJ.jpg",
+          "url": "https://main.24playerhd.com/m3u8/ce8fa2e97d961b6b6b93639f/ce8fa2e97d961b6b6b93639f438.m3u8",
+          "group": "การ์ตูน",
+          "year": "2024",
+          "rating": "4.5 / 10",
+          "tags": [],
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Pui Pui Molcar the Movie Molmax (2024) ปุยปุย มอลก้า เดอะ มูฟวี่ มอลแม็กซ์"
+        }
+      ],
+      "มาใหม่": [
+        {
+          "id": "2a46b3423246b86cca6839c2d04f15e4",
+          "name": "Other Mommy (2026) แม่…หลอน",
+          "logo": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109825/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "releaseDate": "2026-10-07",
+          "rating": "6.5 / 10",
+          "genres": "สยองขวัญ",
+          "displayName": "Other Mommy (2026) แม่…หลอน"
+        },
+        {
+          "id": "f28cc511539c76e0ab9967d4646af395",
+          "name": "Doing Life (2026) ชั่วชีวิต จากไทเลอร์ เพอร์รี",
+          "logo": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109735/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "releaseDate": "2026-10-02",
+          "rating": "7.9 / 10",
+          "genres": "โรแมนติก, ดราม่า",
+          "displayName": "Doing Life (2026) ชั่วชีวิต จากไทเลอร์ เพอร์รี"
+        },
+        {
+          "id": "2358a2e8d60bbbf66495fdd9aabc4263",
+          "name": "The Cycle (2026) มันกลับมาหอน",
+          "logo": "https://25-hd.com/wp-content/uploads/2026/10/uF84PRwuWw6QOdVlkqLflSifP2m.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109732/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "releaseDate": "2026-09-24",
+          "rating": "6.8 / 10",
+          "genres": "สยองขวัญ, ระทึกขวัญ, ลึกลับ",
+          "displayName": "The Cycle (2026) มันกลับมาหอน"
+        },
+        {
+          "id": "90d90ce0661ff8014213212533cb9788",
+          "name": "You+Me – Against the World (2026)",
+          "logo": "https://image.tmdb.org/t/p/w500/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109595/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "releaseDate": "2026-09-18",
+          "rating": "5.5 / 10",
+          "genres": "โรแมนติก, ดราม่า",
+          "displayName": "You+Me – Against the World (2026)"
+        },
+        {
+          "id": "49ed07d3603ba2c23c50eea3cf091c27",
+          "name": "The Uprising (2026)",
+          "logo": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/109699/master.m3u8",
+          "group": "หนังใหม่ 2006",
+          "year": "2026",
+          "releaseDate": "2026-09-10",
+          "rating": "7.7 / 10",
+          "genres": "แอ็คชั่น, ดราม่า, ประวัติศาสตร์",
+          "displayName": "The Uprising (2026)"
         }
       ]
     },
@@ -294,6 +493,20 @@
         "published": true
       },
       {
+        "id": "มาใหม่",
+        "title": "มาใหม่",
+        "icon": "🆕",
+        "type": "category",
+        "published": false
+      },
+      {
+        "id": "updates",
+        "title": "อัปเดตใหม่",
+        "icon": "🔔",
+        "type": "category",
+        "published": false
+      },
+      {
         "id": "movies",
         "title": "ภาพยนตร์",
         "icon": "🎬",
@@ -304,6 +517,13 @@
         "id": "series",
         "title": "ซีรีส์",
         "icon": "📺",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "cartoon",
+        "title": "การ์ตูน",
+        "icon": "🎨",
         "type": "category",
         "published": true
       },
@@ -326,16 +546,19 @@
         "title": "ยอดนิยม",
         "icon": "✨",
         "type": "category",
-        "published": true
+        "published": false
       }
     ]
   },
   "files": {
     "all": "page-0.json",
-    "movies": "page-1.json",
-    "series": "page-2.json",
-    "tv": "page-3.json",
-    "sports": "page-4.json",
-    "ยอดนิยม": "page-5.json"
+    "มาใหม่": "page-1.json",
+    "updates": "page-2.json",
+    "movies": "page-3.json",
+    "series": "page-4.json",
+    "cartoon": "page-5.json",
+    "tv": "page-6.json",
+    "sports": "page-7.json",
+    "ยอดนิยม": "page-8.json"
   }
 }
