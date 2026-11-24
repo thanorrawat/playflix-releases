@@ -160,6 +160,7 @@
       "group": "thai_movies",
       "title": "หนังไทย",
       "items": [
+        "56aa287bb97e3403e5a852c7fd6edfcc",
         "99c0e70cf14416d777ac269a07bbfd68",
         "4b0a6c77607d4d2843c37136603e930e",
         "6fa980de14232746c4cb4e814f49e96a",
@@ -398,6 +399,7 @@
         "group": "thai_movies",
         "title": "หนังไทย",
         "items": [
+          "56aa287bb97e3403e5a852c7fd6edfcc",
           "99c0e70cf14416d777ac269a07bbfd68",
           "4b0a6c77607d4d2843c37136603e930e",
           "6fa980de14232746c4cb4e814f49e96a",
@@ -802,6 +804,11 @@
       }
     ],
     "series": [
+      {
+        "group": "จัดให้",
+        "title": "จัดให้",
+        "custom": true
+      },
       {
         "group": "series_live",
         "title": "ซีรีส์แนะนำ (คนแสดง)",
@@ -131958,7 +131965,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=URBpXJHyL8U"
+      "url": "https://www.youtube.com/watch?v=URBpXJHyL8U",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 275 ( สะพานสูง )"
     },
     "1df20a588b1d5d22064591d3a8301890": {
       "name": "เรื่องหลอนๆ - ตอนที่ 262 ( พะเยา )",
@@ -131967,7 +131976,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=5HavrluouIE"
+      "url": "https://www.youtube.com/watch?v=5HavrluouIE",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 262 ( พะเยา )"
     },
     "321ea8845b3f16f553b14bf2e344e65b": {
       "name": "เรื่องหลอนๆ - ตอนที่ 255 ( สุโขทัย )",
@@ -131976,7 +131987,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=iZwDKcRZsWk"
+      "url": "https://www.youtube.com/watch?v=iZwDKcRZsWk",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 255 ( สุโขทัย )"
     },
     "68693ddffcb9a2ef741ff92cfef9a340": {
       "name": "เรื่องหลอนๆ - ตอนที่ 251 ( เชียงราย )",
@@ -131985,7 +131998,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=NJM3OQ-OWwc"
+      "url": "https://www.youtube.com/watch?v=NJM3OQ-OWwc",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 251 ( เชียงราย )"
     },
     "de88eed1cd7bf4b0718aa63bd0a28bb4": {
       "name": "เรื่องหลอนๆ - ตอนที่ 245 ( กาญจนบุรี )",
@@ -131994,7 +132009,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=PIt8VRtQ43I"
+      "url": "https://www.youtube.com/watch?v=PIt8VRtQ43I",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 245 ( กาญจนบุรี )"
     },
     "bb411371f3b26ba428c92ccfd7d63561": {
       "name": "เรื่องหลอนๆ - ตอนที่ 243 ( สงขลา )",
@@ -132003,7 +132020,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=VZHKs35dNKA"
+      "url": "https://www.youtube.com/watch?v=VZHKs35dNKA",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 243 ( สงขลา )"
     },
     "fac893c18337fc0332db12e34cfb99f9": {
       "name": "เรื่องหลอนๆ - ตอนที่ 234 ( ภูเก็ต )",
@@ -132012,7 +132031,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=PR24R8gBZsY"
+      "url": "https://www.youtube.com/watch?v=PR24R8gBZsY",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 234 ( ภูเก็ต )"
     },
     "76f7b4573edfd90284e0144a0dcc55cc": {
       "name": "เรื่องหลอนๆ - ตอนที่ 227",
@@ -132021,7 +132042,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=BUbdtwtKqgk"
+      "url": "https://www.youtube.com/watch?v=BUbdtwtKqgk",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 227"
     },
     "d67b2855471d586e9e70affbc5fcac15": {
       "name": "เรื่องหลอนๆ - ตอนที่ 224 ( ดินแดง )",
@@ -132030,7 +132053,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=usB8hoG25RY"
+      "url": "https://www.youtube.com/watch?v=usB8hoG25RY",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 224 ( ดินแดง )"
     },
     "91c52fe8089cd3214cce3e29e1b77c79": {
       "name": "เรื่องหลอนๆ - ตอนที่ 220",
@@ -132039,7 +132064,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=U1rUFYzLfdc"
+      "url": "https://www.youtube.com/watch?v=U1rUFYzLfdc",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 220"
     },
     "f6feb3ef490328aa15cd263148d255cc": {
       "name": "เรื่องหลอนๆ - ตอนที่ 207 ( ชัยนาท )",
@@ -132048,7 +132075,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=cguC5ExBuZw"
+      "url": "https://www.youtube.com/watch?v=cguC5ExBuZw",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 207 ( ชัยนาท )"
     },
     "062471618ef085f8068a8e3518441a91": {
       "name": "เรื่องหลอนๆ - ตอนที่ 202",
@@ -132057,7 +132086,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=9I4sjvTQ_8A"
+      "url": "https://www.youtube.com/watch?v=9I4sjvTQ_8A",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 202"
     },
     "89d39d9ccd1b16d1bdddfbf9db0669ca": {
       "name": "เรื่องหลอนๆ - ตอนที่ 200 ( สกลนคร )",
@@ -132066,7 +132097,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=8uaD5F2KxAA"
+      "url": "https://www.youtube.com/watch?v=8uaD5F2KxAA",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 200 ( สกลนคร )"
     },
     "0ccbbe8629766286f7225206b82156cd": {
       "name": "เรื่องหลอนๆ - ตอนที่ 184",
@@ -132075,7 +132108,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=iD9FgTggqYc"
+      "url": "https://www.youtube.com/watch?v=iD9FgTggqYc",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 184"
     },
     "95329d78af334301646be89f65bda04d": {
       "name": "เรื่องหลอนๆ - ตอนที่ 182 ( อนุสาวรีย์ )",
@@ -132084,7 +132119,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=cWCvYumt7Jo"
+      "url": "https://www.youtube.com/watch?v=cWCvYumt7Jo",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 182 ( อนุสาวรีย์ )"
     },
     "eb4dd2c6064247b8d5120a54708ca212": {
       "name": "เรื่องหลอนๆ - ตอนที่ 164 ( ดินแดง )",
@@ -132093,7 +132130,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=gfMJovJF710"
+      "url": "https://www.youtube.com/watch?v=gfMJovJF710",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 164 ( ดินแดง )"
     },
     "90035c90b7bdfd31a2c14fbcab7c2a2e": {
       "name": "เรื่องหลอนๆ - ตอนที่ 161 ( ขอนแก่น )",
@@ -132102,7 +132141,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=YA2ABK7n44E"
+      "url": "https://www.youtube.com/watch?v=YA2ABK7n44E",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 161 ( ขอนแก่น )"
     },
     "fee261e6dcc40699ad06f508b2839abe": {
       "name": "เรื่องหลอนๆ - ตอนที่ 140 ( จ.อ่างทอง )",
@@ -132111,7 +132152,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=ohLQmAGRwAE"
+      "url": "https://www.youtube.com/watch?v=ohLQmAGRwAE",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 140 ( จ.อ่างทอง )"
     },
     "df2de1471d895d3863f2744d92394f81": {
       "name": "เรื่องหลอนๆ - ตอนที่ 125 ( กาฬสินธุ์ )",
@@ -132120,7 +132163,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=5XkW4e6gWEo"
+      "url": "https://www.youtube.com/watch?v=5XkW4e6gWEo",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 125 ( กาฬสินธุ์ )"
     },
     "5d72b7d18ac0fb384d9476e63b8d4eb7": {
       "name": "เรื่องหลอนๆ - ตอนที่ 78",
@@ -132129,7 +132174,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=U6Y1AZ0nYO0"
+      "url": "https://www.youtube.com/watch?v=U6Y1AZ0nYO0",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 78"
     },
     "8e0c0bdd7e395ee27140c00108f66637": {
       "name": "เรื่องหลอนๆ - ตอนที่ 71",
@@ -132138,7 +132185,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=Gw1aToVK0fE"
+      "url": "https://www.youtube.com/watch?v=Gw1aToVK0fE",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 71"
     },
     "dc63e3f3a5599a393874930ecd63dae3": {
       "name": "เรื่องหลอนๆ - ตอนที่ 67 ( ลาดพร้าว )",
@@ -132147,7 +132196,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=qzrg1jpRNUU"
+      "url": "https://www.youtube.com/watch?v=qzrg1jpRNUU",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 67 ( ลาดพร้าว )"
     },
     "38001fc1035498f37287e420714a2454": {
       "name": "เรื่องหลอนๆ - ตอนที่ 60 ( ย่าน ลาดพร้าว )",
@@ -132156,7 +132207,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=rdqMJ0NOWuc"
+      "url": "https://www.youtube.com/watch?v=rdqMJ0NOWuc",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 60 ( ย่าน ลาดพร้าว )"
     },
     "bf55abccec192797666ba83e5ae003ec": {
       "name": "เรื่องหลอนๆ - ตอนที่ 49",
@@ -132165,7 +132218,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=NCrrq9j2My4"
+      "url": "https://www.youtube.com/watch?v=NCrrq9j2My4",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 49"
     },
     "0a9d1ab2793df182199e4904eb4ec925": {
       "name": "เรื่องหลอนๆ - ตอนที่ 48",
@@ -132174,7 +132229,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=EGW59nhYW88"
+      "url": "https://www.youtube.com/watch?v=EGW59nhYW88",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 48"
     },
     "f8d3db19e8b0682e32efc9606cf4379d": {
       "name": "เรื่องหลอนๆ - ตอนที่ 47",
@@ -132183,7 +132240,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=ibQnhjjylGU"
+      "url": "https://www.youtube.com/watch?v=ibQnhjjylGU",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 47"
     },
     "cfcb2117aa05a2a5566ba15feec6901f": {
       "name": "เรื่องหลอนๆ - ตอนที่ 34",
@@ -132192,7 +132251,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=qZgDWZlBKfg"
+      "url": "https://www.youtube.com/watch?v=qZgDWZlBKfg",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 34"
     },
     "c5f959f877638ccb060c6ce3aa8a572b": {
       "name": "เรื่องหลอนๆ - ตอนที่ 14 ( โรงแรมดัง หาดใหญ่ )",
@@ -132201,7 +132262,9 @@
       "menus": [
         "series"
       ],
-      "url": "https://www.youtube.com/watch?v=FAeFL_Yb33s"
+      "url": "https://www.youtube.com/watch?v=FAeFL_Yb33s",
+      "seriesTitle": "เรื่องหลอนๆ",
+      "episode": "ตอนที่ 14 ( โรงแรมดัง หาดใหญ่ )"
     },
     "9f2d016b403202345c08080a7c025b67": {
       "name": "เรื่องหลอนๆ - ตอนที่ 277",
@@ -133474,12 +133537,21 @@
     "619b700553ecb009935c735dbc0395ae": {
       "name": "Annabelle Comes Home (2019) แอนนาเบลล์ ตุ๊กตาผีกลับบ้าน",
       "logo": "https://25-hd.com/wp-content/uploads/2026/10/ts63VdiCyjpdUNrPugvIl6HFH8M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tKgOSGe3f8qG5EqG0I82NHJmCRS.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/109867/master.m3u8"
+      "rating": "6.4 / 10",
+      "year": "2019",
+      "cast": "Mckenna Grace, แมดิสัน ไอส์แมน, Katie Sarife, Michael Cimino, Samara Lee, Vera Farmiga",
+      "overview": "เรื่องราวที่เกิดขึ้นก่อนเหตุการณ์สยองใน The Conjuring เพียงไม่นาน เมื่อตุ๊กตาเด็กสาวที่สองสามีภรรยา \"เอ็ด วอร์เรน\" และ \"ลอว์เรน วอร์เรน\" ขังเอาไว้ในห้องเก็บของลึกลับถูกวิญญานร้ายตนใหม่เข้าสิง แอนนาเบลล์ที่หลับใหลจึงถูกปลุกให้ฟื้นคืนชีพอีกครั้ง แต่คราวนี้เป้าหมายของจอมปีศาจไม่ใช่สองสามีภรรยารอว์เรน แต่กลับเป็น \"จูดี้\" ลูกสาวสุดที่รักวัย 10 ปี รวมถึงกลุ่มเพื่อนสนิทและพี่เลี้ยงของเธอ",
+      "genres": "สยองขวัญ",
+      "metadataSource": "tmdb"
     },
     "99dabc7c929fc65b2be69e8bb6b234e9": {
       "name": "Annabelle (2014) แอนนาเบลล์ ตุ๊กตาผี",
@@ -136238,13 +136310,22 @@
     },
     "43897ac728ea188682005db849e821f1": {
       "name": "AVP: Alien vs. Predator (2004) เอเลียน ปะทะ พรีเดเตอร์ สงครามชิงเจ้ามฤตยู",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/06/ySWu5bCnnmgV1cVacvFnFIhgOjp.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/2DKoPom57PVtJWcJlq7bS7JpahU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xvq1RLaiwSdHwPHe7WUhqZa1rCA.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/108203/master.m3u8"
+      "rating": "6.0 / 10",
+      "year": "2004",
+      "cast": "Sanaa Lathan, Lance Henriksen, Ian Whyte, Raoul Bova, Ewen Bremner, โคลินแซลมอน",
+      "overview": "การผจญภัยที่เหลือเชื่อและน่าสพรึงกลัวเริ่มต้นขึ้น เมื่อนักธุรกิจพันล้าน ชาร์ลส์ บิชอป เวย์แลนด์ (แลนซ์ เฮนริกสัน) รวบรวมทีมผู้เชี่ยวชาญ ในหลายสาขาจากนานาประเทศ ทั้งนักโบราณคดี นักวิทยาศาสตร์ และผู้เชี่ยวชาญด้านความปลอดภัย ซึ่งนำทีมโดย อเล็กซ่า วู้ดส์ (ซานา เลแธน) ผู้เชี่ยวชาญปัญหาสิ่งแวดล้อมและนักผจญภัย เพื่อสำรวจตรวจสอบ \"กระแสความร้อน\" ที่ผุดกระจายขึ้นมาจากห้วงลึกของทวีปแอนตาร์คติก",
+      "genres": "ผจญ, นิยายวิทยาศาสตร์, บู๊, สยองขวัญ",
+      "metadataSource": "tmdb"
     },
     "4e1bb0bd6b63d18dbeb948511349914e": {
       "name": "Voicemails for Isabelle (2026) ข้อความเสียงแด่อิซาเบล",
@@ -139463,13 +139544,20 @@
     },
     "1fa4619f047237637d1537a0490df88e": {
       "name": "Spider Fairy (2026) เซียนแมงมุม",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/02/hNYC1rb3nZV1tezpHeqsDzDBIiU.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/hNYC1rb3nZV1tezpHeqsDzDBIiU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xkBLTmRUHWMwat4UaZxnr2rM1vY.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/106569/master.m3u8"
+      "year": "2026",
+      "cast": "孫藝寧, Li Yan, 劉錫明",
+      "overview": "หลังจากบำเพ็ญเพียรมานับพันปี จูเอ๋อร์แมงมุมที่วิญญาณเย็นยะเยือกก็ได้พรจากพระพุทธเจ้าให้แปลงกายเป็นมนุษย์ ลงมายังโลกมนุษย์ในฐานะนักปราบปีศาจ เธอร่วมมือกับกานลู่ จือเฉ่า และฉางเฟิง เพื่อปราบปีศาจและปกป้องหนทางแห่งความชอบธรรม จูเอ๋อร์หลงรักกานลู่อย่างสุดซึ้ง แต่ความไม่ลงรอยกันระหว่างเส้นทางของมนุษย์และปีศาจทำให้เธอต้องทนทุกข์ทรมาน เจ้าสำนัก อู๋ซวีถูกพลังปีศาจครอบงำและพยายามยึดครองพลังบำเพ็ญเพียรของเขา จูเอ๋อร์ยอมเสียสละพลังบำเพ็ญเพียรสามพันปีทำลายปีศาจเพื่อช่วยทุกคน และในที่สุดก็รู้ว่ารักแท้ของเธอคือจือเฉ่า",
+      "metadataSource": "tmdb"
     },
     "5732594b1b399ea2435d06e31734092c": {
       "name": "Marty Supreme (2025) มาร์ตี้ สุพรีม",
@@ -140936,13 +141024,22 @@
     },
     "23004f75b7e7aec2cc8258998c665971": {
       "name": "Anaconda (1997) อนาคอนดา เลื้อยสยองโลก",
-      "logo": "https://25-hd.com/wp-content/uploads/2026/01/33NysOnLpLZY0ewHTcfpalzAsRG-scaled-1.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/33NysOnLpLZY0ewHTcfpalzAsRG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/90512/master.m3u8"
+      "rating": "5.3 / 10",
+      "year": "1999",
+      "cast": "Sue Rose, Al Mukadam, Bryn McAuley, Ruby Smith-Merovitz, Kevin Duhaney, Rob Tinkler",
+      "overview": "A unique style of cutout animation tells the story of eight-year-old Angela, her weird and wonderful friends, and her sworn enemy--snobby Nanette Manoir.",
+      "genres": "สำหรับเด็ก, แอนนิเมชั่น, ตลก",
+      "metadataSource": "tmdb"
     },
     "91197b6415b784b3fc46706ce651fe57": {
       "name": "Strange Darling (2024) รัก ลวง ฆ่า",
@@ -145502,13 +145599,22 @@
     },
     "9c4f3f89a3b43f9997c3f0210d2a6f7f": {
       "name": "Black Panther: Wakanda Forever (2022) แบล็ค แพนเธอร์ : วาคานด้าจงเจริญ",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/11/lqNKjkubShzeZ6UBXJ0wVxB55sz-scaled-6.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/lqNKjkubShzeZ6UBXJ0wVxB55sz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/83H0C66AcvkwpG2738VCTHMY9uv.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/71670/master.m3u8"
+      "rating": "7.0 / 10",
+      "year": "2022",
+      "cast": "ลิทีเชีย ไรต์, Tenoch Huerta Mejía, ลูพีตา ญองอ, ดาไน กูริรา, วินสตัน ดุ๊ก, แองเจลา บาสเซตต์",
+      "overview": "ราชินีรามอนด้า (แองเจลา บาสเซตต์) ชูรี(เลทิเทีย ไรท์) เอ็มบาคู(วินสตัน ดุ๊ก) โอโคเย (ดาไน กูริรา) และ โดรา มิลาเจ (รวมไปถึง ฟลอเรนซ์ คาซัมบา) จะต้องร่วมต่อสู้เพื่อปกป้องประเทศของพวกเขาจากการแทรกแซงทางอำนาจหลังการสวรรคตของกษัตริย์ทีชัลล่าในระหว่างที่ชาววาคานด้าพยายามอย่างหนักเพื่อที่จะก้าวต่อไป เหล่าฮีโร่จึงต้องร่วมมือกัน ด้วยความช่วยเหลือของวอร์ด็อกนาเคีย (ลูพีตา ญองอ) และ เอเวอเร็ตต์ รอสส์ (มาร์ติน ฟรีแมน) ในการสร้างเส้นทางใหม่ให้กับวานคานด้า โดยการนำ เตนอช เวร์ตา มารับบทเป็นเนมอร์ กษัตริย์แห่งอาณาจักรลับใต้ท้องทะเล",
+      "genres": "บู๊, ผจญ, นิยายวิทยาศาสตร์",
+      "metadataSource": "tmdb"
     },
     "26838b0e5576afa10f9a6e900357f088": {
       "name": "Thor: Love and Thunder (2022) ธอร์: ด้วยรักและอัสนี",
@@ -145594,13 +145700,22 @@
     },
     "d85e1cae6c1774f9c7ad45352845505e": {
       "name": "Black Panther (2018) แบล็ค แพนเธอร์",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/11/aiM5S7y4kQrZLO2UVrqdIVuqhtc-scaled-9.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/aiM5S7y4kQrZLO2UVrqdIVuqhtc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b6ZJZHUdMEFECvGiDpJjlfUWela.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/71612/master.m3u8"
+      "rating": "7.4 / 10",
+      "year": "2018",
+      "cast": "แชดวิก โบสแมน, ไมเคิล บี. จอร์แดน, ลูพีตา ญองอ, ดาไน กูริรา, มาร์ติน ฟรีแมน, แดเนียล คาลูยา",
+      "overview": "เรื่องราวต่อมา  ของกษัตริย์องค์ใหม่ต้องรับมือกับศัตรูคนใหม่และศัตรูทางการเมืองเพื่อปกป้องประเทศ Wakada ของเขาให้รอดพ้นจากสงครามโลกครั้งใหม่  โดยภาพยนตร์เรื่องนี้ได้นักแสดงผิวสีมากมายฝีมือ เช่น  Michael B. Jordan, Danai Gurira  Forest Whitaker  นอกจากนี้ยังได้นักแสดงดีกรีรางวัลออสการ์อย่าง Lupita Nyong’o มาร่วมแสดงในเรื่องนี้ด้วย",
+      "genres": "บู๊, ผจญ, นิยายวิทยาศาสตร์",
+      "metadataSource": "tmdb"
     },
     "fa140141e00f4c937b3ece85c379ea7e": {
       "name": "Thor: Ragnarok (2017) ธอร์: ศึกอวสานเทพเจ้า",
@@ -153101,13 +153216,24 @@
     },
     "56aa287bb97e3403e5a852c7fd6edfcc": {
       "name": "บึงกาฬ (2022) The Lake",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/08/y7iEPyRAvHMQstKfv4Udua4Q5gz-2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y7iEPyRAvHMQstKfv4Udua4Q5gz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dU39wa4d0hPB9Z97XpVgoakIrZ4.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
+        "all",
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/61032/master.m3u8"
+      "showOnHome": true,
+      "rating": "5.8 / 10",
+      "year": "2022",
+      "cast": "ธีรภัทร์ สัจจกุล, สุชาร์ มานะยิ่ง, Supansa Wedkama, ธนฉัตร ตุลยฉัตร, Wanmai Chatborirak, วิทยา ปานศรีงาม",
+      "overview": "หมู่บ้านแห่งหนึ่งเผชิญหน้ากับสัตว์ประหลาดลึกลับจากทะเลสาบ คนในหมู่บ้านจึงต้องร่วมมือร่วมใจปกป้องบ้านเกิด กระทั่งพวกเขาค้นพบว่าความเลวร้ายไม่ได้มีเพียงแค่สัตว์สยอง The Lake บึงกาฬ ผลงานระทึกจากฝีมือผู้กำกับ 'ลี ทองคำ' (The Maid สาวลับใช้) คนจังหวัดบึงกาฬที่อยากทำหนังสะท้อนปัญหาสิ่งแวดล้อมในบ้านเกิด กระทั่งพัฒนาเป็นหนังสัตว์ประหลาด \"สัตว์ประหลาดเหมือนเป็นสัญลักษณ์แทนขยะ ที่จะทำให้คนรู้สึกกลัว\" ลี กล่าว 'จอร์ดู เชลล์' นักออกแบบจากหนังดัง Avatar (2009) และ Cloverfield (2008) รับหน้าที่ออกแบบสิ่งมีชีวิตชวนสยอง ซึ่งผสมผสานทั้งปลาดุก จระเข้ และงูเข้าไว้ด้วยกัน หนังนำแสดงโดย 'สุชาร์ มานะยิ่ง' (The Couple รัก ลวง หลอน) , 'วิทยา ปานศรีงาม' (Only God Forgives) , 'ธีรภัทร์ สัจจกุล' (แฟนเดย์..แฟนกันแค่วันเดียว) , และ 'สุพรรณษา เวชกามา' aka 'ลำไย ไหทองคำ'",
+      "genres": "สยองขวัญ, นิยายวิทยาศาสตร์, ระทึกขวัญ",
+      "metadataSource": "tmdb"
     },
     "a272f6865d971b5d31943c17ba347e10": {
       "name": "The Humanity Bureau (2017)",
@@ -156014,43 +156140,79 @@
     },
     "27b92a93a59ef985301263ecfc6c8fd5": {
       "name": "The Death of Superman (2018) ความตายของซูเปอร์แมน",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/07/y0uxSHaSFmt6XaBJgjkeLqe7aM-3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/y0uxSHaSFmt6XaBJgjkeLqe7aM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dSD9aSZtgFthuMQ78GD1QOQf54V.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/60406/master.m3u8"
+      "rating": "7.5 / 10",
+      "year": "2019",
+      "cast": "เจอร์รี่ โอคอนเนลล์, Rebecca Romijn, Rainn Wilson, Rosario Dawson, นาธาน ฟิลเลียน, Christopher Gorham",
+      "overview": "การ์ตูนแอนิเมชั่นผลงานจากค่าย DC เรื่องใหม่เป็นภาค Remake ของ The Death of Superman เวอร์ชั่นเก่า แต่ในภาคนี้จะอยู่ในจักรวาลเดียวกับจักรวาลปัจจุบัน Justice League war เป็นการต่อสู้ของซุปเปอร์แมนกับเหล่าร้ายที่ต้องการทำลายเขา",
+      "genres": "นิยายวิทยาศาสตร์, แอนนิเมชั่น, บู๊, หนังชีวิต, ผจญ",
+      "metadataSource": "tmdb"
     },
     "1989a7819e0842f06f7ee35bc844a367": {
       "name": "The Death and Return of Superman (2019) ซูเปอร์แมน ศึกอวสานกำเนิดใหม่บุรุษเหล็ก",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/07/qdEhhPYsfIeWSNTfzHShHOkDfDD-scaled-4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7bf0HqO64dbzGKpK8sKJJDnv3TE.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/60404/master.m3u8"
+      "rating": "6.7 / 10",
+      "year": "2019",
+      "cast": "เจอร์รี่ โอคอนเนลล์, Rebecca Romijn, Rainn Wilson, Rosario Dawson, Jason O'Mara, นาธาน ฟิลเลียน",
+      "overview": "The Death of Superman และ Reign of the Supermen นำเสนอในรูปแบบภาพยนตร์แอนิเมชั่นความยาวกว่า 2 ชั่วโมงที่ต่อเนื่องและต่อเนื่อง พบกับการต่อสู้ที่ไร้การยั้งมือระหว่าง Justice League และกองกำลังต่างดาวที่ไม่มีใครหยุดยั้งได้ซึ่งรู้จักกันในชื่อ Doomsday การต่อสู้ที่ซูเปอร์แมนเท่านั้นที่จะเอาชนะได้และจะเปลี่ยนแปลงภาพลักษณ์ของเมืองเมโทรโพลิสไปตลอดกาล",
+      "genres": "นิยายวิทยาศาสตร์, ผจญ, แอนนิเมชั่น, บู๊, หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "00fa674d411986fa4f6a8f47d77aa79a": {
       "name": "Superman: Red Son (2020) บุรุษเหล็ก เผด็จการ",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/07/sRH6tMIvwkTvNrwsgBKIWVte98M-3.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/sRH6tMIvwkTvNrwsgBKIWVte98M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uehwVV9xuALZ2SXeHGiX4Ay5dR7.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/60402/master.m3u8"
+      "rating": "7.0 / 10",
+      "year": "2020",
+      "cast": "เจสัน ไอแซ็กส์, Amy Acker, ไดดริช เบเดอร์, Vanessa Marshall, Phil Morris, Paul Williams",
+      "overview": "โลกต้องเผชิญกับภัยคุกคามครั้งยิ่งใหญ่.....เมื่อซูเปอร์แมนไม่ได้เป็นฮีโร่ของทางฝั่งอเมริกา แต่มาจาก…สหภาพโซเวียต!เมื่อบุตรแห่งคริปตอนถูกเลี้ยงและเติบโตในดินแดนหลังม่านเหล็ก และด้วยพลังมหาศาลไร้ขีดจำกัด และเป็นตัวแทนของระบอบเผด็จการ สงครามเย็นที่ห้ำหั่นกันระหว่างโลกเสรีและโลกคอมมิวนิสต์ จะไม่มีวันเหมือนเดิมอีกต่อไป",
+      "genres": "นิยายวิทยาศาสตร์, แอนนิเมชั่น, บู๊",
+      "metadataSource": "tmdb"
     },
     "2ab194e48660e9eb6e2b0fd2d7a6750b": {
       "name": "Superman: Man of Tomorrow (2020) ซูเปอร์แมน บุรุษเหล็กแห่งอนาคต",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/07/n9GtiJiBETVFayQy7YnVdF9AucU-scaled-4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/n9GtiJiBETVFayQy7YnVdF9AucU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bazlsLkNuhy3IuhviepqvlMm2hV.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/60400/master.m3u8"
+      "rating": "7.0 / 10",
+      "year": "2020",
+      "cast": "Darren Criss, Zachary Quinto, Ryan Hurst, Ike Amadi, Alexandra Daddario, Eugene Byrd",
+      "overview": "It’s the dawn of a new age of heroes, and Metropolis has just met its first. But as Daily Planet intern Clark Kent – working alongside reporter Lois Lane – secretly wields his alien powers of flight, super-strength and x-ray vision in the battle for good, there’s even greater trouble on the horizon.",
+      "genres": "แอนนิเมชั่น, บู๊, นิยายวิทยาศาสตร์",
+      "metadataSource": "tmdb"
     },
     "bb4cb356c19c26d2ba7db4888c497598": {
       "name": "September Says (2025)",
@@ -156138,13 +156300,22 @@
     },
     "6df52fdfa8959c7575cd0848ea35c599": {
       "name": "Batman v Superman: Dawn of Justice (2016) แบทแมน ปะทะ ซูเปอร์แมน แสงอรุณแห่งยุติธรรม",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/07/wYhdEBkHY78F7ETVmBtu5K7xnnX-scaled-4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/wYhdEBkHY78F7ETVmBtu5K7xnnX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5fX1oSGuYdKgwWmUTAN5MNSQGzr.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/60378/master.m3u8"
+      "rating": "6.0 / 10",
+      "year": "2016",
+      "cast": "เบน แอฟเฟล็ก, เฮนรี แควิลล์, เจสซี ไอเซนเบิร์ก, กัล กาด็อต, เอมี แอดัมส์, ไดแอน เลน",
+      "overview": "ด้วยความกลัวต่อการกระทำของซูเปอร์ฮีโร่ที่ทำตัวเหมือนพระเจ้า \"แบทแมน\" ผู้ปกครองเมืองก็อธแธมอันน่าเกรงขามและศาลเตี้ยผู้มีพละกำลัง จึงได้เข้าต่อสู้กับ \"ซูเปอร์แมน\" ผู้ที่ช่วยเหลือนครเมโทรโปลิสเอาไว้ ในขณะที่คนทั้งโลกกำลังหารือกันเกี่ยวกับซูเปอร์ฮีโร่ ว่าจริง ๆ แล้วพวกเขาเป็นที่ต้องการหรือไม่ แบทแมนและซูเปอร์แมนก็ต้องเจอกับภัยคุกคามตัวใหม่ที่โผล่ออกมาอย่างรวดเร็ว ทำให้มนุษยชาติต้องตกอยู่ในอันตรายมากกว่าที่พวกเขาเคยเจอมา",
+      "genres": "บู๊, ผจญ, จินตนาการ",
+      "metadataSource": "tmdb"
     },
     "b2f8188744d8b4144a791ef0b1987e48": {
       "name": "Z-O-M-B-I-E-S 4: Dawn of the Vampires (2025)",
@@ -156865,9 +157036,22 @@
     },
     "15d2ed95ba641ce4adcc381ab89e5793": {
       "name": "Along Came a Spider (2001) ฝ่าแผนนรก ซ้อนนรก",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/07/svXTe3qxlV4oqAe0NoUN1rMXKB7-scaled-2.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/1YtsND7vSNymylnOSzgg3DdVFMB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5C6njaciKvyZlKWUrQX7mjdl4D1.jpg",
       "group": "หนังใหม่ 2006",
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/60180/master.m3u8"
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
+      "menu": "movies",
+      "menus": [
+        "movies"
+      ],
+      "rating": "6.4 / 10",
+      "year": "2001",
+      "cast": "มอร์แกน ฟรีแมน, Monica Potter, Michael Wincott, ดีแลน เบเกอร์, Mika Boorem, แอนทอน เยลชิน",
+      "overview": "อเล็กซ์ ครอส ตำรวจนักสืบต้องเล่นเมกับแกรี่ คนร้ายลักพาตัวลูกสาววุฒิสมาชิกที่ลงมืออย่างอาจหาญและ.หลอกล่อให้อเล็กซ์ เข้ามาจัดการคดีนี้ จุดประสงค์ที่แกรี่ต้องการไม่ใช่เงินค่าไถ่แต่ต้องการสร้างเหตุการณ์ให้เป็นข่าวไปอีกนาน ด้วยแผนที่วางมาอย่างละเอียดและ.มีเงื่อนงำโยงใย อเล็กซ์ จึงต้องร่วมมือกับเจ้าหน้าที่ลับเจสซี่ ในการหยุดยั้งแกรี่ให้ได้ ทว่ายิ่งล้วงลึกถึงแก่นแท้ของแผนนรกนี้ อเล็กซ์พบว่ามีบางสิ่งที่น่าเคลือบแคลงซ่อนอยู่",
+      "genres": "อาชญากรรม, ลึกลับ, ระทึกขวัญ, บู๊",
+      "metadataSource": "tmdb"
     },
     "1418bf867699799e014af9653b23ced0": {
       "name": "Bad Samaritan (2018)",
@@ -160404,13 +160588,22 @@
     },
     "b2947e25cf790129b5e4caa3825f9e6d": {
       "name": "Bad Boys II (2003) คู่หูขวางนรก 2",
-      "logo": "https://25-hd.com/wp-content/uploads/2025/06/gjGpv1AbQfaZpKCIGzv2BFNpD47-scaled-4.jpg",
+      "logo": "https://image.tmdb.org/t/p/w500/gjGpv1AbQfaZpKCIGzv2BFNpD47.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gxSVZCUlDd8upT1G2wdrUdz2hxG.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/59416/master.m3u8"
+      "rating": "6.7 / 10",
+      "year": "2003",
+      "cast": "Martin Lawrence, Will Smith, Jordi Mollà, Gabrielle Union, Peter Stormare, Theresa Randle",
+      "overview": "ในการผจญภัยครั้งใหม่นี้นักสืบยาเสพติดไมอามี Mike Lowrey (Will Smith) และ Marcus Burnett (Martin Lawrence) ได้รับมอบหมายให้เป็นส่วนหนึ่งของทีมเทคโนโลยีชั้นสูงที่พยายามเปิดเผยการออกแบบ Ecstasy ในไมอามี่ แต่พวกเขาค้นพบการสมรู้ร่วมคิดอย่างร้ายแรงโดยไม่รู้ตัวเกี่ยวกับลอร์ดยาเสพติดที่โหดร้าย Johnny Tapia (Jordi Mollà) ซึ่งมุ่งมั่นที่จะขยายอาณาจักรของเขาและเข้าควบคุมธุรกิจยาเสพติดในเมืองโดยการฆ่าใครก็ตามที่เข้ามาในทางของเขา เพื่อทำให้เรื่องเลวร้ายลงน้องสาวแสนสวยของมาร์คัสซิด (กาเบรียลยูเนี่ยน) ตัวแทนสายลับ DEA ติดอยู่ในภวังค์เพื่อบังคับให้ฮีโร่ของเราวางตัวบนขอบของกฎหมาย ทุกอย่างซับซ้อนยิ่งขึ้นเมื่อคิวปิดเริ่มบินข้ามไมค์กับซิดกระตุ้นความโกรธเกรี้ยวของพี่ชายผู้พิทักษ์",
+      "genres": "บู๊, อาชญากรรม, ตลก",
+      "metadataSource": "tmdb"
     },
     "2d0fd3601c5d746551763f2b36f8676e": {
       "name": "Bad Boys (1995) คู่หูขวางนรก",
@@ -215550,12 +215743,21 @@
     "07aca564232168ed271debf75bb3e967": {
       "name": "Superman: Red Son (2020)",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/frSfz7olCSQsp2SmTyu2ciGGQiX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uehwVV9xuALZ2SXeHGiX4Ay5dR7.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
+      "groups": [
+        "หนัง_:ซีรี่ต่างประเทศ"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/movie/1741762708954368/c813d9bf2dc8/55582.mkv"
+      "rating": "7.0 / 10",
+      "year": "2020",
+      "cast": "เจสัน ไอแซ็กส์, Amy Acker, ไดดริช เบเดอร์, Vanessa Marshall, Phil Morris, Paul Williams",
+      "overview": "โลกต้องเผชิญกับภัยคุกคามครั้งยิ่งใหญ่.....เมื่อซูเปอร์แมนไม่ได้เป็นฮีโร่ของทางฝั่งอเมริกา แต่มาจาก…สหภาพโซเวียต!เมื่อบุตรแห่งคริปตอนถูกเลี้ยงและเติบโตในดินแดนหลังม่านเหล็ก และด้วยพลังมหาศาลไร้ขีดจำกัด และเป็นตัวแทนของระบอบเผด็จการ สงครามเย็นที่ห้ำหั่นกันระหว่างโลกเสรีและโลกคอมมิวนิสต์ จะไม่มีวันเหมือนเดิมอีกต่อไป",
+      "genres": "นิยายวิทยาศาสตร์, แอนนิเมชั่น, บู๊",
+      "metadataSource": "tmdb"
     },
     "aa859d2b6ca7a3d0e9624fb65da2409b": {
       "name": "Swallow (2020)",
@@ -236665,334 +236867,452 @@
       "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38449.mp4"
     },
     "dc332bb667650e5a1cb9c7412f93ff22": {
-      "name": "Spartacus S01 E01",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qI6Jqj0DFhcRef3sw0BMpbiD6Su.jpg",
+      "name": "Spartacus - S01 E01",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38450.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38450.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E01"
     },
     "fe885de51e74168434adf329ddfc42f0": {
-      "name": "Spartacus S01 E02",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDWc5kb5ltRQMAm7b9Ulgek1o0V.jpg",
+      "name": "Spartacus - S01 E02",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38451.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38451.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E02"
     },
     "28e558c11801e3899552cd749a9647a6": {
-      "name": "Spartacus S01 E03",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMi8eH99uaUc1nVf0zpPMchtKvX.jpg",
+      "name": "Spartacus - S01 E03",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38452.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38452.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E03"
     },
     "ea966ffa7a9b2d992625e6805601e9b9": {
-      "name": "Spartacus S01 E04",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jetqjzZJrHTnjxgvJ2wGq4No3i2.jpg",
+      "name": "Spartacus - S01 E04",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38453.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38453.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E04"
     },
     "4f15514ce3e4123bc655354bdc391436": {
-      "name": "Spartacus S01 E05",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhDXK5PhvhqC4ddvzfyOvVVpEZg.jpg",
+      "name": "Spartacus - S01 E05",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38454.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38454.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E05"
     },
     "79a293ad3e4c1246b1dd6d91e5b4481d": {
-      "name": "Spartacus S01 E06",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6ccekuLquQiSByYSfhV3D5bGBB.jpg",
+      "name": "Spartacus - S01 E06",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38455.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38455.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E06"
     },
     "dc94bb137c8d9c1945ab40bfc443acd3": {
-      "name": "Spartacus S01 E07",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1529LeRk5O5UnTnAoRdzhSfqWpd.jpg",
+      "name": "Spartacus - S01 E07",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38456.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38456.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E07"
     },
     "138470b59d656a6a5cd3712346b83a8d": {
-      "name": "Spartacus S01 E08",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWvNIwn25ykxoud3TkqqEFiMqaE.jpg",
+      "name": "Spartacus - S01 E08",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38457.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38457.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E08"
     },
     "2a5faca75cc22771b77861ad15aa3578": {
-      "name": "Spartacus S01 E09",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zCzGx5NUhGnNwnyVUjBxEYgIB3.jpg",
+      "name": "Spartacus - S01 E09",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38458.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38458.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E09"
     },
     "24dd44011bd64c9d0c05544cb4b43d42": {
-      "name": "Spartacus S01 E10",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xNTLU8s8ZW8KIP1cAHbCuL8CxJV.jpg",
+      "name": "Spartacus - S01 E10",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38459.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38459.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E10"
     },
     "2ede98ab0814e18a316568cd1f20a351": {
-      "name": "Spartacus S01 E11",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMeiLwSxbuUTNBlUKRxIdlydOUK.jpg",
+      "name": "Spartacus - S01 E11",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38460.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38460.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E11"
     },
     "6d5deadaf6cfb28e7a48a29321b21fcf": {
-      "name": "Spartacus S01 E12",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oJiP0fmxT4FoTxnkGQUUvZX9CYe.jpg",
+      "name": "Spartacus - S01 E12",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38461.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38461.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E12"
     },
     "6f03df49a333ca5134d72f3be0fe3b7a": {
-      "name": "Spartacus S01 E13",
-      "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bx70Pngw8zXgTNeAe8vvwVIwDkK.jpg",
+      "name": "Spartacus - S01 E13",
+      "logo": "https://image.tmdb.org/t/p/w500/c2GKN4VHCj1dnjFMANRpGkCVBae.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zbfXS4o6UykeXsD8djFTyV7Cj4N.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38462.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38462.mp4",
+      "rating": "8 / 10",
+      "cast": "Liam McIntyre, Manu Bennett, Dustin Clare, ซินเธีย แอดได-โรบินสัน, Jaime Murray, Ellen Hollman",
+      "overview": "จากทาสอันต่ำต้อยสู่ขุนศึกผู้เกรียงไกร \"สปาตาคัส\" นักสู้ที่โดดเด่นและได้รับการกล่าวขานมากที่สุดของยุคโรมัน\n\nเมื่อหญิงผู้เป็นที่รัก ซูร่า ได้ถูกพรากชีวิตไปจากเขา ซ้ำยังถูกบังคับไปเป็นทาสและต้องต่อสู้ในสนามประลองอันดุเดือด เมื่อความตายอันน่าสยดสยองนั้น กลับกลายเป็นความบันเทิงของชาวโรมันและการต่อสู้ ไม่ได้เกิดเพียงในสนามประลองเท่านั้น สปาตาคัสจำเป็นต้องใช้เล่ห์กล อุบายต่างๆ เพื่อเอาชีวิตรอดในโลกแห่งการฉ้อฉลและความรุนแรง แต่ด้วยความรักที่จะทำให้เขาแข็งแกร่งและเอาชนะทุกสิ่งที่เป็นอุปสรรคกีดขวาง รวมไปถึงเรื่องราวแห่งความตาย เกียรติยศ และความอดทนนี้ได้",
+      "seriesTitle": "Spartacus",
+      "episode": "S01 E13"
     },
     "2eb0ad7417e153a3f9be457b0bcfc649": {
-      "name": "Spartacus S02 E01",
+      "name": "Spartacus S02 - E01",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwdciQFqiNXMGZwKTOHqWecHC4I.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38463.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38463.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E01"
     },
     "ac4c67d752b227831c1093af773daa56": {
-      "name": "Spartacus S02 E02",
+      "name": "Spartacus S02 - E02",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4iMsaTxJ5BJwAkHDnP9jgkPUtf.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38464.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38464.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E02"
     },
     "6683044d28bbafa3b2d992fcc71b9892": {
-      "name": "Spartacus S02 E03",
+      "name": "Spartacus S02 - E03",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3saqcNvbdUMvRUQlpmXGB594brw.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38465.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38465.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E03"
     },
     "2e30e0e6e7fb8f8a4df0c26359cc76c9": {
-      "name": "Spartacus S02 E04",
+      "name": "Spartacus S02 - E04",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wHCbTIs4vCOCFnOyWOSCUG80K6n.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38466.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38466.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E04"
     },
     "746d4b5a4b9a9fb3512c41b93cc6647a": {
-      "name": "Spartacus S02 E05",
+      "name": "Spartacus S02 - E05",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8FVekfm2fLrdp0eWUAT47zISpJ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38467.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38467.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E05"
     },
     "aaf44f23585ac19fc13c51237b71fbb4": {
-      "name": "Spartacus S02 E06",
+      "name": "Spartacus S02 - E06",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gOGygBNahZPtKrO3d3uE4Uu83L3.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38468.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38468.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E06"
     },
     "41edfd4fcaa8802c39c9d8aae1a8af25": {
-      "name": "Spartacus S02 E07",
+      "name": "Spartacus S02 - E07",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xq3h4ywxJW56i26KGDXU9jH1WPK.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38469.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38469.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E07"
     },
     "2071f8ca4efd55ee38d8661cf58571b6": {
-      "name": "Spartacus S02 E08",
+      "name": "Spartacus S02 - E08",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ryfOXC3UD7AQvWSwUPcfcFDSmKj.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38470.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38470.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E08"
     },
     "3df416e034ddfe039df84eb0e4fe09c7": {
-      "name": "Spartacus S02 E09",
+      "name": "Spartacus S02 - E09",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/puHV4bLKRJGYkV7pIcpUIVRL1rr.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38471.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38471.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E09"
     },
     "62e1010333211dde5d43f3adfbb0691c": {
-      "name": "Spartacus S02 E10",
+      "name": "Spartacus S02 - E10",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d10gKe13Qa8S0Crb5eiLkjf51y.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38472.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38472.mp4",
+      "seriesTitle": "Spartacus S02",
+      "episode": "E10"
     },
     "4e8bd6b3ee0cbdb9186f50d16e3a498e": {
-      "name": "Spartacus S03 E01",
+      "name": "Spartacus S03 - E01",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFldsoStZiSbGjRISDCOKEaFFZT.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38473.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38473.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E01"
     },
     "c16348b5501c0a703aef41565f5b6908": {
-      "name": "Spartacus S03 E02",
+      "name": "Spartacus S03 - E02",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/it6pCPKeK9o9yBPGd7QkfOzukQp.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38474.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38474.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E02"
     },
     "0b2c3d953f928e4ec9875a60354937cd": {
-      "name": "Spartacus S03 E03",
+      "name": "Spartacus S03 - E03",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/cniAEdSRUkqRpp6wjX9OMuL0jIA.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38475.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38475.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E03"
     },
     "6d12a52df71e54562143ca683216997f": {
-      "name": "Spartacus S03 E04",
+      "name": "Spartacus S03 - E04",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybH9I8v69ReC2OkzTXATB7rZkOm.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38476.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38476.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E04"
     },
     "0269d360c1570b814f3fbecb01795b93": {
-      "name": "Spartacus S03 E05",
+      "name": "Spartacus S03 - E05",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIPaHWfRTw3Ycy022DklnLfNRL9.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38477.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38477.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E05"
     },
     "02c3a75ca6099ef4b526c1745ea4382c": {
-      "name": "Spartacus S03 E06",
+      "name": "Spartacus S03 - E06",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsUab7MNf79d4tei1H3JJOQ2mQS.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38478.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38478.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E06"
     },
     "8c88e5c3038df0781dab2cd1ef583cf4": {
-      "name": "Spartacus S03 E07",
+      "name": "Spartacus S03 - E07",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D5QLJx4F61EowvN190epumT3AX.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38479.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38479.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E07"
     },
     "b54b07f17fe849d4a61a601a8be4ef73": {
-      "name": "Spartacus S03 E08",
+      "name": "Spartacus S03 - E08",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqZ5nzDUXtmcITi3PRNMRnzUmmK.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38480.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38480.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E08"
     },
     "21559c049d3cc4b43af5af2f411354e8": {
-      "name": "Spartacus S03 E09",
+      "name": "Spartacus S03 - E09",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sMS1OjzjcoVHSzkR9tu4GSGmZxa.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38481.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38481.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E09"
     },
     "366b280b5ce30db3b651875b50a1bc99": {
-      "name": "Spartacus S03 E10",
+      "name": "Spartacus S03 - E10",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tBsDtEqR65oII9TTGEsOD2lGNng.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38482.mp4"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/38482.mp4",
+      "seriesTitle": "Spartacus S03",
+      "episode": "E10"
     },
     "3b519ca420c65108433dd0f9a82649a2": {
       "name": "L: Generación Q S01 E01",
@@ -265505,340 +265825,452 @@
       "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42540.mkv"
     },
     "58f7de2c5642ebb225e74f1b742e5592": {
-      "name": "12 Monkeys S01 E01",
+      "name": "12 Monkeys - S01 E01",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7U32I9XSreE4M2HeLgR12c6wwNU.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42516.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42516.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E01"
     },
     "ae3bdec366eb4d19709cae2eb2ebd379": {
-      "name": "12 Monkeys S01 E02",
+      "name": "12 Monkeys - S01 E02",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzdMVcHUEiRaocQIWXFb8A4mHvJ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42517.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42517.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E02"
     },
     "93045c1ae1627b0d667c89e58bca016f": {
-      "name": "12 Monkeys S01 E03",
+      "name": "12 Monkeys - S01 E03",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zX0zUgsyUfNU14gVvBBNd3ARMk9.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42518.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42518.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E03"
     },
     "92f65c1957514853cbf78c714bd3c4a9": {
-      "name": "12 Monkeys S01 E04",
+      "name": "12 Monkeys - S01 E04",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylj8XICR49WxcEPm9wZxl6mzbMt.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42519.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42519.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E04"
     },
     "7f15b03d6b08a54b05d6937d6b7855d0": {
-      "name": "12 Monkeys S01 E05",
+      "name": "12 Monkeys - S01 E05",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dy7YfgNUv3tZREfujQ7QGqk7dAU.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42520.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42520.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E05"
     },
     "fee168e8754cf8fa757700a94d8af478": {
-      "name": "12 Monkeys S01 E06",
+      "name": "12 Monkeys - S01 E06",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKgFU0ksyeVxE1wPyCA97Sw1EYE.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42521.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42521.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E06"
     },
     "55668f50236d4b17b6b868225c5fe655": {
-      "name": "12 Monkeys S01 E07",
+      "name": "12 Monkeys - S01 E07",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PTGBGsNVQ3TGel0EMDBIKnCDMV.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42522.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42522.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E07"
     },
     "37a6558e401288ae8c2b5df8f1c924ce": {
-      "name": "12 Monkeys S01 E08",
+      "name": "12 Monkeys - S01 E08",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrnLvDXLbu5qWPxifHDLsptmpGM.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42524.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42524.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E08"
     },
     "ccdadda4b67f00f5b67dcaaefc41a744": {
-      "name": "12 Monkeys S01 E09",
+      "name": "12 Monkeys - S01 E09",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/96BgywamaFP4AeJ8vU5LHJmw2oT.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42525.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42525.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E09"
     },
     "871048e5793ca2a29619e7512a8952bf": {
-      "name": "12 Monkeys S01 E10",
+      "name": "12 Monkeys - S01 E10",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ahm5hhJFpnEVxEC8SHB3zjwthGC.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42527.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42527.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E10"
     },
     "b6d460f9790a3a983827570256f0f2f7": {
-      "name": "12 Monkeys S01 E11",
+      "name": "12 Monkeys - S01 E11",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNyJfwoIkVp7IskN2Qm79TQoldx.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42529.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42529.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E11"
     },
     "7db8b94b18900c618d1d92981018fac5": {
-      "name": "12 Monkeys S01 E12",
+      "name": "12 Monkeys - S01 E12",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VE6f35PuP0x1RpJQpFq88CKfC9.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42532.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42532.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E12"
     },
     "6d89b8f001e8bd82d2ab374f3553c362": {
-      "name": "12 Monkeys S01 E13",
+      "name": "12 Monkeys - S01 E13",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7hdGbip5uIn4Ml8OirOsC67Gyx.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42534.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42534.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S01 E13"
     },
     "12dc381687489dcd3c557c1449cd1b86": {
-      "name": "12 Monkeys S02 E01",
+      "name": "12 Monkeys - S02 E01",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/latsZHeL5bAyKOkUQpjvGCUdWtV.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42557.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42557.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E01"
     },
     "5a890e76b44b4f9421fcd7205d0878dd": {
-      "name": "12 Monkeys S02 E02",
+      "name": "12 Monkeys - S02 E02",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxTz6SQTyegtrTu4quDcLwFvHiy.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42558.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42558.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E02"
     },
     "efeeb5efd3ff00ab69c164ab45f828d2": {
-      "name": "12 Monkeys S02 E03",
+      "name": "12 Monkeys - S02 E03",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8prMD2MqQyY4sOUJ039ELbqAvB.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42559.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42559.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E03"
     },
     "b52ffe9a5175d4c014583359ccc4fd3c": {
-      "name": "12 Monkeys S02 E04",
+      "name": "12 Monkeys - S02 E04",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/49rlGC85JAcbsrRqWqb4SBAACEM.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42560.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42560.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E04"
     },
     "b234cf04db8fcab58ad2cf1db926064c": {
-      "name": "12 Monkeys S02 E05",
+      "name": "12 Monkeys - S02 E05",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuJW6cTDljrec1GXHHGZLSMFeUp.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42561.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42561.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E05"
     },
     "9d6235f1758c377d23b203d04cc98887": {
-      "name": "12 Monkeys S02 E06",
+      "name": "12 Monkeys - S02 E06",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Bzv4xBH6EjfSVg5adaJCOtw0ne.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42562.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42562.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E06"
     },
     "ff70cf32703257fdb7baa5d9666f766b": {
-      "name": "12 Monkeys S02 E07",
+      "name": "12 Monkeys - S02 E07",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3ojvMIojv9Q4C28pc24MWa1Rmr.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42563.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42563.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E07"
     },
     "52a80b3445f04dfc48d4cde10fef97f8": {
-      "name": "12 Monkeys S02 E08",
+      "name": "12 Monkeys - S02 E08",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3XO8VlOESCtJmtdxebRQ4nzNmqZ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42564.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42564.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E08"
     },
     "ef16cde481a2247762e3e8be86ce93a4": {
-      "name": "12 Monkeys S02 E09",
+      "name": "12 Monkeys - S02 E09",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jsNlVP3xslU4C187xgku4wM0FX.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42565.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42565.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E09"
     },
     "c11b101262a7596035e35483b5060201": {
-      "name": "12 Monkeys S02 E10",
+      "name": "12 Monkeys - S02 E10",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9H0gYaUa1pnChdjWouYUwUFzWh.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42566.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42566.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E10"
     },
     "8268368deeefbe6fe8dd4d8cace3ac36": {
-      "name": "12 Monkeys S02 E11",
+      "name": "12 Monkeys - S02 E11",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6bmIJ1ONFjKEnE3yAb75c6iazgV.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42567.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42567.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E11"
     },
     "252b6920ffc934d8021080be67997a4b": {
-      "name": "12 Monkeys S02 E12",
+      "name": "12 Monkeys - S02 E12",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwiV84vOzUOlCt8a101A2ItNBvD.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42568.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42568.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E12"
     },
     "862f20268adc1b2f0c005027d8f83097": {
-      "name": "12 Monkeys S02 E13",
+      "name": "12 Monkeys - S02 E13",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1yM4CaB35JCTHsEEGPnz00YgY64.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42569.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42569.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S02 E13"
     },
     "c2c662b9dd13fd061a9dc6ffc4a44355": {
-      "name": "12 Monkeys S03 E01",
+      "name": "12 Monkeys - S03 E01",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Yk8doc8P4QS6wF0nPblRZ9twAh.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42588.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42588.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E01"
     },
     "c0dd3262dcf1b337b80225de69237454": {
-      "name": "12 Monkeys S03 E02",
+      "name": "12 Monkeys - S03 E02",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hvuWOWGkivvedkCgglOMGfF7yUX.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42589.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42589.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E02"
     },
     "ef8aaf602127c7de3e8cb61245be8006": {
-      "name": "12 Monkeys S03 E03",
+      "name": "12 Monkeys - S03 E03",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWt0DVtCr8I2d9wBP5XS8YmL7TZ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42590.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42590.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E03"
     },
     "fd70bf3a257859f99996a922b6de5391": {
-      "name": "12 Monkeys S03 E04",
+      "name": "12 Monkeys - S03 E04",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vSAA2IFaKt7VoPd0cSkcwqVHGhz.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42591.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42591.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E04"
     },
     "48a7da9c54ab13685102bc8d8cbd377c": {
-      "name": "12 Monkeys S03 E05",
+      "name": "12 Monkeys - S03 E05",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7xJuLwj8beKZFJwdniDReSalac.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42592.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42592.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E05"
     },
     "2d4b5ac19a21d6ffe9d6ff3e30b99626": {
-      "name": "12 Monkeys S03 E06",
+      "name": "12 Monkeys - S03 E06",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/74ENWf6Mgg7iNklFKK3qq7V0umm.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42593.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42593.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E06"
     },
     "73a6cafca955c739e7848fece026ad45": {
-      "name": "12 Monkeys S03 E07",
+      "name": "12 Monkeys - S03 E07",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQAlbCZ4yZsiaEFMF9RE3smzbzg.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42594.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42594.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E07"
     },
     "3a3365e4fb3593acaf01c5552b7233e1": {
-      "name": "12 Monkeys S03 E08",
+      "name": "12 Monkeys - S03 E08",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zi0rqrlWPMAX7YqxZigv3itel8h.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42595.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42595.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E08"
     },
     "e45f5b195ef1769a2ddbe64081fd9b1d": {
-      "name": "12 Monkeys S03 E09",
+      "name": "12 Monkeys - S03 E09",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tZlnKPvvBeDPOfUkva5ndO9oirn.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42596.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42596.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E09"
     },
     "d234cc9708dc3417bbc57c434c5cd145": {
-      "name": "12 Monkeys S03 E10",
+      "name": "12 Monkeys - S03 E10",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSulfM7hKmjdtNeEZKSpf5e4ssG.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42597.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42597.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S03 E10"
     },
     "52731899ec6bd3d1e57bf6231bd3e889": {
-      "name": "12 Monkeys S04 E01",
+      "name": "12 Monkeys - S04 E01",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r60TGZZ4lhFjmVwvD15Mqw5xAMQ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42608.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42608.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E01"
     },
     "6002189f0aa53a3310c978b96004c1b5": {
-      "name": "12 Monkeys S04 E02",
+      "name": "12 Monkeys - S04 E02",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r60TGZZ4lhFjmVwvD15Mqw5xAMQ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42628.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42628.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E02"
     },
     "8b35b0b6c08ff4b09641e7a70b27b14e": {
-      "name": "12 Monkeys S04 E03",
+      "name": "12 Monkeys - S04 E03",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXOO6jTY5L1Eh0zp5tSQnyOP5dz.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42609.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42609.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E03"
     },
     "883d73ee1a2f7f3c63c447ad660b726e": {
-      "name": "12 Monkeys S04 E04",
+      "name": "12 Monkeys - S04 E04",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXOO6jTY5L1Eh0zp5tSQnyOP5dz.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42629.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42629.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E04"
     },
     "11541d994b4f8604d152437b0e0c6c09": {
-      "name": "12 Monkeys S04 E05",
+      "name": "12 Monkeys - S04 E05",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZbgXVQhRMqki2EsUM61bhrZFC0.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42610.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42610.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E05"
     },
     "31c39032ba83ae2c3e89b2e57965884f": {
-      "name": "12 Monkeys S04 E06",
+      "name": "12 Monkeys - S04 E06",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZbgXVQhRMqki2EsUM61bhrZFC0.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42630.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42630.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E06"
     },
     "cae168de30b7deef0f52fadb4460a06a": {
-      "name": "12 Monkeys S04 E07",
+      "name": "12 Monkeys - S04 E07",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUpyBhupOM0WrR17GdI2t7IGuqr.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42631.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42631.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E07"
     },
     "7327e9bfdb0d3069b5c40201208fa54d": {
-      "name": "12 Monkeys S04 E08",
+      "name": "12 Monkeys - S04 E08",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xUpyBhupOM0WrR17GdI2t7IGuqr.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42611.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42611.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E08"
     },
     "c2e6d89f2f856fbfe9f34b180c4ff5a3": {
-      "name": "12 Monkeys S04 E09",
+      "name": "12 Monkeys - S04 E09",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7ZhHC1wFH5M0h4jCL9bQj2EIZz.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42632.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42632.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E09"
     },
     "31daa46dace341824e43c30ef1aafc73": {
-      "name": "12 Monkeys S04 E10",
+      "name": "12 Monkeys - S04 E10",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7ZhHC1wFH5M0h4jCL9bQj2EIZz.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42612.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42612.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E10"
     },
     "1123761df84608a95d8229812b2ddacd": {
-      "name": "12 Monkeys S04 E11",
+      "name": "12 Monkeys - S04 E11",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zReRilNgiHikiwp9MCwNA5SuSb5.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42633.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42633.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E11"
     },
     "b10527b99ddb380de3f90d7bb5c3b91a": {
-      "name": "12 Monkeys S04 E12",
+      "name": "12 Monkeys - S04 E12",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zReRilNgiHikiwp9MCwNA5SuSb5.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42613.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42613.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E12"
     },
     "08b3b4d2e52a61c9b34a68125a23ae24": {
-      "name": "12 Monkeys S04 E13",
+      "name": "12 Monkeys - S04 E13",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyEQCfKO6j8sV5djdKuHqRjn5mJ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42634.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42634.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E13"
     },
     "de49bd24309703271dea75a6659a6aa4": {
-      "name": "12 Monkeys S04 E14",
+      "name": "12 Monkeys - S04 E14",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyEQCfKO6j8sV5djdKuHqRjn5mJ.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42614.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42614.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E14"
     },
     "1c874f5bbe7d9dc333055aaf2fa15b9f": {
-      "name": "12 Monkeys S04 E15",
+      "name": "12 Monkeys - S04 E15",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8cAZQO7QMIRswRq4eKm2OUksqH.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42615.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42615.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E15"
     },
     "3098b5e3ee1cdba646d489086711fd26": {
-      "name": "12 Monkeys S04 E16",
+      "name": "12 Monkeys - S04 E16",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8cAZQO7QMIRswRq4eKm2OUksqH.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42635.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42635.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E16"
     },
     "7d79223ca8389aff9d2d370cd5c64cd0": {
-      "name": "12 Monkeys S04 E17",
+      "name": "12 Monkeys - S04 E17",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvRSkoynYU582CbCjajvLbaLTlV.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42616.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42616.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E17"
     },
     "f419f93c03b460d2565b43d3400e7114": {
-      "name": "12 Monkeys S04 E18",
+      "name": "12 Monkeys - S04 E18",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvRSkoynYU582CbCjajvLbaLTlV.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42636.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42636.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E18"
     },
     "abfb1b31a9ce72d23451225b7b23b65e": {
-      "name": "12 Monkeys S04 E19",
+      "name": "12 Monkeys - S04 E19",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX0Ip90FPzBOguTv3RWeRtCwUlA.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42617.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42617.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E19"
     },
     "a01a26259f984bb8e5e9ae53ca1ea18d": {
-      "name": "12 Monkeys S04 E20",
+      "name": "12 Monkeys - S04 E20",
       "logo": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dX0Ip90FPzBOguTv3RWeRtCwUlA.jpg",
       "group": "หนัง_:ซีรี่ต่างประเทศ",
-      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42637.mkv"
+      "url": "http://neosfpoo.top:8080/series/1741762708954368/c813d9bf2dc8/42637.mkv",
+      "seriesTitle": "12 Monkeys",
+      "episode": "S04 E20"
     },
     "7a6552ccc4309aca9de1af3ca94db392": {
       "name": "The Sons of Sam: A Descent Into Darkness S01 E01",
@@ -373838,12 +374270,21 @@
     "211f25cdeeacdb301a0d405de066a9ea": {
       "name": "Superman ซูเปอร์แมน (2025)",
       "logo": "https://flixmono2.com/wp-content/uploads/2026/06/ดูหนัง-Superman-ซูเปอร์แมน-2025-พากย์ไทย-เต็มเรื่อง-214x300.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pPKiIJEEcV0E1hpVcWRXyp73ZpX.jpg",
       "group": "หนัง",
+      "groups": [
+        "หนัง"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://torbo007.com/embed/78741fa93524542dc603387e030c77bc"
+      "rating": "8.0 / 10",
+      "year": "2021",
+      "cast": "Tyler Hoechlin, Elizabeth Tulloch, Alex Garfin, Michael Bishop",
+      "overview": "นักข่าวชื่อดังของซูเปอร์ฮีโร่และหนังสือการ์ตูนที่โด่งดังที่สุดในโลกต้องเผชิญกับแรงกดดันและความซับซ้อนที่มาพร้อมกับการสร้างสมดุลระหว่างงาน ความยุติธรรม และความเป็นพ่อแม่ในสังคมปัจจุบัน",
+      "genres": "หนังชีวิต, จิตนิมิตแนววิทยาศาสตร์",
+      "metadataSource": "tmdb"
     },
     "3f73a92a9a0dbb234cf449679c3337d3": {
       "name": "Ballerina บัลเลรินา แค้นกว่านรก (2025)",
@@ -483931,9 +484372,17 @@
     },
     "5ccea359230d8f05a54e6e55744fdfa9": {
       "name": "03",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyEZrSe5eZqhr8H5MJnmSsPPC8w_CT_uBFQ&usqp=CAU",
       "group": "4สิงหา",
-      "url": "https://vod.googlecdnforstreaming.live/vodav/DASD-964.mp4"
+      "groups": [
+        "4สิงหา"
+      ],
+      "menu": "18+",
+      "menus": [
+        "18+"
+      ],
+      "genres": "แอนนิเมชั่น, ตลก, สำหรับเด็ก, ครอบครัว",
+      "metadataSource": "tmdb",
+      "seriesTitle": "4สิงหา"
     },
     "94075eb11a6787ad045082333bb15623": {
       "name": "MEYD-732 Saeki Yumika,Sumeragi Yuzu เย็ดสวิงกิ้ง2สาวสายรุกสุดเงี่ยน",
@@ -484939,7 +485388,14 @@
       "name": "02",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiyEZrSe5eZqhr8H5MJnmSsPPC8w_CT_uBFQ&usqp=CAU",
       "group": "4สิงหา",
-      "url": "https://vod.googlecdnforstreaming.live/vodav/MEYD-732.mp4"
+      "groups": [
+        "4สิงหา"
+      ],
+      "menu": "18+",
+      "menus": [
+        "18+"
+      ],
+      "seriesTitle": "4สิงหา"
     },
     "7ec10f3a0f07e38fe3b73e80f259cab4": {
       "name": "MEYD-725 Tomiyasu Reona ตัวเล็กอร่อยเหาะทั้งวันพี่ก็ไหว",
