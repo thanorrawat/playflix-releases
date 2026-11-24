@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795497148932,
+  "generatedAt": 1795497891304,
   "menus": {
     "folders": {
       "tv": [
@@ -13,7 +13,18 @@
         "แฟชั่น"
       ],
       "series": [
-        "กำลังฮิต"
+        "กำลังฮิต",
+        "🍀SERIES🍀",
+        "ซี่รี่ย์แนวตั้ง",
+        "ซี่รี่ย์ แนวตั้ง 2",
+        "ซี่รีย์่ ปี2025",
+        "ซี่รี่ย์",
+        "Disney Hotstar",
+        "WETV",
+        "HBO",
+        "ซีรี่ย์-CK2",
+        "🇭.🇪.🇷.🇴 (Series-Indy)",
+        "พากษ์ไทย#1"
       ],
       "cartoon": [
         "ดูหนังออนไลน์ HD"
@@ -23,7 +34,8 @@
         "หนัง HD",
         "หนังใหม่ 2006",
         "การ์ตูน",
-        "ตลก"
+        "ตลก",
+        "Movie"
       ],
       "sports": [
         "รวมกีฬา"
@@ -58,7 +70,6 @@
       "folders"
     ],
     "heroes": {
-      "all": "3f8f28fd5e5c0928eb3311eb39355620",
       "movies": "3f8f28fd5e5c0928eb3311eb39355620",
       "series": "9b05eec492fa57934a928574f89b70c9",
       "tv": "438787521abaa3c708407a8fbe0ab028",
@@ -67,32 +78,6 @@
     },
     "heroLists": {
       "all": [
-        {
-          "id": "3f8f28fd5e5c0928eb3311eb39355620",
-          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
-        },
-        {
-          "id": "0203b9cad758e3a6f39a4d1e378bf067",
-          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
-        },
         {
           "id": "9f079d7d07941800c6d7ab6d37688c49",
           "name": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่",
