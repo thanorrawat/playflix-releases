@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795498437281,
+  "generatedAt": 1795498576500,
   "menus": {
     "folders": {
       "tv": [
@@ -356,6 +356,13 @@
         "icon": "✨",
         "type": "category",
         "published": true
+      },
+      {
+        "id": "18+",
+        "title": "18+",
+        "icon": "🔞",
+        "type": "category",
+        "published": false
       }
     ]
   },
@@ -367,6 +374,7 @@
     "sports": "page-4.json",
     "ยอดนิยม": "page-5.json",
     "การ์ตูน": "page-6.json",
-    "ตลก": "page-7.json"
+    "ตลก": "page-7.json",
+    "18+": "page-8.json"
   }
 }
