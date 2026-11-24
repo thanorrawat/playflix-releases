@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795508856682,
+  "generatedAt": 1795513795089,
   "menus": {
     "folders": {
       "18+": [],
@@ -133,6 +133,7 @@
           "episode": "",
           "episodeCount": 0,
           "tags": [],
+          "logoUrl": "https://image.tmdb.org/t/p/w500/egMJyvJyIiVxcna0lXiSUV2Xn0n.jpg",
           "displayName": "Spider-Man: Brand New Day (2026) สไปเดอร์-แมน: แบรนด์ นิว เดย์"
         }
       ],
