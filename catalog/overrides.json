@@ -1,12 +1,12 @@
 {
   "sources": [
     {
-      "title": "Free",
-      "url": "https://raw.githubusercontent.com/thanorrawat/playflix-releases/main/Free.w3u"
-    },
-    {
       "title": "Yantech By ส.วิศวะ",
       "url": "https://docs.google.com/uc?export=download&id=1RrLqpR6tGnpvcQ06qY-3B3dqQibk6N53"
+    },
+    {
+      "title": "Play-HD",
+      "url": "https://raw.githubusercontent.com/thanorrawat/playflix-releases/master/playlists/playhd.w3u"
     }
   ],
   "include": {
@@ -53,7 +53,8 @@
       "HBO",
       "ซีรี่ย์-CK2",
       "🇭.🇪.🇷.🇴 (Series-Indy)",
-      "พากษ์ไทย#1"
+      "พากษ์ไทย#1",
+      "หนัง ผู้ใหญ่"
     ]
   },
   "hidden": {
@@ -186,7 +187,55 @@
       "b05513b0a182496c95d925e8bea9973c",
       "17c418a73ebea9e5f29630999979e647",
       "c95fe190d1811e1a50040aaa965ffcd2",
-      "36c9b2d87e350430ebb476d99212c0c5"
+      "36c9b2d87e350430ebb476d99212c0c5",
+      "5c6fe2d080453f24e767cb4215087a6b",
+      "550530571fddb0cc423c826dfc06eee9",
+      "b573d60883713608337026f66828cacc",
+      "d44f6028549e8472e193dca109352f96",
+      "156126184a22e4d351c92037e0f462fa",
+      "82ba83b30ebe0504a18e35d682f9303f",
+      "e223335a11e38d4708c1c21a9e25620c",
+      "3aee021dc037e111975a70d19fe952d1",
+      "867a25857c7c67691c8cb7871a1cfec9",
+      "4839b5deb19649c6b8de28474761f187",
+      "aa487deb4b87fc5649ccd9a9eb04caed",
+      "4c00d87cec374e3c5cbee5096aba443d",
+      "7f47d0fdff589ed04dce7ca71279d2b8",
+      "078f9a40c837f0fca89bb20c6b03bb88",
+      "42f7034f92e2cfa37da86c60e7487217",
+      "703c56e47ef35d2062c9c42b2fd37440",
+      "211f25cdeeacdb301a0d405de066a9ea",
+      "3f73a92a9a0dbb234cf449679c3337d3",
+      "ac6f5b75b6bf346ee5581fea594a29ce",
+      "8310b81c142803540e48dbbc50b56e3f",
+      "e03d32358d29d7eda16f1a4b65e66b04",
+      "39f44f05170ac13ca702ededd94a1f02",
+      "5077f142f8d7d17a676347fdab1cee5e",
+      "7193564fc11fc60d9fca6c622a6a85aa",
+      "44d072084fe6faf30642ac56a9493e14",
+      "7cf672efd8172a26dcb18ff10d362f84",
+      "ff076a8a355b4d219c2272e5cd785807",
+      "07504bbd0c983c4e9abd0556e4ab27bb",
+      "be87ab4d1266d8e578bd8e840d4744db",
+      "cfbd6f79daec259f5447e9a9cfae1155",
+      "3cf8392dd9e119d71977753d65fb7588",
+      "98043a4fcb43917af07a1bd237561f18",
+      "723b8519d3d39738dd078372eea664e1",
+      "f6f96ab2e248588cb5538804cd2679fd",
+      "ab02d904e9672cdf1cf974eeb8bde735",
+      "b17b350b40c72b28ce522b827980e1b3",
+      "a493188e9d5bb00cffadc2b3ec869ae9",
+      "1dc55549578a51c9fab9bf49477e876b",
+      "98cece875007671335661ade6a28e142",
+      "3c815f0c5ccaae7834a9897d9bea93a9",
+      "1c84a227b697916acbf322cd5f1918ab",
+      "75942789d14079d973c78f2eec708f00",
+      "b349a018cd75d9588d1ac4a60f634517",
+      "b9112c66ed47bde20abcab5cf55a87dc",
+      "3222d59661671e12306097ee119b8d6e",
+      "da1646fbb69f39b981220dee993aebd1",
+      "a1ed7987c52e3f706118ae896d18251b",
+      "f5b6433c873a4b62b850989339965fd2"
     ],
     "groups": [
       "ธรรมะ บทสวด",
@@ -469023,8 +469072,10 @@
   ],
   "menus": {
     "folders": {
+      "18+": [
+        "หนัง ผู้ใหญ่"
+      ],
       "tv": [
-        "หนัง ผู้ใหญ่",
         "ธรรมะ บทสวด",
         "ดูกล้องวงจรปิด",
         "News ข่าวทั่วโลก",
