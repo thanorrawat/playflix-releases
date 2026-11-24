@@ -1585,6 +1585,7 @@
         "title": "ภาพยนตร์ต่างประเทศ",
         "custom": true,
         "items": [
+          "e381bdb53cd2ca52608b3fb57113525b",
           "aba521fac454ae6f62441e1e15b37a9c",
           "74a950d18f926a197c5260a795c888cc",
           {
@@ -4230,6 +4231,7 @@
         "title": "ซีรีส์และอนิเมะแนะนำ",
         "custom": true,
         "items": [
+          "aaec840f076453fbe1f5ab7a1d605119",
           "7e595bcf1026b29cd0af5ba2c41914af",
           "e876c33860b064439576cb7f352fdb2e",
           "14c6c3506d303cc822f200b256c5ebd4",
@@ -12006,8 +12008,22 @@
     },
     "aaec840f076453fbe1f5ab7a1d605119": {
       "name": "Anime_3 - Doraemon Nobita and the Birth of Japan (2016) โดราเอมอน ตอน โนบิตะกำเนิดประเทศญี่ปุ่น",
-      "logo": "https://www.123-hds.com/wp-content/uploads/2026/05/Doraemon-Nobita-and-the-Birth-of-Japan-2016-โดราเอมอน-ตอน-โนบิตะกำเนิดประเทศญี่ปุ่น-300x450.png",
-      "menu": "series"
+      "logo": "https://image.tmdb.org/t/p/w500/70ONBU6JIBaMyJtY4843Debub30.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tzrcGi28kAIEsrCNMuiyAOFrToG.jpg",
+      "menu": "series",
+      "menus": [
+        "all",
+        "series",
+        "การ์ตูน"
+      ],
+      "showOnHome": true,
+      "rating": "6.7 / 10",
+      "year": "2016",
+      "cast": "水田わさび, 大原めぐみ, かかずゆみ, โทโมกาซุ เซกิ, สุบารุ คิมูระ, โคะโตะโนะ มิสึอิชิ",
+      "overview": "การผจญภัยที่เกี่ยวพันกับห่วงเวลาในยุคก่อนประวัติศาสตร์ เมื่อ โนบิตะ และเพื่อน ๆ วางแผนหนีออกจากบ้าน แต่กลับพบว่าในยุคปัจุบันไม่มีพื้นที่ไหนที่พวกเขาสามารถครอบครองเป็นของตัวเองได้ ด้วยเหตุนี้ พวกเขาจึงตัดสินใจจะไปประเทศญี่ปุ่นในยุคโบราณที่ยังไม่มีผู้ใดอาศัยอยู่ และได้ตัดสินใจออกเดินทางซึ่งจะเป็นการหนีออกจากบ้านที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ สถานที่ ๆ พวกเขาไปถึงอย่างยากลำบากนั้นก็คือประเทศญี่ปุ่นเมื่อ 7 หมื่นปีก่อน พวกโนบิตะที่สร้างสรวงสวรรค์ของตัวเองขึ้นมาและได้เล่นสนุกนานเต็มที่ ตัดสินใจที่จะกลับไปบ้านเดิมของตนสักพัก แต่แล้วไม่ทราบว่าด้วยเหตุใด พวกโนบิตะกลับได้พบเจอกับมนุษย์โบราณคุคูรุ ในยุคปัจจุบัน ดูเหมือนว่าเขาจะเข้าไปพัวพันกับความโกลาหลของห้วงมิติเวลาและพัดพาเขาให้หลุดมายังยุคปัจจุบัน และคุคูรุได้เล่าถึงเรื่องราวที่ชนเผ่าของตน ได้ถูกโจมตีจากเผ่าแห่งความมืด ทั้ง 5 คนจึงได้ย้อนกลับไปในอดีตอีกครั้ง เพื่อชนเหลือชนเผ่าแห่งแสงสว่าง ทั้ง 5 คนช่วยเหลือครอบครัวและเผ่าแห่งแสงสว่างของ คุคูรุ จากพลังความชั่วร้ายของ กีก้าซอมบี้ อย่างไร ?",
+      "genres": "แอนนิเมชั่น, ผจญ, จินตนาการ, นิยายวิทยาศาสตร์, ครอบครัว",
+      "metadataSource": "tmdb",
+      "seriesTitle": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย"
     },
     "eea2ce11c5a0a2c112c08843ffd9ef61": {
       "name": "Anime_3 - Piece by Piece (2024) ชิ้นต่อชิ้น",
@@ -33223,144 +33239,156 @@
       "menu": "series"
     },
     "9b05eec492fa57934a928574f89b70c9": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/OkbThamxT/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "d5aa82e2a9aab82fa23881c6326f8782": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/JXQDqMuhyc/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "943e4423114e7dd6e3d2f0e6fd181646": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/xoraeKdr7A/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "495ca438659ff22b73c7d09dc47f2aa1": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/WUUdG53v1c/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "290bef39a4673de70259a69a987e54ff": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/CxNcjedxdr/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "6c1cbd662d6f4b8e3d3de34b9b735107": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/qlBdYAwXiF/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "252b260a7a6493cc411c13dec959b1a2": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/wDJPdFObN5/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "9625c626b2e2960c56e9a2f3b37aead6": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/Vimbo7Ft7d/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "7b8b3a84f792eae0c3bbaa4dbf94bd59": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/jK5kbZSbfo/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "3550ac371978724dc9c335bc56bb71a2": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/jCzUzzQQm8/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "24c183fe4364213d212aaffa10acfd25": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 11",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/mDgyX2rbfx/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
       "episode": "ตอนที่ 1"
     },
     "6ddb68d55d599ad78440e5f565c58b86": {
-      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY - ตอนที่ 12",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
+      "name": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/9mOFnuIrABCO0w0DMca9qPL7DJ3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tI4A1Md9J5QHARl60TsMpekSsvg.jpg",
       "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
-      "menu": "series",
+      "menu": "cartoon",
       "menus": [
-        "series"
+        "cartoon"
       ],
       "url": "https://hls.animeindy.com:8443/vid/HW9oX7mNgq/video.mp4/playlist.m3u8",
       "seriesTitle": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย",
@@ -43931,8 +43959,9 @@
       "menu": "series"
     },
     "33624a5139352ae52497d5de7448a6cf": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 1",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -43943,8 +43972,9 @@
       "episode": "ตอนที่ 1"
     },
     "5cea498f6fcb995a97e4fa146b6ef892": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 2",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -43955,8 +43985,9 @@
       "episode": "ตอนที่ 1"
     },
     "c3249dfa12ceaf996a63812f361aeeb6": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 3",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -43967,8 +43998,9 @@
       "episode": "ตอนที่ 1"
     },
     "0bfc10a7c211f13b0b487867ef052ea8": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 4",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -43979,8 +44011,9 @@
       "episode": "ตอนที่ 1"
     },
     "876408556695105f07017b7e9eb9abfe": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 5",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -43991,8 +44024,9 @@
       "episode": "ตอนที่ 1"
     },
     "79056189432af52b20f34da024f1ed2d": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 6",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -44003,8 +44037,9 @@
       "episode": "ตอนที่ 1"
     },
     "b4e051f7bb2646b22d977eb5c178425d": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 7",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -44015,8 +44050,9 @@
       "episode": "ตอนที่ 1"
     },
     "41e78f00b02e33a3cef774f4ccb977f3": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 8",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -44027,8 +44063,9 @@
       "episode": "ตอนที่ 1"
     },
     "8f9975a036a7b7ae74b232e615862fc6": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 9",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -44039,8 +44076,9 @@
       "episode": "ตอนที่ 1"
     },
     "4ef5e5ab41321cf80cbeec4df9e08cf0": {
-      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY - ตอนที่ 10",
-      "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=91284&type=animeindy&hash=a2f77356446c6440f1624df78a9d026a",
+      "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ตอนที่ 1",
+      "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6aJMl28iBbhZLxDIj3Vqfaonzv2.jpg",
       "group": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย - ANIMEiNDY",
       "menu": "series",
       "menus": [
@@ -474339,6 +474377,41 @@
       "menus": [
         "sports"
       ]
+    },
+    "7743e3a6e5ae370e38e4e6db46f934b8": {
+      "name": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "logo": "https://25-hd.com/wp-content/uploads/2026/05/70ONBU6JIBaMyJtY4843Debub30.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tzrcGi28kAIEsrCNMuiyAOFrToG.jpg",
+      "menu": "all",
+      "menus": [
+        "all"
+      ],
+      "showOnHome": true,
+      "rating": "6.7 / 10",
+      "year": "2016",
+      "cast": "水田わさび, 大原めぐみ, かかずゆみ, โทโมกาซุ เซกิ, สุบารุ คิมูระ, โคะโตะโนะ มิสึอิชิ",
+      "overview": "การผจญภัยที่เกี่ยวพันกับห่วงเวลาในยุคก่อนประวัติศาสตร์ เมื่อ โนบิตะ และเพื่อน ๆ วางแผนหนีออกจากบ้าน แต่กลับพบว่าในยุคปัจุบันไม่มีพื้นที่ไหนที่พวกเขาสามารถครอบครองเป็นของตัวเองได้ ด้วยเหตุนี้ พวกเขาจึงตัดสินใจจะไปประเทศญี่ปุ่นในยุคโบราณที่ยังไม่มีผู้ใดอาศัยอยู่ และได้ตัดสินใจออกเดินทางซึ่งจะเป็นการหนีออกจากบ้านที่ยิ่งใหญ่ที่สุดในประวัติศาสตร์ สถานที่ ๆ พวกเขาไปถึงอย่างยากลำบากนั้นก็คือประเทศญี่ปุ่นเมื่อ 7 หมื่นปีก่อน พวกโนบิตะที่สร้างสรวงสวรรค์ของตัวเองขึ้นมาและได้เล่นสนุกนานเต็มที่ ตัดสินใจที่จะกลับไปบ้านเดิมของตนสักพัก แต่แล้วไม่ทราบว่าด้วยเหตุใด พวกโนบิตะกลับได้พบเจอกับมนุษย์โบราณคุคูรุ ในยุคปัจจุบัน ดูเหมือนว่าเขาจะเข้าไปพัวพันกับความโกลาหลของห้วงมิติเวลาและพัดพาเขาให้หลุดมายังยุคปัจจุบัน และคุคูรุได้เล่าถึงเรื่องราวที่ชนเผ่าของตน ได้ถูกโจมตีจากเผ่าแห่งความมืด ทั้ง 5 คนจึงได้ย้อนกลับไปในอดีตอีกครั้ง เพื่อชนเหลือชนเผ่าแห่งแสงสว่าง ทั้ง 5 คนช่วยเหลือครอบครัวและเผ่าแห่งแสงสว่างของ คุคูรุ จากพลังความชั่วร้ายของ กีก้าซอมบี้ อย่างไร ?",
+      "genres": "แอนนิเมชั่น, ผจญ, จินตนาการ, นิยายวิทยาศาสตร์, ครอบครัว",
+      "metadataSource": "tmdb",
+      "seriesTitle": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย"
+    },
+    "e381bdb53cd2ca52608b3fb57113525b": {
+      "name": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "logo": "https://image.tmdb.org/t/p/w500/tenMV0dhskc4g59oZgklQIeBa26.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5xegGPhCSVMKbyh6zeT6Th0BWLB.jpg",
+      "menu": "movies",
+      "menus": [
+        "all",
+        "movies"
+      ],
+      "showOnHome": true,
+      "rating": "7.1 / 10",
+      "year": "2019",
+      "cast": "เอ็ด สไกรน์, แพทริค วิลสัน, วูดดี แฮร์เรลสัน, Luke Evans, แมนดี มัวร์, Luke Kleintank",
+      "overview": "จากวีรกรรมแห่งหน้าประวัติศาสตร์ Midway ที่งานนี้จะบอกเล่าถึงเรื่องราวของ “ยุทธการมิดเวย์” ซึ่งว่ากันว่าเป็น ยุทธการที่สำคัญที่สุดในแนวรบด้านมหาสมุทรแปซิฟิก ของช่วงสงครามโลกครั้งที่ 2 ด้วยการปะทะกันแบบ 360 องศาของกองทัพสหรัฐอเมริกาที่กินเวลาเพียง 4 วันแต่กลับเป็นจุดเปลี่ยนเกมรบของสงครามโลกครั้งที่ 2 ไปตลอดกาล",
+      "genres": "สงคราม, ประวัติศาสตร์, บู๊",
+      "metadataSource": "tmdb",
+      "seriesTitle": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย"
     }
   },
   "categories": [
@@ -474422,7 +474495,8 @@
         "Play-HD ซีรี่ย์ - Mushoku Tensei Isekai Ittara Honki Dasu (2021) เกิดชาตินี้พี่ต้องเทพ",
         "Play-HD ซีรี่ย์ - Rage Season 2 (2026)",
         "Play-HD ซีรี่ย์ - The Hunt (2026) Season 1",
-        "Play-HD ซีรี่ย์ - ซีรีย์วาย Love Destiny (2026) บุพเพสันนิวาส พากย์ไทย"
+        "Play-HD ซีรี่ย์ - ซีรีย์วาย Love Destiny (2026) บุพเพสันนิวาส พากย์ไทย",
+        "Anime_3"
       ],
       "movies": [
         "ดูหนังออนไลน์ HD",
