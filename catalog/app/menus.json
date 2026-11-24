@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795498780288,
+  "generatedAt": 1795499356957,
   "menus": {
     "folders": {
       "tv": [
@@ -76,17 +76,19 @@
     "heroLists": {
       "all": [
         {
-          "id": "9f079d7d07941800c6d7ab6d37688c49",
-          "name": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่",
-          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-เชนซอว์-แมน-เดอะ-มูฟวี่-เรื่องราวของเรเซ่-300x450.png",
-          "url": "https://main.24playerhd.com/m3u8/090b904fc5052153c8a9e1bc/090b904fc5052153c8a9e1bc438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "",
-          "rating": "",
+          "id": "1619543e8a95fca9ec306495f5ded270",
+          "name": "Spider-Man: Brand New Day (2026) สไปเดอร์-แมน: แบรนด์ นิว เดย์",
+          "logo": "https://image.tmdb.org/t/p/w500/egMJyvJyIiVxcna0lXiSUV2Xn0n.jpg",
+          "url": "https://hd25-playlists.9aofth.workers.dev/play/108997/master.m3u8",
+          "group": "Movie",
+          "year": "2026",
+          "rating": "8.5 / 10",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
           "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่"
+          "displayName": "Spider-Man: Brand New Day (2026) สไปเดอร์-แมน: แบรนด์ นิว เดย์"
         }
       ],
       "movies": [
