@@ -560,6 +560,8 @@
         "title": "หนังเข้าฉายใหม่ (ตามกำหนดฉาย)",
         "custom": true,
         "items": [
+          "6308e4d3001963a7a9470fc21ae63e93",
+          "a62e14f6eaf3a470ef1c06cd6fcc70da",
           "846eace489c56cb3eb9ebee4f2be4f3d",
           "2a46b3423246b86cca6839c2d04f15e4",
           "f28cc511539c76e0ab9967d4646af395",
@@ -134438,12 +134440,22 @@
     "a62e14f6eaf3a470ef1c06cd6fcc70da": {
       "name": "โกฮัง..หัวใจโกโฮม (2026) Gohan",
       "logo": "https://25-hd.com/wp-content/uploads/2026/08/bUmlrkJe411RzdVKBKLbRSJChem.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/109266/master.m3u8"
+      "rating": "7.1 / 10",
+      "year": "2026",
+      "cast": "ยาสุชิ คิตะจิมา, ชาติชาย ชินศรี, Poe Mamhe Thar, นพพันธ์ บุญใหญ่, จินเจษฎ์ วรรธนะสิน, ต้นตะวัน ตันติเวชกุล",
+      "overview": "สุนัขจรจัด โกฮัง ได้ย้ายไปอยู่กับเจ้าของใหม่หลายรายในช่วงเวลา 10 ปี โดยเข้าไปมีส่วนสำคัญในชีวิตของวิศวกรวัยเกษียณ แม่บ้าน และสองหนุ่มสาวคู่รัก",
+      "genres": "หนังชีวิต",
+      "metadataSource": "tmdb"
     },
     "15f56b2106822988bf810391de6c177e": {
       "name": "ราคี (2026) The Stain",
@@ -153371,7 +153383,8 @@
       ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
       "rating": "6.8 / 10",
       "year": "2023",
