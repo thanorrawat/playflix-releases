@@ -1,29 +1,47 @@
 {
   "version": 1,
-  "generatedAt": 1795487022864,
+  "generatedAt": 1795497148932,
   "menus": {
     "folders": {
-      "movies": [
-        "หนังใหม่ 2006",
-        "ญี่ปุ่น Japanese porn videos",
-        "หนัง_:ซีรี่ต่างประเทศ",
-        "18+",
-        "หนังไทย"
-      ],
       "tv": [
+        "Digital TV",
         "ละคร ทีวี",
-        "Best JAV",
-        "Vip Japan",
-        "18+Live-011"
+        "เป็นต่อ 2022",
+        "เป็นต่อ 2023",
+        "เป็นต่อ 2024",
+        "เป็นต่อ 2025",
+        "แฟชั่น"
       ],
-      "18+": [
-        "Good for heartGEN2",
-        "ญี่ปุ่น+จีน+ฝรั่ง",
-        "4สิงหา",
-        "27. SEXY 1",
-        "18+ 077",
-        "XXX_VIP",
-        "ช่องนี้ทำเอง"
+      "series": [
+        "กำลังฮิต"
+      ],
+      "cartoon": [
+        "ดูหนังออนไลน์ HD"
+      ],
+      "movies": [
+        "ยอดนิยม",
+        "หนัง HD",
+        "หนังใหม่ 2006",
+        "การ์ตูน",
+        "ตลก"
+      ],
+      "sports": [
+        "รวมกีฬา"
+      ],
+      "การ์ตูน": [
+        "🍀ANIMETION🍀",
+        "การตูนย์อนิเมชั่น"
+      ],
+      "ตลก": [
+        "รายการตลก",
+        "ตลกคาเฟ",
+        "จี้เส้นคอนเสิร์ต",
+        "ระเบิดเถิดเทิง",
+        "บริษัทฮาไม่จำกัดจัดเต็ม",
+        "ก็มาดิคร้าบ",
+        "ก่อนบ่ายคลายเครียด",
+        "ยุทธการขยับเหงือก",
+        "เดี่ยวไมโครโฟน"
       ]
     },
     "titles": {
@@ -33,170 +51,107 @@
       "tv": "รายการทีวี",
       "sports": "กีฬา",
       "ยอดนิยม": "ยอดนิยม",
-      "cartoon": "การ์ตูน",
-      "มาใหม่": "มาใหม่",
-      "18+": "18+",
-      "หนังไทย": "หนังไทย"
+      "การ์ตูน": "การ์ตูน",
+      "ตลก": "ตลก"
     },
     "hidden": [
       "folders"
     ],
     "heroes": {
-      "movies": "99c0e70cf14416d777ac269a07bbfd68",
+      "all": "3f8f28fd5e5c0928eb3311eb39355620",
+      "movies": "3f8f28fd5e5c0928eb3311eb39355620",
       "series": "9b05eec492fa57934a928574f89b70c9",
       "tv": "438787521abaa3c708407a8fbe0ab028",
       "sports": "c803ebe2774b9d1373170836c239b5a0",
-      "ยอดนิยม": "99c0e70cf14416d777ac269a07bbfd68",
-      "cartoon": "2e87887010608265d781e758feab581f",
-      "มาใหม่": "2a46b3423246b86cca6839c2d04f15e4"
+      "ยอดนิยม": "3f8f28fd5e5c0928eb3311eb39355620"
     },
     "heroLists": {
       "all": [
         {
-          "id": "5ae1aa018141d2c40b9a33adeff294c6",
-          "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
-          "logo": "https://image.tmdb.org/t/p/w500/gqJTbAJqtmnlhH8567YhTd0LUIF.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
+          "id": "3f8f28fd5e5c0928eb3311eb39355620",
+          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "2026",
-          "rating": "8.5 / 10",
+          "year": "",
+          "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
+          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
         },
         {
-          "id": "60524dc0d4fba9a6184064b01bab1c1b",
-          "name": "Legend of the White Dragon (2026) ไวท์ดรากอน",
-          "logo": "https://25-hd.com/wp-content/uploads/2026/11/6SCBkBCEhd7QW2FBb8RHZ4mvvzs.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/110117/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
+          "id": "0203b9cad758e3a6f39a4d1e378bf067",
+          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
           "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
           "tags": [],
-          "displayName": "Legend of the White Dragon (2026) ไวท์ดรากอน"
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
         },
         {
-          "id": "25f5ea75cc57925580e5096fb8d25e03",
-          "name": "Never After Dark (2026) มืดค่ำ อย่า! ย่างกราย",
-          "logo": "https://25-hd.com/wp-content/uploads/2026/11/jguB76QbAx6yExiOLIPvOaxW95b-scaled-1.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/110098/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
+          "id": "9f079d7d07941800c6d7ab6d37688c49",
+          "name": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-เชนซอว์-แมน-เดอะ-มูฟวี่-เรื่องราวของเรเซ่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/090b904fc5052153c8a9e1bc/090b904fc5052153c8a9e1bc438.m3u8",
+          "group": "ดูหนังออนไลน์ HD",
+          "year": "",
           "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
           "tags": [],
-          "displayName": "Never After Dark (2026) มืดค่ำ อย่า! ย่างกราย"
-        },
-        {
-          "id": "cca2ac669d8fa4dc65dbb84634bfe05f",
-          "name": "Apocalypse Z: New World (2026) อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ ภาค 2",
-          "logo": "https://image.tmdb.org/t/p/w500/pS2R3DEiucuizVkKP80qzdO97TE.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/110065/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
-          "rating": "6.2 / 10",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": [],
-          "displayName": "Apocalypse Z: New World (2026) อะโพคาลิปซิส เซต้า: จุดเริ่มต้นของจุดจบ ภาค 2"
-        },
-        {
-          "id": "210ed7b0c8c368d6d590f19ad15c450e",
-          "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
-          "logo": "https://image.tmdb.org/t/p/w500/pGixkzEFWQqmFvbBuQOxqhssESQ.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109591/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
-          "rating": "7.5 / 10",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": [],
-          "displayName": "Resident Evil (2026) เรสซิเดนท์ อีวิล"
+          "isLive": false,
+          "isEmbed": false,
+          "displayName": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่"
         }
       ],
       "movies": [
         {
-          "id": "99c0e70cf14416d777ac269a07bbfd68",
-          "name": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
-          "logo": "https://image.tmdb.org/t/p/w500/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",
-          "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8",
+          "id": "3f8f28fd5e5c0928eb3311eb39355620",
+          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "2025",
-          "rating": "7.0 / 10",
+          "year": "",
+          "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ"
+          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
         },
         {
-          "id": "79752a76aa32f19135002034902e186c",
-          "name": "Clash (2025) พุ่งชนคนกีฬา",
-          "logo": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-          "url": "https://main.24playerhd.com/m3u8/4da6388c0f1a20c2f3aa9d36/4da6388c0f1a20c2f3aa9d36438.m3u8",
+          "id": "0203b9cad758e3a6f39a4d1e378bf067",
+          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "2026",
-          "rating": "6.6 / 10",
+          "year": "",
+          "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Clash (2025) พุ่งชนคนกีฬา"
+          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
         },
         {
-          "id": "5ae1aa018141d2c40b9a33adeff294c6",
-          "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
-          "logo": "https://image.tmdb.org/t/p/w500/gqJTbAJqtmnlhH8567YhTd0LUIF.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
+          "id": "9f079d7d07941800c6d7ab6d37688c49",
+          "name": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-เชนซอว์-แมน-เดอะ-มูฟวี่-เรื่องราวของเรเซ่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/090b904fc5052153c8a9e1bc/090b904fc5052153c8a9e1bc438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "2026",
-          "rating": "8.5 / 10",
+          "year": "",
+          "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
-        },
-        {
-          "id": "4b0a6c77607d4d2843c37136603e930e",
-          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
-          "logo": "https://image.tmdb.org/t/p/w500/eFfoGdcIk6llb8bO1dREzW84zm8.jpg",
-          "url": "https://main.24playerhd.com/m3u8/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2023",
-          "rating": "6.8 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Johnny Football (2023) จอห์นนี่ ฟุตบอล"
-        },
-        {
-          "id": "c6927c9c928e9f9d27db7469ffeea8ed",
-          "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
-          "logo": "https://image.tmdb.org/t/p/w500/eD1mfjEeDUOAAsptZjQA6skrdJy.jpg",
-          "url": "https://main.24playerhd.com/m3u8/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2024",
-          "rating": "6.8 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย"
+          "displayName": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่"
         }
       ],
       "series": [
         {
           "id": "9b05eec492fa57934a928574f89b70c9",
-          "name": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 1",
+          "name": "ตอนที่ 1",
           "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
           "url": "https://hls.animeindy.com:8443/vid/OkbThamxT/video.mp4/playlist.m3u8",
           "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
@@ -205,33 +160,33 @@
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 1"
+          "displayName": "ตอนที่ 1"
         },
         {
-          "id": "d5aa82e2a9aab82fa23881c6326f8782",
-          "name": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 2",
+          "id": "3550ac371978724dc9c335bc56bb71a2",
+          "name": "ตอนที่ 10",
           "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
-          "url": "https://hls.animeindy.com:8443/vid/JXQDqMuhyc/video.mp4/playlist.m3u8",
+          "url": "https://hls.animeindy.com:8443/vid/jCzUzzQQm8/video.mp4/playlist.m3u8",
           "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
           "year": "",
           "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 2"
+          "displayName": "ตอนที่ 10"
         },
         {
-          "id": "943e4423114e7dd6e3d2f0e6fd181646",
-          "name": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 3",
+          "id": "24c183fe4364213d212aaffa10acfd25",
+          "name": "ตอนที่ 11",
           "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=111895&type=animeindy&hash=e3f050a96dc31074375b732e11962f24",
-          "url": "https://hls.animeindy.com:8443/vid/xoraeKdr7A/video.mp4/playlist.m3u8",
+          "url": "https://hls.animeindy.com:8443/vid/mDgyX2rbfx/video.mp4/playlist.m3u8",
           "group": "Junji Ito Maniac Japanese Tales Of The Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น ตอนที่ 1-12 พากย์ไทย - ANIMEiNDY",
           "year": "",
           "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Junji Ito Maniac Japanese Tales of the Macabre จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น  พากย์ไทย ตอนที่ 3"
+          "displayName": "ตอนที่ 11"
         }
       ],
       "tv": [
@@ -318,205 +273,50 @@
       ],
       "ยอดนิยม": [
         {
-          "id": "99c0e70cf14416d777ac269a07bbfd68",
-          "name": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ",
-          "logo": "https://image.tmdb.org/t/p/w500/yKy6RsLEC7lloTcHPETgbaAQApq.jpg",
-          "url": "https://main.24playerhd.com/m3u8/a95695844661a201d4e1e07f/a95695844661a201d4e1e07f438.m3u8",
+          "id": "3f8f28fd5e5c0928eb3311eb39355620",
+          "name": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Hidden-Inventory-Premature-Death-The-Movie-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี-พรสวรรค์เร้น-อกาลมรณะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/b68c58b141acc96e395a5927/b68c58b141acc96e395a5927438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "2025",
-          "rating": "7.0 / 10",
+          "year": "",
+          "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Lefter The Story of the Ordinarius (2025) ตำนานฟุตบอลเหนือธรรมชาติ"
+          "displayName": "Jujutsu Kaisen Hidden Inventory Premature Death The Movie (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี พรสวรรค์เร้น อกาลมรณะ"
         },
         {
-          "id": "79752a76aa32f19135002034902e186c",
-          "name": "Clash (2025) พุ่งชนคนกีฬา",
-          "logo": "https://image.tmdb.org/t/p/w500/16oqRrWVzQm6qdGfBxvziZ2UiMT.jpg",
-          "url": "https://main.24playerhd.com/m3u8/4da6388c0f1a20c2f3aa9d36/4da6388c0f1a20c2f3aa9d36438.m3u8",
+          "id": "0203b9cad758e3a6f39a4d1e378bf067",
+          "name": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Jujutsu-Kaisen-Execution-2025-มหาเวทย์ผนึกมาร-เดอะมูฟวี่-อุบัติการณ์ชิบูย่า-×-จรดลล้างบาง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/513f8bac2e88c18f65554cff/513f8bac2e88c18f65554cff438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "2026",
-          "rating": "6.6 / 10",
+          "year": "",
+          "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Clash (2025) พุ่งชนคนกีฬา"
+          "displayName": "Jujutsu Kaisen Execution (2025) มหาเวทย์ผนึกมาร เดอะมูฟวี่ อุบัติการณ์ชิบูย่า × จรดลล้างบาง"
         },
         {
-          "id": "5ae1aa018141d2c40b9a33adeff294c6",
-          "name": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2",
-          "logo": "https://image.tmdb.org/t/p/w500/gqJTbAJqtmnlhH8567YhTd0LUIF.jpg",
-          "url": "https://main.24playerhd.com/newplaylist/a4ea1e73fc1840a1374eb942/a4ea1e73fc1840a1374eb942.m3u8",
+          "id": "9f079d7d07941800c6d7ab6d37688c49",
+          "name": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่",
+          "logo": "https://www.123-hds.com/wp-content/uploads/2025/12/Chainsaw-Man-The-Movie-Reze-Arc-2025-เชนซอว์-แมน-เดอะ-มูฟวี่-เรื่องราวของเรเซ่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/090b904fc5052153c8a9e1bc/090b904fc5052153c8a9e1bc438.m3u8",
           "group": "ดูหนังออนไลน์ HD",
-          "year": "2026",
-          "rating": "8.5 / 10",
+          "year": "",
+          "rating": "",
           "tags": [],
           "isLive": false,
           "isEmbed": false,
-          "displayName": "Gayong 2 (2026) เจ้าตำนานมวยกาหยง 2"
-        },
-        {
-          "id": "4b0a6c77607d4d2843c37136603e930e",
-          "name": "Johnny Football (2023) จอห์นนี่ ฟุตบอล",
-          "logo": "https://image.tmdb.org/t/p/w500/eFfoGdcIk6llb8bO1dREzW84zm8.jpg",
-          "url": "https://main.24playerhd.com/m3u8/07dc2bba9f2012b843ea915e/07dc2bba9f2012b843ea915e438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2023",
-          "rating": "6.8 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Johnny Football (2023) จอห์นนี่ ฟุตบอล"
-        },
-        {
-          "id": "c6927c9c928e9f9d27db7469ffeea8ed",
-          "name": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย",
-          "logo": "https://image.tmdb.org/t/p/w500/eD1mfjEeDUOAAsptZjQA6skrdJy.jpg",
-          "url": "https://main.24playerhd.com/m3u8/ea59307855dd98bfeb7c4f7c/ea59307855dd98bfeb7c4f7c438.m3u8",
-          "group": "ดูหนังออนไลน์ HD",
-          "year": "2024",
-          "rating": "6.8 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Yolo (2024) หมวยย้วย...มวยไม่ยอมม้วย"
-        }
-      ],
-      "cartoon": [
-        {
-          "id": "2e87887010608265d781e758feab581f",
-          "name": "The First Snow of Fraggle Rock (2025)",
-          "logo": "https://image.tmdb.org/t/p/w500/xyxAOTToALUkeFS9x5V6MOv8YWr.jpg",
-          "url": "https://main.24playerhd.com/m3u8/482271b2e8a1df33321b84b8/482271b2e8a1df33321b84b8438.m3u8",
-          "group": "การ์ตูน",
-          "year": "2025",
-          "rating": "6.6 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "The First Snow of Fraggle Rock (2025)"
-        },
-        {
-          "id": "bc3a1f104fb3d864123b485de64640ac",
-          "name": "Lego Disney Princess Villains Unite (2025)",
-          "logo": "https://image.tmdb.org/t/p/w500/ajcRSuv1rYbrDxnlNN5xx5H44Ft.jpg",
-          "url": "https://main.24playerhd.com/m3u8/a8fc90c87bb8ff2355cac794/a8fc90c87bb8ff2355cac794438.m3u8",
-          "group": "การ์ตูน",
-          "year": "2025",
-          "rating": "6.6 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Lego Disney Princess Villains Unite (2025)"
-        },
-        {
-          "id": "dd94afcadb4e1ecd6c402fe7799ac595",
-          "name": "Lulu Is a Rhinoceros (2025)",
-          "logo": "https://image.tmdb.org/t/p/w500/h6cxDZb5JRzaMZP37AfGPlHfCnm.jpg",
-          "url": "https://main.24playerhd.com/m3u8/9986ac865f120422e0b7c342/9986ac865f120422e0b7c342438.m3u8",
-          "group": "การ์ตูน",
-          "year": "2025",
-          "rating": "6.8 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Lulu Is a Rhinoceros (2025)"
-        },
-        {
-          "id": "a8ad40ccffc6458c5198ab34eb3596ce",
-          "name": "Me & Roboco- The Movie (2025) ผมกับโรโบโกะ หุ่นเมดพันธุ์ซ่า เดอะมูฟวี่",
-          "logo": "https://image.tmdb.org/t/p/w500/42vqRpZFCEepFIesludCFLZmUP7.jpg",
-          "url": "https://main.24playerhd.com/m3u8/1ffc05b13d6607c16494eca2/1ffc05b13d6607c16494eca2438.m3u8",
-          "group": "การ์ตูน",
-          "year": "2025",
-          "rating": "8.7 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Me & Roboco- The Movie (2025) ผมกับโรโบโกะ หุ่นเมดพันธุ์ซ่า เดอะมูฟวี่"
-        },
-        {
-          "id": "dcbdb241048ecd2e03741c4337ae31b0",
-          "name": "Pui Pui Molcar the Movie Molmax (2024) ปุยปุย มอลก้า เดอะ มูฟวี่ มอลแม็กซ์",
-          "logo": "https://image.tmdb.org/t/p/w500/hFaLQGnlY7REAG9WNMWyZaqcBeJ.jpg",
-          "url": "https://main.24playerhd.com/m3u8/ce8fa2e97d961b6b6b93639f/ce8fa2e97d961b6b6b93639f438.m3u8",
-          "group": "การ์ตูน",
-          "year": "2024",
-          "rating": "4.5 / 10",
-          "tags": [],
-          "isLive": false,
-          "isEmbed": false,
-          "displayName": "Pui Pui Molcar the Movie Molmax (2024) ปุยปุย มอลก้า เดอะ มูฟวี่ มอลแม็กซ์"
-        }
-      ],
-      "มาใหม่": [
-        {
-          "id": "2a46b3423246b86cca6839c2d04f15e4",
-          "name": "Other Mommy (2026) แม่…หลอน",
-          "logo": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109825/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
-          "releaseDate": "2026-10-07",
-          "rating": "6.5 / 10",
-          "genres": "สยองขวัญ",
-          "displayName": "Other Mommy (2026) แม่…หลอน"
-        },
-        {
-          "id": "f28cc511539c76e0ab9967d4646af395",
-          "name": "Doing Life (2026) ชั่วชีวิต จากไทเลอร์ เพอร์รี",
-          "logo": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109735/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
-          "releaseDate": "2026-10-02",
-          "rating": "7.9 / 10",
-          "genres": "โรแมนติก, ดราม่า",
-          "displayName": "Doing Life (2026) ชั่วชีวิต จากไทเลอร์ เพอร์รี"
-        },
-        {
-          "id": "2358a2e8d60bbbf66495fdd9aabc4263",
-          "name": "The Cycle (2026) มันกลับมาหอน",
-          "logo": "https://25-hd.com/wp-content/uploads/2026/10/uF84PRwuWw6QOdVlkqLflSifP2m.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109732/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
-          "releaseDate": "2026-09-24",
-          "rating": "6.8 / 10",
-          "genres": "สยองขวัญ, ระทึกขวัญ, ลึกลับ",
-          "displayName": "The Cycle (2026) มันกลับมาหอน"
-        },
-        {
-          "id": "90d90ce0661ff8014213212533cb9788",
-          "name": "You+Me – Against the World (2026)",
-          "logo": "https://image.tmdb.org/t/p/w500/bAbBNVplg7h79sm94OyHeKk8Phz.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109595/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
-          "releaseDate": "2026-09-18",
-          "rating": "5.5 / 10",
-          "genres": "โรแมนติก, ดราม่า",
-          "displayName": "You+Me – Against the World (2026)"
-        },
-        {
-          "id": "49ed07d3603ba2c23c50eea3cf091c27",
-          "name": "The Uprising (2026)",
-          "logo": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-          "url": "https://hd25-playlists.9aofth.workers.dev/play/109699/master.m3u8",
-          "group": "หนังใหม่ 2006",
-          "year": "2026",
-          "releaseDate": "2026-09-10",
-          "rating": "7.7 / 10",
-          "genres": "แอ็คชั่น, ดราม่า, ประวัติศาสตร์",
-          "displayName": "The Uprising (2026)"
+          "displayName": "Chainsaw Man The Movie Reze Arc (2025) เชนซอว์ แมน เดอะ มูฟวี่ เรื่องราวของเรเซ่"
         }
       ]
     },
     "limits": {
       "ยอดนิยม": 20,
-      "18+": 20,
-      "หนังไทย": 20
+      "การ์ตูน": 20,
+      "ตลก": 20
     },
     "pages": [
       {
@@ -541,13 +341,6 @@
         "published": true
       },
       {
-        "id": "cartoon",
-        "title": "การ์ตูน",
-        "icon": "🎨",
-        "type": "category",
-        "published": true
-      },
-      {
         "id": "tv",
         "title": "รายการทีวี",
         "icon": "📡",
@@ -559,21 +352,28 @@
         "title": "กีฬา",
         "icon": "⚽",
         "type": "category",
-        "published": true
-      },
-      {
-        "id": "18+",
-        "title": "18+",
-        "icon": "🔞",
-        "type": "category",
         "published": false
       },
       {
-        "id": "หนังไทย",
-        "title": "หนังไทย",
+        "id": "ยอดนิยม",
+        "title": "ยอดนิยม",
         "icon": "✨",
         "type": "category",
         "published": false
+      },
+      {
+        "id": "การ์ตูน",
+        "title": "การ์ตูน",
+        "icon": "✨",
+        "type": "category",
+        "published": true
+      },
+      {
+        "id": "ตลก",
+        "title": "ตลก",
+        "icon": "✨",
+        "type": "category",
+        "published": true
       }
     ]
   },
@@ -581,10 +381,10 @@
     "all": "page-0.json",
     "movies": "page-1.json",
     "series": "page-2.json",
-    "cartoon": "page-3.json",
-    "tv": "page-4.json",
-    "sports": "page-5.json",
-    "18+": "page-6.json",
-    "หนังไทย": "page-7.json"
+    "tv": "page-3.json",
+    "sports": "page-4.json",
+    "ยอดนิยม": "page-5.json",
+    "การ์ตูน": "page-6.json",
+    "ตลก": "page-7.json"
   }
 }
