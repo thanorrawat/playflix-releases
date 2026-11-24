@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795497891304,
+  "generatedAt": 1795498437281,
   "menus": {
     "folders": {
       "tv": [
@@ -26,10 +26,8 @@
         "🇭.🇪.🇷.🇴 (Series-Indy)",
         "พากษ์ไทย#1"
       ],
-      "cartoon": [
-        "ดูหนังออนไลน์ HD"
-      ],
       "movies": [
+        "ดูหนังออนไลน์ HD",
         "ยอดนิยม",
         "หนัง HD",
         "หนังใหม่ 2006",
@@ -70,7 +68,6 @@
       "folders"
     ],
     "heroes": {
-      "movies": "3f8f28fd5e5c0928eb3311eb39355620",
       "series": "9b05eec492fa57934a928574f89b70c9",
       "tv": "438787521abaa3c708407a8fbe0ab028",
       "sports": "c803ebe2774b9d1373170836c239b5a0",
