@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": 1795481014973,
+  "generatedAt": 1795481191774,
   "menus": {
     "folders": {
       "movies": [
@@ -581,14 +581,14 @@
         "title": "18+",
         "icon": "🔞",
         "type": "category",
-        "published": true
+        "published": false
       },
       {
         "id": "หนังไทย",
         "title": "หนังไทย",
         "icon": "✨",
         "type": "category",
-        "published": true
+        "published": false
       }
     ]
   },
