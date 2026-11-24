@@ -98,7 +98,6 @@
         "2bd44da5011a6e041bb0508375e76d08",
         "1daf1b39131d8f5ff9fa8e0b9eb66c96",
         "5986627e29e70161c35c5c8f11b13d50",
-        "ed845ff92e2c16f9b19e94566de555fc",
         {
           "id": "210ed7b0c8c368d6d590f19ad15c450e",
           "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
@@ -182,6 +181,7 @@
       "title": "หนังเกาหลี",
       "items": [
         "ae17ac9082743aa16b92adb941b0dff7",
+        "4f51785722fa288c2005f8ec5a7f2649",
         "c6de2285e63e70f68216dffd1ce910aa",
         "1dc029134b7732779b64865fe6fb549d",
         "99c0e70cf14416d777ac269a07bbfd68",
@@ -336,7 +336,6 @@
           "2bd44da5011a6e041bb0508375e76d08",
           "1daf1b39131d8f5ff9fa8e0b9eb66c96",
           "5986627e29e70161c35c5c8f11b13d50",
-          "ed845ff92e2c16f9b19e94566de555fc",
           {
             "id": "210ed7b0c8c368d6d590f19ad15c450e",
             "name": "Resident Evil (2026) เรสซิเดนท์ อีวิล",
@@ -420,6 +419,7 @@
         "title": "หนังเกาหลี",
         "items": [
           "ae17ac9082743aa16b92adb941b0dff7",
+          "4f51785722fa288c2005f8ec5a7f2649",
           "c6de2285e63e70f68216dffd1ce910aa",
           "1dc029134b7732779b64865fe6fb549d",
           "99c0e70cf14416d777ac269a07bbfd68",
@@ -560,21 +560,7 @@
         "title": "หนังเข้าฉายใหม่ (ตามกำหนดฉาย)",
         "custom": true,
         "items": [
-          "0786d71b4bf90569729b1c03edcbeb82",
-          "4f51785722fa288c2005f8ec5a7f2649",
-          "647a5f84f7fee7e56247fd613dc744b3",
-          "120552974995a56a1fba5aa90f2fa77d",
-          "48ea16f7f556a55657dc58956112c579",
-          "887cbaa574188823313025adc427e613",
-          "a62e14f6eaf3a470ef1c06cd6fcc70da",
-          "4f06448c3f95235b5e79aeec33189d64",
-          "854ffabc5f67bdd9debcad8b1b7b4387",
-          "890bcf4ed692f024e648a480ee778702",
-          "905513c6a7ea35c1890c1cd714c6ae2b",
-          "67de2d2fdceaa4a7a25fbdbc4a14bcaf",
-          "f0d6e36678c43396960ed25e3f50eda5",
-          "be42a1d4936d89485f24d786cf072d30",
-          "242318b7027bbc306e48d9cb5af8de24",
+          "846eace489c56cb3eb9ebee4f2be4f3d",
           "2a46b3423246b86cca6839c2d04f15e4",
           "f28cc511539c76e0ab9967d4646af395",
           "2358a2e8d60bbbf66495fdd9aabc4263",
@@ -133892,22 +133878,12 @@
     "3fe541bb9b56fa0d7bb0f5bb0c3f7c51": {
       "name": "สาปเมือง (2026) Ghostfluencer",
       "logo": "https://25-hd.com/wp-content/uploads/2026/09/t9bwmdEIL0wF6nsUOo9jQZYsrW9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4dQvoSncw10aKeUUcj5rpR2vu62.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
-        "movies",
-        "หนังไทย"
+        "movies"
       ],
-      "rating": "5.5 / 10",
-      "year": "2026",
-      "cast": "พิจักขณา วงศารัตนศิลป์, บุญยเกียรติ วงษาแจ่ม, ภูริตา สุปินชุมภู, ธนเชษฐ์ นามวงศ์, Nattachot Sriponwaree, พัชร์ธีรัตน์ แหลมหลวง",
-      "overview": "เมื่อ “ผีสาวชาวเหนือ” จากร้อยกว่าปีก่อน อยากสร้างตำนานรักบทใหม่ ให้เป็นที่กล่าวขาน  ภารกิจตามหา “หมาเด็ก” จึงเริ่มขึ้น!",
-      "genres": "หนังรักโรแมนติก, ตลก, สยองขวัญ",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/109623/master.m3u8"
     },
     "ade9051309da385e761c985f6e888992": {
       "name": "Barbie (2023) บาร์บี้",
@@ -134462,22 +134438,12 @@
     "a62e14f6eaf3a470ef1c06cd6fcc70da": {
       "name": "โกฮัง..หัวใจโกโฮม (2026) Gohan",
       "logo": "https://25-hd.com/wp-content/uploads/2026/08/bUmlrkJe411RzdVKBKLbRSJChem.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gkb6yj4lRIkOQcLuni8V59YvKex.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
-        "movies",
-        "หนังไทย"
+        "movies"
       ],
-      "rating": "7.1 / 10",
-      "year": "2026",
-      "cast": "ยาสุชิ คิตะจิมา, ชาติชาย ชินศรี, Poe Mamhe Thar, นพพันธ์ บุญใหญ่, จินเจษฎ์ วรรธนะสิน, ต้นตะวัน ตันติเวชกุล",
-      "overview": "สุนัขจรจัด โกฮัง ได้ย้ายไปอยู่กับเจ้าของใหม่หลายรายในช่วงเวลา 10 ปี โดยเข้าไปมีส่วนสำคัญในชีวิตของวิศวกรวัยเกษียณ แม่บ้าน และสองหนุ่มสาวคู่รัก",
-      "genres": "หนังชีวิต",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/109266/master.m3u8"
     },
     "15f56b2106822988bf810391de6c177e": {
       "name": "ราคี (2026) The Stain",
@@ -134506,15 +134472,20 @@
       "logo": "https://25-hd.com/wp-content/uploads/2026/08/s1aqg31gINIu9iUcK8lfBlHNdxy-scaled-1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/pj9hWVWT7nZATGx6vomZRJIaI5E.jpg",
       "group": "หนังใหม่ 2006",
+      "groups": [
+        "หนังใหม่ 2006"
+      ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
-      "url": "https://hd25-playlists.9aofth.workers.dev/play/109257/master.m3u8",
       "rating": "4.0 / 10",
       "year": "2026",
+      "cast": "ธีรเดช เมธาวรายุทธ, ชาคริต แย้มนาม, เจลีลชา คัปปุน, เวนย์ ฟอลโคเนอร์, อัมรินทร์ นิติพน, รัญญา ศิยานนท์",
       "overview": "A man who decides to inherit the art of shamanism to exact personal revenge, leading to a series of terrifying events that change his life forever.",
       "genres": "สยองขวัญ, ระทึกขวัญ",
+      "metadataSource": "tmdb",
       "releaseDate": "2026-08-11"
     },
     "de84a06ceda977f13a1abb738802e713": {
@@ -135009,21 +134980,12 @@
     "647a5f84f7fee7e56247fd613dc744b3": {
       "name": "อ้ายต้าววเอวหวาน ระเบียบวาทะศิลป์ (2026) Mor Lam Rhythm",
       "logo": "https://25-hd.com/wp-content/uploads/2026/08/fCEe9ehLCjkctdRvHDTP5JoKia.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y2l2YsDVQIhNgsU46QiTzRPkXmn.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
-        "movies",
-        "หนังไทย"
+        "movies"
       ],
-      "year": "2026",
-      "cast": "ยุคลเดช ปัจฉิม, Minlaya Tangseabwong, Pakdee Pollum, สิทธิเดช บรรมณี, อภิเชษฐ์ เอติรัตนะ, Montien Detchtrakool",
-      "overview": "หยอง หนุ่มบ้าน ๆ ผู้ขยันและรักครอบครัว ใช้ชีวิตเรียบง่ายกับ ยิ้ม น้องสาวตัวเล็กที่ฝันอยากเป็นนางรำหมอลำให้ได้สักครั้งในชีวิต แต่โชคชะตากลับเล่นตลก เมื่อยิ้มล้มป่วยด้วยโรคร้าย ต้องใช้เงินก้อนใหญ่ในการรักษา หยองจึงตัดสินใจทำทุกอย่างเพื่อช่วยน้อง แม้จะต้องก้าวเข้าสู่โลกที่เขาไม่เคยคิดฝันมาก่อน",
-      "genres": "ดนตรี, ตลก, หนังชีวิต",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/109104/master.m3u8"
     },
     "c7bea8d1820775e33267ca44a5197289": {
       "name": "The Last House (2026) บ้านหลังสุดท้าย",
@@ -135373,8 +135335,7 @@
       ],
       "menu": "movies",
       "menus": [
-        "movies",
-        "หนังไทย"
+        "movies"
       ],
       "rating": "5.4 / 10",
       "year": "2026",
@@ -136824,22 +136785,9 @@
     },
     "890bcf4ed692f024e648a480ee778702": {
       "name": "ผีเข้า (2026) Possessed",
-      "logo": "https://image.tmdb.org/t/p/w500/nQP2qBDxFYhgTY1mmDRVOz7C0aA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ptBZVnF4cHnS7VdfCJ3iHWsYmOK.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2026/06/nQP2qBDxFYhgTY1mmDRVOz7C0aA.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
-      "menu": "movies",
-      "menus": [
-        "movies"
-      ],
-      "rating": "5.0 / 10",
-      "year": "2026",
-      "cast": "อิษยา ฮอสุวรรณ, Chayanit Sornkaewthammung, Karuna Looktumthong, ณัฐพล นามแก้ว, ธนาดล บัวระบัติ, Nattawat Srirakij",
-      "overview": "เรื่องราวของ 'นัท' พยาบาลสาวที่รู้สึกว่ามีบางอย่างกำลังคืบคลานเข้ามาและกัดกินคนที่อยู่รอบตัวของเธอ ภายใต้ความเชื่อของทุกคนที่เรียกว่า 'ผีเข้า'",
-      "genres": "สยองขวัญ",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/107984/master.m3u8"
     },
     "0462b967f11b77da3b96cf7b38c4505d": {
       "name": "The Legend Hunters (2026)",
@@ -137605,22 +137553,13 @@
     },
     "0786d71b4bf90569729b1c03edcbeb82": {
       "name": "Mortal Kombat II (2026) มอร์ทัล คอมแบท 2",
-      "logo": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ybmfvoIPxQ9Ivy2tEhi6JxufMJL.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2026/05/SfKxOf7Ttuy8ZsVRCpqXVMG24A.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "rating": "7.7 / 10",
-      "year": "2026",
-      "cast": "คาร์ล เออร์บัน, Adeline Rudolph, Ludi Lin, Jessica McNamee, Martyn Ford, Josh Lawson",
-      "overview": "ภาพยนตร์ภาคต่อของแฟรนไชส์วิดีโอเกมยอดนิยมที่กลับมาพร้อมความโหดเหี้ยมเต็มพิกัด ที่ครั้งนี้เหล่าแชมเปี้ยนขวัญใจแฟน ๆ ซึ่งรวมถึง จอห์นนี่ เคจ เอง ก็ต้องมาประจันหน้าในการต่อสู้ที่ไร้กฎเกณฑ์และเต็มไปด้วยเลือดเนื้อ เพื่อโค่นล้มการปกครองอันมืดมิดของ เชา คาห์น ที่กำลังคุกคามการดำรงอยู่ของเอิร์ทเรล์มและผู้พิทักษ์ทั้งหลาย",
-      "genres": "บู๊, จินตนาการ, ผจญ",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/107667/master.m3u8"
     },
     "e4d16c9783596793658d6a53168307b6": {
       "name": "เลือดรักนักฆ่า (2026) My Dearest Assassin",
@@ -138547,20 +138486,15 @@
       "logo": "https://25-hd.com/wp-content/uploads/2026/03/hw0fPqJCfDgSs9Nqzp2AVbsoR3u-1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yonNGnKweIBwBqpZOIQfpzBh7Dj.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
-        "movies",
-        "หนังไทย"
+        "movies"
       ],
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/107102/master.m3u8",
       "rating": "5.5 / 10",
       "year": "2026",
-      "cast": "อิลฮงมิน, อัจฉรีย์ ศรีสุข, เพ็ชรทาย วงษ์คำเหลา, สมพงษ์ คุนาประถม, สิทธิเดช บรรมณี, สวนีย์ อุทุมมา",
       "overview": "A female parade-band singer and the backbone of her family faces a life in ruins when she is kicked out of the band, dumped by her boyfriend, and overwhelmed by debt. She decides to travel to South Korea with her best friend to search for a new way to survive.",
-      "genres": "ตลก, หนังรักโรแมนติก",
-      "metadataSource": "tmdb",
+      "genres": "ตลก, โรแมนติก",
       "releaseDate": "2026-03-26"
     },
     "d304df0551843bc8bcc1eb20e77a59f8": {
@@ -138671,23 +138605,9 @@
     },
     "854ffabc5f67bdd9debcad8b1b7b4387": {
       "name": "เส้นตาย สายลวง (2026) The Red Line",
-      "logo": "https://image.tmdb.org/t/p/w500/at29WEJ7lmFua6eWz79B6XFhfu2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qbbx3NDw6FrtQSrKdxn9n72xJzO.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2026/03/at29WEJ7lmFua6eWz79B6XFhfu2-1.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
-      "menu": "movies",
-      "menus": [
-        "movies",
-        "หนังไทย"
-      ],
-      "rating": "6.9 / 10",
-      "year": "2026",
-      "cast": "นิษฐา จิรยั่งยืน, Esther Supreeleela, ชุติมา มะโหละกุล, ทศพล หมายสุข, ต้นหน ตันติเวชกุล, Paowalee Pornpimol",
-      "overview": "อร อดีตนักการตลาดมือดีที่ผันตัวมาเป็นแม่บ้าน แต่พลาดท่าถูกแก๊งคอลเซ็นเตอร์หลอกเอาเงินเก็บก้อนใหญ่ของครอบครัวไป โดยมีฉากหลังเป็นช่วงเวลาก่อนที่จะเกิดสถานการณ์ขัดแย้งบริเวณชายแดน โดยอรต้องเผชิญความจริงอันโหดร้าย เมื่อพบว่ากระบวนการยุติธรรมไม่อาจทวงคืนสิ่งที่สูญเสียไปได้ เมื่อความสิ้นหวังกลายเป็นความโกรธแค้น เธอจึงร่วมมือกับเหยื่อรายอื่น ๆ ทั้ง ฝ้าย นักกายภาพบำบัดที่สูญเสียเงินออมเพื่อความฝัน และ แวววาว ออนไลน์ที่อาม่าของเธอถูกหลอกเอาเงินเก็บทั้งชีวิตไป เพื่อตามล่า อู๊ด หัวหน้าแก๊งคอลเซ็นเตอร์ผู้อยู่เบื้องหลังการหลอกลวงทั้งหมด โดยได้รับความช่วยเหลือจาก โอเจ แฮกเกอร์มือฉมัง เกิดเป็นปฏิบัติการสุดอันตรายในการไล่ล่าแก๊งอาชญากรรมเพื่อทวงทุกสิ่งที่เสียไปกลับคืนมา",
-      "genres": "ระทึกขวัญ, อาชญากรรม, หนังชีวิต",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/107011/master.m3u8"
     },
     "be990e18adb0dd530c01f63eb502472d": {
       "name": "Swords of Legends: Soul and Blade (2026) กระบี่แห่งตำนาน: จิตวิญญาณและคมดาบ",
@@ -140369,19 +140289,14 @@
       "name": "สรรพลี้หวน (2026) The Spoonerism",
       "logo": "https://image.tmdb.org/t/p/w500/Q0CQDyF1uZgXjRG6zpBmT1bKEd.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
-        "movies",
-        "หนังไทย"
+        "movies"
       ],
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/100628/master.m3u8",
       "year": "2026",
-      "cast": "สิงหา สิทธินนท์ โรจนเมธากุล, Fabriccio Paulo, Philippa Rinlanee Deacon, ชลาทิศ ตันติวุฒิ, เอกชัย ศรีวิชัย, ผดุง ทรงแสง",
       "overview": "A fourth-year university student was stressed about finding a play for his graduation project because no matter how hard he tried, he couldn’t come up with any ideas. Then he remembered the story Sappaleehuan, so he decided to adapt it for his stage performance, as he was from the South and very familiar with the tale.",
-      "genres": "ตลก, หนังรักโรแมนติก",
-      "metadataSource": "tmdb",
+      "genres": "ตลก, โรแมนติก",
       "releaseDate": "2026-02-05"
     },
     "c3b7490ceec01973fada2b650eacc543": {
@@ -140582,22 +140497,13 @@
     },
     "4f06448c3f95235b5e79aeec33189d64": {
       "name": "A Letter to My Youth (2026) จดหมายถึงฉันในวัยเยาว์",
-      "logo": "https://image.tmdb.org/t/p/w500/xxwgHtSCcUeo21jwui1i2KYKhr9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2026/02/iqrp25kOrskrFDOKkKQWhFkI69e-1.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "rating": "7.9 / 10",
-      "year": "2026",
-      "cast": "Millo Taslim, Agus Wibowo, Kathleen Thomas, Willem Bevers, Verdi Solaiman, Aqilla Herby",
-      "overview": "วัยรุ่นหัวขบถและผู้ดูแลที่เงียบขรึมสานความผูกพันโดยไม่คาดคิดในสถานเลี้ยงเด็กกำพร้า ขณะที่ทั้งคู่พยายามเดินหน้าต่อและทำใจยอมรับอดีตอันเจ็บปวดของตัวเอง",
-      "genres": "หนังชีวิต",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/90780/master.m3u8"
     },
     "6dd96c74487e788afa1c1dc82d2213e7": {
       "name": "Send Help (2026) โปรดส่งใครมาช่วยฉันที",
@@ -140656,23 +140562,9 @@
     },
     "905513c6a7ea35c1890c1cd714c6ae2b": {
       "name": "เดี่ยว สติล อะไลฟ์ (2026) Deaw Still Alive",
-      "logo": "https://image.tmdb.org/t/p/w500/FEnl9oWLFmkBe0H5hNzYCENCy6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4qTFzhQNJAXfPHTgLZYo26ejyLo.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2026/01/FEnl9oWLFmkBe0H5hNzYCENCy6.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
-      "menu": "movies",
-      "menus": [
-        "movies",
-        "หนังไทย"
-      ],
-      "rating": "7.0 / 10",
-      "year": "2026",
-      "cast": "อุดม แต้พานิช",
-      "overview": "อุดม แต้พานิช ขึ้นเวทีจับไมค์แชร์ชีวิตวายป่วง ตั้งแต่ประสบการณ์มูเตลู พิธีกรรมสายดำ ไปจนถึงวีรกรรมตอนไปเกาหลีอย่างไม่มีกั๊ก ในผลงานสแตนด์อัพคอมเมดี้ชุดนี้",
-      "genres": "ตลก",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/90749/master.m3u8"
     },
     "2abeb308f10788c74c677c88e8b8b1b5": {
       "name": "Heer Express (2025)",
@@ -141256,22 +141148,13 @@
     },
     "be42a1d4936d89485f24d786cf072d30": {
       "name": "Spiderhead (2022) สไปเดอร์เฮด",
-      "logo": "https://image.tmdb.org/t/p/w500/7rbCyHudkc72viAl77srTWYcdH3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ulkWS7Atv0vv33KVCSAmNizAmJd.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2026/01/7rbCyHudkc72viAl77srTWYcdH3.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "rating": "5.8 / 10",
-      "year": "2022",
-      "cast": "คริส เฮมส์เวิร์ท, ไมลส์ เทลเลอร์, เจอร์นี สโมลเล็ตต์, Mark Paguio, Tess Haubrich, BeBe Bettencourt",
-      "overview": "นักโทษในเรือนจำล้ำเทคโนโลยีเริ่มสงสัยในจุดประสงค์ของอัจฉริยะแห่งวงการเภสัชกรรม ที่ใช้เขาเป็นหนูทดลองยาปรับอารมณ์ขนานใหม่",
-      "genres": "นิยายวิทยาศาสตร์, ระทึกขวัญ",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/90501/master.m3u8"
     },
     "5d3958f06065e7b37054d500105ec6a5": {
       "name": "Greenland (2020) นาทีระทึก..วันสิ้นโลก",
@@ -144062,20 +143945,15 @@
       "logo": "https://image.tmdb.org/t/p/w500/aC3ojoL7aEilCS0bZJVOwPBM0d0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9qu3iKGeayx6u9DUzu9dN6SYOpJ.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
-        "movies",
-        "หนังไทย"
+        "movies"
       ],
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/89388/master.m3u8",
       "rating": "4.3 / 10",
       "year": "2026",
-      "cast": "ผดุง ทรงแสง, ชูศักดิ์ เอี่ยมสุข, กาจบัณฑิต ใจดี, จักริน  ภูริพัฒน์, นิภาภรณ์ ฐิติธนการ, องอาจ เจียมเจริญพรกุล",
       "overview": "Once upon a time in a land far, far away, Tang Sanzang set out on a journey with Monkey King Jazz and Sha Wujing—However, one member was missing from their group: Zhu Baji.",
-      "genres": "ตลก, จินตนาการ, ผจญ",
-      "metadataSource": "tmdb",
+      "genres": "ตลก, แฟนตาซี, ผจญภัย",
       "releaseDate": "2026-04-30"
     },
     "528dd0a19bc119d392eee36d1a072d56": {
@@ -148528,22 +148406,13 @@
     },
     "242318b7027bbc306e48d9cb5af8de24": {
       "name": "Kiss of the Spider Woman (2025)",
-      "logo": "https://image.tmdb.org/t/p/w500/lbrn4gOjYKrLrINn3uUJRlV2NZO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sQSKR3iDCtayRTN2Nr9LiRYy6TT.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2025/10/c8zDeDq0Uatjly6Fh4ycmWuoLYy-scaled-2.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "rating": "7.0 / 10",
-      "year": "1985",
-      "cast": "วิลเลียม เฮิร์ต, Raúl Juliá, Sonia Braga, José Lewgoy, Milton Gonçalves, Miriam Pires",
-      "overview": "The story of two radically different men thrown together in a Latin American prison cell. One is Valentin, a journalist being tortured for his political beliefs. The other is Molina, a gay window-dresser who fills their lonely nights by spinning romantic fantasies drawn from memories of old movies.",
-      "genres": "หนังชีวิต",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/69827/master.m3u8"
     },
     "1675e00d6a2b73b3c0235378aaa88f0c": {
       "name": "Brownsville Bred (2025)",
@@ -153521,7 +153390,8 @@
       ],
       "menu": "movies",
       "menus": [
-        "movies"
+        "movies",
+        "หนังไทย"
       ],
       "rating": "5.3 / 10",
       "year": "2006",
@@ -154665,22 +154535,13 @@
     },
     "67de2d2fdceaa4a7a25fbdbc4a14bcaf": {
       "name": "The Spiderwick Chronicles (2008) ตำนานสไปเดอร์วิก",
-      "logo": "https://image.tmdb.org/t/p/w500/mIfvcBxsOoD2xOsrIhLOZnJWXO6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cVfaHnjOOS5qX8z10qnBsslq2Oi.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2025/08/f0V7Hc6uv7aSVD1Ojf75F8vlOxC-scaled-2.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "rating": "6.7 / 10",
-      "year": "2008",
-      "cast": "เฟรดดี ไฮมอร์, ซาร่าห์ โบลเกอร์, ดวิด สเตรทธาร์น, Mary-Louise Parker, Nick Nolte, Joan Plowright",
-      "overview": "สองพี่น้องฝาแฝดต้องย้ายจากเมืองมาอยู่คฤหาสน์ที่ทรุดโทรมในชนบท ทั้งสองปรับตัวอย่างหนักโดยเฉพาะอย่างยิ่งหลังจากหลุดเข้าไปในโลกมหัศจรรย์แห่งเวทมนตร์",
-      "genres": "ครอบครัว, ผจญ, จินตนาการ, บู๊, หนังชีวิต",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/60898/master.m3u8"
     },
     "2b86f25aa07618aa65865d0e8c631b38": {
       "name": "The Running Man (1987) คนเหล็กท้าชนนรก",
@@ -160333,22 +160194,13 @@
     },
     "f0d6e36678c43396960ed25e3f50eda5": {
       "name": "The Girl in the Spider’s Web (2018) พยัคฆ์สาวล่ารหัสใยมรณะ",
-      "logo": "https://image.tmdb.org/t/p/w500/74tdEZyxrycjdD2kbgQizIKHCgE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ejmwCnlgWXkpDLsrhsnB8Mn6dcu.jpg",
+      "logo": "https://25-hd.com/wp-content/uploads/2025/06/74tdEZyxrycjdD2kbgQizIKHCgE-2.jpg",
       "group": "หนังใหม่ 2006",
-      "groups": [
-        "หนังใหม่ 2006"
-      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "rating": "6.1 / 10",
-      "year": "2018",
-      "cast": "Claire Foy, Sverrir Gudnason, LaKeith Stanfield, Sylvia Hoeks, Stephen Merchant, คริสโตเฟอร์ คอนเวรี่",
-      "overview": "พยัคฆ์สาวล่ารหัสใยมรณะ ดัดแปลงจากนิยายชุดขายดี Millennium ที่เขียนโดย สตีก ลาร์สัน โดยภาคนี้จะได้ แคลร์ ฟอย นักแสดงหญิงเจ้าของรางวัลลูกโลกทองคำจากเรื่อง The Crown มารับบทเป็น ลิสเบ็ธ ซาลันเดอร์ หรือ สาวรอยสักมังกร กำกับโดย เฟเด อัลวาเรซ ผู้เคยสร้างผลงานระทึกขวัญอย่าง Don’t Breathe!!!",
-      "genres": "บู๊, อาชญากรรม, ระทึกขวัญ",
-      "metadataSource": "tmdb"
+      "url": "https://hd25-playlists.9aofth.workers.dev/play/59712/master.m3u8"
     },
     "79973652d2c611ceacad1302d6a0c055": {
       "name": "The Exorcism of Emily Rose (2005) พลิกปมอาถรรพ์สยองโลก",
