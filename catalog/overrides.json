@@ -111,7 +111,10 @@
       "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
       "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
       "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
-      "Play-HD หนังใหม่"
+      "Play-HD หนังใหม่",
+      "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย"
     ]
   },
   "hidden": {
@@ -1243,17 +1246,31 @@
       "custom": true,
       "items": [
         {
-          "id": "c86e1ac16c78d2ca104d07d0eead0ce1",
-          "name": "23.5 - องศาที่โลกเอียง (2024)",
-          "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4886/20240319131933djhc.jpg",
-          "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4886/video/16642/hls/movie_3.m3u8",
+          "id": "7450c7e3c3d2c9684a8d9ee491dfdc52",
+          "name": "The Protector 1",
+          "logo": "https://play-hd.com/images/movie/3i0kBmRjAxEAbYJoYeaX1R9Uf8Ef3pq.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/The.Protector/The.Protector.S01E01.mp4/playlist.m3u8",
           "group": "ซีรีส์ที่รวมแล้ว",
           "year": "",
           "rating": "",
           "isSeries": true,
-          "seriesTitle": "23.5 - องศาที่โลกเอียง (2024)",
-          "episode": "ตอนที่ 1 (2024)",
-          "episodeCount": 12,
+          "seriesTitle": "The Protector 1",
+          "episode": "ตอนที่ 1",
+          "episodeCount": 10,
+          "tags": []
+        },
+        {
+          "id": "df6c013baa90b56eb20dbbb71f88ece5",
+          "name": "The Last Kingdom Season 1 (2015) เดอะ ลาสต์ คิงดอม ซีซั่น 1",
+          "logo": "https://play-hd.com/images/movie/2z0nTcj9vDPho9VvnXwOs6HUiHHfnWe.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Thelastkingdom.S01e01.mp4/playlist.m3u8",
+          "group": "ซีรีส์ที่รวมแล้ว",
+          "year": "",
+          "rating": "",
+          "isSeries": true,
+          "seriesTitle": "The Last Kingdom Season 1 (2015) เดอะ ลาสต์ คิงดอม ซีซั่น 1",
+          "episode": "ตอนที่ 01 (2015)",
+          "episodeCount": 8,
           "tags": []
         },
         {
@@ -1271,6 +1288,48 @@
           "tags": []
         },
         {
+          "id": "e8f8ab3a0a0279bdf129e7ccf4547e59",
+          "name": "Sex/Life",
+          "logo": "https://play-hd.com/images/movie/sv-SexLife-Comedy-78ce75.webp",
+          "url": "https://server4.kaibannpongmungtai.top/lenhd.com/3-ssd/series/sexlife/Sex.Life.2021.S01E01.mp4/playlist.m3u8",
+          "group": "ซีรีส์ที่รวมแล้ว",
+          "year": "",
+          "rating": "",
+          "isSeries": true,
+          "seriesTitle": "Sex/Life",
+          "episode": "ตอนที่ 1",
+          "episodeCount": 8,
+          "tags": []
+        },
+        {
+          "id": "f533c52920d106a21cce9be8a93019ca",
+          "name": "NCIS เอ็นซีไอเอส: หน่วยสืบสวนคดีเดือด Season 20 (2022) พากย์ไทย",
+          "logo": "https://play-hd.com/images/movie/4LJ8fZqmpeNcMj3kI7IZkNEwdnPH3i0.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/NCIS.S20E01.mp4/playlist.m3u8",
+          "group": "ซีรีส์ที่รวมแล้ว",
+          "year": "",
+          "rating": "",
+          "isSeries": true,
+          "seriesTitle": "NCIS เอ็นซีไอเอส: หน่วยสืบสวนคดีเดือด Season 20 (2022) พากย์ไทย",
+          "episode": "ตอนที่ 01 (2022)",
+          "episodeCount": 22,
+          "tags": []
+        },
+        {
+          "id": "33624a5139352ae52497d5de7448a6cf",
+          "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย",
+          "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+          "url": "https://hls.animeindy.com:8443/vid/oH8YsX9X/video.mp4/playlist.m3u8",
+          "group": "ซีรีส์ที่รวมแล้ว",
+          "year": "",
+          "rating": "",
+          "isSeries": true,
+          "seriesTitle": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย",
+          "episode": "ตอนที่ 1",
+          "episodeCount": 10,
+          "tags": []
+        },
+        {
           "id": "0b15c70b7ff382e3a481b7e71ff125ba",
           "name": "19th Floor - ชั้นที่ 19 (2024)",
           "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4822/202402271507097c2F.jpg",
@@ -1285,20 +1344,6 @@
           "tags": []
         },
         {
-          "id": "d5a1d3c7a7a29f8a8fe830ba5517fef3",
-          "name": "007 Road to a Million (2023)",
-          "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4821/20240227131645K0jy.jpg",
-          "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4821/video/16138/hls/movie_3.m3u8",
-          "group": "ซีรีส์ที่รวมแล้ว",
-          "year": "2023",
-          "rating": "7.1 / 10",
-          "isSeries": true,
-          "seriesTitle": "007 Road to a Million (2023)",
-          "episode": "ตอนที่ 1 (2023)",
-          "episodeCount": 8,
-          "tags": []
-        },
-        {
           "id": "aa53cec21bcbf4d9fa18ae1cf1aadf12",
           "name": "3 Body Problem - ดาวซานถี่ อุบัติการณ์สงครามล้างโลก (2024)",
           "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4935/20240321180513pdy3.jpg",
@@ -1310,132 +1355,6 @@
           "seriesTitle": "3 Body Problem - ดาวซานถี่ อุบัติการณ์สงครามล้างโลก (2024)",
           "episode": "ตอนที่ 1 (2024)",
           "episodeCount": 8,
-          "tags": []
-        },
-        {
-          "id": "98043a4fcb43917af07a1bd237561f18",
-          "name": "ดูซีรี่ย์ ปลอมมาเรียนเนียนมาสืบ Undercover High School (2568) ซับไทย-พากย์ไทย EP.1- 12 จบ",
-          "logo": "https://flixmono2.com/wp-content/uploads/2025/02/15646456-200x300.jpg",
-          "url": "https://torbo007.com/embed/f68fc8393c5889517a8504c04a652c2e",
-          "group": "ซีรีส์",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "3cf8392dd9e119d71977753d65fb7588",
-          "name": "ดูซีรี่ย์ บอสตัวร้าย นายยอดรัก My Dearest Nemesis (2025) EP.1-12 จบ (ซับไทย-",
-          "logo": "https://flixmono2.com/wp-content/uploads/2025/02/13123213123-200x300.jpg",
-          "url": "https://torbo007.com/embed/b42d2af0c767a8b95a7f25f5df1e7137",
-          "group": "ซีรีส์",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "723b8519d3d39738dd078372eea664e1",
-          "name": "ดูซีรี่ย์ สวยต้องสาป The Witch (2025) ซับไทย-พากย์ไทย EP.1-10 จบ",
-          "logo": "https://flixmono2.com/wp-content/uploads/2025/02/321312312312-200x300.gif",
-          "url": "https://torbo007.com/embed/7d05468385396faa8ff65886e385d8b5",
-          "group": "ซีรีส์",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "f5b6433c873a4b62b850989339965fd2",
-          "name": "ดูซีรี่ย์ House of The Dragon 2 ตระกูลแห่งมังกร ซีซั่น 2 (2024) ซับไทย-พากย์ไทย EP.1-8 จบ",
-          "logo": "https://flixmono2.com/wp-content/uploads/2024/06/1421424-1-200x300.png",
-          "url": "https://torbo007.com/embed/38941cb16c09002aa05ffd92d02af05a",
-          "group": "ซีรีส์",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "ea9213b44cf2bf2248154c831d20cb54",
-          "name": "The Dragon Hunting Well (2020)",
-          "logo": "https://play-hd.com/images/movie/sv-The-Dragon-Hunting-Well-2020-Asia-Movie-6def0a.webp",
-          "url": "https://server4.kaibannpongmungtai.top/lenhd.com/3-ssd/movie/store-2000/The.Dragon.Hunting.Well[2020].mp4/playlist.m3u8",
-          "group": "Play-HD หนังใหม่",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "503491da31ad7e6d0ad5e261a9f4f25e",
-          "name": "แม่บ้านของใจ จบเรื่อง",
-          "logo": "https://play-hd.com/images/movie/g880FY8HL3Kn8AnFp8F5IsZTVjqSaXs.png",
-          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/แม่บ้านของใจ.mp4/playlist.m3u8",
-          "group": "Play-HD หนังใหม่",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "7cf672efd8172a26dcb18ff10d362f84",
-          "name": "ดูซีรี่ย์ ปรปักษ์จำนน The Prisoner of Beauty (2025) ซับไทย-พากย์ไทย EP.1-36 จบ",
-          "logo": "https://flixmono2.com/wp-content/uploads/2025/05/5445545-200x300.png",
-          "url": "https://torbo007.com/embed/c8fff6c1abca0e94f5d331e425c3184f\\t",
-          "group": "ซีรีส์",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "44d072084fe6faf30642ac56a9493e14",
-          "name": "ดูซีรี่ย์ หอมกลิ่นพันลี้ The Eternal Fragrance (2026) พากย์ไทย-ซับไทย EP1-33 (จบ)",
-          "logo": "https://flixmono2.com/wp-content/uploads/2025/04/ดูซีรี่ย์-หอมกลิ่นพันลี้-The-Eternal-Fragrance-2026-พากย์ไทย-ซับไทย-EP1-40-จบ-1-214x300.jpg",
-          "url": "https://torbo007.com/embed/a43f57c5f6dc3fde2c7d58f8b4060593",
-          "group": "ซีรีส์",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
-          "tags": []
-        },
-        {
-          "id": "ff076a8a355b4d219c2272e5cd785807",
-          "name": "ดูซีรี่ย์ ดับแค้นไร้ปรานี Mercy for None (2025) พากย์ไทย EP.1-7 จบ",
-          "logo": "https://flixmono2.com/wp-content/uploads/2025/06/546546546-200x300.jpg",
-          "url": "https://torbo007.com/embed/800c3bd1b1249c750db84f499d8614ce",
-          "group": "ซีรีส์",
-          "year": "",
-          "rating": "",
-          "isSeries": false,
-          "seriesTitle": "",
-          "episode": "",
-          "episodeCount": 0,
           "tags": []
         }
       ]
@@ -2096,17 +2015,31 @@
         "custom": true,
         "items": [
           {
-            "id": "c86e1ac16c78d2ca104d07d0eead0ce1",
-            "name": "23.5 - องศาที่โลกเอียง (2024)",
-            "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4886/20240319131933djhc.jpg",
-            "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4886/video/16642/hls/movie_3.m3u8",
+            "id": "7450c7e3c3d2c9684a8d9ee491dfdc52",
+            "name": "The Protector 1",
+            "logo": "https://play-hd.com/images/movie/3i0kBmRjAxEAbYJoYeaX1R9Uf8Ef3pq.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/The.Protector/The.Protector.S01E01.mp4/playlist.m3u8",
             "group": "ซีรีส์ที่รวมแล้ว",
             "year": "",
             "rating": "",
             "isSeries": true,
-            "seriesTitle": "23.5 - องศาที่โลกเอียง (2024)",
-            "episode": "ตอนที่ 1 (2024)",
-            "episodeCount": 12,
+            "seriesTitle": "The Protector 1",
+            "episode": "ตอนที่ 1",
+            "episodeCount": 10,
+            "tags": []
+          },
+          {
+            "id": "df6c013baa90b56eb20dbbb71f88ece5",
+            "name": "The Last Kingdom Season 1 (2015) เดอะ ลาสต์ คิงดอม ซีซั่น 1",
+            "logo": "https://play-hd.com/images/movie/2z0nTcj9vDPho9VvnXwOs6HUiHHfnWe.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Thelastkingdom.S01e01.mp4/playlist.m3u8",
+            "group": "ซีรีส์ที่รวมแล้ว",
+            "year": "",
+            "rating": "",
+            "isSeries": true,
+            "seriesTitle": "The Last Kingdom Season 1 (2015) เดอะ ลาสต์ คิงดอม ซีซั่น 1",
+            "episode": "ตอนที่ 01 (2015)",
+            "episodeCount": 8,
             "tags": []
           },
           {
@@ -2124,6 +2057,48 @@
             "tags": []
           },
           {
+            "id": "e8f8ab3a0a0279bdf129e7ccf4547e59",
+            "name": "Sex/Life",
+            "logo": "https://play-hd.com/images/movie/sv-SexLife-Comedy-78ce75.webp",
+            "url": "https://server4.kaibannpongmungtai.top/lenhd.com/3-ssd/series/sexlife/Sex.Life.2021.S01E01.mp4/playlist.m3u8",
+            "group": "ซีรีส์ที่รวมแล้ว",
+            "year": "",
+            "rating": "",
+            "isSeries": true,
+            "seriesTitle": "Sex/Life",
+            "episode": "ตอนที่ 1",
+            "episodeCount": 8,
+            "tags": []
+          },
+          {
+            "id": "f533c52920d106a21cce9be8a93019ca",
+            "name": "NCIS เอ็นซีไอเอส: หน่วยสืบสวนคดีเดือด Season 20 (2022) พากย์ไทย",
+            "logo": "https://play-hd.com/images/movie/4LJ8fZqmpeNcMj3kI7IZkNEwdnPH3i0.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/NCIS.S20E01.mp4/playlist.m3u8",
+            "group": "ซีรีส์ที่รวมแล้ว",
+            "year": "",
+            "rating": "",
+            "isSeries": true,
+            "seriesTitle": "NCIS เอ็นซีไอเอส: หน่วยสืบสวนคดีเดือด Season 20 (2022) พากย์ไทย",
+            "episode": "ตอนที่ 01 (2022)",
+            "episodeCount": 22,
+            "tags": []
+          },
+          {
+            "id": "33624a5139352ae52497d5de7448a6cf",
+            "name": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย",
+            "logo": "https://image.tmdb.org/t/p/w500/dsDMGC6VH4f1SZj6kTSPI3V8cOr.jpg",
+            "url": "https://hls.animeindy.com:8443/vid/oH8YsX9X/video.mp4/playlist.m3u8",
+            "group": "ซีรีส์ที่รวมแล้ว",
+            "year": "",
+            "rating": "",
+            "isSeries": true,
+            "seriesTitle": "Nihon Chinbotsu 2020 ญี่ปุ่นวิปโยค 2020 ตอนที่ 1-10 พากย์ไทย",
+            "episode": "ตอนที่ 1",
+            "episodeCount": 10,
+            "tags": []
+          },
+          {
             "id": "0b15c70b7ff382e3a481b7e71ff125ba",
             "name": "19th Floor - ชั้นที่ 19 (2024)",
             "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4822/202402271507097c2F.jpg",
@@ -2138,20 +2113,6 @@
             "tags": []
           },
           {
-            "id": "d5a1d3c7a7a29f8a8fe830ba5517fef3",
-            "name": "007 Road to a Million (2023)",
-            "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4821/20240227131645K0jy.jpg",
-            "url": "https://movie.server-cdn-streaming.com/api/uploads/movie/4821/video/16138/hls/movie_3.m3u8",
-            "group": "ซีรีส์ที่รวมแล้ว",
-            "year": "2023",
-            "rating": "7.1 / 10",
-            "isSeries": true,
-            "seriesTitle": "007 Road to a Million (2023)",
-            "episode": "ตอนที่ 1 (2023)",
-            "episodeCount": 8,
-            "tags": []
-          },
-          {
             "id": "aa53cec21bcbf4d9fa18ae1cf1aadf12",
             "name": "3 Body Problem - ดาวซานถี่ อุบัติการณ์สงครามล้างโลก (2024)",
             "logo": "https://movie.server-cdn-streaming.com/api/uploads/movie/4935/20240321180513pdy3.jpg",
@@ -2163,132 +2124,6 @@
             "seriesTitle": "3 Body Problem - ดาวซานถี่ อุบัติการณ์สงครามล้างโลก (2024)",
             "episode": "ตอนที่ 1 (2024)",
             "episodeCount": 8,
-            "tags": []
-          },
-          {
-            "id": "98043a4fcb43917af07a1bd237561f18",
-            "name": "ดูซีรี่ย์ ปลอมมาเรียนเนียนมาสืบ Undercover High School (2568) ซับไทย-พากย์ไทย EP.1- 12 จบ",
-            "logo": "https://flixmono2.com/wp-content/uploads/2025/02/15646456-200x300.jpg",
-            "url": "https://torbo007.com/embed/f68fc8393c5889517a8504c04a652c2e",
-            "group": "ซีรีส์",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "3cf8392dd9e119d71977753d65fb7588",
-            "name": "ดูซีรี่ย์ บอสตัวร้าย นายยอดรัก My Dearest Nemesis (2025) EP.1-12 จบ (ซับไทย-",
-            "logo": "https://flixmono2.com/wp-content/uploads/2025/02/13123213123-200x300.jpg",
-            "url": "https://torbo007.com/embed/b42d2af0c767a8b95a7f25f5df1e7137",
-            "group": "ซีรีส์",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "723b8519d3d39738dd078372eea664e1",
-            "name": "ดูซีรี่ย์ สวยต้องสาป The Witch (2025) ซับไทย-พากย์ไทย EP.1-10 จบ",
-            "logo": "https://flixmono2.com/wp-content/uploads/2025/02/321312312312-200x300.gif",
-            "url": "https://torbo007.com/embed/7d05468385396faa8ff65886e385d8b5",
-            "group": "ซีรีส์",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "f5b6433c873a4b62b850989339965fd2",
-            "name": "ดูซีรี่ย์ House of The Dragon 2 ตระกูลแห่งมังกร ซีซั่น 2 (2024) ซับไทย-พากย์ไทย EP.1-8 จบ",
-            "logo": "https://flixmono2.com/wp-content/uploads/2024/06/1421424-1-200x300.png",
-            "url": "https://torbo007.com/embed/38941cb16c09002aa05ffd92d02af05a",
-            "group": "ซีรีส์",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "ea9213b44cf2bf2248154c831d20cb54",
-            "name": "The Dragon Hunting Well (2020)",
-            "logo": "https://play-hd.com/images/movie/sv-The-Dragon-Hunting-Well-2020-Asia-Movie-6def0a.webp",
-            "url": "https://server4.kaibannpongmungtai.top/lenhd.com/3-ssd/movie/store-2000/The.Dragon.Hunting.Well[2020].mp4/playlist.m3u8",
-            "group": "Play-HD หนังใหม่",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "503491da31ad7e6d0ad5e261a9f4f25e",
-            "name": "แม่บ้านของใจ จบเรื่อง",
-            "logo": "https://play-hd.com/images/movie/g880FY8HL3Kn8AnFp8F5IsZTVjqSaXs.png",
-            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/แม่บ้านของใจ.mp4/playlist.m3u8",
-            "group": "Play-HD หนังใหม่",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "7cf672efd8172a26dcb18ff10d362f84",
-            "name": "ดูซีรี่ย์ ปรปักษ์จำนน The Prisoner of Beauty (2025) ซับไทย-พากย์ไทย EP.1-36 จบ",
-            "logo": "https://flixmono2.com/wp-content/uploads/2025/05/5445545-200x300.png",
-            "url": "https://torbo007.com/embed/c8fff6c1abca0e94f5d331e425c3184f\\t",
-            "group": "ซีรีส์",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "44d072084fe6faf30642ac56a9493e14",
-            "name": "ดูซีรี่ย์ หอมกลิ่นพันลี้ The Eternal Fragrance (2026) พากย์ไทย-ซับไทย EP1-33 (จบ)",
-            "logo": "https://flixmono2.com/wp-content/uploads/2025/04/ดูซีรี่ย์-หอมกลิ่นพันลี้-The-Eternal-Fragrance-2026-พากย์ไทย-ซับไทย-EP1-40-จบ-1-214x300.jpg",
-            "url": "https://torbo007.com/embed/a43f57c5f6dc3fde2c7d58f8b4060593",
-            "group": "ซีรีส์",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "ff076a8a355b4d219c2272e5cd785807",
-            "name": "ดูซีรี่ย์ ดับแค้นไร้ปรานี Mercy for None (2025) พากย์ไทย EP.1-7 จบ",
-            "logo": "https://flixmono2.com/wp-content/uploads/2025/06/546546546-200x300.jpg",
-            "url": "https://torbo007.com/embed/800c3bd1b1249c750db84f499d8614ce",
-            "group": "ซีรีส์",
-            "year": "",
-            "rating": "",
-            "isSeries": false,
-            "seriesTitle": "",
-            "episode": "",
-            "episodeCount": 0,
             "tags": []
           }
         ]
@@ -478545,6 +478380,396 @@
         "series"
       ],
       "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster.S01e07.mp4/playlist.m3u8"
+    },
+    "182f830daf1644cd92dcf9d70779719e": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.01",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e01.mp4/playlist.m3u8"
+    },
+    "963b840c1b10170d4ea37c08c950d717": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.02",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e02.mp4/playlist.m3u8"
+    },
+    "e8f8e0d613f42d44dad6f74a0d43ac3e": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.03",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e03.mp4/playlist.m3u8"
+    },
+    "0924888330e8635d89b199b2c91a27fc": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.04",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e04.mp4/playlist.m3u8"
+    },
+    "a50bcfbfd544d708b977b76960f967a0": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.05",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e05.mp4/playlist.m3u8"
+    },
+    "b50a0f07877f640ead54ea063211919a": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.06",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e06.mp4/playlist.m3u8"
+    },
+    "82d871b34524346571d821a725d128a2": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.07",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e07.mp4/playlist.m3u8"
+    },
+    "572abf23c394f25bcbe7091dc12ba05b": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.08",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e08.mp4/playlist.m3u8"
+    },
+    "4c4ef0ec3442149c74f1e7cd4fd65740": {
+      "name": "Santita Season 1 (2026) ซานติตา - EP.09",
+      "logo": "https://play-hd.com/images/movie/xg5hN0cGewbmAtCdp8OQEItWt7dxKhg.jpg",
+      "group": "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Santita-S01e09.mp4/playlist.m3u8"
+    },
+    "3e1e9bf02736fc637aaff358d226419f": {
+      "name": "ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย - EP01",
+      "logo": "https://play-hd.com/images/movie/sv-ซ-ร-ย-เกาหล-Between-Steps-2026-ก-าวร-กท-ละน-ด-ซ-บไทย-Comedy-8e8d7e.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/BetweenStepsก้าวรักทีละนิด(2026)SUB-EP01.mp4/playlist.m3u8"
+    },
+    "461185015e9c20e6da13de4e95cac6eb": {
+      "name": "ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย - EP02",
+      "logo": "https://play-hd.com/images/movie/sv-ซ-ร-ย-เกาหล-Between-Steps-2026-ก-าวร-กท-ละน-ด-ซ-บไทย-Comedy-8e8d7e.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/BetweenStepsก้าวรักทีละนิด(2026)SUB-EP02.mp4/playlist.m3u8"
+    },
+    "83818bac966ae2462281be95cfb128e4": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP01",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP01.mp4/playlist.m3u8"
+    },
+    "8478b27046e04a372620b20f2de1da0d": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP02",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP02.mp4/playlist.m3u8"
+    },
+    "c0f32059a8850604a509ba8d3d22ad0e": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP03",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP03.mp4/playlist.m3u8"
+    },
+    "2346a365cb90bfd1bd80757291fd39d4": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP04",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP04.mp4/playlist.m3u8"
+    },
+    "d817936528fc5871a8b8fad290b1c7a1": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP05",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP05.mp4/playlist.m3u8"
+    },
+    "a0142439b1723e7563b78c42c994ab81": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP06",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP06.mp4/playlist.m3u8"
+    },
+    "f63048dd868776f3de6f6e2be214f2d6": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP07",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP07.mp4/playlist.m3u8"
+    },
+    "7b9bc3d4d18bdff242e7d821891d0886": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP08",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP08.mp4/playlist.m3u8"
+    },
+    "c40f179b2b93056317fb9e79b5731efc": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP09",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP09.mp4/playlist.m3u8"
+    },
+    "088d48d30f26fcc95d6ccd3ce7c276f4": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP10",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP10.mp4/playlist.m3u8"
+    },
+    "e8d7674723fc1ba89e586b3ee98d5e6a": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP11",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP11.mp4/playlist.m3u8"
+    },
+    "c940c9d12522b359e01ece7d1043ac1d": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP12",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP12.mp4/playlist.m3u8"
+    },
+    "42e5d3a233039510a28455830886f2d9": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP13",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP13.mp4/playlist.m3u8"
+    },
+    "e5052201d9cabe7515af23da003ddf05": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP14",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP14.mp4/playlist.m3u8"
+    },
+    "5b1a68a560e05f64e8c2eb57fb466d2a": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP15",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP15.mp4/playlist.m3u8"
+    },
+    "c62216dd33de944a8ede10b4d6744403": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP16",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP16.mp4/playlist.m3u8"
+    },
+    "bd3279169c461df02336268ea50ec10f": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP17",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP17.mp4/playlist.m3u8"
+    },
+    "a9eeea9bdabe4b8382fa270dd34a0a5d": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP18",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP18.mp4/playlist.m3u8"
+    },
+    "6db4dd529a6801fc2f8fe0371ec69eb4": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP19",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP19.mp4/playlist.m3u8"
+    },
+    "e52359adf906f4a82c4818f0dbe98c72": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP20",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP20.mp4/playlist.m3u8"
+    },
+    "6c2fd7af41e5bc3289c3040eb7dfe895": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP21",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP21.mp4/playlist.m3u8"
+    },
+    "8c0948c14d3d765b7b7f3e00f240e5fe": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP22",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP22.mp4/playlist.m3u8"
+    },
+    "c71b916d51ea394b2c465448dd7ba13a": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP23",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP23.mp4/playlist.m3u8"
+    },
+    "290ece1c1588f590ae246db9d2331fb4": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP24",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP24.mp4/playlist.m3u8"
+    },
+    "076bd27df7763ffa74fd5f5f8144162e": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP25",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP25.mp4/playlist.m3u8"
+    },
+    "9f2defc3a1e4d97726fae8d5d75ed4f7": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP26",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP26.mp4/playlist.m3u8"
+    },
+    "0670b285676c8edcb0de48cfb3ae86ed": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP27",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP27.mp4/playlist.m3u8"
+    },
+    "5c34ddeb78d7f5056392c4718425be9f": {
+      "name": "ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย - EP28 END",
+      "logo": "https://play-hd.com/images/movie/PNtEpNBrJSyXS73LDn0RFKBSbc6gDlr.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP28.mp4/playlist.m3u8"
     }
   },
   "categories": [
@@ -478642,7 +478867,10 @@
         "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
         "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
         "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
-        "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1"
+        "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+        "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย"
       ],
       "movies": [
         "ดูหนังออนไลน์ HD",
