@@ -55,7 +55,6 @@
       "🇭.🇪.🇷.🇴 (Series-Indy)",
       "พากษ์ไทย#1",
       "หนัง ผู้ใหญ่",
-      "Play-HD หนังใหม่",
       "Play-HD ซีรี่ย์ - ซีรี่ส์จีน Eight Hours (2022) 8 ชั่วโมงพิทักษ์รัก  | ซับไทย Ep.1-36 (จบ)",
       "ช่องหนัง ออนไลน์",
       "Play-HD ซีรี่ย์ - The 100 Season 5 - 100 ชีวิต กู้วิกฤตจักรวาล ปี 5",
@@ -98,7 +97,21 @@
       "Play-HD ซีรี่ย์ - Mushoku Tensei Isekai Ittara Honki Dasu (2021) เกิดชาตินี้พี่ต้องเทพ",
       "Play-HD ซีรี่ย์ - Rage Season 2 (2026)",
       "Play-HD ซีรี่ย์ - The Hunt (2026) Season 1",
-      "Play-HD ซีรี่ย์ - ซีรีย์วาย Love Destiny (2026) บุพเพสันนิวาส พากย์ไทย"
+      "Play-HD ซีรี่ย์ - ซีรีย์วาย Love Destiny (2026) บุพเพสันนิวาส พากย์ไทย",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท",
+      "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+      "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย",
+      "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
+      "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "Play-HD หนังใหม่"
     ]
   },
   "hidden": {
@@ -1384,20 +1397,6 @@
           "tags": []
         },
         {
-          "id": "ce2d8a05b05daf7c51b07f474893a1de",
-          "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย",
-          "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
-          "url": "https://hls.animeindy.com:8443/vid/m7V3C5DU/video.mp4/playlist.m3u8",
-          "group": "ซีรีส์ที่รวมแล้ว",
-          "year": "",
-          "rating": "",
-          "isSeries": true,
-          "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย",
-          "episode": "ตอนที่ 001",
-          "episodeCount": 98,
-          "tags": []
-        },
-        {
           "id": "7cf672efd8172a26dcb18ff10d362f84",
           "name": "ดูซีรี่ย์ ปรปักษ์จำนน The Prisoner of Beauty (2025) ซับไทย-พากย์ไทย EP.1-36 จบ",
           "logo": "https://flixmono2.com/wp-content/uploads/2025/05/5445545-200x300.png",
@@ -1581,16 +1580,127 @@
       ]
     },
     {
-      "group": "กีฬาและเรื่องราวน่าดู",
-      "title": "กีฬาและเรื่องราวน่าดู",
+      "group": "Play-HD หนังใหม่",
+      "title": "Play-HD หนังใหม่",
       "custom": true,
       "items": [
         {
-          "id": "c803ebe2774b9d1373170836c239b5a0",
-          "name": "มหัศจรรย์อเมริกันฟุตบอล",
-          "logo": "https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1671769012023.jpg",
-          "url": "https://nextstep-sooyp4zfonli.stream-playlist.byteark.com/streams/TADsUgiGrtqn/playlist.m3u8",
-          "group": "อาณาจักรแห่งนวัตกรรม™",
+          "id": "392b1bde84db4daee2f9bf0e3abad7c3",
+          "name": "Boulevard (2026)",
+          "logo": "https://play-hd.com/images/movie/v42wUw8lQxyWXdrQzcrPL60f6lLWtZ1.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Boulevard.2026x.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "5b591f5a41d1bd872597069025d42749",
+          "name": "I Can Only Imagine 2 (2026) บทเพลงแห่งศรัทธา 2",
+          "logo": "https://play-hd.com/images/movie/totkfu4uDCrxik3ljxue5VgRY0ptsys.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/I.Can.Only.Imagine.2.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "1cddafbe3615664f92b47f4b8ee103c1",
+          "name": "Ali G: Who Iz I (2026) อาลี จี: นี่ใครอะ",
+          "logo": "https://play-hd.com/images/movie/sv-Ali-G-Who-Iz-I-2026-อาล-จ-น-ใครอะ-Comedy-0628ff.webp",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Ali.G.Who.Iz.I.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "adb95124b297dc554442ea985af08a3b",
+          "name": "28 Years Later: The Bone Temple (2026) เชื้อเขมือบคน: วิหารซากกะโหลก",
+          "logo": "https://play-hd.com/images/movie/0jrgMIAgSG900ZNEMtHtDFgNW6C7X5T.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/28.Years.Later.The.Bone.Temple.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "f28b55875717df15a2d3c1096fc2f86e",
+          "name": "Ready or Not 2: Here I Come (2026) เกมพร้อมตาย ภาค 2",
+          "logo": "https://play-hd.com/images/movie/ON7O02x0jLIV66MlwEGSKX8z1uI3DIf.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Ready.Or.Not.2.Here.I.Come.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "263d823eca97448d89c5e33c70611581",
+          "name": "Your Fault: London (2026) คำขอโทษ: ลอนดอน 2",
+          "logo": "https://play-hd.com/images/movie/rBkfK8zxxTxQt4tssPnJUFzjNsUwFXr.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Your.Fault.London.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "cdbfee2c15bb3a0e94000bdb1275588a",
+          "name": "Seriously Single Too (2026) สาวโสดสนิทเหมือนกัน",
+          "logo": "https://play-hd.com/images/movie/gIVNYBKY0BnfTxkVnBcw9o2tGOsTv4e.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Seriously.Single.Too.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "caf0b4df020afc769dd46162451d5b97",
+          "name": "Onslaught (2026) แม่คลั่ง ล้างหน่วยนรก",
+          "logo": "https://play-hd.com/images/movie/NEM9cRTzHwck6O9FfFCB0JNzSEiIJHz.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Onslaught.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "62dba167cf5f8b2b0d35d260d24cf1ff",
+          "name": "Feel My Voice (2026) สัมผัสแห่งเสียง",
+          "logo": "https://play-hd.com/images/movie/QnfOl4BQguYF3jn5onZoXIiLKA81R21.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Feel.My.Voice.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "b9d478015bf9ffcab6736f7a70780ea5",
+          "name": "Pee Nak 5 (2026) พี่นาค 5",
+          "logo": "https://play-hd.com/images/movie/sv-Pee-Nak-5-2026-พ-นาค-5-fa77d5.webp",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PeeNak52026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "b70d39b415aa62855ed942d4206bb081",
+          "name": "Wonderful Nightmare (2026)",
+          "logo": "https://play-hd.com/images/movie/ROWx3wvWP64rzE6b3onpv70GFDgHG6r.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Wonderful.Nightmare.2025.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "82b574874549c7fdee375f4158faf894",
+          "name": "Pizza Movie (2026)",
+          "logo": "https://play-hd.com/images/movie/rWxeNil3HYnvZD0JEqkoXTLMVb5sMi3.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Pizza.Movie.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "082162adad7f9ba4a00a9bc74816704f",
+          "name": "GOAT (2026) คุณแพะหัวใจไม่แพ้",
+          "logo": "https://play-hd.com/images/movie/sv-GOAT-2026-ค-ณแพะห-วใจไม-แพ-2f6e92.webp",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Goat2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "eaa54dce43eab179fc7ccc022db23e89",
+          "name": "Animals (2026) เดรัจฉานสัญชาตญาณดิบ",
+          "logo": "https://play-hd.com/images/movie/GUJgonm3IN83bReQ14DKbp7i3zViea5.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Animals.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        },
+        {
+          "id": "3f86ef9167f2a3e0bfdc9ed93fc09af9",
+          "name": "Scary Movie 6 (2026) ยำหนังจี้ 6",
+          "logo": "https://play-hd.com/images/movie/boNuHjAwfsBtVJMCWb9Un4G2frgAXEM.jpg",
+          "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Scary.Movie.6.2026.mp4/playlist.m3u8",
+          "group": "Play-HD หนังใหม่"
+        }
+      ]
+    },
+    {
+      "group": "Digital TV",
+      "title": "Digital TV",
+      "items": [
+        {
+          "id": "901ed7dfb3fb8cfab85f7db206a60dbb",
+          "name": "CH8",
+          "logo": "https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
+          "url": "https://www.thaich8.com/live?var_link=720p",
+          "group": "Digital TV",
           "year": "",
           "rating": "",
           "isSeries": false,
@@ -1600,11 +1710,11 @@
           "tags": []
         },
         {
-          "id": "1a93316d7ed6a91d8e75d74625c96ebe",
-          "name": "ชีวิตสัตว์™ป่าแห่งแอฟริกา-แมวยักษ์",
-          "logo": "https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1669006045874.jpg",
-          "url": "https://nextstep-sooyp4zfonli.stream-playlist.byteark.com/streams/TADs4vk8B2sc/playlist.m3u8",
-          "group": "ชีวิตสัตว์™",
+          "id": "32483640680e7d9c1f84ea33648769c2",
+          "name": "TNN16",
+          "logo": "https://i.postimg.cc/Njsz7k39/IMG-1845.png",
+          "url": "https://live-us1.thaimomo.com/live-as/chtnn24-2/chunklist_w1680535099.m3u8",
+          "group": "Digital TV",
           "year": "",
           "rating": "",
           "isSeries": false,
@@ -1614,11 +1724,67 @@
           "tags": []
         },
         {
-          "id": "965dc9bd37abb9a099bb48170497a5e9",
-          "name": "BEIN SPORTS XTRA",
-          "logo": "https://i.imgur.com/rmswJVo.png",
-          "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-          "group": "Sport_one",
+          "id": "752462623aa387eeec5813f159ea2d1e",
+          "name": "GMM25",
+          "logo": "https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
+          "url": "https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8",
+          "group": "Digital TV",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "37d104de893ace3c14db449d846fe04f",
+          "name": "ONE31",
+          "logo": "https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",
+          "url": "https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8",
+          "group": "Digital TV",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "0c52423f89e9c72027b5d28f63c07475",
+          "name": "TopNews",
+          "logo": "https://i.postimg.cc/qMJ7ff5h/IMG-3145.png",
+          "url": "https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8",
+          "group": "Digital TV",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "6d032cbc5449ab3c8833548f99627cba",
+          "name": "Workpoint",
+          "logo": "https://i.postimg.cc/WzT9cJHK/IMG-2565.png",
+          "url": "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8",
+          "group": "Digital TV",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "e614b752664c4e212406a5eb6fc248d4",
+          "name": "Nation",
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
+          "url": "https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8",
+          "group": "Digital TV",
           "year": "",
           "rating": "",
           "isSeries": false,
@@ -1628,6 +1794,298 @@
           "tags": []
         }
       ]
+    },
+    {
+      "group": "การตูนย์อนิเมชั่น",
+      "title": "การตูนย์อนิเมชั่น",
+      "custom": true,
+      "items": [
+        {
+          "id": "53948853aebf5d38289d09bf8b169a65",
+          "name": "Swapped (2026) สลับร่างผจญภัย",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Swapped-2026-สลับร่างผจญภัย-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "2026",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "557679ead91e25946e83131c5d536f95",
+          "name": "Milky Subway The Galactic Limited Express to the Theater (2026) มิลกี้ ซับเวย์ รถไฟด่วนทะลุกาแล็กซี เดอะ มูฟวี่",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/06/Milky-Subway-The-Galactic-Limited-Express-to-the-Theater-2026-มิลกี้-ซับเวย์-รถไฟด่วนทะลุกาแล็กซี-เดอะ-มูฟวี่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "b57735ab0e1c2b7798887dfd8e11ed2c",
+          "name": "Hoppers (2026) เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Hoppers-2026-เด้งโดด-เปลี่ยนโหมดเป็นบีเวอร์-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "01716e57adaec54abfbbb4b6099f95ea",
+          "name": "Doraemon the Movie Nobita",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Doraemon-the-Movie-Nobitas-New-Dinosaur-2020-โดราเอมอน-เดอะมูฟวี่-ตอน-ไดโนเสาร์ตัวใหม่ของโนบิตะ-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "a85ae4e51bd1247b3d1a332c7fab6374",
+          "name": "GOAT (2026) คุณแพะหัวใจไม่แพ้",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/04/GOAT-2026-คุณแพะหัวใจไม่แพ้-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "01f4b61df722de556bd45005933a4267",
+          "name": "Cosmic Princess Kaguya! (2026) เจ้าหญิงกระบอกไม้ไผ่ ในโลกเมตาเวิร์ส",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-ในโลกเมตาเวิร์ส-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "79a03754e8e1977e733f018a54792e58",
+          "name": "100 Meters (2025) 100 เมตร",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/01/100-Meters-2025-100-เมตร-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "bffa563ecacf33f11682cea762c21d1e",
+          "name": "Memoir of a Snail (2025) มนุษย์ทากหัวใจผจญภัย",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2025/03/Memoir-of-a-Snail-2025-มนุษย์ทากหัวใจผจญภัย-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "2076c31a127a6d4de8024a3a16b29df2",
+          "name": "In Your Dreams (2025) ผจญภัยในฝัน",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-ผจญภัยในฝัน-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "6e4ee5a91fa89a5bfba755e397f11296",
+          "name": "Toy Story 5 (2026) ทอย สตอรี่ 5",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Toy-Story-5-2026-ทอย-สตอรี่-5-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "34de6c05989cb4e915e40f5394b551b1",
+          "name": "All Wishes Come True! (2026) 8 เซียน ขอให้จึ้ง!",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/09/All-Wishes-Come-True-2026-8-เซียน-ขอให้จึ้ง-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "ebdb4d3f79d39369059cd2d54723ded0",
+          "name": "Avatar Aang The Last Airbender (2026)",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/09/Avatar-Aang-The-Last-Airbender-2026-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "cc62c9e9c510cea34528c935eafc791c",
+          "name": "Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) โมบิลสูท กันดั้ม ฮาธาเวย์ เดอะ ซอร์เซอรี ออฟ นิมฟ์ เซอร์ซี",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Mobile-Suit-Gundam-Hathaway-The-Sorcery-of-Nymph-Circe-2026-โมบิลสูท-กันดั้ม-ฮาธาเวย์-เดอะ-ซอร์เซอรี-ออฟ-นิมฟ์-เซอร์ซี-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "57463c80fc2db2731ca8add9ba335720",
+          "name": "LEGO Disney Princess Magical Mayhem (2026)",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/LEGO-Disney-Princess-Magical-Mayhem-2026-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "1b6584f3c30d5ca52f3d59b90678f668",
+          "name": "PAW Patrol The Dino Movie (2026) ขบวนการเจ้าตูบสี่ขา เดอะ ไดโน มูฟวี่",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/PAW-Patrol-The-Dino-Movie-2026-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไดโน-มูฟวี่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "6b059939f63d9c400115f667fba19f7f",
+          "name": "I Am Frankelda (2026) ฉันคือแฟรงเกลดา",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/06/I-Am-Frankelda-2026-ฉันคือแฟรงเกลดา-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "141000b784eedf42891fc04d96b16497",
+          "name": "Sesame Street (2026) เมื่อพายุมาเยือน",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/Sesame-Street-2026-เมื่อพายุมาเยือน-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "a5718e28c76b7c8b32cb0a0a402ee5d9",
+          "name": "Assassination Classroom the Movie Our Time (2026) ห้องเรียนลอบสังหาร เดอะ มูฟวี่ ห้วงเวลาของพวกเรา",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Assassination-Classroom-the-Movie-Our-Time-2026-ห้องเรียนลอบสังหาร-เดอะ-มูฟวี่-ห้วงเวลาของพวกเรา-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "ab38d1997ccaf3511ac594fe6e7e3a7c",
+          "name": "The Ribbon Hero (2026) เดอะริบบิ้นฮีโร่",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/The-Ribbon-Hero-2026-เดอะริบบิ้นฮีโร่-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "ea1f962a916e9932c9b16c9775be0401",
+          "name": "Perfect World Movie Ninefold The Burning Sky (2026) โลกอันสมบูรณ์แบบ เดอะมูฟวี่ เก้าทัณฑ์ล้างสวรรค์",
+          "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/Perfect-World-Movie-Ninefold-The-Burning-Sky-2026-โลกอันสมบูรณ์แบบ-เดอะมูฟวี่-เก้าทัณฑ์ล้างสวรรค์-300x450.png",
+          "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+          "group": "🍀ANIMETION🍀",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        }
+      ]
+    },
+    {
+      "group": "🍀ANIMETION🍀",
+      "title": "🍀ANIMETION🍀",
+      "custom": true
     }
   ],
   "menuRows": {
@@ -1789,20 +2247,6 @@
             "seriesTitle": "",
             "episode": "",
             "episodeCount": 0,
-            "tags": []
-          },
-          {
-            "id": "ce2d8a05b05daf7c51b07f474893a1de",
-            "name": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย",
-            "logo": "https://anime-indy.com/wp-admin/admin-ajax.php?action=rank_math_overlay_thumb&id=17986&type=animeindy&hash=ac989987a77e345124a8ab2a9356f117",
-            "url": "https://hls.animeindy.com:8443/vid/m7V3C5DU/video.mp4/playlist.m3u8",
-            "group": "ซีรีส์ที่รวมแล้ว",
-            "year": "",
-            "rating": "",
-            "isSeries": true,
-            "seriesTitle": "The Prince Of Tennis ปริ๊นซ์ ออฟ เทนนิส เจ้าชายลูกสักหลาด ตอนที่ 1-178 พากย์ไทย",
-            "episode": "ตอนที่ 001",
-            "episodeCount": 98,
             "tags": []
           },
           {
@@ -1989,16 +2433,127 @@
         ]
       },
       {
-        "group": "กีฬาและเรื่องราวน่าดู",
-        "title": "กีฬาและเรื่องราวน่าดู",
+        "group": "Play-HD หนังใหม่",
+        "title": "Play-HD หนังใหม่",
         "custom": true,
         "items": [
           {
-            "id": "c803ebe2774b9d1373170836c239b5a0",
-            "name": "มหัศจรรย์อเมริกันฟุตบอล",
-            "logo": "https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1671769012023.jpg",
-            "url": "https://nextstep-sooyp4zfonli.stream-playlist.byteark.com/streams/TADsUgiGrtqn/playlist.m3u8",
-            "group": "อาณาจักรแห่งนวัตกรรม™",
+            "id": "392b1bde84db4daee2f9bf0e3abad7c3",
+            "name": "Boulevard (2026)",
+            "logo": "https://play-hd.com/images/movie/v42wUw8lQxyWXdrQzcrPL60f6lLWtZ1.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Boulevard.2026x.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "5b591f5a41d1bd872597069025d42749",
+            "name": "I Can Only Imagine 2 (2026) บทเพลงแห่งศรัทธา 2",
+            "logo": "https://play-hd.com/images/movie/totkfu4uDCrxik3ljxue5VgRY0ptsys.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/I.Can.Only.Imagine.2.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "1cddafbe3615664f92b47f4b8ee103c1",
+            "name": "Ali G: Who Iz I (2026) อาลี จี: นี่ใครอะ",
+            "logo": "https://play-hd.com/images/movie/sv-Ali-G-Who-Iz-I-2026-อาล-จ-น-ใครอะ-Comedy-0628ff.webp",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Ali.G.Who.Iz.I.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "adb95124b297dc554442ea985af08a3b",
+            "name": "28 Years Later: The Bone Temple (2026) เชื้อเขมือบคน: วิหารซากกะโหลก",
+            "logo": "https://play-hd.com/images/movie/0jrgMIAgSG900ZNEMtHtDFgNW6C7X5T.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/28.Years.Later.The.Bone.Temple.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "f28b55875717df15a2d3c1096fc2f86e",
+            "name": "Ready or Not 2: Here I Come (2026) เกมพร้อมตาย ภาค 2",
+            "logo": "https://play-hd.com/images/movie/ON7O02x0jLIV66MlwEGSKX8z1uI3DIf.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Ready.Or.Not.2.Here.I.Come.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "263d823eca97448d89c5e33c70611581",
+            "name": "Your Fault: London (2026) คำขอโทษ: ลอนดอน 2",
+            "logo": "https://play-hd.com/images/movie/rBkfK8zxxTxQt4tssPnJUFzjNsUwFXr.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Your.Fault.London.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "cdbfee2c15bb3a0e94000bdb1275588a",
+            "name": "Seriously Single Too (2026) สาวโสดสนิทเหมือนกัน",
+            "logo": "https://play-hd.com/images/movie/gIVNYBKY0BnfTxkVnBcw9o2tGOsTv4e.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Seriously.Single.Too.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "caf0b4df020afc769dd46162451d5b97",
+            "name": "Onslaught (2026) แม่คลั่ง ล้างหน่วยนรก",
+            "logo": "https://play-hd.com/images/movie/NEM9cRTzHwck6O9FfFCB0JNzSEiIJHz.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Onslaught.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "62dba167cf5f8b2b0d35d260d24cf1ff",
+            "name": "Feel My Voice (2026) สัมผัสแห่งเสียง",
+            "logo": "https://play-hd.com/images/movie/QnfOl4BQguYF3jn5onZoXIiLKA81R21.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Feel.My.Voice.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "b9d478015bf9ffcab6736f7a70780ea5",
+            "name": "Pee Nak 5 (2026) พี่นาค 5",
+            "logo": "https://play-hd.com/images/movie/sv-Pee-Nak-5-2026-พ-นาค-5-fa77d5.webp",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PeeNak52026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "b70d39b415aa62855ed942d4206bb081",
+            "name": "Wonderful Nightmare (2026)",
+            "logo": "https://play-hd.com/images/movie/ROWx3wvWP64rzE6b3onpv70GFDgHG6r.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Wonderful.Nightmare.2025.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "82b574874549c7fdee375f4158faf894",
+            "name": "Pizza Movie (2026)",
+            "logo": "https://play-hd.com/images/movie/rWxeNil3HYnvZD0JEqkoXTLMVb5sMi3.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Pizza.Movie.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "082162adad7f9ba4a00a9bc74816704f",
+            "name": "GOAT (2026) คุณแพะหัวใจไม่แพ้",
+            "logo": "https://play-hd.com/images/movie/sv-GOAT-2026-ค-ณแพะห-วใจไม-แพ-2f6e92.webp",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Goat2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "eaa54dce43eab179fc7ccc022db23e89",
+            "name": "Animals (2026) เดรัจฉานสัญชาตญาณดิบ",
+            "logo": "https://play-hd.com/images/movie/GUJgonm3IN83bReQ14DKbp7i3zViea5.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Animals.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "3f86ef9167f2a3e0bfdc9ed93fc09af9",
+            "name": "Scary Movie 6 (2026) ยำหนังจี้ 6",
+            "logo": "https://play-hd.com/images/movie/boNuHjAwfsBtVJMCWb9Un4G2frgAXEM.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Scary.Movie.6.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          }
+        ]
+      },
+      {
+        "group": "Digital TV",
+        "title": "Digital TV",
+        "items": [
+          {
+            "id": "901ed7dfb3fb8cfab85f7db206a60dbb",
+            "name": "CH8",
+            "logo": "https://i.postimg.cc/8z5sMgBf/IMG-2395.png",
+            "url": "https://www.thaich8.com/live?var_link=720p",
+            "group": "Digital TV",
             "year": "",
             "rating": "",
             "isSeries": false,
@@ -2008,11 +2563,11 @@
             "tags": []
           },
           {
-            "id": "1a93316d7ed6a91d8e75d74625c96ebe",
-            "name": "ชีวิตสัตว์™ป่าแห่งแอฟริกา-แมวยักษ์",
-            "logo": "https://d3ffi1kkogkk1a.cloudfront.net/imageStore/img_1669006045874.jpg",
-            "url": "https://nextstep-sooyp4zfonli.stream-playlist.byteark.com/streams/TADs4vk8B2sc/playlist.m3u8",
-            "group": "ชีวิตสัตว์™",
+            "id": "32483640680e7d9c1f84ea33648769c2",
+            "name": "TNN16",
+            "logo": "https://i.postimg.cc/Njsz7k39/IMG-1845.png",
+            "url": "https://live-us1.thaimomo.com/live-as/chtnn24-2/chunklist_w1680535099.m3u8",
+            "group": "Digital TV",
             "year": "",
             "rating": "",
             "isSeries": false,
@@ -2022,11 +2577,67 @@
             "tags": []
           },
           {
-            "id": "965dc9bd37abb9a099bb48170497a5e9",
-            "name": "BEIN SPORTS XTRA",
-            "logo": "https://i.imgur.com/rmswJVo.png",
-            "url": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8",
-            "group": "Sport_one",
+            "id": "752462623aa387eeec5813f159ea2d1e",
+            "name": "GMM25",
+            "logo": "https://upload.wikimedia.org/wikipedia/vi/5/52/GMM_25_Logo_dai_truyen_hinh.png",
+            "url": "https://fastly.live.brightcove.com/6392745120112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTI3NDUxMjAxMTIifQ.w9Q_oqsE_WFClGF5tLVDtHnz5zfHHgNpumxVYNx4yYw/playlist-hls.m3u8",
+            "group": "Digital TV",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "37d104de893ace3c14db449d846fe04f",
+            "name": "ONE31",
+            "logo": "https://upload.wikimedia.org/wikipedia/en/a/a8/One_31_Logo.png",
+            "url": "https://fastly.live.brightcove.com/6393158620112/ap-southeast-1/6415628290001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoicWN6dGF6LmVncmVzcy5wcHRpOHciLCJhY2NvdW50X2lkIjoiNjQxNTYyODI5MDAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2NDE1NjI4MjkwMDAxIl0sImp0aSI6IjYzOTMxNTg2MjAxMTIifQ.Pv-kHDlJaV05HiJ2AQmS3PnV2ZQg7ovszKptAGg1EN0/playlist-hls.m3u8",
+            "group": "Digital TV",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "0c52423f89e9c72027b5d28f63c07475",
+            "name": "TopNews",
+            "logo": "https://i.postimg.cc/qMJ7ff5h/IMG-3145.png",
+            "url": "https://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8",
+            "group": "Digital TV",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "6d032cbc5449ab3c8833548f99627cba",
+            "name": "Workpoint",
+            "logo": "https://i.postimg.cc/WzT9cJHK/IMG-2565.png",
+            "url": "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8",
+            "group": "Digital TV",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "e614b752664c4e212406a5eb6fc248d4",
+            "name": "Nation",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/9/94/Nationtv.png",
+            "url": "https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8",
+            "group": "Digital TV",
             "year": "",
             "rating": "",
             "isSeries": false,
@@ -2036,6 +2647,298 @@
             "tags": []
           }
         ]
+      },
+      {
+        "group": "การตูนย์อนิเมชั่น",
+        "title": "การตูนย์อนิเมชั่น",
+        "custom": true,
+        "items": [
+          {
+            "id": "53948853aebf5d38289d09bf8b169a65",
+            "name": "Swapped (2026) สลับร่างผจญภัย",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Swapped-2026-สลับร่างผจญภัย-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "2026",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "557679ead91e25946e83131c5d536f95",
+            "name": "Milky Subway The Galactic Limited Express to the Theater (2026) มิลกี้ ซับเวย์ รถไฟด่วนทะลุกาแล็กซี เดอะ มูฟวี่",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/06/Milky-Subway-The-Galactic-Limited-Express-to-the-Theater-2026-มิลกี้-ซับเวย์-รถไฟด่วนทะลุกาแล็กซี-เดอะ-มูฟวี่-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "b57735ab0e1c2b7798887dfd8e11ed2c",
+            "name": "Hoppers (2026) เด้งโดด เปลี่ยนโหมดเป็นบีเวอร์",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Hoppers-2026-เด้งโดด-เปลี่ยนโหมดเป็นบีเวอร์-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "01716e57adaec54abfbbb4b6099f95ea",
+            "name": "Doraemon the Movie Nobita",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Doraemon-the-Movie-Nobitas-New-Dinosaur-2020-โดราเอมอน-เดอะมูฟวี่-ตอน-ไดโนเสาร์ตัวใหม่ของโนบิตะ-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "a85ae4e51bd1247b3d1a332c7fab6374",
+            "name": "GOAT (2026) คุณแพะหัวใจไม่แพ้",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/04/GOAT-2026-คุณแพะหัวใจไม่แพ้-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "01f4b61df722de556bd45005933a4267",
+            "name": "Cosmic Princess Kaguya! (2026) เจ้าหญิงกระบอกไม้ไผ่ ในโลกเมตาเวิร์ส",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/01/Cosmic-Princess-Kaguya-2026-เจ้าหญิงกระบอกไม้ไผ่-ในโลกเมตาเวิร์ส-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "79a03754e8e1977e733f018a54792e58",
+            "name": "100 Meters (2025) 100 เมตร",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/01/100-Meters-2025-100-เมตร-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "bffa563ecacf33f11682cea762c21d1e",
+            "name": "Memoir of a Snail (2025) มนุษย์ทากหัวใจผจญภัย",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2025/03/Memoir-of-a-Snail-2025-มนุษย์ทากหัวใจผจญภัย-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "2076c31a127a6d4de8024a3a16b29df2",
+            "name": "In Your Dreams (2025) ผจญภัยในฝัน",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-ผจญภัยในฝัน-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "6e4ee5a91fa89a5bfba755e397f11296",
+            "name": "Toy Story 5 (2026) ทอย สตอรี่ 5",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Toy-Story-5-2026-ทอย-สตอรี่-5-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "34de6c05989cb4e915e40f5394b551b1",
+            "name": "All Wishes Come True! (2026) 8 เซียน ขอให้จึ้ง!",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/09/All-Wishes-Come-True-2026-8-เซียน-ขอให้จึ้ง-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "ebdb4d3f79d39369059cd2d54723ded0",
+            "name": "Avatar Aang The Last Airbender (2026)",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/09/Avatar-Aang-The-Last-Airbender-2026-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "cc62c9e9c510cea34528c935eafc791c",
+            "name": "Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe (2026) โมบิลสูท กันดั้ม ฮาธาเวย์ เดอะ ซอร์เซอรี ออฟ นิมฟ์ เซอร์ซี",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/05/Mobile-Suit-Gundam-Hathaway-The-Sorcery-of-Nymph-Circe-2026-โมบิลสูท-กันดั้ม-ฮาธาเวย์-เดอะ-ซอร์เซอรี-ออฟ-นิมฟ์-เซอร์ซี-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "57463c80fc2db2731ca8add9ba335720",
+            "name": "LEGO Disney Princess Magical Mayhem (2026)",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/LEGO-Disney-Princess-Magical-Mayhem-2026-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "1b6584f3c30d5ca52f3d59b90678f668",
+            "name": "PAW Patrol The Dino Movie (2026) ขบวนการเจ้าตูบสี่ขา เดอะ ไดโน มูฟวี่",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/PAW-Patrol-The-Dino-Movie-2026-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไดโน-มูฟวี่-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "6b059939f63d9c400115f667fba19f7f",
+            "name": "I Am Frankelda (2026) ฉันคือแฟรงเกลดา",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/06/I-Am-Frankelda-2026-ฉันคือแฟรงเกลดา-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "141000b784eedf42891fc04d96b16497",
+            "name": "Sesame Street (2026) เมื่อพายุมาเยือน",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/Sesame-Street-2026-เมื่อพายุมาเยือน-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "a5718e28c76b7c8b32cb0a0a402ee5d9",
+            "name": "Assassination Classroom the Movie Our Time (2026) ห้องเรียนลอบสังหาร เดอะ มูฟวี่ ห้วงเวลาของพวกเรา",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/07/Assassination-Classroom-the-Movie-Our-Time-2026-ห้องเรียนลอบสังหาร-เดอะ-มูฟวี่-ห้วงเวลาของพวกเรา-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "ab38d1997ccaf3511ac594fe6e7e3a7c",
+            "name": "The Ribbon Hero (2026) เดอะริบบิ้นฮีโร่",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/The-Ribbon-Hero-2026-เดอะริบบิ้นฮีโร่-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          },
+          {
+            "id": "ea1f962a916e9932c9b16c9775be0401",
+            "name": "Perfect World Movie Ninefold The Burning Sky (2026) โลกอันสมบูรณ์แบบ เดอะมูฟวี่ เก้าทัณฑ์ล้างสวรรค์",
+            "logo": "https://www.123-hda.com/wp-content/uploads/2026/08/Perfect-World-Movie-Ninefold-The-Burning-Sky-2026-โลกอันสมบูรณ์แบบ-เดอะมูฟวี่-เก้าทัณฑ์ล้างสวรรค์-300x450.png",
+            "url": "https://main.24playerhd.com/m3u8/20ee2995e321cca92dcdbea5/20ee2995e321cca92dcdbea5438.m3u8",
+            "group": "🍀ANIMETION🍀",
+            "year": "",
+            "rating": "",
+            "isSeries": false,
+            "seriesTitle": "",
+            "episode": "",
+            "episodeCount": 0,
+            "tags": []
+          }
+        ]
+      },
+      {
+        "group": "🍀ANIMETION🍀",
+        "title": "🍀ANIMETION🍀",
+        "custom": true
       }
     ],
     "movies": [
@@ -2645,6 +3548,118 @@
             "tags": [],
             "isLive": false,
             "isEmbed": false
+          }
+        ]
+      },
+      {
+        "group": "Play-HD หนังใหม่",
+        "title": "Play-HD หนังใหม่",
+        "custom": true,
+        "items": [
+          {
+            "id": "392b1bde84db4daee2f9bf0e3abad7c3",
+            "name": "Boulevard (2026)",
+            "logo": "https://play-hd.com/images/movie/v42wUw8lQxyWXdrQzcrPL60f6lLWtZ1.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Boulevard.2026x.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "5b591f5a41d1bd872597069025d42749",
+            "name": "I Can Only Imagine 2 (2026) บทเพลงแห่งศรัทธา 2",
+            "logo": "https://play-hd.com/images/movie/totkfu4uDCrxik3ljxue5VgRY0ptsys.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/I.Can.Only.Imagine.2.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "1cddafbe3615664f92b47f4b8ee103c1",
+            "name": "Ali G: Who Iz I (2026) อาลี จี: นี่ใครอะ",
+            "logo": "https://play-hd.com/images/movie/sv-Ali-G-Who-Iz-I-2026-อาล-จ-น-ใครอะ-Comedy-0628ff.webp",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Ali.G.Who.Iz.I.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "adb95124b297dc554442ea985af08a3b",
+            "name": "28 Years Later: The Bone Temple (2026) เชื้อเขมือบคน: วิหารซากกะโหลก",
+            "logo": "https://play-hd.com/images/movie/0jrgMIAgSG900ZNEMtHtDFgNW6C7X5T.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/28.Years.Later.The.Bone.Temple.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "f28b55875717df15a2d3c1096fc2f86e",
+            "name": "Ready or Not 2: Here I Come (2026) เกมพร้อมตาย ภาค 2",
+            "logo": "https://play-hd.com/images/movie/ON7O02x0jLIV66MlwEGSKX8z1uI3DIf.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Ready.Or.Not.2.Here.I.Come.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "263d823eca97448d89c5e33c70611581",
+            "name": "Your Fault: London (2026) คำขอโทษ: ลอนดอน 2",
+            "logo": "https://play-hd.com/images/movie/rBkfK8zxxTxQt4tssPnJUFzjNsUwFXr.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Your.Fault.London.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "cdbfee2c15bb3a0e94000bdb1275588a",
+            "name": "Seriously Single Too (2026) สาวโสดสนิทเหมือนกัน",
+            "logo": "https://play-hd.com/images/movie/gIVNYBKY0BnfTxkVnBcw9o2tGOsTv4e.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Seriously.Single.Too.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "caf0b4df020afc769dd46162451d5b97",
+            "name": "Onslaught (2026) แม่คลั่ง ล้างหน่วยนรก",
+            "logo": "https://play-hd.com/images/movie/NEM9cRTzHwck6O9FfFCB0JNzSEiIJHz.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Onslaught.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "62dba167cf5f8b2b0d35d260d24cf1ff",
+            "name": "Feel My Voice (2026) สัมผัสแห่งเสียง",
+            "logo": "https://play-hd.com/images/movie/QnfOl4BQguYF3jn5onZoXIiLKA81R21.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Feel.My.Voice.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "b9d478015bf9ffcab6736f7a70780ea5",
+            "name": "Pee Nak 5 (2026) พี่นาค 5",
+            "logo": "https://play-hd.com/images/movie/sv-Pee-Nak-5-2026-พ-นาค-5-fa77d5.webp",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PeeNak52026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "b70d39b415aa62855ed942d4206bb081",
+            "name": "Wonderful Nightmare (2026)",
+            "logo": "https://play-hd.com/images/movie/ROWx3wvWP64rzE6b3onpv70GFDgHG6r.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Wonderful.Nightmare.2025.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "82b574874549c7fdee375f4158faf894",
+            "name": "Pizza Movie (2026)",
+            "logo": "https://play-hd.com/images/movie/rWxeNil3HYnvZD0JEqkoXTLMVb5sMi3.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Pizza.Movie.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "082162adad7f9ba4a00a9bc74816704f",
+            "name": "GOAT (2026) คุณแพะหัวใจไม่แพ้",
+            "logo": "https://play-hd.com/images/movie/sv-GOAT-2026-ค-ณแพะห-วใจไม-แพ-2f6e92.webp",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Goat2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "eaa54dce43eab179fc7ccc022db23e89",
+            "name": "Animals (2026) เดรัจฉานสัญชาตญาณดิบ",
+            "logo": "https://play-hd.com/images/movie/GUJgonm3IN83bReQ14DKbp7i3zViea5.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Animals.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
+          },
+          {
+            "id": "3f86ef9167f2a3e0bfdc9ed93fc09af9",
+            "name": "Scary Movie 6 (2026) ยำหนังจี้ 6",
+            "logo": "https://play-hd.com/images/movie/boNuHjAwfsBtVJMCWb9Un4G2frgAXEM.jpg",
+            "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Scary.Movie.6.2026.mp4/playlist.m3u8",
+            "group": "Play-HD หนังใหม่"
           }
         ]
       }
@@ -476360,6 +477375,1176 @@
       "menus": [
         "sports"
       ]
+    },
+    "a2f4e8e8114c8e57e8174541811c274b": {
+      "name": "ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย - EP01",
+      "logo": "https://play-hd.com/images/movie/sv-delusion-2026-Crim-4938d3.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/ภาพลวงตายDelusion(2026)TH-EP01.mp4/playlist.m3u8"
+    },
+    "a0d4a545cc2dc6d83f942493cd51fedd": {
+      "name": "ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย - EP02",
+      "logo": "https://play-hd.com/images/movie/sv-delusion-2026-Crim-4938d3.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/ภาพลวงตายDelusion(2026)TH-EP02.mp4/playlist.m3u8"
+    },
+    "048cec0c1e513f2a09f1886b3d97b818": {
+      "name": "ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย - EP03",
+      "logo": "https://play-hd.com/images/movie/sv-delusion-2026-Crim-4938d3.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/ภาพลวงตายDelusion(2026)TH-EP03.mp4/playlist.m3u8"
+    },
+    "840718a12807225677d50808988192ef": {
+      "name": "ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย - EP04",
+      "logo": "https://play-hd.com/images/movie/sv-delusion-2026-Crim-4938d3.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/ภาพลวงตายDelusion(2026)TH-EP04.mp4/playlist.m3u8"
+    },
+    "283db5c986cfa13013a015aa848353f4": {
+      "name": "ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย - EP05",
+      "logo": "https://play-hd.com/images/movie/sv-delusion-2026-Crim-4938d3.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/ภาพลวงตายDelusion(2026)TH-EP05.mp4/playlist.m3u8"
+    },
+    "d62c755c1e262e33029bc9407c30b1c8": {
+      "name": "ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย - EP06 END",
+      "logo": "https://play-hd.com/images/movie/sv-delusion-2026-Crim-4938d3.webp",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/ภาพลวงตายDelusion(2026)TH-EP06.mp4/playlist.m3u8"
+    },
+    "f008654de3f3724d5fe91a51a38c6a43": {
+      "name": "ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท - EP01",
+      "logo": "https://play-hd.com/images/movie/oOu3dAKw0guw3dYxZAr5TlKIHv3zprG.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/เหตุเกิดที่คุณเชฟMyChefInCrime(2026)TH-Ep01.mp4/playlist.m3u8"
+    },
+    "40d666b959d10e5dcb63a479b66fb3ca": {
+      "name": "ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท - EP02",
+      "logo": "https://play-hd.com/images/movie/oOu3dAKw0guw3dYxZAr5TlKIHv3zprG.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/เหตุเกิดที่คุณเชฟMyChefInCrime(2026)TH-Ep02.mp4/playlist.m3u8"
+    },
+    "16f8952616331e72710a5205aa30755b": {
+      "name": "ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท - EP03",
+      "logo": "https://play-hd.com/images/movie/oOu3dAKw0guw3dYxZAr5TlKIHv3zprG.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/เหตุเกิดที่คุณเชฟMyChefInCrime(2026)TH-Ep03.mp4/playlist.m3u8"
+    },
+    "6e842eac76f52f275557fd375fa0a6f8": {
+      "name": "ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท - EP04",
+      "logo": "https://play-hd.com/images/movie/oOu3dAKw0guw3dYxZAr5TlKIHv3zprG.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/เหตุเกิดที่คุณเชฟMyChefInCrime(2026)TH-Ep04.mp4/playlist.m3u8"
+    },
+    "9e0416a3d9f24de1d29f6dae8f8ed4fe": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.01",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E01.mp4/playlist.m3u8"
+    },
+    "2cae48cbfefbfdea3544eeb71a24e5e9": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.02",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E02.mp4/playlist.m3u8"
+    },
+    "9255a23a4fc115244b3d91f00f1c1af0": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.03",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E03.mp4/playlist.m3u8"
+    },
+    "b82cdc3caededba56c6d04d2f1011d97": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.04",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E04.mp4/playlist.m3u8"
+    },
+    "bc18ec07e92729d2c605d00483ac601d": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.05",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E05.mp4/playlist.m3u8"
+    },
+    "1e5df4334c3be6cdb9728822f59db766": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.06",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E06.mp4/playlist.m3u8"
+    },
+    "1de85b4a939bf8f06f2caab880a0d1d0": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.07",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E07.mp4/playlist.m3u8"
+    },
+    "e588f58263fe6ee30ca497682537cb73": {
+      "name": "Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย - EP.08",
+      "logo": "https://play-hd.com/images/movie/afaW1SasbTYgao5kL08Mf4ahRJg2yFc.jpg",
+      "group": "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Dudes.S01E08.mp4/playlist.m3u8"
+    },
+    "91d4c91f892d901c4e7ef73e9702564c": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.01",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E01.mp4/playlist.m3u8"
+    },
+    "3d9fed772729658fac6f0a097ca22324": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.02",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E02.mp4/playlist.m3u8"
+    },
+    "f24827983513576e733e4a02386a319f": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.03",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E03.mp4/playlist.m3u8"
+    },
+    "e5a95c9a932ffb9d4ee82f1cf0db1a25": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.04",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E04.mp4/playlist.m3u8"
+    },
+    "c8d514edcc73668b6e25fbba91ae0841": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.05",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E05.mp4/playlist.m3u8"
+    },
+    "dfad747ebd8d11dbb158323473027a8e": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.06",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E06.mp4/playlist.m3u8"
+    },
+    "11dcacdbd3fdf51ac3b04c0b6f397b30": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.07",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E07.mp4/playlist.m3u8"
+    },
+    "c6f1951e1413ae79a02ba3dc07a31b98": {
+      "name": "BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1 - EP.08",
+      "logo": "https://play-hd.com/images/movie/NQbMLY67UPRUQm3onaHMMLdNy5ABOV4.jpg",
+      "group": "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Begins.Necromancer.2026.S01E08.mp4/playlist.m3u8"
+    },
+    "892fce2872aa911d30f2eaed2bec350d": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP01",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP01.mp4/playlist.m3u8"
+    },
+    "4ee51228849497b17548b3b9594c111f": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP02",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP02.mp4/playlist.m3u8"
+    },
+    "49b4da1865999a07eefd1b8c771fc97e": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP03",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP03.mp4/playlist.m3u8"
+    },
+    "ba07ff4b336c25cb55401647962ff4c8": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP04",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP04.mp4/playlist.m3u8"
+    },
+    "b9e35fb02f11f3097d828db5d1ec2f9d": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP05",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP05.mp4/playlist.m3u8"
+    },
+    "8b75715f2bdf627014cf1445334705b8": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP06",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP06.mp4/playlist.m3u8"
+    },
+    "06626ef740b969891e768a09bfeee04d": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP07",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP07.mp4/playlist.m3u8"
+    },
+    "c97b903e2480de1a5468f354151e14cc": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP08",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP08.mp4/playlist.m3u8"
+    },
+    "39ca3a7880f7cab0707b26ffb36d77b9": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP09",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP09.mp4/playlist.m3u8"
+    },
+    "220760886323fc21b37e69759d809c38": {
+      "name": "ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย - EP10",
+      "logo": "https://play-hd.com/images/movie/MAEQFPfT7hPEmIxOUjGBWOGQJuaZefJ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/MyBiasMBossเมื่อเมนฉันเป็นประธานบริษัท 2026)SUB-EP10.mp4/playlist.m3u8"
+    },
+    "68147527600ccafe3c820784db3e6c36": {
+      "name": "Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2 - EP.01",
+      "logo": "https://play-hd.com/images/movie/nMsM30ysy8oSsnWtJSmAtuUIDHMP7mi.jpg",
+      "group": "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Gangs.Of.Galicia.S02e01.mp4/playlist.m3u8"
+    },
+    "f397a4633970a5f7b97ab3e77d53f06e": {
+      "name": "Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2 - EP.02",
+      "logo": "https://play-hd.com/images/movie/nMsM30ysy8oSsnWtJSmAtuUIDHMP7mi.jpg",
+      "group": "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Gangs.Of.Galicia.S02e02.mp4/playlist.m3u8"
+    },
+    "853368ede3c6b122eec19211a5c33136": {
+      "name": "Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2 - EP.03",
+      "logo": "https://play-hd.com/images/movie/nMsM30ysy8oSsnWtJSmAtuUIDHMP7mi.jpg",
+      "group": "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Gangs.Of.Galicia.S02e03.mp4/playlist.m3u8"
+    },
+    "4a231427bba6b46ff08d126fbfe37ee0": {
+      "name": "Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2 - EP.04",
+      "logo": "https://play-hd.com/images/movie/nMsM30ysy8oSsnWtJSmAtuUIDHMP7mi.jpg",
+      "group": "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Gangs.Of.Galicia.S02e04.mp4/playlist.m3u8"
+    },
+    "b9b76c5ebf029defdd0d38e0288951ac": {
+      "name": "Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2 - EP.05",
+      "logo": "https://play-hd.com/images/movie/nMsM30ysy8oSsnWtJSmAtuUIDHMP7mi.jpg",
+      "group": "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Gangs.Of.Galicia.S02e05.mp4/playlist.m3u8"
+    },
+    "a563a5cba9c350de7f8ad4f19d7a0095": {
+      "name": "Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2 - EP.06",
+      "logo": "https://play-hd.com/images/movie/nMsM30ysy8oSsnWtJSmAtuUIDHMP7mi.jpg",
+      "group": "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Gangs.Of.Galicia.S02e06.mp4/playlist.m3u8"
+    },
+    "9da4af7b1eaaf4546f237b87d31c5980": {
+      "name": "ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย - EP01",
+      "logo": "https://play-hd.com/images/movie/klfiG7C29zoqluKfch6MFl3XNGYzmNE.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/OurDazzlingDaysวันที่เปล่งประกายของสองเรา(2026)SUB-EP01.mp4/playlist.m3u8"
+    },
+    "c0c064b7702a35f21d8925159e4b6613": {
+      "name": "ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย - EP02",
+      "logo": "https://play-hd.com/images/movie/klfiG7C29zoqluKfch6MFl3XNGYzmNE.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/OurDazzlingDaysวันที่เปล่งประกายของสองเรา(2026)SUB-EP02.mp4/playlist.m3u8"
+    },
+    "fae50b6f426c5f3d69f1830c5cafb60b": {
+      "name": "ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย - EP03",
+      "logo": "https://play-hd.com/images/movie/klfiG7C29zoqluKfch6MFl3XNGYzmNE.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/OurDazzlingDaysวันที่เปล่งประกายของสองเรา(2026)SUB-EP03.mp4/playlist.m3u8"
+    },
+    "8e378440cba9f641fa420d0f58b48215": {
+      "name": "ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย - EP04",
+      "logo": "https://play-hd.com/images/movie/klfiG7C29zoqluKfch6MFl3XNGYzmNE.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/OurDazzlingDaysวันที่เปล่งประกายของสองเรา(2026)SUB-EP04.mp4/playlist.m3u8"
+    },
+    "7a2581464aa88758383e79a12c182003": {
+      "name": "ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย - EP05",
+      "logo": "https://play-hd.com/images/movie/klfiG7C29zoqluKfch6MFl3XNGYzmNE.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/OurDazzlingDaysวันที่เปล่งประกายของสองเรา(2026)SUB-EP05.mp4/playlist.m3u8"
+    },
+    "b7ec730a850f516df841400ee44a80c3": {
+      "name": "ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย - EP06",
+      "logo": "https://play-hd.com/images/movie/klfiG7C29zoqluKfch6MFl3XNGYzmNE.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/OurDazzlingDaysวันที่เปล่งประกายของสองเรา(2026)SUB-EP06.mp4/playlist.m3u8"
+    },
+    "dbafa1876030ef8f72a2d8d5f7a9c711": {
+      "name": "Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1 - EP.01",
+      "logo": "https://play-hd.com/images/movie/WJQ6dlvWs0utaCBqJO09svreEIc1jgs.jpg",
+      "group": "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Legends.S01e01.mp4/playlist.m3u8"
+    },
+    "f9f6f0c96a4d3e1631ef01cdbce3bed8": {
+      "name": "Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1 - EP.02",
+      "logo": "https://play-hd.com/images/movie/WJQ6dlvWs0utaCBqJO09svreEIc1jgs.jpg",
+      "group": "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Legends.S01e02.mp4/playlist.m3u8"
+    },
+    "f0bd1a0e37826f2c829afd5c35a8ca2a": {
+      "name": "Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1 - EP.03",
+      "logo": "https://play-hd.com/images/movie/WJQ6dlvWs0utaCBqJO09svreEIc1jgs.jpg",
+      "group": "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Legends.S01e03.mp4/playlist.m3u8"
+    },
+    "e24a43c7ac8b0043e8a6bbea1a655702": {
+      "name": "Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1 - EP.04",
+      "logo": "https://play-hd.com/images/movie/WJQ6dlvWs0utaCBqJO09svreEIc1jgs.jpg",
+      "group": "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Legends.S01e04.mp4/playlist.m3u8"
+    },
+    "7c72c80b29aab3fdcb0fe5d65764ff95": {
+      "name": "Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1 - EP.05",
+      "logo": "https://play-hd.com/images/movie/WJQ6dlvWs0utaCBqJO09svreEIc1jgs.jpg",
+      "group": "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Legends.S01e05.mp4/playlist.m3u8"
+    },
+    "1c14fdd3567c69fb66b192b1c45435d9": {
+      "name": "Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1 - EP.06",
+      "logo": "https://play-hd.com/images/movie/WJQ6dlvWs0utaCBqJO09svreEIc1jgs.jpg",
+      "group": "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Legends.S01e06.mp4/playlist.m3u8"
+    },
+    "d18d30f3eb66dd2d65558058b5d7af2c": {
+      "name": "ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย - EP01",
+      "logo": "https://play-hd.com/images/movie/UnTh6Wb4X3D4RnhpJko5lxvk2u7t1gF.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/TheHusbandคืนล่าก่อนหย่า(2026)SUB-EP01.mp4/playlist.m3u8"
+    },
+    "84cb1c1d7aec8454841e34db5b849b90": {
+      "name": "ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย - EP02",
+      "logo": "https://play-hd.com/images/movie/UnTh6Wb4X3D4RnhpJko5lxvk2u7t1gF.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/TheHusbandคืนล่าก่อนหย่า(2026)SUB-EP02.mp4/playlist.m3u8"
+    },
+    "2e9dfcf4a91b439a0e9acf29172b5ab5": {
+      "name": "ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย - EP03",
+      "logo": "https://play-hd.com/images/movie/UnTh6Wb4X3D4RnhpJko5lxvk2u7t1gF.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/TheHusbandคืนล่าก่อนหย่า(2026)SUB-EP03.mp4/playlist.m3u8"
+    },
+    "2a1cd310d14654e7a0e68a04f190dc53": {
+      "name": "ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย - EP04",
+      "logo": "https://play-hd.com/images/movie/UnTh6Wb4X3D4RnhpJko5lxvk2u7t1gF.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/TheHusbandคืนล่าก่อนหย่า(2026)SUB-EP04.mp4/playlist.m3u8"
+    },
+    "02dbac581c6a1593eb76b759e9b88546": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.01",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e01.mp4/playlist.m3u8"
+    },
+    "d6642c453cafba5413a625eeb992f8e0": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.02",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e02.mp4/playlist.m3u8"
+    },
+    "0957f381f989e926aeee0bff32d1c8c0": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.03",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e03.mp4/playlist.m3u8"
+    },
+    "d2213c3223e3bdebddbf585eb65db461": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.04",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e04.mp4/playlist.m3u8"
+    },
+    "868676e6faeda85983e630d2a094f9fd": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.05",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e05.mp4/playlist.m3u8"
+    },
+    "848e8006dae11d9765edfd8ebf7bf7b0": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.06",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e06.mp4/playlist.m3u8"
+    },
+    "cce87bfe13585babc53c9485115a3787": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.07",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e07.mp4/playlist.m3u8"
+    },
+    "a58e2609f5a4b7a598dc7e8b560f0daa": {
+      "name": "Industry Season 4 (2026) วงการเงินเดือด - EP.08",
+      "logo": "https://play-hd.com/images/movie/GlxrtxZRj2TL4HMSomdPBovmsMkpVER.jpg",
+      "group": "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Industry.S04e08.mp4/playlist.m3u8"
+    },
+    "51179c714914834fed54c72e3f758793": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP01",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP01.mp4/playlist.m3u8"
+    },
+    "ba9cc6a6f17d25aac7a26dd5548c273d": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP02",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP02.mp4/playlist.m3u8"
+    },
+    "f99afd0bab0046329675fd39fa5633d8": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP03",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP03.mp4/playlist.m3u8"
+    },
+    "63fa0ea2b2111e4af57811ebb12a505b": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP04",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP04.mp4/playlist.m3u8"
+    },
+    "c2d3bcb4fc12178e70a9ee4000d33993": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP05",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP05.mp4/playlist.m3u8"
+    },
+    "68d9c8e5fb766bd3ff93962d778d2428": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP06",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP06.mp4/playlist.m3u8"
+    },
+    "f127a80f17ff4db6d13e31fc683c4cb3": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP07",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP07.mp4/playlist.m3u8"
+    },
+    "3fd915b94862a525c3ab1774a3a1ca0e": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP08",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP08.mp4/playlist.m3u8"
+    },
+    "d81d4463487e87e0d27a1c7eac63a02d": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP09",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP09.mp4/playlist.m3u8"
+    },
+    "6044ac7ad4a89cd850465266388ed817": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP10",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP10.mp4/playlist.m3u8"
+    },
+    "935a9442b539070b50317fa906eb5610": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP11",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP11.mp4/playlist.m3u8"
+    },
+    "92362e346841853144bccb96e125358c": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP12",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP12.mp4/playlist.m3u8"
+    },
+    "b697e9040e9a16c0ba97e55fd53215ca": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP13",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP13.mp4/playlist.m3u8"
+    },
+    "7bc3568a967c9e7959be850efa3f0037": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP14",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP14.mp4/playlist.m3u8"
+    },
+    "0f3eaace024bdd718cbbc95c05c38a4d": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP15",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP15.mp4/playlist.m3u8"
+    },
+    "8e582bcd1675abbb29c905ebcf03b986": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP16",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP16.mp4/playlist.m3u8"
+    },
+    "db29171034429a53ed0dfcd85941dd2c": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP17",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP17.mp4/playlist.m3u8"
+    },
+    "ee90fbc974ecb86546bbc3a746935632": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP18",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP18.mp4/playlist.m3u8"
+    },
+    "9d7f67ff9737b36baae685083ba660f7": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP19",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP19.mp4/playlist.m3u8"
+    },
+    "6407a6ded3edea1bee2a9cb2c4af355e": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP20",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP20.mp4/playlist.m3u8"
+    },
+    "bc0f1f36822d7c533263ff501d86eab8": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP21",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP21.mp4/playlist.m3u8"
+    },
+    "adc00f0fe3716e1c1fa898e950e19454": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP22",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP22.mp4/playlist.m3u8"
+    },
+    "0c6355897fefba0e51ebaba9e29d7f6e": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP23",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP23.mp4/playlist.m3u8"
+    },
+    "76b7c4509710bf7e6ba836b9cbcf47d3": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP24",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP24.mp4/playlist.m3u8"
+    },
+    "1c06ff17d31fc4b1a3392bc173b4d8a5": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP25",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP25.mp4/playlist.m3u8"
+    },
+    "b5e8b915decf8f3f951c2e14af9dca6a": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP26",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP26.mp4/playlist.m3u8"
+    },
+    "b98d7b62e2a37a063bacf6ad6c4c38fe": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP27",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP27.mp4/playlist.m3u8"
+    },
+    "840129c9ab31823315fd2ab823bccf31": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP28",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP28.mp4/playlist.m3u8"
+    },
+    "7688ba84dcd994d29655fa7551977da1": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP29",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP29.mp4/playlist.m3u8"
+    },
+    "0c0c376f8e4469f68cde39aee6742ab7": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP30",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP30.mp4/playlist.m3u8"
+    },
+    "0290bb24f64e6214dd1a4fbf561322af": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP31",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP31.mp4/playlist.m3u8"
+    },
+    "fce776326729410b903394813cf80ef7": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP32",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP32.mp4/playlist.m3u8"
+    },
+    "b5ed6921da6732181bc0419b3d6be39a": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP33",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP33.mp4/playlist.m3u8"
+    },
+    "b410246a6158bab66e5c15d4b01d556e": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP34",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP34.mp4/playlist.m3u8"
+    },
+    "65be67688c3b695906615f5fc2fe6bb7": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP35",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP35.mp4/playlist.m3u8"
+    },
+    "8291c1c4e856755c3b6c59dda0380132": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP36",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP36.mp4/playlist.m3u8"
+    },
+    "d205129041d908ed7c4c0d1bf91b95eb": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP37",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP37.mp4/playlist.m3u8"
+    },
+    "ba4c0885f1d41cceb03f02511737b828": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP38",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP38.mp4/playlist.m3u8"
+    },
+    "f9ddd4f552b872f4a38a6b36cb87a6ae": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP39",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP39.mp4/playlist.m3u8"
+    },
+    "40fda0542acb38b1dfa1c6e06faea9b0": {
+      "name": "ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย - EP40 END",
+      "logo": "https://play-hd.com/images/movie/nUiX1KVmGFTl8LGANSr2rTGKVrRafnZ.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/PursuitOfJade(2026)SUB-EP40.mp4/playlist.m3u8"
+    },
+    "ef70d8a2bc159330805c9499f5330038": {
+      "name": "แรงเงา The Hidden Shadows (2026) - EP01",
+      "logo": "https://play-hd.com/images/movie/sv-the-hidden-shadows-2026-Drama-6207e9.webp",
+      "group": "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/แรงเงาTheHiddenShadows(2026)TH-EP01.mp4/playlist.m3u8"
+    },
+    "e003b0d729617a7b4df75690c7019f11": {
+      "name": "แรงเงา The Hidden Shadows (2026) - EP02",
+      "logo": "https://play-hd.com/images/movie/sv-the-hidden-shadows-2026-Drama-6207e9.webp",
+      "group": "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/แรงเงาTheHiddenShadows(2026)TH-EP02.mp4/playlist.m3u8"
+    },
+    "2037d7b7ccec5e80f2ea114911c8f4c3": {
+      "name": "แรงเงา The Hidden Shadows (2026) - EP03",
+      "logo": "https://play-hd.com/images/movie/sv-the-hidden-shadows-2026-Drama-6207e9.webp",
+      "group": "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/แรงเงาTheHiddenShadows(2026)TH-EP03.mp4/playlist.m3u8"
+    },
+    "782b3348853908fe8feea4de9dc4e6ff": {
+      "name": "แรงเงา The Hidden Shadows (2026) - EP04",
+      "logo": "https://play-hd.com/images/movie/sv-the-hidden-shadows-2026-Drama-6207e9.webp",
+      "group": "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/แรงเงาTheHiddenShadows(2026)TH-EP04.mp4/playlist.m3u8"
+    },
+    "2d016beefe49cf7096a82f50dc29f0e5": {
+      "name": "Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1 - EP.01",
+      "logo": "https://play-hd.com/images/movie/Tm1Z07hZsHxYEvh9yFlIwGPoNQKpSSl.jpg",
+      "group": "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster-S01e01.mp4/playlist.m3u8"
+    },
+    "31a3851d210b651ed70dfcd4b923d9fe": {
+      "name": "Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1 - EP.02",
+      "logo": "https://play-hd.com/images/movie/Tm1Z07hZsHxYEvh9yFlIwGPoNQKpSSl.jpg",
+      "group": "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster-S01e02.mp4/playlist.m3u8"
+    },
+    "76199a7ebc917879453740eb7394dc4d": {
+      "name": "Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1 - EP.03",
+      "logo": "https://play-hd.com/images/movie/Tm1Z07hZsHxYEvh9yFlIwGPoNQKpSSl.jpg",
+      "group": "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster-S01e03.mp4/playlist.m3u8"
+    },
+    "11c799c5222866f23e32e77a7c014b6b": {
+      "name": "Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1 - EP.04",
+      "logo": "https://play-hd.com/images/movie/Tm1Z07hZsHxYEvh9yFlIwGPoNQKpSSl.jpg",
+      "group": "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster-S01e04.mp4/playlist.m3u8"
+    },
+    "be3c9975884c4adc81bfd469bd5662c7": {
+      "name": "Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1 - EP.05",
+      "logo": "https://play-hd.com/images/movie/Tm1Z07hZsHxYEvh9yFlIwGPoNQKpSSl.jpg",
+      "group": "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster.S01e05.mp4/playlist.m3u8"
+    },
+    "df0c3348842c0c8f497ad4c731925610": {
+      "name": "Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1 - EP.06",
+      "logo": "https://play-hd.com/images/movie/Tm1Z07hZsHxYEvh9yFlIwGPoNQKpSSl.jpg",
+      "group": "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster.S01e06.mp4/playlist.m3u8"
+    },
+    "ca0b2d380ef0560926aeb617ca5bc6ed": {
+      "name": "Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1 - EP.07",
+      "logo": "https://play-hd.com/images/movie/Tm1Z07hZsHxYEvh9yFlIwGPoNQKpSSl.jpg",
+      "group": "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Rooster.S01e07.mp4/playlist.m3u8"
     }
   },
   "categories": [
@@ -476444,7 +478629,20 @@
         "Play-HD ซีรี่ย์ - Rage Season 2 (2026)",
         "Play-HD ซีรี่ย์ - The Hunt (2026) Season 1",
         "Play-HD ซีรี่ย์ - ซีรีย์วาย Love Destiny (2026) บุพเพสันนิวาส พากย์ไทย",
-        "Anime_3"
+        "Anime_3",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย Delusion (2026) ภาพลวงตาย พากย์ไทย",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์ไทย My Chef in Crime (2026) เหตุเกิดที่คุณเชฟ พากย์ไทย ซีรี่ย์ไทย พากย์ไท",
+        "Play-HD ซีรี่ย์ - Dudes ลูกผู้ช้าย ลูกผู้ชาย (2025) พากย์ไทย",
+        "Play-HD ซีรี่ย์ - BEGINS NECROMANCER (2026) จอมขมังเวทย์ ซีซั่น 1",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี My Bias My Boss (2026) เมื่อเมนฉันเป็นประธานบริษัท ซับไทย",
+        "Play-HD ซีรี่ย์ - Gangs of Galicia Season 2 (2026) เจ้าพ่อกาลิเซีย 2",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Our Dazzling Days (2026) วันที่เปล่งประกายของสองเรา ซับไทย",
+        "Play-HD ซีรี่ย์ - Legends Season 1 (2026) เลเจนด์ สายลับทลายยา 1",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี The Husband (2026) คืนล่าก่อนหย่า ซับไทย",
+        "Play-HD ซีรี่ย์ - Industry Season 4 (2026) วงการเงินเดือด",
+        "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Pursuit of Jade (2026) ล่าหยก ซับไทย",
+        "Play-HD ซีรี่ย์ - แรงเงา The Hidden Shadows (2026)",
+        "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1"
       ],
       "movies": [
         "ดูหนังออนไลน์ HD",
@@ -476514,6 +478712,76 @@
           "episodeCount": 0,
           "tags": [],
           "logoUrl": "https://image.tmdb.org/t/p/w500/egMJyvJyIiVxcna0lXiSUV2Xn0n.jpg"
+        },
+        {
+          "id": "078f9a40c837f0fca89bb20c6b03bb88",
+          "name": "มอร์ทัลคอมแบท 2 Mortal Kombat II (2026)",
+          "logo": "https://flixmono2.com/wp-content/uploads/2026/07/ดูหนัง-มอร์ทัลคอมแบท-2-Mortal-Kombat-II-2026-พากย์ไทย-เต็มเรื่อง-214x300.jpg",
+          "url": "https://moddepp.com/embed/f5768ebbdb2205b325a1be682cd99839",
+          "group": "หนัง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "42f7034f92e2cfa37da86c60e7487217",
+          "name": "คนเดือดทวงแค้น The Debt Collector (2026) เต็มเรื่อง (ย้อนหลัง)",
+          "logo": "https://flixmono2.com/wp-content/uploads/2026/07/ดูหนัง-คนเดือดทวงแค้น-The-Debt-Collector-2026-เต็มเรื่อง-ย้อนหลัง-214x300.jpg",
+          "url": "https://torbo007.com/embed/0812ef8610e5f7a1ac5c6a344eb1e336",
+          "group": "หนัง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "703c56e47ef35d2062c9c42b2fd37440",
+          "name": "นักรบเจ้าจักรวาล Masters of the Universe (2026)",
+          "logo": "https://flixmono2.com/wp-content/uploads/2026/07/ดูหนัง-นักรบเจ้าจักรวาล-Masters-of-the-Universe-2026-พากย์ไทย-เต็มเรื่อง-214x300.jpg",
+          "url": "https://moddepp.com/embed/1e66728b6080570658bdead91baa210a",
+          "group": "หนัง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "3f73a92a9a0dbb234cf449679c3337d3",
+          "name": "Ballerina บัลเลรินา แค้นกว่านรก (2025)",
+          "logo": "https://flixmono2.com/wp-content/uploads/2026/03/ดูหนัง-Ballerina-บัลเลรินา-แค้นกว่านรก-2025-พากย์ไทย-เต็มเรื่อง-HD-200x300.jpg",
+          "url": "https://torbo007.com/embed/5c2e4b9c679389d00c86afc02257abc0",
+          "group": "หนัง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
+        },
+        {
+          "id": "8310b81c142803540e48dbbc50b56e3f",
+          "name": "คุณสามีส์ช่วยด้วย! Husbands in Action (2026)",
+          "logo": "https://flixmono2.com/wp-content/uploads/2026/06/ดูหนัง-คุณสามีส์ช่วยด้วย-Husbands-in-Action-2026-พากย์ไทย-เต็มเรื่อง-HD-214x300.jpg",
+          "url": "https://torbo007.com/embed/9a4839fc2630c2b1f3a4c4d497ffd0b5",
+          "group": "หนัง",
+          "year": "",
+          "rating": "",
+          "isSeries": false,
+          "seriesTitle": "",
+          "episode": "",
+          "episodeCount": 0,
+          "tags": []
         }
       ],
       "movies": [
