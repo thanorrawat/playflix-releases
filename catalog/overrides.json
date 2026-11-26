@@ -114,7 +114,8 @@
       "Play-HD หนังใหม่",
       "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
       "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย",
-      "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย"
+      "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+      "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ"
     ]
   },
   "hidden": {
@@ -3089,6 +3090,7 @@
         "title": "หนังเอเชียและไทยคัดสรร",
         "custom": true,
         "items": [
+          "47b5a0803df582c3a989ff1afad01a8b",
           "25f5ea75cc57925580e5096fb8d25e03",
           "35335cafc1a92c7a14605cf6ef5629ba",
           "934b75b600afae86a1e1c62b401a819d",
@@ -13650,11 +13652,11 @@
       "groups": [
         "ดูหนังออนไลน์ HD"
       ],
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies",
-        "cartoon"
+        "การ์ตูน"
       ],
+      "url": "https://main.24playerhd.com/m3u8/090b904fc5052153c8a9e1bc/090b904fc5052153c8a9e1bc438.m3u8",
       "rating": "8.5 / 10",
       "year": "2025",
       "overview": "เดนจิ ได้พบกับความรักครั้งใหม่กับ เรเซ่ หญิงสาวที่ตัวเขาเองไม่รู้เลยว่า มีเป้าหมายแสนอันตรายแอบแฝงอยู่",
@@ -13773,9 +13775,9 @@
       "name": "Anime_3 - In Your Dreams (2025) ผจญภัยในฝัน",
       "logo": "https://www.123-hds.com/wp-content/uploads/2025/11/In-Your-Dreams-2025-ผจญภัยในฝัน-300x450.png",
       "group": "ดูหนังออนไลน์ HD",
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies"
+        "การ์ตูน"
       ],
       "url": "https://main.24playerhd.com/m3u8/4f9115831336e86ba1802371/4f9115831336e86ba1802371438.m3u8"
     },
@@ -13793,9 +13795,9 @@
       "name": "Anime_3 - Dragonkeeper (2024)",
       "logo": "https://www.123-hds.com/wp-content/uploads/2025/05/Dragonkeeper-2024-300x450.png",
       "group": "ดูหนังออนไลน์ HD",
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies"
+        "การ์ตูน"
       ],
       "url": "https://main.24playerhd.com/m3u8/4b9f4f87ae7a85c37d17f7c2/4b9f4f87ae7a85c37d17f7c2438.m3u8"
     },
@@ -14030,9 +14032,9 @@
       "name": "Anime_3 - Elio (2025) เอลิโอ",
       "logo": "https://www.123-hds.com/wp-content/uploads/2025/06/Elio-2025-เอลิโอ-300x450.png",
       "group": "ดูหนังออนไลน์ HD",
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies"
+        "การ์ตูน"
       ],
       "url": "https://main.24playerhd.com/m3u8/adf1dbef7b968a436378f46b/adf1dbef7b968a436378f46b438.m3u8"
     },
@@ -14339,9 +14341,9 @@
       "name": "Anime_3 - Doraemon the Movie Nobita",
       "logo": "https://www.123-hds.com/wp-content/uploads/2025/03/Doraemon-the-Movie-Nobitas-Earth-Symphony-2024-โลกแห่งซิมโฟนี่ของโนบิตะ-300x450.png",
       "group": "ดูหนังออนไลน์ HD",
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies"
+        "การ์ตูน"
       ],
       "url": "https://main.24playerhd.com/m3u8/ace4b20838975bf981a68ba5/ace4b20838975bf981a68ba5438.m3u8"
     },
@@ -14359,9 +14361,9 @@
       "name": "Anime_3 - Flow (2024) ผจญภัยน้ำท่วมโลก",
       "logo": "https://www.123-hds.com/wp-content/uploads/2025/02/Flow-2024-ผจญภัยน้ำท่วมโลก-300x450.png",
       "group": "ดูหนังออนไลน์ HD",
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies"
+        "การ์ตูน"
       ],
       "url": "https://main.24playerhd.com/m3u8/3c30b225b3e57b6ab8465f06/3c30b225b3e57b6ab8465f06438.m3u8"
     },
@@ -14458,9 +14460,9 @@
       "name": "Anime_3 - Deep Sea (2023)",
       "logo": "https://www.123-hds.com/wp-content/uploads/2025/05/Deep-Sea-2023-300x450.png",
       "group": "ดูหนังออนไลน์ HD",
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies"
+        "การ์ตูน"
       ],
       "url": "https://main.24playerhd.com/m3u8/0302140835178f612cf9778f/0302140835178f612cf9778f438.m3u8"
     },
@@ -14553,9 +14555,9 @@
       "name": "Anime_3 - Her Blue Sky ท้องฟ้าสีฟ้าของเธอ (2019)",
       "logo": "https://www.123-hds.com/wp-content/uploads/2024/12/Her-Blue-Sky-ท้องฟ้าสีฟ้าของเธอ-2019-300x450.jpg",
       "group": "ดูหนังออนไลน์ HD",
-      "menu": "movies",
+      "menu": "การ์ตูน",
       "menus": [
-        "movies"
+        "การ์ตูน"
       ],
       "url": "https://main.24playerhd.com/m3u8/12be3cae0eb0976da62348da/12be3cae0eb0976da62348da438.m3u8"
     },
@@ -467286,12 +467288,23 @@
     "47b5a0803df582c3a989ff1afad01a8b": {
       "name": "Exit 8 (2025) ทางออกหมายเลข 8",
       "logo": "https://play-hd.com/images/movie/NiYTBV4sYCTveRzg4gOqwTj94JDada3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/f5csnjqQj5qdqc0EZchon94hXZ6.jpg",
       "group": "Play-HD หนังใหม่",
+      "groups": [
+        "Play-HD หนังใหม่"
+      ],
       "menu": "movies",
       "menus": [
         "movies"
       ],
-      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Exit.8.2025.mp4/playlist.m3u8"
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/Exit.8.2025.mp4/playlist.m3u8",
+      "rating": "7.0 / 10",
+      "year": "2025",
+      "cast": "二宮和也, คาวาจิ ยามาโตะ, 浅沼成, 花瀬琴音, 小松菜奈, 大塚ヒロタ",
+      "overview": "ชายคนหนึ่งเกิดหลงทางในทางเดินใต้ดิน โดยเขาได้ทำตามคำแนะนำที่อยู่ในทางเดิน แต่หลังจากนั้นก็เกิดสิ่งแปลกประหลาดขึ้นกับเขา พื้นที่แห่งนี้มีอยู่จริงหรือไม่? หรือมันเป็นแค่เพียงภาพลวงตา? แล้วชายคนนี้จะสามารถหนีออกจากทางเดินนี้ได้หรือไม่?",
+      "genres": "สยองขวัญ, ลึกลับ",
+      "metadataSource": "tmdb",
+      "seriesTitle": "Play-HD หนังใหม่"
     },
     "31c4607703ca3a8402aba3e07f282df7": {
       "name": "Prince of the Sun (1990) 3 ใหญ่ทะลุหลังคาโลก",
@@ -468187,11 +468200,15 @@
       "name": "Woman.s.manual",
       "logo": "https://play-hd.com/images/movie/sv-Woman-s-manual-R-b31b3f.webp",
       "group": "Play-HD หนังใหม่",
-      "menu": "movies",
-      "menus": [
-        "movies"
+      "groups": [
+        "Play-HD หนังใหม่"
       ],
-      "url": "https://server4.kaibannpongmungtai.top/lenhd.com/3-ssd/movie/store-2000/Woman.s.manual.mp4/playlist.m3u8"
+      "menu": "18+",
+      "menus": [
+        "18+"
+      ],
+      "url": "https://server4.kaibannpongmungtai.top/lenhd.com/3-ssd/movie/store-2000/Woman.s.manual.mp4/playlist.m3u8",
+      "seriesTitle": "Play-HD หนังใหม่"
     },
     "081aae7536711492942ab372e56dd0b3": {
       "name": "Woman.s.manual (1080p)",
@@ -478770,6 +478787,96 @@
         "series"
       ],
       "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/KeyToThePhoenixHeartชะตารักกระดูกปักษา(2026)SUB-EP28.mp4/playlist.m3u8"
+    },
+    "a7dc0bea4221e43359afe927c44401a7": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP01",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP01.mp4/playlist.m3u8"
+    },
+    "e31fc799d58c785fd6f555be46555a25": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP02",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP02.mp4/playlist.m3u8"
+    },
+    "0739e6844bbd0c93de5ccc96abf44720": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP03",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP03.mp4/playlist.m3u8"
+    },
+    "b880b6e7815f0460c7d2c60f44604057": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP04",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP04.mp4/playlist.m3u8"
+    },
+    "298e71cbce0ba9efdd4a636c281249d9": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP05",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP05.mp4/playlist.m3u8"
+    },
+    "685266773cc25f413eef50971f23584d": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP06",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP06.mp4/playlist.m3u8"
+    },
+    "0e983bbda92c3048da61c4c5bb9a4f4a": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP07",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP07.mp4/playlist.m3u8"
+    },
+    "a4a958ef6eabc4657c12a7d9ce4895b4": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP08",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP08.mp4/playlist.m3u8"
+    },
+    "70d4a2caa2dca3cd7e9d1b26e006b9a0": {
+      "name": "ซีรี่ส์วาย Absolute Zero Series องศาสูญ - EP09",
+      "logo": "https://play-hd.com/images/movie/VcmCJtgRmvWsNsMAJSoA3vsd8UTV9ny.jpg",
+      "group": "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ",
+      "menu": "series",
+      "menus": [
+        "series"
+      ],
+      "url": "https://server3.kaibannpongmungtai.top/lenhd.com/4-ssd/movie/store-2000/AbsoluteZeroSeriesTH-EP09.mp4/playlist.m3u8"
     }
   },
   "categories": [
@@ -478780,7 +478887,8 @@
   "menus": {
     "folders": {
       "18+": [
-        "หนัง ผู้ใหญ่"
+        "หนัง ผู้ใหญ่",
+        "Play-HD หนังใหม่"
       ],
       "tv": [
         "ธรรมะ บทสวด",
@@ -478870,7 +478978,8 @@
         "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
         "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
         "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย",
-        "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย"
+        "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+        "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ"
       ],
       "movies": [
         "ดูหนังออนไลน์ HD",
@@ -478880,8 +478989,7 @@
         "หนังใหม่ 2006",
         "การ์ตูน",
         "ตลก",
-        "Movie",
-        "Play-HD หนังใหม่"
+        "Movie"
       ],
       "sports": [
         "รวมกีฬา"

@@ -1,9 +1,11 @@
 {
   "version": 1,
-  "generatedAt": 1795587041709,
+  "generatedAt": 1795703328335,
   "menus": {
     "folders": {
-      "18+": [],
+      "18+": [
+        "Play-HD หนังใหม่"
+      ],
       "tv": [
         "Digital TV",
         "ละคร ทีวี",
@@ -81,7 +83,8 @@
         "Play-HD ซีรี่ย์ - Rooster Season 1 (2026) รูสเตอร์ ซีซั่น 1",
         "Play-HD ซีรี่ย์ - Santita Season 1 (2026) ซานติตา",
         "Play-HD ซีรี่ย์ - ซีรี่ย์เกาหลี Between Steps (2026) ก้าวรักทีละนิด ซับไทย",
-        "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย"
+        "Play-HD ซีรี่ย์ - ซีรี่ย์จีน Key to the Phoenix Heart (2026) ชะตารักกระดูกปักษา ซับไทย",
+        "Play-HD ซีรี่ย์ - ซีรี่ส์วาย Absolute Zero Series องศาสูญ"
       ],
       "movies": [
         "ดูหนังออนไลน์ HD",
@@ -90,8 +93,7 @@
         "หนังใหม่ 2006",
         "การ์ตูน",
         "ตลก",
-        "Movie",
-        "Play-HD หนังใหม่"
+        "Movie"
       ],
       "sports": [
         "รวมกีฬา"
