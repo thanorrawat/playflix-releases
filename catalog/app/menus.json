@@ -1,10 +1,26 @@
 {
   "version": 1,
-  "build": "d90b819a4e6a",
-  "generatedAt": 1795834632302,
+  "build": "b0ade5ca06d5",
+  "generatedAt": 1795856613606,
   "menus": {
     "folders": {
-      "18+": [],
+      "18+": [
+        "av24flix",
+        "催眠",
+        "復仇",
+        "角色劇情",
+        "時間停止",
+        "การ์ตูนโป๊ porn videos",
+        "ญี่ปุ่น Japanese porn videos",
+        "ฝรั่ง porn videos",
+        "AVซับไทย-AVSUBTHAI",
+        "AVฝรั่ง-หนังโป๊ฝรั่ง",
+        "หนังAVจีน-AVจีนไม่เซ็นเซอร",
+        "หนังเอวี-หนังAV",
+        "dooball2you TV",
+        "หนังAV CENSORED",
+        "หนังAV ครอบครัว"
+      ],
       "tv": [
         "Digital TV",
         "ละคร ทีวี",
@@ -150,7 +166,8 @@
       "ตลก": "ตลก"
     },
     "hidden": [
-      "folders"
+      "folders",
+      "favorites"
     ],
     "heroes": {
       "series": "9b05eec492fa57934a928574f89b70c9",
